@@ -1,5 +1,5 @@
 const buildGroupedBar = function (dataIn, svgIn){
-    console.log(dataIn)
+    // console.log(dataIn)
 
     //setting up the chart
     const svg = d3.select(`#${svgIn}`)
@@ -74,7 +74,7 @@ const buildGroupedBar = function (dataIn, svgIn){
         .text('Revenue Achieved')
 
     g.append("g")
-        .attr('transform',`translate(${350},${0})`)
+        .attr('transform',`translate(${310},${0})`)
         .call(yAxisRight)
         .call(g => g.selectAll('.domain').remove())
         .append('text')
@@ -111,8 +111,15 @@ const buildGroupedBar = function (dataIn, svgIn){
 }
 
 const buildStackedBar = function (dataIn, svgIn){
+    //setting up the inputs
+    const months = dataIn.map(d => d.months)
+    const targets = dataIn.map(d => d.Target)
+    const revenue = dataIn.map(d => d.Revenue)
+    
+    const varibles = ['Target','Revenue'];
 
-    console.log(dataIn)
+    const stackData = d3.stack().keys(varibles)(dataIn)
+    console.log(stackData)
 
     //setting up the chart
     const svg = d3.select(`#${svgIn}`)
@@ -124,12 +131,8 @@ const buildStackedBar = function (dataIn, svgIn){
     
     const visWidth = width - margin.left - margin.right;
     const visHeight = height - margin.top - margin.bottom;
-    
-    //setting up the inputs
-    const months = dataIn.map(d => d.months)
-    const targets = dataIn.map(d => d.Target)
-    const revenue = dataIn.map(d => d.Revenue)
-    
+
+
     const g = svg.append('g')
         .attr('transform', `translate(${margin.left}, ${margin.top})`);
     
@@ -139,12 +142,12 @@ const buildStackedBar = function (dataIn, svgIn){
         .padding(0.25)
     
     const y = d3.scaleLinear()
-        .domain([0, yMax]).nice()
+        .domain([0, d3.max(targets)]).nice()
         .range([visHeight, 0]);
     
-    const xAxis = d3.axisBottom(x).tickFormat(d3.timeFormat('%B'))
+    const xAxis = d3.axisBottom(x)
     
-    const yAxis = d3.axisLeft(y).tickFormat(d3.format(yFormat))
+    const yAxis = d3.axisLeft(y)
     
     g.append('g')
         .attr('transform', `translate(0,${visHeight})`)
@@ -161,11 +164,11 @@ const buildStackedBar = function (dataIn, svgIn){
         .attr('font-weight', 'bold')
         .attr('y', -margin.top + 5)
         .attr('x', -margin.left)
-        .text(yLabel);
+        .text("No of Customers acquired");
     
     const series = g.append('g')
         .selectAll('g')
-        .data(data)
+        .data(dataIn)
         .join('g')
         .attr('fill', d => color(d.key));
     
