@@ -12,7 +12,7 @@ const buildGroupedBar = function (dataIn, svgIn){
     const height = svg.attr('height');
     const width = svg.attr('width');
 
-    const margin = {top: 30, right: 20, bottom: 20, left: 25};
+    const margin = {top: 30, right: 50, bottom: 20, left:50};
     
     const visWidth = width - margin.left - margin.right;
     const visHeight = height - margin.top - margin.bottom;
@@ -48,7 +48,6 @@ const buildGroupedBar = function (dataIn, svgIn){
     const x = d3.scaleBand()
         .domain(['Target','Revenue'])
         .range([0, group.bandwidth()])
-        .padding(0.2);
     
     //Building the Chart  
     const g = svg.append('g')
@@ -67,7 +66,7 @@ const buildGroupedBar = function (dataIn, svgIn){
         .call(g => g.selectAll('.domain').remove());
     
     g.append("g")
-    .attr('transform',`translate(${margin.left},${0})`)
+    .attr('transform',`translate(0,0)`)
         .call(yAxisLeft)
         .call(g => g.selectAll('.domain').remove())
         .append('text')
@@ -80,7 +79,7 @@ const buildGroupedBar = function (dataIn, svgIn){
         .text('Revenue Achieved')
 
     g.append("g")
-        .attr('transform',`translate(${325},${0})`)
+        .attr('transform',`translate(${350},${0})`)
         .call(yAxisRight)
         .call(g => g.selectAll('.domain').remove())
         .append('text')
@@ -107,7 +106,7 @@ const buildGroupedBar = function (dataIn, svgIn){
         .attr('width', x.bandwidth());
     
     groups.append('rect')
-        .attr('fill', 'pink')
+        .attr('fill', 'orange')
         .attr('y', d => targetsY(d.Target))
         .attr('height', d => visHeight - targetsY(d.Target))
         .attr('x', d => x('Target'))
