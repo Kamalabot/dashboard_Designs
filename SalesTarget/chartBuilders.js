@@ -3,7 +3,7 @@ const buildGroupedBar = function (dataIn, svgIn){
 
     const stackReadyData = dataIn.map(d =>({
         months: d.months,
-        data: [d.Target, d.Revenue]
+        data: {target: d.Target, revenue:d.Revenue}
     }))
     console.log(stackReadyData)
     //setting up the chart
@@ -25,6 +25,10 @@ const buildGroupedBar = function (dataIn, svgIn){
     // this scale will be used to position the groups for each month
     const color = d3.scaleOrdinal()
         .domain(months)
+        .range(d3.schemeTableau10)
+
+    const colorValue = d3.scaleOrdinal()
+        .domain(['Target','Revenue'])
         .range(d3.schemeTableau10)
 
     const group = d3.scaleBand()
@@ -49,7 +53,7 @@ const buildGroupedBar = function (dataIn, svgIn){
     //Building the Chart  
     const g = svg.append('g')
         .attr('transform', `translate(${margin.left}, ${margin.top})`);
-    // set up the axes
+        // set up the axes
     
     const xAxis = d3.axisBottom(group);
     
@@ -91,21 +95,23 @@ const buildGroupedBar = function (dataIn, svgIn){
     // create and position one group for each month
     const groups = g.append('g')
         .selectAll('g')
-        .data(stackReadyData)
+        .data(dataIn)
         .join('g')
         .attr('transform', d => `translate(${group(d.months)},0)`);
-    
-    // add the bars to each group
-    groups.selectAll('rect')
-        .data(d => d.data)
-        .join('rect')
-        .attr('class','revenue')
-        .attr('fill', d => color(d.months))
-        .attr('y', d => yAxisLeft(d[1]))
-        .attr('height', d => visHeight - yAxisLeft(d[1]))
+    var bandwidth = x.bandwidth()
+    groups.append('rect')
+        .attr('fill', 'purple')
+        .attr('y', d => revenueY(d.Revenue))
+        .attr('height', d => visHeight - revenueY(d.Revenue))
         .attr('x', d => x('Revenue'))
         .attr('width', x.bandwidth());
     
+    groups.append('rect')
+        .attr('fill', 'pink')
+        .attr('y', d => targetsY(d.Target))
+        .attr('height', d => visHeight - targetsY(d.Target))
+        .attr('x', d => x('Target'))
+        .attr('width', x.bandwidth());
     return svg.node();
 
 }
