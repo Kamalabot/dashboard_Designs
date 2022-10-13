@@ -8,17 +8,54 @@
 </head>
 
 <body class="helvetica pa1 bg-lightest-green">
-  <div class="pa5 tc white bg-blue f2">
+  <div class="pa1 tc white bg-blue f3">
     <h1 class="tc">Sales Target KPI Dashboard</h1>
   </div>
   <div class="fl w-100 f4 tl flex flex-wrap">
-    <div class="w-50 fl pa2 tc" id="asset1">
+    <div class="w-50 fl tc" id="asset1">
       <h3>Monthly Sales Target Vs Achievement</h3>
+      <div class="flex">
+      <div id="sideBar" class="w-25">
+        <div class="tl ba">
+          <p class="lh-copy f5 tr h1" id="revenueAch">100</p>
+          <h6 class="lh-copy tr h1">Total Revenue</h6>
+        </div>
+        <div class="tl ba">
+          <p class="lh-copy f5 tr h1" id="revenueTgt">100</p>
+          <h6 class="lh-copy tr h1">Target</h6>
+        </div>
+        <div class="tl ba">
+          <p class="lh-copy f5 tr h1" id="achvRevn">100</p>
+          <h6 class="lh-copy tr h1">Achievement</h6>
+        </div>
+      </div>
+      <div class="w-75">
+        <svg id="asset1Chart" width="400" height="350" class="bg-light-green"></svg>
+      </div>
+      </div>
     </div>
     <div class="w-50 fl pa2 tc" id="asset2">
       <h3>Customer Acquisition Target Vs Achievement</h3>
+      <div class="flex">
+        <div id="sideBar" class="w-25">
+          <div class="tl ba">
+            <p class="lh-copy f5 tr h1" id="customerAch">100</p>
+            <h6 class="lh-copy tr h1">Customers Acquired</h6>
+          </div>
+          <div class="tl ba">
+            <p class="lh-copy f5 tr h1" id="customerTgt">100</p>
+            <h6 class="lh-copy tr h1">AcquisitionTarget</h6>
+          </div>
+          <div class="tl ba">
+            <p class="lh-copy f5 tr h1" id="achvCust">100</p>
+            <h6 class="lh-copy tr h1">Achievement</h6>
+          </div>
+        </div>
+        <div class="w-75">
+          <svg id="asset2Chart" width="400" height="350" class="bg-yellow"></svg>
+        </div>
     </div>
   </div>
-  <script src="pagePopulater.js"></script>
+  <script src="dashBoardCreator.js"></script>
 </body>
 </html>
