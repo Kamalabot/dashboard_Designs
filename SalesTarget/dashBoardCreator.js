@@ -81,18 +81,4 @@ function dataSentId(value, id){
     elt.textContent = value
 }
 
-const buildGroupedBar = function (dataIn, svgIn){
-    console.log(dataIn)
-}
-
-
-const buildStackedBar = function (dataIn, svgIn){
-    console.log(dataIn)
-}
-
-const buildScatterPlot = function(dataIn, svgIn){
-    console.log(dataIn)
-}
-
-
 dataAquisition()
