@@ -74,7 +74,7 @@ const dataAquisition = async ()=>{
 
     console.log(cleanProductsTarget)
 
-}
+}   
 
 function dataSentId(value, id){
     let elt = document.getElementById(id)

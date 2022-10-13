@@ -1,11 +1,6 @@
 const buildGroupedBar = function (dataIn, svgIn){
     console.log(dataIn)
 
-    const stackReadyData = dataIn.map(d =>({
-        months: d.months,
-        data: {target: d.Target, revenue:d.Revenue}
-    }))
-    console.log(stackReadyData)
     //setting up the chart
     const svg = d3.select(`#${svgIn}`)
     
@@ -116,7 +111,74 @@ const buildGroupedBar = function (dataIn, svgIn){
 }
 
 const buildStackedBar = function (dataIn, svgIn){
+
     console.log(dataIn)
+
+    //setting up the chart
+    const svg = d3.select(`#${svgIn}`)
+    
+    const height = svg.attr('height');
+    const width = svg.attr('width');
+
+    const margin = {top: 30, right: 50, bottom: 20, left:50};
+    
+    const visWidth = width - margin.left - margin.right;
+    const visHeight = height - margin.top - margin.bottom;
+    
+    //setting up the inputs
+    const months = dataIn.map(d => d.months)
+    const targets = dataIn.map(d => d.Target)
+    const revenue = dataIn.map(d => d.Revenue)
+    
+    const g = svg.append('g')
+        .attr('transform', `translate(${margin.left}, ${margin.top})`);
+    
+    const x = d3.scaleBand()
+        .domain(months)
+        .range([0, visWidth])
+        .padding(0.25)
+    
+    const y = d3.scaleLinear()
+        .domain([0, yMax]).nice()
+        .range([visHeight, 0]);
+    
+    const xAxis = d3.axisBottom(x).tickFormat(d3.timeFormat('%B'))
+    
+    const yAxis = d3.axisLeft(y).tickFormat(d3.format(yFormat))
+    
+    g.append('g')
+        .attr('transform', `translate(0,${visHeight})`)
+        .call(xAxis)
+        .call(g => g.select('.domain').remove());
+    
+    g.append("g")
+        .call(yAxis)
+        .call(g => g.select('.domain').remove())
+        .append('text')
+        .attr('fill', 'black')
+        .attr('text-anchor', 'start')
+        .attr('dominant-baseline', 'hanging')
+        .attr('font-weight', 'bold')
+        .attr('y', -margin.top + 5)
+        .attr('x', -margin.left)
+        .text(yLabel);
+    
+    const series = g.append('g')
+        .selectAll('g')
+        .data(data)
+        .join('g')
+        .attr('fill', d => color(d.key));
+    
+    series.selectAll('rect')
+        .data(d => d)
+        .join('rect')
+        .attr('y', d => y(d[1]))
+        .attr('height', d => y(d[0]) - y(d[1]))
+        .attr('x', d => x(d.data.month))
+        .attr('width', x.bandwidth());
+    
+    return svg.node();
+
 }
 
 const buildScatterPlot = function(dataIn, svgIn){
