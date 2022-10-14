@@ -9,6 +9,7 @@ const dataAquisition = async ()=>{
     
     //Parsing and cleaning Data
     const parseDate = d3.timeParse("%B %d, %Y");
+    const numberFormat = d3.format(".2s")
 
     const cleanSalesData = salesTarget.map(d =>({
         date : parseDate(d.Date),
@@ -30,8 +31,8 @@ const dataAquisition = async ()=>{
     const totalCstAqrd = d3.sum(cleanCustomerAcqData, d => d.cstAcqrd)
     //checking the totals then sending data to DOM
     // console.log(totalCstAqrd,totalSales,totaladsExp)
-    dataSentId(totalSales,'revenueAch')
-    dataSentId(totalCstAqrd,'customerAch')
+    dataSentId(numberFormat(totalSales),'revenueAch')
+    dataSentId(numberFormat(totalCstAqrd),'customerAch')
 
     const monthlySalesTgt = monthlyTargets.filter(d => d.Activity == 'Sales Target').map(d => ({
         months: d.months,
@@ -58,19 +59,21 @@ const dataAquisition = async ()=>{
     const totalSalesTgt = d3.sum(monthlySalesTgt, d => d.Target)
     const totaladsExpTgt = d3.sum(monthlyCustTgt, d => d.Target)
     const totalCstAqrdTgt = d3.sum(monthlyAdsTgt, d => d.Target)
-
-    dataSentId(totalSalesTgt,'revenueTgt')
-    dataSentId(totalCstAqrdTgt,'customerTgt')
+    console.log(numberFormat(totalSalesTgt))
+    dataSentId(numberFormat(totalSalesTgt),'revenueTgt')
+    dataSentId(numberFormat(totalCstAqrdTgt),'customerTgt')
 
     const salesAchievement = (totalSales / totalSalesTgt) * 100;
     const acquisitionAchievement = (totalCstAqrd / totalCstAqrdTgt) * 100;
     const adsExpenseAchievement = (totaladsExp / totaladsExpTgt) * 100
 
-    dataSentId(`${salesAchievement.toFixed(1)}%`,'achvRevn')
-    dataSentId(`${acquisitionAchievement.toFixed(1)}%`,'achvCust')
+    dataSentId(`Achieved ${salesAchievement.toFixed(1)}%`,'achvRevn')
+    dataSentId(`Achieved ${acquisitionAchievement.toFixed(1)}%`,'achvCust')
 
     buildGroupedBar(monthlySalesTgt, 'asset1Chart')
     buildStackedBar(monthlyCustTgt,'asset2Chart')
+    buildCompositeChart(productsTarget,'asset3Chart')
+    // buildCompositeChart(adsExpenseAchievement,'asset4Chart')
 
     console.log(cleanProductsTarget)
 

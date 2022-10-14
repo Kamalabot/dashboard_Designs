@@ -95,6 +95,7 @@ const buildGroupedBar = function (dataIn, svgIn){
     var bandwidth = x.bandwidth()
     groups.append('rect')
         .attr('fill', 'purple')
+        .attr('opacity',0.85)
         .attr('y', d => revenueY(d.Revenue))
         .attr('height', d => visHeight - revenueY(d.Revenue))
         .attr('x', d => x('Revenue'))
@@ -102,6 +103,7 @@ const buildGroupedBar = function (dataIn, svgIn){
     
     groups.append('rect')
         .attr('fill', 'orange')
+        .attr('opacity',0.85)
         .attr('y', d => targetsY(d.Target))
         .attr('height', d => visHeight - targetsY(d.Target))
         .attr('x', d => x('Target'))
@@ -119,8 +121,10 @@ const buildStackedBar = function (dataIn, svgIn){
     const varibles = ['Target','Revenue'];
 
     const stackData = d3.stack().keys(varibles)(dataIn)
-    console.log(stackData)
+    // console.log(stackData)
 
+    const yMax = dataIn.map(d => d.Target + d.Revenue)
+    console.log(d3.max(yMax))
     //setting up the chart
     const svg = d3.select(`#${svgIn}`)
     
@@ -136,14 +140,18 @@ const buildStackedBar = function (dataIn, svgIn){
     const g = svg.append('g')
         .attr('transform', `translate(${margin.left}, ${margin.top})`);
     
-    const x = d3.scaleBand()
+    var x = d3.scaleBand()
         .domain(months)
         .range([0, visWidth])
         .padding(0.25)
     
-    const y = d3.scaleLinear()
-        .domain([0, d3.max(targets)]).nice()
-        .range([visHeight, 0]);
+    var y = d3.scaleLinear()
+        .domain([0, d3.max(yMax)]).nice()
+        .range([visHeight,0]);
+
+    var color = d3.scaleOrdinal()
+        .domain(stackData.map(d => d.key))
+        .range(['purple','orange'])
     
     const xAxis = d3.axisBottom(x)
     
@@ -168,22 +176,24 @@ const buildStackedBar = function (dataIn, svgIn){
     
     const series = g.append('g')
         .selectAll('g')
-        .data(dataIn)
+        .data(stackData)
         .join('g')
-        .attr('fill', d => color(d.key));
+        .attr('fill', d => color(d.key))
+        .attr('opacity',0.85);
     
     series.selectAll('rect')
         .data(d => d)
         .join('rect')
         .attr('y', d => y(d[1]))
         .attr('height', d => y(d[0]) - y(d[1]))
-        .attr('x', d => x(d.data.month))
+        .attr('x', d => x(d.data.months))
         .attr('width', x.bandwidth());
     
     return svg.node();
 
 }
 
-const buildScatterPlot = function(dataIn, svgIn){
+const buildCompositeChart = function(dataIn, svgIn){
     console.log(dataIn)
+    
 }
