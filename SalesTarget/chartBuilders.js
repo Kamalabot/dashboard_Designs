@@ -192,8 +192,3 @@ const buildStackedBar = function (dataIn, svgIn){
     return svg.node();
 
 }
-
-const buildCompositeChart = function(dataIn, svgIn){
-    console.log(dataIn)
-    
-}
