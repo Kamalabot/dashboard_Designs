@@ -1,0 +1,1523 @@
+Sales ID,Sales Date,Customer Name,Gender,Stores,Sales Reps,Product,Category,Qty,Trans.Types,Price,Cost,Total Sales,COGS,Gross Profit,Week days
+ID1,01-06-2020,Bernard N Wearherly,Female,Freeport,Farida Ibrahim,Military Boots Women,Women Bag,2000,Sales,13000,12000,26000000,24000000,2000000,Mon
+ID2,02-06-2020,Cordia M Knorp,Female,Garden City,Felex Ada,Court Shoes,Women Bag,1,Returned,13200,12000,13200,12000,1200,Tue
+ID3,03-06-2020,Burton C Jin,Male,Harrison,Winner Sanda,Brogues,Women Bag,1,Sales,22000,20000,22000,20000,2000,Wed
+ID4,04-06-2020,Lauren O Guzri,Female,Holbrook,Peter Pan,Shoe Bag,Female Bag,1,Sales,1600,1590,1600,1590,10,Thu
+ID5,05-06-2020,Carter C Hunr,Female,Freeport,Farida Ibrahim,Heels,Women Bag,50,Sales,13000,12000,650000,600000,50000,Fri
+ID6,06-06-2020,Isaiah Y Magrood,Male,Freeport,Farida Ibrahim,Calf Boots Men,Men Shoes,2,Sales,10000,9000,20000,18000,2000,Sat
+ID7,07-06-2020,Hugh N Charira,Male,Garden City,Felex Ada,Foot Ball Boots Women,Women Bag,20,Sales,22000,20000,440000,400000,40000,Sun
+ID8,08-06-2020,Lucius C Moorhead,Female,Harrison,Winner Sanda,Leader Hand Bag White,Female Bag,100,Sales,100,80,10000,8000,2000,Mon
+ID9,09-06-2020,Deane I Keorn,Male,Holbrook,Peter Pan,Leader Hand Bag Black,Female Bag,1,Sales,170,150,170,150,20,Tue
+ID10,10-06-2020,Joannie E Wolrers,Female,Harrison,Winner Sanda,Bag Pack,Male Bags,150,Sales,44000,40000,6600000,6000000,600000,Wed
+ID11,11-06-2020,Christene L Mccrleb,Female,Holbrook,Peter Pan,Foot Ball Boots Men,Men Shoes,50,Sales,5500,5000,275000,250000,25000,Thu
+ID12,12-06-2020,Alline V Kusrner,Female,Harrison,Winner Sanda,Canvas Shoes,Men Shoes,100,Sales,22000,20000,2200000,2000000,200000,Fri
+ID13,13-06-2020,Vicki Y Harrrave,Female,Holbrook,Peter Pan,Wellington Boots,Women Bag,2,Sales,7700,7000,15400,14000,1400,Sat
+ID14,14-06-2020,Julienne A Merrel,Female,Harrison,Winner Sanda,Flip Flops,Women Bag,3,Sales,22000,20000,66000,60000,6000,Sun
+ID15,15-06-2020,Keven C Thore,Female,Holbrook,Peter Pan,Mules,Female Bag,1,Sales,44000,40000,44000,40000,4000,Mon
+ID16,16-06-2020,Eusebia N Walrroup,Male,Harrison,Winner Sanda,Loafers,Women Bag,2,Sales,19800,18000,39600,36000,3600,Tue
+ID17,17-06-2020,Veronique E Eccreston,Male,Holbrook,Peter Pan,Gladiator sandals,Women Bag,2,Sales,9950,9000,19900,18000,1900,Wed
+ID18,18-06-2020,Sean W Ricrman,Male,Harrison,Winner Sanda,Trainers Men,Men Shoes,2,Sales,7700,7000,15400,14000,1400,Thu
+ID19,19-06-2020,Lala C Marruez,Male,Holbrook,Peter Pan,Trainers Women,Women Bag,4,Sales,11000,10000,44000,40000,4000,Fri
+ID20,20-06-2020,Derick A Macry,Male,Harrison,Winner Sanda,Military Boots Women,Women Bag,100,Sales,13200,12000,1320000,1200000,120000,Sat
+ID21,21-06-2020,Eda O Brare,Male,Holbrook,Peter Pan,Court Shoes,Women Bag,100,Sales,9950,9000,995000,900000,95000,Sun
+ID22,22-06-2020,Willis D Weirsman,Male,Harrison,Winner Sanda,Brogues,Women Bag,2,Sales,7700,7000,15400,14000,1400,Mon
+ID23,23-06-2020,Mariam F Pinreiro,Male,Holbrook,Peter Pan,Shoe Bag,Female Bag,4,Sales,11000,10000,44000,40000,4000,Tue
+ID24,24-06-2020,Malcom L Meirter,Female,Harrison,Winner Sanda,Heels,Women Bag,1,Sales,13200,12000,13200,12000,1200,Wed
+ID25,25-06-2020,Holli G Ethridge,Female,Holbrook,Peter Pan,Calf Boots Men,Men Shoes,2,Sales,9950,9000,19900,18000,1900,Thu
+ID26,26-06-2020,Cole N Polrng,Female,Harrison,Winner Sanda,Foot Ball Boots Women,Women Bag,2,Sales,7700,7000,15400,14000,1400,Fri
+ID27,27-06-2020,Ahmad V Lynre,Male,Garden City,Felex Ada,Leader Hand Bag White,Female Bag,1,Sales,11000,10000,11000,10000,1000,Sat
+ID28,28-06-2020,Mariano F Leary,Male,Harrison,Winner Sanda,Leader Hand Bag Black,Female Bag,1,Sales,7700,7000,7700,7000,700,Sun
+ID29,29-06-2020,Tawanda E Bucranon,Male,Holbrook,Peter Pan,Bag Pack,Male Bags,2,Sales,9950,9000,19900,18000,1900,Mon
+ID30,30-06-2020,Nickolas G Grorsi,Male,Freeport,Farida Ibrahim,Foot Ball Boots Men,Men Shoes,2,Sales,19800,18000,39600,36000,3600,Tue
+ID31,01-07-2020,Bradford K Marratt,Female,Freeport,Farida Ibrahim,Canvas Shoes,Men Shoes,1,Sales,44000,40000,44000,40000,4000,Wed
+ID32,02-07-2020,Carlton P Bosr,Male,Garden City,Felex Ada,Wellington Boots,Women Bag,1,Sales,22000,20000,22000,20000,2000,Thu
+ID33,03-07-2020,Asuncion X Brarnstein,Male,Harrison,Winner Sanda,Flip Flops,Women Bag,2,Sales,13000,12000,26000,24000,2000,Fri
+ID34,04-07-2020,Theron T Krarer,Male,Holbrook,Peter Pan,Mules,Female Bag,2,Sales,6700,5000,13400,10000,3400,Sat
+ID35,05-07-2020,Jeramy F Metryer,Male,Freeport,Farida Ibrahim,Loafers,Women Bag,1,Sales,6700,5001,6700,5001,1699,Sun
+ID36,06-07-2020,Sol K Rogrr,Male,Freeport,Farida Ibrahim,Gladiator sandals,Women Bag,1,Sales,6700,5002,6700,5002,1698,Mon
+ID37,07-07-2020,Earnest H Birrholz,Male,Garden City,Felex Ada,Trainers Men,Men Shoes,2,Sales,6700,5000,13400,10000,3400,Tue
+ID38,08-07-2020,Amada J Knorse,Male,Harrison,Winner Sanda,Trainers Women,Women Bag,2,Sales,6700,5001,13400,10002,3398,Wed
+ID39,09-07-2020,Gregorio H Hotringer,Male,Holbrook,Peter Pan,Military Boots Women,Women Bag,1,Sales,13200,12000,13200,12000,1200,Thu
+ID40,10-07-2020,Lawerence W Abernethy,Male,Freeport,Farida Ibrahim,Court Shoes,Women Bag,1,Sales,5500,5000,5500,5000,500,Fri
+ID41,11-07-2020,Marina X Quarle,Male,Freeport,Farida Ibrahim,Brogues,Women Bag,2,Sales,3850,3500,7700,7000,700,Sat
+ID42,12-07-2020,Whitney N Wasrnger,Male,Garden City,Felex Ada,Shoe Bag,Female Bag,2,Sales,10000,9000,20000,18000,2000,Sun
+ID43,13-07-2020,Roy W Wilrie,Male,Harrison,Winner Sanda,Heels,Women Bag,1,Sales,8500,7600,8500,7600,900,Mon
+ID44,14-07-2020,Hyun Z Bynre,Male,Holbrook,Peter Pan,Calf Boots Men,Men Shoes,1,Returned,13200,12000,13200,12000,1200,Tue
+ID45,15-07-2020,Katelin F Conry,Female,Freeport,Farida Ibrahim,Foot Ball Boots Women,Women Bag,1,Sales,11000,10000,11000,10000,1000,Wed
+ID46,16-07-2020,Jennifer Z Prirgen,Female,Freeport,Farida Ibrahim,Leader Hand Bag White,Female Bag,2,Returned,7700,7000,15400,14000,1400,Thu
+ID47,17-07-2020,Zachary U Brerden,Female,Garden City,Felex Ada,Leader Hand Bag Black,Female Bag,3,Sales,9950,9000,29850,27000,2850,Fri
+ID48,18-07-2020,Deon U Mource,Male,Harrison,Winner Sanda,Bag Pack,Male Bags,2,Sales,19800,18000,39600,36000,3600,Sat
+ID49,19-07-2020,Buddy G Sternbeck,Male,Holbrook,Peter Pan,Foot Ball Boots Men,Men Shoes,2,Sales,44000,40000,88000,80000,8000,Sun
+ID50,20-07-2020,Julius N Bakrer,Male,Freeport,Farida Ibrahim,Canvas Shoes,Men Shoes,3,Sales,22000,20000,66000,60000,6000,Mon
+ID51,21-07-2020,,Male,Freeport,Farida Ibrahim,Wellington Boots,Women Bag,1,Sales,11000,10000,11000,10000,1000,Tue
+ID52,22-07-2020,Jamal G Dimrrco,Female,Garden City,Felex Ada,Flip Flops,Women Bag,2,Sales,7700,7000,15400,14000,1400,Wed
+ID53,23-07-2020,Stephan Q Ranrer,Male,Harrison,Winner Sanda,Mules,Female Bag,2,Sales,9950,9000,19900,18000,1900,Thu
+ID54,24-07-2020,Jackie P Monrague,Male,Holbrook,Peter Pan,Loafers,Women Bag,2,Sales,19800,18000,39600,36000,3600,Fri
+ID55,25-07-2020,,Male,Freeport,Farida Ibrahim,Gladiator sandals,Women Bag,4,Sales,44000,40000,176000,160000,16000,Sat
+ID56,26-07-2020,Hosea B Micrelson,Male,Freeport,Farida Ibrahim,Trainers Men,Men Shoes,1,Sales,22000,20000,22000,20000,2000,Sun
+ID57,27-07-2020,Carly L Sirranni,Male,Garden City,Felex Ada,Trainers Women,Women Bag,2,Sales,13000,12000,26000,24000,2000,Mon
+ID58,28-07-2020,Abram S Manrique,Male,Harrison,Winner Sanda,Military Boots Women,Women Bag,2,Sales,6700,5000,13400,10000,3400,Tue
+ID59,29-07-2020,Mica Z Herrberg,Male,Holbrook,Peter Pan,Court Shoes,Women Bag,4,Sales,6700,5001,26800,20004,6796,Wed
+ID60,30-07-2020,Lemuel W Harrman,Male,Freeport,Farida Ibrahim,Brogues,Women Bag,1,Sales,6700,5002,6700,5002,1698,Thu
+ID61,31-07-2020,Shanelle Z Hicr,Male,Freeport,Farida Ibrahim,Gladiator sandals,Women Bag,2,Sales,1900,1800,3800,3600,200,Fri
+ID62,01-06-2020,Maryellen H Harrness,Male,Garden City,Felex Ada,Trainers Men,Men Shoes,2,Sales,200,190,400,380,20,Mon
+ID63,02-06-2020,Sylvester Z Blarkledge,Male,Harrison,Winner Sanda,Trainers Women,Women Bag,1,Sales,2250,2200,2250,2200,50,Tue
+ID64,01-06-2020,Vivienne X Binron,Male,Holbrook,Peter Pan,Foot Ball Boots Women,Women Bag,1,Sales,100,90,100,90,10,Mon
+ID65,02-06-2020,Ahmed C Minrh,Male,Freeport,Farida Ibrahim,Leader Hand Bag White,Female Bag,2,Sales,100,80,200,160,40,Tue
+ID66,03-06-2020,Leopoldo U Holr,Female,Freeport,Farida Ibrahim,Leader Hand Bag Black,Female Bag,2,Sales,2000,1850,4000,3700,300,Wed
+ID67,04-06-2020,Gemma I Chirton,Female,Garden City,Felex Ada,Bag Pack,Male Bags,1,Sales,9500,8000,9500,8000,1500,Thu
+ID68,05-06-2020,Laurence K Rylrs,Female,Harrison,Winner Sanda,Foot Ball Boots Men,Men Shoes,1,Sales,4700,4000,4700,4000,700,Fri
+ID69,06-06-2020,Eleanor D Dicrson,Male,Holbrook,Peter Pan,Canvas Shoes,Men Shoes,2,Sales,400,360,800,720,80,Sat
+ID70,07-06-2020,Elsy B Latra,Male,Freeport,Farida Ibrahim,Wellington Boots,Women Bag,2,Sales,100,90,200,180,20,Sun
+ID71,08-06-2020,Sherwood K Shire,Male,Freeport,Farida Ibrahim,Flip Flops,Women Bag,1,Sales,1600,1590,1600,1590,10,Mon
+ID72,09-06-2020,Carolynn V Moyrihan,Male,Garden City,Felex Ada,Gladiator sandals,Women Bag,1,Sales,50,45,50,45,5,Tue
+ID73,10-06-2020,Mckinley H Scorield,Female,Harrison,Winner Sanda,Trainers Men,Men Shoes,2,Sales,600,450,1200,900,300,Wed
+ID74,11-06-2020,Brendon V Crorther,Male,Holbrook,Peter Pan,Trainers Women,Women Bag,2,Sales,170,150,340,300,40,Thu
+ID75,12-06-2020,Nancy V Trordon,Male,Freeport,Farida Ibrahim,Trainers Men,Men Shoes,1,Sales,25,20,25,20,5,Fri
+ID76,13-06-2020,Darin U Shirp,Male,Freeport,Farida Ibrahim,Trainers Women,Women Bag,1,Sales,10000,9000,10000,9000,1000,Sat
+ID77,14-06-2020,Joel S Maire,Male,Garden City,Felex Ada,Military Boots Women,Women Bag,2,Sales,6700,5001,13400,10002,3398,Sun
+ID78,15-06-2020,Luciana N Camrfield,Male,Harrison,Winner Sanda,Court Shoes,Women Bag,2,Sales,6700,5002,13400,10004,3396,Mon
+ID79,16-06-2020,Gilbert Z Blors,Male,Holbrook,Peter Pan,Brogues,Women Bag,1,Sales,22000,20000,22000,20000,2000,Tue
+ID80,17-06-2020,Sharda W Chordhury,Male,Freeport,Farida Ibrahim,Shoe Bag,Female Bag,1,Returned,10000,9000,10000,9000,1000,Wed
+ID81,18-06-2020,Chung J Moyrihan,Male,Freeport,Farida Ibrahim,Heels,Women Bag,1,Sales,8500,7600,8500,7600,900,Thu
+ID82,19-06-2020,Dayna M Edmrndson,Male,Garden City,Felex Ada,Calf Boots Men,Men Shoes,2,Sales,8500,7600,17000,15200,1800,Fri
+ID83,20-06-2020,Bobbie S Minrr,Male,Harrison,Winner Sanda,Foot Ball Boots Women,Women Bag,3,Sales,13200,12000,39600,36000,3600,Sat
+ID84,21-06-2020,Gidget X Lorrng,Male,Holbrook,Peter Pan,Leader Hand Bag White,Female Bag,2,Sales,22000,20000,44000,40000,4000,Sun
+ID85,22-06-2020,Hettie S Laurer,Male,Freeport,Farida Ibrahim,Leader Hand Bag Black,Female Bag,2,Sales,7700,7000,15400,14000,1400,Mon
+ID86,23-06-2020,Toi F Starlard,Male,Freeport,Farida Ibrahim,Bag Pack,Male Bags,3,Sales,22000,20000,66000,60000,6000,Tue
+ID87,24-06-2020,Tristan L Cocrrell,Female,Garden City,Felex Ada,Foot Ball Boots Men,Men Shoes,1,Sales,44000,40000,44000,40000,4000,Wed
+ID88,25-06-2020,Towanda H Matron,Female,Harrison,Winner Sanda,Canvas Shoes,Men Shoes,2,Sales,19800,18000,39600,36000,3600,Thu
+ID89,26-06-2020,Leland C Fifreld,Female,Holbrook,Peter Pan,Wellington Boots,Women Bag,2,Sales,9950,9000,19900,18000,1900,Fri
+ID90,27-06-2020,Audria W Barrios,Male,Freeport,Farida Ibrahim,Flip Flops,Women Bag,2,Sales,7700,7000,15400,14000,1400,Sat
+ID91,28-06-2020,Jim J Lurre,Male,Freeport,Farida Ibrahim,Mules,Female Bag,4,Sales,11000,10000,44000,40000,4000,Sun
+ID92,29-06-2020,Lorette Y Petrillo,Male,Garden City,Felex Ada,Gladiator sandals,Women Bag,1,Sales,13200,12000,13200,12000,1200,Mon
+ID93,30-06-2020,Damian X Grirt,Male,Harrison,Winner Sanda,Trainers Men,Men Shoes,2,Sales,9950,9000,19900,18000,1900,Tue
+ID94,01-07-2020,Zana G Ordrnez,Female,Holbrook,Peter Pan,Trainers Women,Women Bag,2,Sales,7700,7000,15400,14000,1400,Wed
+ID95,02-07-2020,Rhett A Charple,Male,Freeport,Farida Ibrahim,Trainers Women,Women Bag,4,Sales,11000,10000,44000,40000,4000,Thu
+ID96,03-07-2020,Jeneva Y Bybre,Male,Freeport,Farida Ibrahim,Military Boots Women,Women Bag,1,Sales,13200,12000,13200,12000,1200,Fri
+ID97,04-07-2020,Brendon J Camr,Male,Garden City,Felex Ada,Court Shoes,Women Bag,2,Sales,9950,9000,19900,18000,1900,Sat
+ID98,05-07-2020,Nettie T Mccrndless,Male,Harrison,Winner Sanda,Brogues,Women Bag,2,Sales,7700,7000,15400,14000,1400,Sun
+ID99,06-07-2020,Lezlie Z Bohrnnan,Male,Holbrook,Peter Pan,Shoe Bag,Female Bag,1,Sales,11000,10000,11000,10000,1000,Mon
+ID100,07-07-2020,Hester B Cabrna,Male,Freeport,Farida Ibrahim,Heels,Women Bag,1,Sales,7700,7000,7700,7000,700,Tue
+ID101,08-07-2020,Isobel K Danre,Male,Freeport,Farida Ibrahim,Calf Boots Men,Men Shoes,2,Sales,9950,9000,19900,18000,1900,Wed
+ID102,09-07-2020,Erica S Harran,Male,Garden City,Felex Ada,Gladiator sandals,Women Bag,2,Sales,19800,18000,39600,36000,3600,Thu
+ID103,10-07-2020,Leda X Hasrell,Male,Harrison,Winner Sanda,Trainers Men,Men Shoes,1,Sales,44000,40000,44000,40000,4000,Fri
+ID104,11-07-2020,Loralee V Balr,Male,Holbrook,Peter Pan,Trainers Women,Women Bag,1,Sales,22000,20000,22000,20000,2000,Sat
+ID105,12-07-2020,Otha T Orrrll,Male,Freeport,Farida Ibrahim,Bag Pack,Male Bags,2,Sales,13000,12000,26000,24000,2000,Sun
+ID106,13-07-2020,Honey D Eavrs,Male,Freeport,Farida Ibrahim,Foot Ball Boots Men,Men Shoes,2,Sales,6700,5000,13400,10000,3400,Mon
+ID107,14-07-2020,Ellis V Mcnrel,Male,Garden City,Felex Ada,Canvas Shoes,Men Shoes,1,Sales,6700,5001,6700,5001,1699,Tue
+ID108,15-07-2020,Gabriel S Beare,Female,Harrison,Winner Sanda,Wellington Boots,Women Bag,1,Sales,6700,5002,6700,5002,1698,Wed
+ID109,16-07-2020,Nathanael G Mcmrllin,Female,Holbrook,Peter Pan,Flip Flops,Women Bag,2,Sales,6700,5000,13400,10000,3400,Thu
+ID110,17-07-2020,Donald H Mazrr,Female,Freeport,Farida Ibrahim,Mules,Female Bag,2,Sales,6700,5001,13400,10002,3398,Fri
+ID111,18-07-2020,Eliz R Linreman,Male,Freeport,Farida Ibrahim,Loafers,Women Bag,1,Sales,6700,5002,6700,5002,1698,Sat
+ID112,19-07-2020,Gracie P Letr,Male,Garden City,Felex Ada,Gladiator sandals,Women Bag,1,Sales,6700,5000,6700,5000,1700,Sun
+ID113,20-07-2020,Gema S Grorer,Male,Harrison,Winner Sanda,Trainers Men,Men Shoes,2,Sales,6700,5001,13400,10002,3398,Mon
+ID114,21-07-2020,Delana Y Frerdman,Male,Holbrook,Peter Pan,Trainers Women,Women Bag,2,Sales,6700,5002,13400,10004,3396,Tue
+ID115,22-07-2020,Mary Y Tatr,Female,Freeport,Farida Ibrahim,Military Boots Women,Women Bag,1,Sales,22000,20000,22000,20000,2000,Wed
+ID116,23-07-2020,Abe J Macreod,Male,Freeport,Farida Ibrahim,Court Shoes,Women Bag,1,Returned,10000,9000,10000,9000,1000,Thu
+ID117,24-07-2020,Evon Q Lawron,Male,Garden City,Felex Ada,Brogues,Women Bag,1,Sales,8500,7600,8500,7600,900,Fri
+ID118,25-07-2020,Jerlene P Dunrigan,Male,Harrison,Winner Sanda,Shoe Bag,Female Bag,2,Returned,8500,7600,17000,15200,1800,Sat
+ID119,26-07-2020,Bobbie X Schrenrock,Male,Holbrook,Peter Pan,Heels,Women Bag,3,Sales,13200,12000,39600,36000,3600,Sun
+ID120,27-07-2020,Mike A Wadrington,Male,Freeport,Farida Ibrahim,Gladiator sandals,Women Bag,2,Sales,22000,20000,44000,40000,4000,Mon
+ID121,28-07-2020,Nigel K Wadrworth,Male,Freeport,Farida Ibrahim,Trainers Men,Men Shoes,2,Sales,7700,7000,15400,14000,1400,Tue
+ID122,29-07-2020,Hayden E Novrck,Male,Garden City,Felex Ada,Trainers Women,Women Bag,3,Sales,22000,20000,66000,60000,6000,Wed
+ID123,01-06-2020,Voncile P Troranowski,Male,Harrison,Winner Sanda,Leader Hand Bag Black,Female Bag,1,Sales,44000,40000,44000,40000,4000,Mon
+ID124,02-06-2020,Roberto U Derry,Male,Holbrook,Peter Pan,Bag Pack,Male Bags,2,Sales,19800,18000,39600,36000,3600,Tue
+ID125,03-06-2020,Tona S Husrby,Male,Freeport,Farida Ibrahim,Foot Ball Boots Men,Men Shoes,2,Sales,9950,9000,19900,18000,1900,Wed
+ID126,04-06-2020,Londa T Mayr,Male,Freeport,Farida Ibrahim,Canvas Shoes,Men Shoes,2,Sales,7700,7000,15400,14000,1400,Thu
+ID127,05-06-2020,Jocelyn Q Scorti,Male,Garden City,Felex Ada,Wellington Boots,Women Bag,4,Sales,11000,10000,44000,40000,4000,Fri
+ID128,06-06-2020,Frank O Malron,Male,Harrison,Winner Sanda,Flip Flops,Women Bag,1,Sales,13200,12000,13200,12000,1200,Sat
+ID129,07-06-2020,Kurtis C Irors,Female,Holbrook,Peter Pan,Mules,Female Bag,2,Sales,9950,9000,19900,18000,1900,Sun
+ID130,08-06-2020,Jamey S Seir,Female,Freeport,Farida Ibrahim,Loafers,Women Bag,2,Sales,7700,7000,15400,14000,1400,Mon
+ID131,09-06-2020,Walton S Keir,Female,Freeport,Farida Ibrahim,Gladiator sandals,Women Bag,4,Sales,11000,10000,44000,40000,4000,Tue
+ID132,10-06-2020,Micki R Jauregui,Male,Garden City,Felex Ada,Trainers Men,Men Shoes,1,Sales,13200,12000,13200,12000,1200,Wed
+ID133,11-06-2020,Ngoc X Watron,Male,Harrison,Winner Sanda,Trainers Women,Women Bag,2,Sales,1900,1800,3800,3600,200,Thu
+ID134,12-06-2020,Inocencia Z Butrau,Male,Holbrook,Peter Pan,Military Boots Women,Women Bag,2,Sales,200,190,400,380,20,Fri
+ID135,13-06-2020,Charlie V Koerler,Male,Freeport,Farida Ibrahim,Court Shoes,Women Bag,1,Sales,2250,2200,2250,2200,50,Sat
+ID136,14-06-2020,Rosy U Baureister,Female,Freeport,Farida Ibrahim,Brogues,Women Bag,1,Sales,100,90,100,90,10,Sun
+ID137,15-06-2020,Charity N Denran,Male,Garden City,Felex Ada,Shoe Bag,Female Bag,2,Sales,100,80,200,160,40,Mon
+ID138,16-06-2020,Luke S Tumrin,Male,Harrison,Winner Sanda,Heels,Women Bag,2,Sales,2000,1850,4000,3700,300,Tue
+ID139,17-06-2020,,Male,Holbrook,Peter Pan,Calf Boots Men,Men Shoes,1,Sales,9500,8000,9500,8000,1500,Wed
+ID140,18-06-2020,Celinda C Magruder,Male,Freeport,Farida Ibrahim,Foot Ball Boots Women,Women Bag,1,Sales,4700,4000,4700,4000,700,Thu
+ID141,19-06-2020,Arturo N Halrorsen,Male,Freeport,Farida Ibrahim,Leader Hand Bag White,Female Bag,2,Sales,400,360,800,720,80,Fri
+ID142,20-06-2020,Tiny Z Olireri,Male,Garden City,Felex Ada,Leader Hand Bag Black,Female Bag,2,Sales,100,90,200,180,20,Sat
+ID143,21-06-2020,Kerri Y Carr,Male,Harrison,Winner Sanda,Bag Pack,Male Bags,1,Sales,1600,1590,1600,1590,10,Sun
+ID144,22-06-2020,Young W Funrs,Male,Holbrook,Peter Pan,Foot Ball Boots Men,Men Shoes,1,Sales,50,45,50,45,5,Mon
+ID145,23-06-2020,Neomi P Pitrhford,Male,Freeport,Farida Ibrahim,Canvas Shoes,Men Shoes,2,Sales,600,450,1200,900,300,Tue
+ID146,24-06-2020,Ivan A Grorer,Male,Freeport,Farida Ibrahim,Wellington Boots,Women Bag,2,Sales,170,150,340,300,40,Wed
+ID147,25-06-2020,Etsuko O Wilrot,Male,Garden City,Felex Ada,Gladiator sandals,Women Bag,1,Sales,25,20,25,20,5,Thu
+ID148,26-06-2020,William B Mcnrrney,Male,Harrison,Winner Sanda,Trainers Men,Men Shoes,1,Sales,6700,5000,6700,5000,1700,Fri
+ID149,27-06-2020,Logan D Berryman,Male,Holbrook,Peter Pan,Trainers Women,Women Bag,2,Sales,6700,5001,13400,10002,3398,Sat
+ID150,28-06-2020,,Female,Freeport,Farida Ibrahim,Gladiator sandals,Women Bag,2,Sales,6700,5002,13400,10004,3396,Sun
+ID151,29-06-2020,Coy I Genrner,Female,Freeport,Farida Ibrahim,Trainers Men,Men Shoes,1,Sales,22000,20000,22000,20000,2000,Mon
+ID152,30-06-2020,Jimmie F Vasruez,Female,Garden City,Felex Ada,Trainers Women,Women Bag,1,Returned,11000,10000,11000,10000,1000,Tue
+ID153,01-07-2020,Tommie S Farro,Male,Harrison,Winner Sanda,Military Boots Women,Women Bag,1,Sales,8500,7600,8500,7600,900,Wed
+ID154,02-07-2020,Daina U Ledrt,Male,Holbrook,Peter Pan,Court Shoes,Women Bag,2,Sales,8500,7600,17000,15200,1800,Thu
+ID155,03-07-2020,Sophia F Knerht,Male,Freeport,Farida Ibrahim,Brogues,Women Bag,3,Sales,13200,12000,39600,36000,3600,Fri
+ID156,04-07-2020,Newton V Scaria,Male,Freeport,Farida Ibrahim,Shoe Bag,Female Bag,2,Sales,22000,20000,44000,40000,4000,Sat
+ID157,05-07-2020,Reatha E Osbr,Female,Garden City,Felex Ada,Heels,Women Bag,2,Sales,7700,7000,15400,14000,1400,Sun
+ID158,06-07-2020,Bell N Molrnaro,Male,Harrison,Winner Sanda,Calf Boots Men,Men Shoes,3,Sales,22000,20000,66000,60000,6000,Mon
+ID159,07-07-2020,Jason V Grarois,Male,Holbrook,Peter Pan,Foot Ball Boots Women,Women Bag,1,Sales,44000,40000,44000,40000,4000,Tue
+ID160,08-07-2020,Elwood T Morr,Male,Freeport,Farida Ibrahim,Leader Hand Bag White,Female Bag,2,Sales,19800,18000,39600,36000,3600,Wed
+ID161,09-07-2020,Lewis M Racrtte,Male,Freeport,Farida Ibrahim,Leader Hand Bag Black,Female Bag,2,Sales,9950,9000,19900,18000,1900,Thu
+ID162,10-07-2020,Leigh Y Hawr,Male,Garden City,Felex Ada,Bag Pack,Male Bags,2,Sales,7700,7000,15400,14000,1400,Fri
+ID163,11-07-2020,Thomas B Felrpe,Male,Harrison,Winner Sanda,Foot Ball Boots Men,Men Shoes,4,Sales,11000,10000,44000,40000,4000,Sat
+ID164,12-07-2020,Israel T Herrzler,Male,Holbrook,Peter Pan,Canvas Shoes,Men Shoes,1,Sales,13200,12000,13200,12000,1200,Sun
+ID165,13-07-2020,Ona K Koerp,Male,Freeport,Farida Ibrahim,Wellington Boots,Women Bag,2,Sales,1900,1800,3800,3600,200,Mon
+ID166,14-07-2020,Kristofer N Calrhan,Male,Freeport,Farida Ibrahim,Flip Flops,Women Bag,2,Sales,200,190,400,380,20,Tue
+ID167,15-07-2020,Mark F Hamran,Male,Garden City,Felex Ada,Mules,Female Bag,4,Sales,2250,2200,9000,8800,200,Wed
+ID168,16-07-2020,Bobbie Q Holrrook,Male,Harrison,Winner Sanda,Loafers,Women Bag,1,Sales,100,90,100,90,10,Thu
+ID169,17-07-2020,Abe X Parr,Male,Holbrook,Peter Pan,Gladiator sandals,Women Bag,2,Sales,100,80,200,160,40,Fri
+ID170,18-07-2020,Mignon Q Dilrs,Male,Freeport,Farida Ibrahim,Trainers Men,Men Shoes,2,Sales,2000,1850,4000,3700,300,Sat
+ID171,19-07-2020,Casey D Krirr,Female,Freeport,Farida Ibrahim,Trainers Women,Women Bag,1,Sales,9500,8000,9500,8000,1500,Sun
+ID172,20-07-2020,Scott K Ricro,Female,Garden City,Felex Ada,Military Boots Women,Women Bag,1,Sales,4700,4000,4700,4000,700,Mon
+ID173,21-07-2020,Rosemarie K Felrows,Female,Harrison,Winner Sanda,Court Shoes,Women Bag,2,Sales,400,360,800,720,80,Tue
+ID174,22-07-2020,Lisette F Cowrey,Male,Holbrook,Peter Pan,Brogues,Women Bag,2,Sales,100,90,200,180,20,Wed
+ID175,23-07-2020,Molly U Rasrh,Male,Freeport,Farida Ibrahim,Shoe Bag,Female Bag,1,Sales,1600,1590,1600,1590,10,Thu
+ID176,24-07-2020,Felisha Q Ettrnger,Male,Freeport,Farida Ibrahim,Heels,Women Bag,1,Sales,50,45,50,45,5,Fri
+ID177,25-07-2020,Linwood H Carrer,Male,Garden City,Felex Ada,Calf Boots Men,Men Shoes,2,Sales,600,450,1200,900,300,Sat
+ID178,26-07-2020,Madelyn W Boor,Female,Harrison,Winner Sanda,Foot Ball Boots Women,Women Bag,2,Sales,170,150,340,300,40,Sun
+ID179,27-07-2020,Angelo B Fitrmaurice,Male,Holbrook,Peter Pan,Leader Hand Bag White,Female Bag,1,Sales,25,20,25,20,5,Mon
+ID180,28-07-2020,Gregory I Kidrell,Male,Freeport,Farida Ibrahim,Leader Hand Bag Black,Female Bag,1,Sales,6700,5002,6700,5002,1698,Tue
+ID181,29-07-2020,Bart B Gilrrease,Male,Freeport,Farida Ibrahim,Gladiator sandals,Women Bag,2,Sales,6700,5000,13400,10000,3400,Wed
+ID182,30-07-2020,Warner I Manry,Male,Garden City,Felex Ada,Trainers Men,Men Shoes,2,Sales,6700,5001,13400,10002,3398,Thu
+ID183,31-07-2020,Lala R Denran,Male,Harrison,Winner Sanda,Trainers Women,Women Bag,1,Sales,6700,5002,6700,5002,1698,Fri
+ID184,01-06-2020,Elsie S Deprz,Male,Holbrook,Peter Pan,Wellington Boots,Women Bag,1,Sales,6700,5000,6700,5000,1700,Mon
+ID185,02-06-2020,Verla H Conrreras,Male,Freeport,Farida Ibrahim,Flip Flops,Women Bag,2,Sales,6700,5001,13400,10002,3398,Tue
+ID186,01-06-2020,America V Lobrl,Male,Freeport,Farida Ibrahim,Mules,Female Bag,2,Sales,6700,5002,13400,10004,3396,Mon
+ID187,02-06-2020,Walter R Sedron,Male,Garden City,Felex Ada,Loafers,Women Bag,1,Sales,22000,20000,22000,20000,2000,Tue
+ID188,03-06-2020,Margarito M Oxerdine,Male,Harrison,Winner Sanda,Gladiator sandals,Women Bag,1,Returned,11000,10000,11000,10000,1000,Wed
+ID189,04-06-2020,Arnoldo D Mckren,Male,Holbrook,Peter Pan,Trainers Men,Men Shoes,1,Sales,8500,7600,8500,7600,900,Thu
+ID190,05-06-2020,Kieth D Casrelli,Male,Freeport,Farida Ibrahim,Trainers Women,Women Bag,2,Returned,8500,7600,17000,15200,1800,Fri
+ID191,06-06-2020,Ngoc P Pogre,Male,Freeport,Farida Ibrahim,Military Boots Women,Women Bag,3,Sales,13200,12000,39600,36000,3600,Sat
+ID192,07-06-2020,Delana I Selrridge,Female,Garden City,Felex Ada,Court Shoes,Women Bag,2,Sales,22000,20000,44000,40000,4000,Sun
+ID193,08-06-2020,Liane U Grarton,Female,Harrison,Winner Sanda,Gladiator sandals,Women Bag,2,Sales,7700,7000,15400,14000,1400,Mon
+ID194,09-06-2020,Vikki N Lezrma,Female,Holbrook,Peter Pan,Trainers Men,Men Shoes,3,Sales,22000,20000,66000,60000,6000,Tue
+ID195,10-06-2020,Allyn O Farrior,Male,Freeport,Farida Ibrahim,Trainers Women,Women Bag,1,Sales,44000,40000,44000,40000,4000,Wed
+ID196,11-06-2020,Glady Q Kumr,Male,Freeport,Farida Ibrahim,Calf Boots Men,Men Shoes,2,Sales,19800,18000,39600,36000,3600,Thu
+ID197,12-06-2020,Oscar R Bovre,Male,Garden City,Felex Ada,Foot Ball Boots Women,Women Bag,2,Sales,9950,9000,19900,18000,1900,Fri
+ID198,13-06-2020,Valene Z Woormansee,Male,Harrison,Winner Sanda,Leader Hand Bag White,Female Bag,2,Sales,7700,7000,15400,14000,1400,Sat
+ID199,14-06-2020,Richard C Truran,Female,Holbrook,Peter Pan,Leader Hand Bag Black,Female Bag,4,Sales,11000,10000,44000,40000,4000,Sun
+ID200,15-06-2020,Luigi G Lemro,Male,Freeport,Farida Ibrahim,Bag Pack,Male Bags,1,Sales,13200,12000,13200,12000,1200,Mon
+ID201,16-06-2020,Isaiah G Parrish,Male,Freeport,Farida Ibrahim,Foot Ball Boots Men,Men Shoes,2,Sales,9950,9000,19900,18000,1900,Tue
+ID202,17-06-2020,Scott D Torrey,Male,Garden City,Felex Ada,Canvas Shoes,Men Shoes,2,Sales,7700,7000,15400,14000,1400,Wed
+ID203,18-06-2020,Shirl M Carrballo,Male,Harrison,Winner Sanda,Wellington Boots,Women Bag,4,Sales,11000,10000,44000,40000,4000,Thu
+ID204,19-06-2020,Robin Z Sterart,Male,Holbrook,Peter Pan,Flip Flops,Women Bag,1,Sales,13200,12000,13200,12000,1200,Fri
+ID205,20-06-2020,Shasta P Depry,Male,Holbrook,Peter Pan,Mules,Female Bag,2,Sales,9950,9000,19900,18000,1900,Sat
+ID206,21-06-2020,Jorge R Cogrlan,Male,Holbrook,Peter Pan,Loafers,Women Bag,2,Sales,7700,7000,15400,14000,1400,Sun
+ID207,22-06-2020,Myles G Strrm,Male,Holbrook,Peter Pan,Gladiator sandals,Women Bag,1,Sales,11000,10000,11000,10000,1000,Mon
+ID208,23-06-2020,Herlinda U Negron,Male,Holbrook,Peter Pan,Trainers Men,Men Shoes,1,Sales,7700,7000,7700,7000,700,Tue
+ID209,24-06-2020,Debbie C Liprey,Male,Holbrook,Peter Pan,Trainers Women,Women Bag,2,Sales,9950,9000,19900,18000,1900,Wed
+ID210,25-06-2020,Jenell S Saurrs,Male,Holbrook,Peter Pan,Military Boots Women,Women Bag,2,Sales,19800,18000,39600,36000,3600,Thu
+ID211,26-06-2020,Leda Y Fabre,Male,Holbrook,Peter Pan,Court Shoes,Women Bag,1,Sales,44000,40000,44000,40000,4000,Fri
+ID212,27-06-2020,,Male,Holbrook,Peter Pan,Brogues,Women Bag,1,Sales,22000,20000,22000,20000,2000,Sat
+ID213,28-06-2020,Gerry D Woorery,Female,Holbrook,Peter Pan,Shoe Bag,Female Bag,2,Sales,13000,12000,26000,24000,2000,Sun
+ID214,29-06-2020,Berna Z Storler,Female,Holbrook,Peter Pan,Heels,Women Bag,2,Sales,6700,5000,13400,10000,3400,Mon
+ID215,30-06-2020,Adam B Katrer,Female,Holbrook,Peter Pan,Calf Boots Men,Men Shoes,1,Sales,6700,5001,6700,5001,1699,Tue
+ID216,01-07-2020,Kellee L Grarelle,Male,Holbrook,Peter Pan,Foot Ball Boots Women,Women Bag,1,Sales,6700,5002,6700,5002,1698,Wed
+ID217,02-07-2020,Shavon K Wesrott,Male,Garden City,Felex Ada,Leader Hand Bag White,Female Bag,2,Sales,6700,5000,13400,10000,3400,Thu
+ID218,03-07-2020,Rozanne N Mierke,Male,Harrison,Winner Sanda,Leader Hand Bag Black,Female Bag,2,Sales,6700,5001,13400,10002,3398,Fri
+ID219,04-07-2020,Randee O Casrity,Male,Holbrook,Peter Pan,Bag Pack,Male Bags,1,Sales,6700,5002,6700,5002,1698,Sat
+ID220,05-07-2020,Shemika D Porrerfield,Female,Freeport,Farida Ibrahim,Foot Ball Boots Men,Men Shoes,1,Sales,6700,5000,6700,5000,1700,Sun
+ID221,06-07-2020,Donte H Grarger,Male,Freeport,Farida Ibrahim,Canvas Shoes,Men Shoes,2,Sales,6700,5001,13400,10002,3398,Mon
+ID222,07-07-2020,Ahmed I Strrpe,Male,Garden City,Felex Ada,Wellington Boots,Women Bag,2,Sales,6700,5002,13400,10004,3396,Tue
+ID223,08-07-2020,Boris A Mccrwn,Male,Harrison,Winner Sanda,Flip Flops,Women Bag,1,Sales,22000,20000,22000,20000,2000,Wed
+ID224,09-07-2020,Omer H Mourtrie,Male,Holbrook,Peter Pan,Mules,Female Bag,1,Returned,11000,10000,11000,10000,1000,Thu
+ID225,10-07-2020,Hiram K Storely,Male,Freeport,Farida Ibrahim,Loafers,Women Bag,1,Sales,8500,7600,8500,7600,900,Fri
+ID226,11-07-2020,Deanna P Scorgin,Male,Freeport,Farida Ibrahim,Gladiator sandals,Women Bag,2,Returned,8500,7600,17000,15200,1800,Sat
+ID227,12-07-2020,Maris S Brirgs,Male,Garden City,Felex Ada,Trainers Men,Men Shoes,3,Sales,13200,12000,39600,36000,3600,Sun
+ID228,13-07-2020,Lona T Colrar,Male,Harrison,Winner Sanda,Trainers Women,Women Bag,2,Sales,22000,20000,44000,40000,4000,Mon
+ID229,14-07-2020,Eldridge M Benringfield,Male,Holbrook,Peter Pan,Military Boots Women,Women Bag,2,Sales,7700,7000,15400,14000,1400,Tue
+ID230,15-07-2020,Jimmie A Rorre,Male,Freeport,Farida Ibrahim,Court Shoes,Women Bag,3,Sales,22000,20000,66000,60000,6000,Wed
+ID231,16-07-2020,Rachelle M Burrhead,Male,Freeport,Farida Ibrahim,Brogues,Women Bag,1,Sales,44000,40000,44000,40000,4000,Thu
+ID232,17-07-2020,Miguel P Karr,Male,Garden City,Felex Ada,Shoe Bag,Female Bag,2,Sales,19800,18000,39600,36000,3600,Fri
+ID233,18-07-2020,Raye T Wilrmon,Male,Harrison,Winner Sanda,Heels,Women Bag,2,Sales,9950,9000,19900,18000,1900,Sat
+ID234,19-07-2020,Christi H Amarer,Female,Holbrook,Peter Pan,Calf Boots Men,Men Shoes,2,Sales,7700,7000,15400,14000,1400,Sun
+ID235,20-07-2020,Liberty A Shrryer,Female,Freeport,Farida Ibrahim,Gladiator sandals,Women Bag,4,Sales,11000,10000,44000,40000,4000,Mon
+ID236,21-07-2020,Zack H Mumrw,Female,Freeport,Farida Ibrahim,Trainers Men,Men Shoes,1,Sales,13200,12000,13200,12000,1200,Tue
+ID237,22-07-2020,Blanch Y Mysriwiec,Male,Garden City,Felex Ada,Trainers Women,Women Bag,2,Sales,9950,9000,19900,18000,1900,Wed
+ID238,23-07-2020,Tammy Z Lorrntz,Male,Harrison,Winner Sanda,Bag Pack,Male Bags,2,Sales,7700,7000,15400,14000,1400,Thu
+ID239,24-07-2020,Maximina K Frares,Male,Holbrook,Peter Pan,Foot Ball Boots Men,Men Shoes,4,Sales,11000,10000,44000,40000,4000,Fri
+ID240,25-07-2020,Kiara G Abrrhamson,Male,Freeport,Farida Ibrahim,Canvas Shoes,Men Shoes,1,Sales,13200,12000,13200,12000,1200,Sat
+ID241,26-07-2020,Retha G Neary,Female,Freeport,Farida Ibrahim,Wellington Boots,Women Bag,2,Sales,9950,9000,19900,18000,1900,Sun
+ID242,27-07-2020,Andre Q Maxrn,Male,Garden City,Felex Ada,Flip Flops,Women Bag,2,Sales,7700,7000,15400,14000,1400,Mon
+ID243,28-07-2020,Vern T Lomrli,Male,Harrison,Winner Sanda,Mules,Female Bag,1,Sales,11000,10000,11000,10000,1000,Tue
+ID244,29-07-2020,Erin K Stcrair,Male,Holbrook,Peter Pan,Loafers,Women Bag,1,Sales,7700,7000,7700,7000,700,Wed
+ID245,01-06-2020,Detra D Rymrr,Male,Freeport,Farida Ibrahim,Gladiator sandals,Women Bag,2,Sales,9950,9000,19900,18000,1900,Mon
+ID246,02-06-2020,Doug B Sourhwick,Male,Freeport,Farida Ibrahim,Trainers Men,Men Shoes,2,Sales,19800,18000,39600,36000,3600,Tue
+ID247,03-06-2020,Gia M Casrs,Male,Garden City,Felex Ada,Trainers Women,Women Bag,1,Sales,44000,40000,44000,40000,4000,Wed
+ID248,04-06-2020,Emeline I Ricrer,Male,Harrison,Winner Sanda,Military Boots Women,Women Bag,1,Sales,22000,20000,22000,20000,2000,Thu
+ID249,05-06-2020,Richard J Fetrer,Male,Holbrook,Peter Pan,Court Shoes,Women Bag,2,Sales,13000,12000,26000,24000,2000,Fri
+ID250,06-06-2020,Rick Y Haerner,Male,Freeport,Farida Ibrahim,Brogues,Women Bag,2,Sales,6700,5000,13400,10000,3400,Sat
+ID251,07-06-2020,Shannon J Forre,Male,Freeport,Farida Ibrahim,Shoe Bag,Female Bag,1,Sales,6700,5001,6700,5001,1699,Sun
+ID252,08-06-2020,Gabriel E Pearsall,Male,Garden City,Felex Ada,Heels,Women Bag,1,Sales,6700,5002,6700,5002,1698,Mon
+ID253,09-06-2020,Geri M Tutrill,Male,Harrison,Winner Sanda,Calf Boots Men,Men Shoes,2,Sales,6700,5000,13400,10000,3400,Tue
+ID254,10-06-2020,Lauren R Henressy,Male,Holbrook,Peter Pan,Foot Ball Boots Women,Women Bag,2,Sales,6700,5001,13400,10002,3398,Wed
+ID255,11-06-2020,Monty C Hugres,Female,Freeport,Farida Ibrahim,Leader Hand Bag White,Female Bag,1,Sales,6700,5002,6700,5002,1698,Thu
+ID256,12-06-2020,Bryant L Kinrman,Female,Freeport,Farida Ibrahim,Leader Hand Bag Black,Female Bag,1,Sales,6700,5000,6700,5000,1700,Fri
+ID257,13-06-2020,Giovanna M Clirt,Female,Garden City,Felex Ada,Bag Pack,Male Bags,2,Sales,6700,5001,13400,10002,3398,Sat
+ID258,14-06-2020,Tracie J Winrbarger,Male,Harrison,Winner Sanda,Foot Ball Boots Men,Men Shoes,2,Sales,6700,5002,13400,10004,3396,Sun
+ID259,15-06-2020,Narcisa C Rayrurn,Male,Holbrook,Peter Pan,Canvas Shoes,Men Shoes,1,Sales,22000,20000,22000,20000,2000,Mon
+ID260,16-06-2020,Almeda M Dunrord,Male,Freeport,Farida Ibrahim,Wellington Boots,Women Bag,1,Returned,11000,10000,11000,10000,1000,Tue
+ID261,17-06-2020,Melida R Corre,Male,Freeport,Farida Ibrahim,Flip Flops,Women Bag,1,Sales,8500,7600,8500,7600,900,Wed
+ID262,18-06-2020,Armando H Searorn,Female,Garden City,Felex Ada,Mules,Female Bag,2,Returned,8500,7600,17000,15200,1800,Thu
+ID263,19-06-2020,Efrain L Wasr,Male,Harrison,Winner Sanda,Loafers,Women Bag,3,Sales,13200,12000,39600,36000,3600,Fri
+ID264,20-06-2020,Edra M Gutrrie,Male,Holbrook,Peter Pan,Gladiator sandals,Women Bag,2,Sales,22000,20000,44000,40000,4000,Sat
+ID265,21-06-2020,Harland S Renrhaw,Male,Freeport,Farida Ibrahim,Trainers Men,Men Shoes,2,Sales,7700,7000,15400,14000,1400,Sun
+ID266,22-06-2020,Leroy H Styron,Male,Freeport,Farida Ibrahim,Trainers Women,Women Bag,3,Sales,22000,20000,66000,60000,6000,Mon
+ID267,23-06-2020,Maryln H Sprrngfield,Male,Garden City,Felex Ada,Military Boots Women,Women Bag,1,Sales,44000,40000,44000,40000,4000,Tue
+ID268,24-06-2020,Elenora S Whirehill,Male,Harrison,Winner Sanda,Court Shoes,Women Bag,2,Sales,19800,18000,39600,36000,3600,Wed
+ID269,25-06-2020,,Male,Holbrook,Peter Pan,Brogues,Women Bag,2,Sales,9950,9000,19900,18000,1900,Thu
+ID270,26-06-2020,Dorethea U Engram,Male,Freeport,Farida Ibrahim,Shoe Bag,Female Bag,2,Sales,7700,7000,15400,14000,1400,Fri
+ID271,27-06-2020,Anibal F Pierer,Male,Freeport,Farida Ibrahim,Heels,Women Bag,4,Sales,11000,10000,44000,40000,4000,Sat
+ID272,28-06-2020,Ula W Harrl,Male,Garden City,Felex Ada,Calf Boots Men,Men Shoes,1,Sales,13200,12000,13200,12000,1200,Sun
+ID273,29-06-2020,,Male,Harrison,Winner Sanda,Foot Ball Boots Women,Women Bag,2,Sales,9950,9000,19900,18000,1900,Mon
+ID274,30-06-2020,Brent U Perrman,Male,Holbrook,Peter Pan,Leader Hand Bag White,Female Bag,2,Sales,7700,7000,15400,14000,1400,Tue
+ID275,01-07-2020,Eveline B Strrcker,Male,Freeport,Farida Ibrahim,Leader Hand Bag Black,Female Bag,4,Sales,11000,10000,44000,40000,4000,Wed
+ID276,02-07-2020,Keila A Lucrs,Female,Freeport,Farida Ibrahim,Bag Pack,Male Bags,1,Sales,13200,12000,13200,12000,1200,Thu
+ID277,03-07-2020,Aliza X Samrons,Female,Garden City,Felex Ada,Foot Ball Boots Men,Men Shoes,2,Sales,9950,9000,19900,18000,1900,Fri
+ID278,04-07-2020,Bennie E Manrredi,Female,Harrison,Winner Sanda,Canvas Shoes,Men Shoes,2,Sales,7700,7000,15400,14000,1400,Sat
+ID279,05-07-2020,Lucinda Z Borron,Male,Holbrook,Peter Pan,Wellington Boots,Women Bag,1,Sales,11000,10000,11000,10000,1000,Sun
+ID280,06-07-2020,Keila F Lofrand,Male,Freeport,Farida Ibrahim,Flip Flops,Women Bag,1,Sales,7700,7000,7700,7000,700,Mon
+ID281,07-07-2020,Royce K Goorwyn,Male,Freeport,Farida Ibrahim,Mules,Female Bag,2,Sales,9950,9000,19900,18000,1900,Tue
+ID282,08-07-2020,Rickey I Delr,Male,Garden City,Felex Ada,Loafers,Women Bag,2,Sales,19800,18000,39600,36000,3600,Wed
+ID283,09-07-2020,Delsie R Tenrison,Female,Harrison,Winner Sanda,Gladiator sandals,Women Bag,1,Sales,44000,40000,44000,40000,4000,Thu
+ID284,10-07-2020,Jayme B Shirer,Male,Holbrook,Peter Pan,Trainers Men,Men Shoes,1,Sales,22000,20000,22000,20000,2000,Fri
+ID285,11-07-2020,Gilbert M Wolrgram,Male,Freeport,Farida Ibrahim,Trainers Women,Women Bag,2,Sales,13000,12000,26000,24000,2000,Sat
+ID286,12-07-2020,Isabella X Rusrell,Male,Freeport,Farida Ibrahim,Military Boots Women,Women Bag,2,Sales,6700,5000,13400,10000,3400,Sun
+ID287,13-07-2020,Rueben X Pidreon,Male,Garden City,Felex Ada,Court Shoes,Women Bag,1,Sales,6700,5001,6700,5001,1699,Mon
+ID288,14-07-2020,Raymond U Flarin,Male,Harrison,Winner Sanda,Brogues,Women Bag,1,Sales,6700,5002,6700,5002,1698,Tue
+ID289,15-07-2020,Larry K Masr,Male,Holbrook,Peter Pan,Shoe Bag,Female Bag,2,Sales,6700,5000,13400,10000,3400,Wed
+ID290,16-07-2020,Nicolle A Crorhers,Male,Freeport,Farida Ibrahim,Heels,Women Bag,2,Sales,6700,5001,13400,10002,3398,Thu
+ID291,17-07-2020,Gustavo F Roure,Male,Freeport,Farida Ibrahim,Calf Boots Men,Men Shoes,1,Sales,6700,5002,6700,5002,1698,Fri
+ID292,18-07-2020,Victoria H Musron,Male,Garden City,Felex Ada,Foot Ball Boots Women,Women Bag,1,Sales,6700,5000,6700,5000,1700,Sat
+ID293,19-07-2020,Dawne Y Garrner,Male,Harrison,Winner Sanda,Leader Hand Bag White,Female Bag,2,Sales,6700,5001,13400,10002,3398,Sun
+ID294,20-07-2020,Newton L Crorartie,Male,Holbrook,Peter Pan,Leader Hand Bag Black,Female Bag,2,Sales,6700,5002,13400,10004,3396,Mon
+ID295,21-07-2020,Doria Z Crorse,Male,Freeport,Farida Ibrahim,Bag Pack,Male Bags,1,Sales,22000,20000,22000,20000,2000,Tue
+ID296,22-07-2020,,Male,Freeport,Farida Ibrahim,Foot Ball Boots Men,Men Shoes,1,Returned,11000,10000,11000,10000,1000,Wed
+ID297,23-07-2020,Audrea K Paprneau,Female,Garden City,Felex Ada,Canvas Shoes,Men Shoes,1,Sales,8500,7600,8500,7600,900,Thu
+ID298,24-07-2020,Rhett H Goore,Female,Harrison,Winner Sanda,Wellington Boots,Women Bag,2,Returned,8500,7600,17000,15200,1800,Fri
+ID299,25-07-2020,Royal U Okerfe,Female,Holbrook,Peter Pan,Flip Flops,Women Bag,3,Sales,13200,12000,39600,36000,3600,Sat
+ID300,26-07-2020,Keith Q Ofarrell,Male,Freeport,Farida Ibrahim,Mules,Female Bag,2,Sales,22000,20000,44000,40000,4000,Sun
+ID301,27-07-2020,Exie C Brarham,Male,Freeport,Farida Ibrahim,Loafers,Women Bag,2,Sales,7700,7000,15400,14000,1400,Mon
+ID302,28-07-2020,George U Clorser,Male,Garden City,Felex Ada,Gladiator sandals,Women Bag,3,Sales,22000,20000,66000,60000,6000,Tue
+ID303,29-07-2020,Benny S Brirker,Male,Harrison,Winner Sanda,Trainers Men,Men Shoes,1,Sales,44000,40000,44000,40000,4000,Wed
+ID304,30-07-2020,Forrest Q Zelr,Female,Holbrook,Peter Pan,Trainers Women,Women Bag,2,Sales,19800,18000,39600,36000,3600,Thu
+ID305,31-07-2020,Audrie X Mccrmmon,Male,Freeport,Farida Ibrahim,Military Boots Women,Women Bag,2,Sales,9950,9000,19900,18000,1900,Fri
+ID306,01-06-2020,Marylyn K Ditro,Male,Freeport,Farida Ibrahim,Court Shoes,Women Bag,2,Sales,7700,7000,15400,14000,1400,Mon
+ID307,02-06-2020,Kori J Fairfax,Male,Garden City,Felex Ada,Brogues,Women Bag,4,Sales,11000,10000,44000,40000,4000,Tue
+ID308,01-06-2020,Lamar W Estrll,Male,Harrison,Winner Sanda,Shoe Bag,Female Bag,1,Sales,13200,12000,13200,12000,1200,Mon
+ID309,02-06-2020,Giuseppe D Chorinard,Male,Holbrook,Peter Pan,Heels,Women Bag,2,Sales,9950,9000,19900,18000,1900,Tue
+ID310,03-06-2020,Khalilah A Camro,Male,Freeport,Farida Ibrahim,Calf Boots Men,Men Shoes,2,Sales,7700,7000,15400,14000,1400,Wed
+ID311,04-06-2020,Darcel P Burrord,Male,Freeport,Farida Ibrahim,Foot Ball Boots Women,Women Bag,4,Sales,11000,10000,44000,40000,4000,Thu
+ID312,05-06-2020,August C Navrrette,Male,Garden City,Felex Ada,Leader Hand Bag White,Female Bag,1,Sales,13200,12000,13200,12000,1200,Fri
+ID313,06-06-2020,Lanelle W Berranga,Male,Harrison,Winner Sanda,Leader Hand Bag Black,Female Bag,2,Sales,9950,9000,19900,18000,1900,Sat
+ID314,07-06-2020,Allene T Lepr,Male,Holbrook,Peter Pan,Bag Pack,Male Bags,2,Sales,7700,7000,15400,14000,1400,Sun
+ID315,08-06-2020,Eladia A Brargs,Male,Freeport,Farida Ibrahim,Foot Ball Boots Men,Men Shoes,1000,Sales,11000,10000,11000000,10000000,1000000,Mon
+ID316,09-06-2020,Agnes D Dour,Male,Freeport,Farida Ibrahim,Canvas Shoes,Men Shoes,1,Sales,7700,7000,7700,7000,700,Tue
+ID317,10-06-2020,,Male,Garden City,Felex Ada,Wellington Boots,Women Bag,2,Sales,9950,9000,19900,18000,1900,Wed
+ID318,11-06-2020,Emery P Sorrells,Female,Harrison,Winner Sanda,Flip Flops,Women Bag,2,Sales,19800,18000,39600,36000,3600,Thu
+ID319,12-06-2020,Violet L Ertrl,Female,Holbrook,Peter Pan,Mules,Female Bag,1,Sales,44000,40000,44000,40000,4000,Fri
+ID320,13-06-2020,Deeanna E Clurk,Female,Freeport,Farida Ibrahim,Loafers,Women Bag,1,Sales,22000,20000,22000,20000,2000,Sat
+ID321,14-06-2020,Morgan K Ratrbun,Male,Freeport,Farida Ibrahim,Gladiator sandals,Women Bag,2,Sales,13000,12000,26000,24000,2000,Sun
+ID322,15-06-2020,Julius Q Stork,Male,Garden City,Felex Ada,Trainers Men,Men Shoes,2,Sales,6700,5000,13400,10000,3400,Mon
+ID323,16-06-2020,Palmer O Bearer,Male,Harrison,Winner Sanda,Trainers Women,Women Bag,1,Sales,6700,5001,6700,5001,1699,Tue
+ID324,17-06-2020,Vincent N Lenron,Male,Holbrook,Peter Pan,Military Boots Women,Women Bag,1,Sales,6700,5002,6700,5002,1698,Wed
+ID325,18-06-2020,Alexis D Bonrlli,Female,Freeport,Farida Ibrahim,Court Shoes,Women Bag,2,Sales,6700,5000,13400,10000,3400,Thu
+ID326,19-06-2020,Claretta D Winrert,Male,Freeport,Farida Ibrahim,Brogues,Women Bag,2,Sales,6700,5001,13400,10002,3398,Fri
+ID327,20-06-2020,Cecily D Hourer,Male,Garden City,Felex Ada,Shoe Bag,Female Bag,1,Sales,6700,5002,6700,5002,1698,Sat
+ID328,21-06-2020,Horacio S Salrzar,Male,Harrison,Winner Sanda,Heels,Women Bag,1,Sales,6700,5000,6700,5000,1700,Sun
+ID329,22-06-2020,Adelle E Brurner,Male,Holbrook,Peter Pan,Calf Boots Men,Men Shoes,2,Sales,6700,5001,13400,10002,3398,Mon
+ID330,23-06-2020,Janessa M Drernen,Male,Freeport,Farida Ibrahim,Foot Ball Boots Women,Women Bag,2,Sales,6700,5002,13400,10004,3396,Tue
+ID331,24-06-2020,Ewa B Starles,Male,Freeport,Farida Ibrahim,Leader Hand Bag White,Female Bag,1,Sales,22000,20000,22000,20000,2000,Wed
+ID332,25-06-2020,Holley M Catrcart,Male,Garden City,Felex Ada,Leader Hand Bag Black,Female Bag,1,Returned,11000,10000,11000,10000,1000,Thu
+ID333,26-06-2020,Tim N Schreller,Male,Harrison,Winner Sanda,Bag Pack,Male Bags,1,Sales,8500,7600,8500,7600,900,Fri
+ID334,27-06-2020,Therese Q Belren,Male,Holbrook,Peter Pan,Foot Ball Boots Men,Men Shoes,2,Returned,8500,7600,17000,15200,1800,Sat
+ID335,28-06-2020,Susann A Faurett,Male,Freeport,Farida Ibrahim,Canvas Shoes,Men Shoes,3,Sales,13200,12000,39600,36000,3600,Sun
+ID336,29-06-2020,Bryan J Starpley,Male,Freeport,Farida Ibrahim,Wellington Boots,Women Bag,2,Sales,22000,20000,44000,40000,4000,Mon
+ID337,30-06-2020,Larisa X Strruss,Male,Garden City,Felex Ada,Flip Flops,Women Bag,2,Sales,7700,7000,15400,14000,1400,Tue
+ID338,01-07-2020,Adriana O Medred,Male,Harrison,Winner Sanda,Mules,Female Bag,3,Sales,22000,20000,66000,60000,6000,Wed
+ID339,02-07-2020,Rick E Armrnta,Female,Holbrook,Peter Pan,Loafers,Women Bag,1,Sales,44000,40000,44000,40000,4000,Thu
+ID340,03-07-2020,Garland J Verrille,Female,Freeport,Farida Ibrahim,Gladiator sandals,Women Bag,2,Sales,19800,18000,39600,36000,3600,Fri
+ID341,04-07-2020,Ettie S Stirwell,Female,Freeport,Farida Ibrahim,Trainers Men,Men Shoes,2,Sales,9950,9000,19900,18000,1900,Sat
+ID342,05-07-2020,Ronnie G Gumrs,Male,Garden City,Felex Ada,Trainers Women,Women Bag,2,Sales,7700,7000,15400,14000,1400,Sun
+ID343,06-07-2020,Shirley H Metrler,Male,Harrison,Winner Sanda,Military Boots Women,Women Bag,4,Sales,11000,10000,44000,40000,4000,Mon
+ID344,07-07-2020,Ahmed V Leare,Male,Holbrook,Peter Pan,Court Shoes,Women Bag,1,Sales,13200,12000,13200,12000,1200,Tue
+ID345,08-07-2020,Albert Z Dunrord,Male,Freeport,Farida Ibrahim,Brogues,Women Bag,2,Sales,9950,9000,19900,18000,1900,Wed
+ID346,07-07-2020,Erin L Jasrin,Female,Freeport,Farida Ibrahim,Shoe Bag,Female Bag,2,Sales,7700,7000,15400,14000,1400,Tue
+ID347,10-07-2020,Raphael W Kelrner,Male,Garden City,Felex Ada,Heels,Women Bag,4,Sales,11000,10000,44000,40000,4000,Fri
+ID348,11-07-2020,Man W Bear,Male,Harrison,Winner Sanda,Calf Boots Men,Men Shoes,1,Sales,13200,12000,13200,12000,1200,Sat
+ID349,12-07-2020,Nikia Z Thrrsher,Male,Holbrook,Peter Pan,Foot Ball Boots Women,Women Bag,2,Sales,9950,9000,19900,18000,1900,Sun
+ID350,13-07-2020,Cedrick M Corrle,Male,Freeport,Farida Ibrahim,Leader Hand Bag White,Female Bag,30,Sales,11000,10000,330000,300000,30000,Mon
+ID351,14-07-2020,Chi S Clorton,Male,Freeport,Farida Ibrahim,Leader Hand Bag Black,Female Bag,1,Sales,11000,10000,11000,10000,1000,Tue
+ID352,15-07-2020,Carl M Padrock,Male,Garden City,Felex Ada,Bag Pack,Male Bags,1,Sales,7700,7000,7700,7000,700,Wed
+ID353,16-07-2020,Nestor T Venrura,Male,Harrison,Winner Sanda,Foot Ball Boots Men,Men Shoes,2,Sales,9950,9000,19900,18000,1900,Thu
+ID354,17-07-2020,Salvatore J Linrell,Male,Holbrook,Peter Pan,Canvas Shoes,Men Shoes,2,Sales,19800,18000,39600,36000,3600,Fri
+ID355,18-07-2020,Phil T Urera,Male,Freeport,Farida Ibrahim,Wellington Boots,Women Bag,1,Sales,44000,40000,44000,40000,4000,Sat
+ID356,17-07-2020,Buford Q Giarcola,Male,Freeport,Farida Ibrahim,Flip Flops,Women Bag,20,Sales,13200,12000,264000,240000,24000,Fri
+ID357,20-07-2020,Garland Z Learell,Male,Garden City,Felex Ada,Mules,Female Bag,2,Sales,13000,12000,26000,24000,2000,Mon
+ID358,21-07-2020,Fe A Schrock,Male,Harrison,Winner Sanda,Loafers,Women Bag,2,Sales,6700,5000,13400,10000,3400,Tue
+ID359,22-07-2020,Dustin Y Espry,Male,Holbrook,Peter Pan,Gladiator sandals,Women Bag,1,Sales,6700,5001,6700,5001,1699,Wed
+ID360,23-07-2020,Tinisha V Vinre,Female,Freeport,Farida Ibrahim,Trainers Men,Men Shoes,1,Sales,6700,5002,6700,5002,1698,Thu
+ID361,24-07-2020,Isis F Hasr,Female,Freeport,Farida Ibrahim,Trainers Women,Women Bag,2,Sales,6700,5000,13400,10000,3400,Fri
+ID362,25-07-2020,Hai Y Ardrn,Female,Garden City,Felex Ada,Military Boots Women,Women Bag,2,Sales,6700,5001,13400,10002,3398,Sat
+ID363,26-07-2020,Gerardo Q Berren,Male,Harrison,Winner Sanda,Court Shoes,Women Bag,1,Sales,6700,5002,6700,5002,1698,Sun
+ID364,27-07-2020,Jewel R Wilrhite,Male,Holbrook,Peter Pan,Brogues,Women Bag,1,Sales,6700,5000,6700,5000,1700,Mon
+ID365,28-07-2020,Jesus E Mclrlland,Male,Freeport,Farida Ibrahim,Shoe Bag,Female Bag,2,Sales,6700,5001,13400,10002,3398,Tue
+ID366,27-07-2020,Dortha Z Harry,Male,Freeport,Farida Ibrahim,Heels,Women Bag,2,Sales,6700,5002,13400,10004,3396,Mon
+ID367,01-06-2020,Pete B Donrelly,Female,Garden City,Felex Ada,Calf Boots Men,Men Shoes,1,Sales,22000,20000,22000,20000,2000,Mon
+ID368,02-06-2020,Kristen A Bearchemin,Male,Harrison,Winner Sanda,Foot Ball Boots Women,Women Bag,1,Returned,11000,10000,11000,10000,1000,Tue
+ID369,03-06-2020,Celesta L Reerer,Male,Holbrook,Peter Pan,Leader Hand Bag White,Female Bag,1,Sales,8500,7600,8500,7600,900,Wed
+ID370,04-06-2020,Desiree L Sobrl,Male,Freeport,Farida Ibrahim,Leader Hand Bag Black,Female Bag,2,Returned,8500,7600,17000,15200,1800,Thu
+ID371,05-06-2020,Izetta B Alfrrd,Male,Freeport,Farida Ibrahim,Bag Pack,Male Bags,3,Sales,13200,12000,39600,36000,3600,Fri
+ID372,06-06-2020,Hermila X Crorslin,Male,Garden City,Felex Ada,Foot Ball Boots Men,Men Shoes,2,Sales,22000,20000,44000,40000,4000,Sat
+ID373,07-06-2020,Tommy I Mearows,Male,Harrison,Winner Sanda,Canvas Shoes,Men Shoes,2,Sales,7700,7000,15400,14000,1400,Sun
+ID374,08-06-2020,Cordell M Twerdy,Male,Holbrook,Peter Pan,Wellington Boots,Women Bag,3,Sales,22000,20000,66000,60000,6000,Mon
+ID375,09-06-2020,Bernarda E Gerrais,Male,Freeport,Farida Ibrahim,Flip Flops,Women Bag,1,Sales,44000,40000,44000,40000,4000,Tue
+ID376,10-06-2020,Raymon I Chararria,Male,Freeport,Farida Ibrahim,Mules,Female Bag,2,Sales,19800,18000,39600,36000,3600,Wed
+ID377,11-06-2020,Audrea B Prarher,Male,Garden City,Felex Ada,Loafers,Women Bag,2,Sales,9950,9000,19900,18000,1900,Thu
+ID378,12-06-2020,Isis N Rufrs,Male,Harrison,Winner Sanda,Gladiator sandals,Women Bag,2,Sales,7700,7000,15400,14000,1400,Fri
+ID379,13-06-2020,Lucienne U Clyre,Male,Holbrook,Peter Pan,Trainers Men,Men Shoes,4,Sales,11000,10000,44000,40000,4000,Sat
+ID380,14-06-2020,Jasper P Barraby,Male,Freeport,Farida Ibrahim,Trainers Women,Women Bag,1,Sales,13200,12000,13200,12000,1200,Sun
+ID381,15-06-2020,Walter B Mcmrrrow,Female,Freeport,Farida Ibrahim,Military Boots Women,Women Bag,2,Sales,9950,9000,19900,18000,1900,Mon
+ID382,16-06-2020,,Female,Garden City,Felex Ada,Court Shoes,Women Bag,2,Sales,7700,7000,15400,14000,1400,Tue
+ID383,17-06-2020,Darren U Shorlders,Female,Harrison,Winner Sanda,Brogues,Women Bag,4,Sales,11000,10000,44000,40000,4000,Wed
+ID384,18-06-2020,Nicola S Belris,Male,Holbrook,Peter Pan,Shoe Bag,Female Bag,1,Sales,13200,12000,13200,12000,1200,Thu
+ID385,19-06-2020,Thurman T Cacrres,Male,Freeport,Farida Ibrahim,Heels,Women Bag,2,Sales,44000,40000,88000,80000,8000,Fri
+ID386,20-06-2020,Allen L Vacron,Male,Freeport,Farida Ibrahim,Calf Boots Men,Men Shoes,2,Returned,7700,7000,15400,14000,1400,Sat
+ID387,21-06-2020,Yung G Boorer,Male,Garden City,Felex Ada,Foot Ball Boots Women,Women Bag,10,Sales,22000,20000,220000,200000,20000,Sun
+ID388,22-06-2020,Emiko Z Lolrey,Male,Harrison,Winner Sanda,Leader Hand Bag White,Female Bag,10,Sales,9950,9000,99500,90000,9500,Mon
+ID389,23-06-2020,Dian I Pearhey,Male,Holbrook,Peter Pan,Leader Hand Bag Black,Female Bag,10,Sales,7700,7000,77000,70000,7000,Tue
+ID390,24-06-2020,Carmen U Benrow,Male,Freeport,Farida Ibrahim,Bag Pack,Male Bags,10,Sales,9950,9000,99500,90000,9500,Wed
+ID391,25-06-2020,Kimberly K Carr,Male,Freeport,Farida Ibrahim,Foot Ball Boots Men,Men Shoes,10,Sales,9950,9000,99500,90000,9500,Thu
+ID392,26-06-2020,Damian F Mcgrughey,Male,Garden City,Felex Ada,Canvas Shoes,Men Shoes,10,Sales,9950,9000,99500,90000,9500,Fri
+ID393,27-06-2020,Jeff W Zacrrias,Male,Harrison,Winner Sanda,Wellington Boots,Women Bag,10,Sales,9950,9000,99500,90000,9500,Sat
+ID394,28-06-2020,Vernell X Amaro,Male,Holbrook,Peter Pan,Flip Flops,Women Bag,10,Sales,9950,9000,99500,90000,9500,Sun
+ID395,29-06-2020,Nadia B Rosrer,Male,Freeport,Farida Ibrahim,Mules,Female Bag,10,Sales,9950,9000,99500,90000,9500,Mon
+ID396,30-06-2020,Elijah P Elkrn,Male,Freeport,Farida Ibrahim,Loafers,Women Bag,10,Sales,9950,9000,99500,90000,9500,Tue
+ID397,01-07-2020,Kirby W Estrella,Male,Garden City,Felex Ada,Gladiator sandals,Women Bag,10,Sales,9950,9000,99500,90000,9500,Wed
+ID398,02-07-2020,Bernie M Kisr,Male,Harrison,Winner Sanda,Trainers Men,Men Shoes,10,Sales,9950,9000,99500,90000,9500,Thu
+ID399,03-07-2020,Judson Y Hodron,Male,Holbrook,Peter Pan,Trainers Women,Women Bag,10,Sales,9950,9000,99500,90000,9500,Fri
+ID400,04-07-2020,Carey N Mccready,Male,Freeport,Farida Ibrahim,Military Boots Women,Women Bag,10,Sales,9950,9000,99500,90000,9500,Sat
+ID401,05-07-2020,Shayne T Clartor,Male,Holbrook,Peter Pan,Court Shoes,Women Bag,10,Sales,9950,9000,99500,90000,9500,Sun
+ID402,06-07-2020,Ashlie G Cadrna,Male,Freeport,Farida Ibrahim,Brogues,Women Bag,11,Sales,9950,9000,109450,99000,10450,Mon
+ID403,07-07-2020,Noah O Lovr,Male,Holbrook,Peter Pan,Shoe Bag,Female Bag,11,Returned,9950,9000,109450,99000,10450,Tue
+ID404,08-07-2020,Lashaunda Y Munren,Male,Freeport,Farida Ibrahim,Heels,Women Bag,11,Sales,9950,9000,109450,99000,10450,Wed
+ID405,07-07-2020,Colin V Likrns,Male,Holbrook,Peter Pan,Calf Boots Men,Men Shoes,2,Returned,10000,9000,20000,18000,2000,Tue
+ID406,10-07-2020,Kylie K Frera,Male,Freeport,Farida Ibrahim,Foot Ball Boots Women,Women Bag,3,Returned,10000,9000,30000,27000,3000,Fri
+ID407,11-07-2020,Krishna G Rabr,Male,Holbrook,Peter Pan,Leader Hand Bag White,Female Bag,4,Returned,10000,9000,40000,36000,4000,Sat
+ID408,12-07-2020,Launa N Kohr,Male,Freeport,Farida Ibrahim,Leader Hand Bag Black,Female Bag,2,Sales,6700,5001,13400,10002,3398,Sun
+ID409,13-07-2020,Trent J Locrman,Male,Holbrook,Peter Pan,Bag Pack,Male Bags,2,Sales,6700,5002,13400,10004,3396,Mon
+ID410,14-07-2020,Alisha D Coprock,Male,Freeport,Farida Ibrahim,Foot Ball Boots Men,Men Shoes,1,Sales,22000,20000,22000,20000,2000,Tue
+ID411,15-07-2020,Richie I Weirz,Male,Holbrook,Peter Pan,Canvas Shoes,Men Shoes,1,Returned,11000,10000,11000,10000,1000,Wed
+ID412,16-07-2020,Leticia V Lewrndowski,Male,Garden City,Felex Ada,Wellington Boots,Women Bag,1,Sales,8500,7600,8500,7600,900,Thu
+ID413,17-07-2020,Elaine B Ranrazzo,Male,Harrison,Winner Sanda,Flip Flops,Women Bag,2,Returned,8500,7600,17000,15200,1800,Fri
+ID414,18-07-2020,Jack J Warrel,Male,Holbrook,Peter Pan,Mules,Female Bag,3,Sales,13200,12000,39600,36000,3600,Sat
+ID415,17-07-2020,Kitty S Sicrles,Male,Freeport,Farida Ibrahim,Loafers,Women Bag,2,Sales,22000,20000,44000,40000,4000,Fri
+ID416,20-07-2020,Bruna R Welre,Male,Freeport,Farida Ibrahim,Gladiator sandals,Women Bag,2,Sales,7700,7000,15400,14000,1400,Mon
+ID417,21-07-2020,Felix S Crorer,Male,Garden City,Felex Ada,Trainers Men,Men Shoes,3,Sales,22000,20000,66000,60000,6000,Tue
+ID418,22-07-2020,Eartha Z Oceruera,Male,Harrison,Winner Sanda,Trainers Women,Women Bag,1,Sales,44000,40000,44000,40000,4000,Wed
+ID419,23-07-2020,Laurena P Casron,Male,Holbrook,Peter Pan,Military Boots Women,Women Bag,2,Sales,19800,18000,39600,36000,3600,Thu
+ID420,24-07-2020,Beatrice A Knorf,Male,Freeport,Farida Ibrahim,Court Shoes,Women Bag,2,Sales,9950,9000,19900,18000,1900,Fri
+ID421,25-07-2020,Zoila X Nair,Female,Freeport,Farida Ibrahim,Brogues,Women Bag,2,Sales,7700,7000,15400,14000,1400,Sat
+ID422,26-07-2020,Jae B Isarell,Female,Garden City,Felex Ada,Shoe Bag,Female Bag,4,Sales,11000,10000,44000,40000,4000,Sun
+ID423,27-07-2020,Donald P Phareuf,Female,Harrison,Winner Sanda,Heels,Women Bag,1,Sales,13200,12000,13200,12000,1200,Mon
+ID424,28-07-2020,Tyrell R Brarlett,Male,Holbrook,Peter Pan,Calf Boots Men,Men Shoes,2,Sales,9950,9000,19900,18000,1900,Tue
+ID425,27-07-2020,Ela K Hamrs,Male,Freeport,Farida Ibrahim,Foot Ball Boots Women,Women Bag,2,Sales,7700,7000,15400,14000,1400,Mon
+ID426,30-07-2020,Marlon M Cadrell,Male,Freeport,Farida Ibrahim,Leader Hand Bag White,Female Bag,4,Sales,11000,10000,44000,40000,4000,Thu
+ID427,01-07-2020,Nolan V Velrzco,Male,Garden City,Felex Ada,Leader Hand Bag Black,Female Bag,1,Sales,13200,12000,13200,12000,1200,Wed
+ID428,01-06-2020,Ashanti R Swir,Female,Harrison,Winner Sanda,Bag Pack,Male Bags,2,Sales,9950,9000,19900,18000,1900,Mon
+ID429,02-06-2020,Tamica J Holrman,Male,Holbrook,Peter Pan,Foot Ball Boots Men,Men Shoes,2,Sales,7700,7000,15400,14000,1400,Tue
+ID430,01-06-2020,Marcell T Farras,Male,Freeport,Farida Ibrahim,Canvas Shoes,Men Shoes,1,Sales,11000,10000,11000,10000,1000,Mon
+ID431,02-06-2020,Abram Q Kefrer,Male,Freeport,Farida Ibrahim,Wellington Boots,Women Bag,1,Sales,7700,7000,7700,7000,700,Tue
+ID432,03-06-2020,Silas S Pyart,Male,Garden City,Felex Ada,Flip Flops,Women Bag,2,Sales,9950,9000,19900,18000,1900,Wed
+ID433,04-06-2020,Patria D Rierel,Male,Harrison,Winner Sanda,Mules,Female Bag,2,Sales,19800,18000,39600,36000,3600,Thu
+ID434,05-06-2020,Nicholas B Salredo,Male,Holbrook,Peter Pan,Loafers,Women Bag,1,Sales,44000,40000,44000,40000,4000,Fri
+ID435,06-06-2020,Brendon E Monr,Male,Freeport,Farida Ibrahim,Gladiator sandals,Women Bag,1,Sales,22000,20000,22000,20000,2000,Sat
+ID436,07-06-2020,Velda V Larre,Male,Freeport,Farida Ibrahim,Trainers Men,Men Shoes,2,Sales,13000,12000,26000,24000,2000,Sun
+ID437,08-06-2020,Sharita Y Lomrardi,Male,Garden City,Felex Ada,Trainers Women,Women Bag,2,Sales,6700,5000,13400,10000,3400,Mon
+ID438,09-06-2020,Virgil R Yuer,Male,Harrison,Winner Sanda,Military Boots Women,Women Bag,1,Sales,6700,5001,6700,5001,1699,Tue
+ID439,10-06-2020,,Male,Holbrook,Peter Pan,Court Shoes,Women Bag,1,Sales,6700,5002,6700,5002,1698,Wed
+ID440,11-06-2020,Haley G Bovr,Male,Freeport,Farida Ibrahim,Brogues,Women Bag,2,Sales,6700,5000,13400,10000,3400,Thu
+ID441,12-06-2020,Margarite E Blarock,Male,Freeport,Farida Ibrahim,Shoe Bag,Female Bag,2,Sales,6700,5001,13400,10002,3398,Fri
+ID442,13-06-2020,Rina L Charon,Female,Garden City,Felex Ada,Heels,Women Bag,1,Sales,6700,5002,6700,5002,1698,Sat
+ID443,14-06-2020,Ramonita Z Finrher,Female,Harrison,Winner Sanda,Calf Boots Men,Men Shoes,1,Sales,6700,5000,6700,5000,1700,Sun
+ID444,15-06-2020,Lindsey W Whirtle,Female,Holbrook,Peter Pan,Foot Ball Boots Women,Women Bag,2,Sales,6700,5001,13400,10002,3398,Mon
+ID445,16-06-2020,Mauricio U Talry,Male,Freeport,Farida Ibrahim,Leader Hand Bag White,Female Bag,2,Sales,6700,5002,13400,10004,3396,Tue
+ID446,17-06-2020,Chau R Barron,Male,Freeport,Farida Ibrahim,Leader Hand Bag Black,Female Bag,1,Sales,22000,20000,22000,20000,2000,Wed
+ID447,18-06-2020,Lino M Lizrrraga,Male,Garden City,Felex Ada,Bag Pack,Male Bags,1,Returned,11000,10000,11000,10000,1000,Thu
+ID448,19-06-2020,Fredericka J Varrey,Male,Harrison,Winner Sanda,Foot Ball Boots Men,Men Shoes,1,Sales,8500,7600,8500,7600,900,Fri
+ID449,20-06-2020,Aundrea W Lunrberg,Female,Holbrook,Peter Pan,Canvas Shoes,Men Shoes,2,Returned,8500,7600,17000,15200,1800,Sat
+ID450,21-06-2020,Son D Ricretts,Male,Freeport,Farida Ibrahim,Wellington Boots,Women Bag,3,Sales,13200,12000,39600,36000,3600,Sun
+ID451,22-06-2020,Dorothea J Canrerbury,Male,Freeport,Farida Ibrahim,Flip Flops,Women Bag,2,Sales,22000,20000,44000,40000,4000,Mon
+ID452,23-06-2020,Zenia D Owirgs,Male,Garden City,Felex Ada,Mules,Female Bag,2,Sales,7700,7000,15400,14000,1400,Tue
+ID453,24-06-2020,Seth N Liprky,Male,Harrison,Winner Sanda,Loafers,Women Bag,3,Sales,22000,20000,66000,60000,6000,Wed
+ID454,25-06-2020,Miles N Ligrt,Male,Holbrook,Peter Pan,Gladiator sandals,Women Bag,1,Sales,44000,40000,44000,40000,4000,Thu
+ID455,26-06-2020,Tyler N Larrins,Male,Freeport,Farida Ibrahim,Trainers Men,Men Shoes,2,Sales,19800,18000,39600,36000,3600,Fri
+ID456,27-06-2020,Asa E Kunre,Male,Freeport,Farida Ibrahim,Trainers Women,Women Bag,2,Sales,9950,9000,19900,18000,1900,Sat
+ID457,28-06-2020,Sal C Heiren,Male,Garden City,Felex Ada,Military Boots Women,Women Bag,2,Sales,7700,7000,15400,14000,1400,Sun
+ID458,29-06-2020,Tomas V Krort,Male,Harrison,Winner Sanda,Court Shoes,Women Bag,4,Sales,11000,10000,44000,40000,4000,Mon
+ID459,30-06-2020,Ben N Lamron,Male,Holbrook,Peter Pan,Brogues,Women Bag,1,Sales,13200,12000,13200,12000,1200,Tue
+ID460,01-07-2020,Myra H Parra,Male,Freeport,Farida Ibrahim,Shoe Bag,Female Bag,2,Sales,9950,9000,19900,18000,1900,Wed
+ID461,02-07-2020,Adele M Burram,Male,Freeport,Farida Ibrahim,Heels,Women Bag,2,Sales,7700,7000,15400,14000,1400,Thu
+ID462,03-07-2020,Adria M Melrndrez,Male,Garden City,Felex Ada,Calf Boots Men,Men Shoes,4,Sales,11000,10000,44000,40000,4000,Fri
+ID463,04-07-2020,Clemmie F Monrague,Female,Harrison,Winner Sanda,Foot Ball Boots Women,Women Bag,1,Sales,13200,12000,13200,12000,1200,Sat
+ID464,05-07-2020,Valarie O Gorrcki,Female,Holbrook,Peter Pan,Leader Hand Bag White,Female Bag,2,Sales,9950,9000,19900,18000,1900,Sun
+ID465,06-07-2020,Adell W Trorer,Female,Freeport,Farida Ibrahim,Leader Hand Bag Black,Female Bag,2,Sales,7700,7000,15400,14000,1400,Mon
+ID466,07-07-2020,Eric C Irvrne,Male,Freeport,Farida Ibrahim,Bag Pack,Male Bags,1,Sales,11000,10000,11000,10000,1000,Tue
+ID467,08-07-2020,Letha L Aper,Male,Garden City,Felex Ada,Foot Ball Boots Men,Men Shoes,1,Sales,7700,7000,7700,7000,700,Wed
+ID468,07-07-2020,Nannie Z Seeran,Male,Harrison,Winner Sanda,Canvas Shoes,Men Shoes,2,Sales,9950,9000,19900,18000,1900,Tue
+ID469,10-07-2020,Reynalda M Milrwood,Male,Holbrook,Peter Pan,Wellington Boots,Women Bag,2,Sales,19800,18000,39600,36000,3600,Fri
+ID470,11-07-2020,Tanner Y Holrenbeck,Female,Freeport,Farida Ibrahim,Flip Flops,Women Bag,1,Sales,44000,40000,44000,40000,4000,Sat
+ID471,12-07-2020,Amado C Bonrt,Male,Freeport,Farida Ibrahim,Mules,Female Bag,1,Sales,22000,20000,22000,20000,2000,Sun
+ID472,13-07-2020,Jeanetta N Norren,Male,Garden City,Felex Ada,Loafers,Women Bag,2,Sales,13000,12000,26000,24000,2000,Mon
+ID473,14-07-2020,Paris U Leire,Male,Harrison,Winner Sanda,Gladiator sandals,Women Bag,2,Sales,6700,5000,13400,10000,3400,Tue
+ID474,15-07-2020,Alexis Q Grore,Male,Holbrook,Peter Pan,Trainers Men,Men Shoes,1,Sales,6700,5001,6700,5001,1699,Wed
+ID475,16-07-2020,Chadwick I Harrreaves,Male,Freeport,Farida Ibrahim,Trainers Women,Women Bag,1,Sales,6700,5002,6700,5002,1698,Thu
+ID476,17-07-2020,Perry E Hudrleston,Male,Freeport,Farida Ibrahim,Military Boots Women,Women Bag,2,Sales,6700,5000,13400,10000,3400,Fri
+ID477,18-07-2020,Hollis Z Carr,Male,Garden City,Felex Ada,Court Shoes,Women Bag,2,Sales,6700,5001,13400,10002,3398,Sat
+ID478,17-07-2020,Kiara T Marrinez,Male,Harrison,Winner Sanda,Brogues,Women Bag,1,Sales,6700,5002,6700,5002,1698,Fri
+ID479,20-07-2020,Brigitte D Fenrley,Male,Holbrook,Peter Pan,Shoe Bag,Female Bag,1,Sales,6700,5000,6700,5000,1700,Mon
+ID480,21-07-2020,Bobbie P Churley,Male,Freeport,Farida Ibrahim,Heels,Women Bag,2,Sales,6700,5001,13400,10002,3398,Tue
+ID481,22-07-2020,Hong M Towrson,Male,Freeport,Farida Ibrahim,Calf Boots Men,Men Shoes,2,Sales,6700,5002,13400,10004,3396,Wed
+ID482,23-07-2020,Keith B Macra,Male,Garden City,Felex Ada,Foot Ball Boots Women,Women Bag,1,Sales,22000,20000,22000,20000,2000,Thu
+ID483,24-07-2020,Harriett A Mccrrry,Male,Harrison,Winner Sanda,Leader Hand Bag White,Female Bag,1,Returned,11000,10000,11000,10000,1000,Fri
+ID484,25-07-2020,Andres S Garrer,Female,Holbrook,Peter Pan,Leader Hand Bag Black,Female Bag,1,Sales,8500,7600,8500,7600,900,Sat
+ID485,26-07-2020,Ken X Weirberg,Female,Freeport,Farida Ibrahim,Bag Pack,Male Bags,2,Returned,8500,7600,17000,15200,1800,Sun
+ID486,27-07-2020,Moises U Hugrs,Female,Freeport,Farida Ibrahim,Foot Ball Boots Men,Men Shoes,3,Sales,13200,12000,39600,36000,3600,Mon
+ID487,28-07-2020,Sunshine F Earre,Male,Garden City,Felex Ada,Canvas Shoes,Men Shoes,2,Sales,22000,20000,44000,40000,4000,Tue
+ID488,27-07-2020,Lavette P Cherey,Male,Harrison,Winner Sanda,Wellington Boots,Women Bag,2,Sales,7700,7000,15400,14000,1400,Mon
+ID489,01-06-2020,Carmen F Barret,Male,Holbrook,Peter Pan,Flip Flops,Women Bag,3,Sales,22000,20000,66000,60000,6000,Mon
+ID490,02-06-2020,Lizzie D Ratrliff,Male,Freeport,Farida Ibrahim,Mules,Female Bag,1,Sales,44000,40000,44000,40000,4000,Tue
+ID491,03-06-2020,Nick Q Pacrard,Female,Freeport,Farida Ibrahim,Loafers,Women Bag,2,Sales,19800,18000,39600,36000,3600,Wed
+ID492,04-06-2020,Alonzo W Starford,Male,Garden City,Felex Ada,Gladiator sandals,Women Bag,2,Sales,9950,9000,19900,18000,1900,Thu
+ID493,05-06-2020,Brett Z Vadrais,Male,Harrison,Winner Sanda,Trainers Men,Men Shoes,2,Sales,7700,7000,15400,14000,1400,Fri
+ID494,06-06-2020,Madalene J Marrine,Male,Holbrook,Peter Pan,Trainers Women,Women Bag,4,Sales,11000,10000,44000,40000,4000,Sat
+ID495,07-06-2020,Charles S Nicroles,Male,Freeport,Farida Ibrahim,Military Boots Women,Women Bag,1,Sales,13200,12000,13200,12000,1200,Sun
+ID496,08-06-2020,Kristofer Y Fizrr,Male,Freeport,Farida Ibrahim,Court Shoes,Women Bag,2,Sales,9950,9000,19900,18000,1900,Mon
+ID497,09-06-2020,Elmo G Pagrno,Male,Garden City,Felex Ada,Brogues,Women Bag,2,Sales,7700,7000,15400,14000,1400,Tue
+ID498,10-06-2020,Lindy M Reer,Male,Harrison,Winner Sanda,Shoe Bag,Female Bag,4,Sales,11000,10000,44000,40000,4000,Wed
+ID499,11-06-2020,Dewayne X Grorm,Male,Holbrook,Peter Pan,Heels,Women Bag,1,Sales,13200,12000,13200,12000,1200,Thu
+ID500,12-06-2020,Elenora V Halrey,Male,Freeport,Farida Ibrahim,Calf Boots Men,Men Shoes,2,Sales,9950,9000,19900,18000,1900,Fri
+ID501,13-06-2020,Rosette F Casrio,Male,Freeport,Farida Ibrahim,Foot Ball Boots Women,Women Bag,2,Sales,7700,7000,15400,14000,1400,Sat
+ID502,14-06-2020,Analisa X Birrsell,Male,Garden City,Felex Ada,Leader Hand Bag White,Female Bag,1000,Sales,11000,10000,11000000,10000000,1000000,Sun
+ID503,15-06-2020,Jacinta Y Cherey,Male,Harrison,Winner Sanda,Leader Hand Bag Black,Female Bag,1,Sales,7700,7000,7700,7000,700,Mon
+ID504,16-06-2020,Matt D Brarblett,Male,Holbrook,Peter Pan,Bag Pack,Male Bags,2,Sales,9950,9000,19900,18000,1900,Tue
+ID505,17-06-2020,Queenie M Aldrr,Female,Freeport,Farida Ibrahim,Foot Ball Boots Men,Men Shoes,2,Sales,19800,18000,39600,36000,3600,Wed
+ID506,18-06-2020,Darwin W Lemrine,Female,Freeport,Farida Ibrahim,Canvas Shoes,Men Shoes,1,Sales,44000,40000,44000,40000,4000,Thu
+ID507,19-06-2020,Erik W Sterfen,Female,Garden City,Felex Ada,Wellington Boots,Women Bag,1,Sales,22000,20000,22000,20000,2000,Fri
+ID508,20-06-2020,Ching D Appregate,Male,Harrison,Winner Sanda,Flip Flops,Women Bag,2,Sales,13000,12000,26000,24000,2000,Sat
+ID509,21-06-2020,Warren L Manron,Male,Holbrook,Peter Pan,Mules,Female Bag,2,Sales,6700,5000,13400,10000,3400,Sun
+ID510,22-06-2020,Celestine H Aldrrson,Male,Freeport,Farida Ibrahim,Loafers,Women Bag,1,Sales,6700,5001,6700,5001,1699,Mon
+ID511,23-06-2020,Tammi S Garret,Male,Freeport,Farida Ibrahim,Gladiator sandals,Women Bag,1,Sales,6700,5002,6700,5002,1698,Tue
+ID512,24-06-2020,Tamesha I Knerper,Female,Garden City,Felex Ada,Trainers Men,Men Shoes,2,Sales,6700,5000,13400,10000,3400,Wed
+ID513,25-06-2020,Bernardina X Roerch,Male,Harrison,Winner Sanda,Trainers Women,Women Bag,2,Sales,6700,5001,13400,10002,3398,Thu
+ID514,26-06-2020,Mariano Y Kylrs,Male,Holbrook,Peter Pan,Military Boots Women,Women Bag,1,Sales,6700,5002,6700,5002,1698,Fri
+ID515,27-06-2020,Kristie E Jair,Male,Freeport,Farida Ibrahim,Court Shoes,Women Bag,1,Sales,6700,5000,6700,5000,1700,Sat
+ID516,28-06-2020,Jeff E Lucrro,Male,Freeport,Farida Ibrahim,Brogues,Women Bag,2,Sales,6700,5001,13400,10002,3398,Sun
+ID517,29-06-2020,Leanna X Tibretts,Male,Garden City,Felex Ada,Shoe Bag,Female Bag,2,Sales,6700,5002,13400,10004,3396,Mon
+ID518,30-06-2020,Robbie N Hecrman,Male,Harrison,Winner Sanda,Heels,Women Bag,1,Sales,22000,20000,22000,20000,2000,Tue
+ID519,01-07-2020,Raymon S Arnry,Male,Holbrook,Peter Pan,Calf Boots Men,Men Shoes,1,Returned,11000,10000,11000,10000,1000,Wed
+ID520,02-07-2020,Sergio X Devrreaux,Male,Freeport,Farida Ibrahim,Foot Ball Boots Women,Women Bag,1,Sales,8500,7600,8500,7600,900,Thu
+ID521,03-07-2020,Bobbie A Resrr,Male,Freeport,Farida Ibrahim,Leader Hand Bag White,Female Bag,2,Returned,8500,7600,17000,15200,1800,Fri
+ID522,04-07-2020,Drew O Livrngston,Male,Garden City,Felex Ada,Leader Hand Bag Black,Female Bag,3,Sales,13200,12000,39600,36000,3600,Sat
+ID523,05-07-2020,Ahmad S Bonr,Male,Harrison,Winner Sanda,Bag Pack,Male Bags,2,Sales,22000,20000,44000,40000,4000,Sun
+ID524,06-07-2020,Collin V Gimrel,Male,Holbrook,Peter Pan,Foot Ball Boots Men,Men Shoes,2,Sales,7700,7000,15400,14000,1400,Mon
+ID525,07-07-2020,Refugio Q Orar,Male,Freeport,Farida Ibrahim,Canvas Shoes,Men Shoes,3,Sales,22000,20000,66000,60000,6000,Tue
+ID526,08-07-2020,Salena Z Melrhior,Female,Freeport,Farida Ibrahim,Wellington Boots,Women Bag,1,Sales,44000,40000,44000,40000,4000,Wed
+ID527,09-07-2020,Jonathan D Galragher,Female,Garden City,Felex Ada,Flip Flops,Women Bag,2,Sales,19800,18000,39600,36000,3600,Thu
+ID528,10-07-2020,Treena U Palrmo,Female,Harrison,Winner Sanda,Mules,Female Bag,2,Sales,9950,9000,19900,18000,1900,Fri
+ID529,11-07-2020,Chung N Dilreck,Male,Holbrook,Peter Pan,Loafers,Women Bag,2,Sales,7700,7000,15400,14000,1400,Sat
+ID530,12-07-2020,Fransisca J Bierer,Male,Freeport,Farida Ibrahim,Gladiator sandals,Women Bag,4,Sales,11000,10000,44000,40000,4000,Sun
+ID531,13-07-2020,Hiram C Dorr,Male,Freeport,Farida Ibrahim,Trainers Men,Men Shoes,1,Sales,13200,12000,13200,12000,1200,Mon
+ID532,14-07-2020,Dorene U Shrrock,Male,Garden City,Felex Ada,Trainers Women,Women Bag,2,Sales,9950,9000,19900,18000,1900,Tue
+ID533,15-07-2020,Casey X Sacr,Female,Harrison,Winner Sanda,Military Boots Women,Women Bag,2,Sales,7700,7000,15400,14000,1400,Wed
+ID534,16-07-2020,Mary D Brurelle,Male,Holbrook,Peter Pan,Court Shoes,Women Bag,4,Sales,11000,10000,44000,40000,4000,Thu
+ID535,17-07-2020,Ruthie C Linrres,Male,Freeport,Farida Ibrahim,Brogues,Women Bag,1,Sales,13200,12000,13200,12000,1200,Fri
+ID536,18-07-2020,Sharice B Munrie,Male,Freeport,Farida Ibrahim,Shoe Bag,Female Bag,2,Sales,9950,9000,19900,18000,1900,Sat
+ID537,19-07-2020,Boyd N Liprs,Male,Garden City,Felex Ada,Heels,Women Bag,30,Sales,11000,10000,330000,300000,30000,Sun
+ID538,20-07-2020,Racheal G Savrrd,Male,Harrison,Winner Sanda,Calf Boots Men,Men Shoes,1,Sales,11000,10000,11000,10000,1000,Mon
+ID539,21-07-2020,Lana D Eckres,Male,Holbrook,Peter Pan,Foot Ball Boots Women,Women Bag,1,Sales,7700,7000,7700,7000,700,Tue
+ID540,22-07-2020,Hugh E Boore,Male,Freeport,Farida Ibrahim,Leader Hand Bag White,Female Bag,2,Sales,9950,9000,19900,18000,1900,Wed
+ID541,23-07-2020,Max Z Vanrlstyne,Male,Freeport,Farida Ibrahim,Leader Hand Bag Black,Female Bag,2,Sales,19800,18000,39600,36000,3600,Thu
+ID542,24-07-2020,Simone Y Pulro,Male,Garden City,Felex Ada,Bag Pack,Male Bags,1,Sales,44000,40000,44000,40000,4000,Fri
+ID543,25-07-2020,Robt F Ellrrbee,Male,Harrison,Winner Sanda,Foot Ball Boots Men,Men Shoes,20,Sales,13200,12000,264000,240000,24000,Sat
+ID544,26-07-2020,Peter M Clore,Male,Holbrook,Peter Pan,Canvas Shoes,Men Shoes,2,Sales,13000,12000,26000,24000,2000,Sun
+ID545,27-07-2020,Adriene J Kimrell,Male,Freeport,Farida Ibrahim,Wellington Boots,Women Bag,2,Sales,6700,5000,13400,10000,3400,Mon
+ID546,28-07-2020,Reid W Monron,Male,Freeport,Farida Ibrahim,Flip Flops,Women Bag,1,Sales,6700,5001,6700,5001,1699,Tue
+ID547,29-07-2020,Jestine H Shir,Female,Garden City,Felex Ada,Mules,Female Bag,1,Sales,6700,5002,6700,5002,1698,Wed
+ID548,30-07-2020,Evie Y Abers,Female,Harrison,Winner Sanda,Loafers,Women Bag,2,Sales,6700,5000,13400,10000,3400,Thu
+ID549,31-07-2020,Daryl H Towre,Female,Holbrook,Peter Pan,Gladiator sandals,Women Bag,2,Sales,6700,5001,13400,10002,3398,Fri
+ID550,01-06-2020,Roman K Thore,Male,Freeport,Farida Ibrahim,Trainers Men,Men Shoes,1,Sales,6700,5002,6700,5002,1698,Mon
+ID551,02-06-2020,,Male,Freeport,Farida Ibrahim,Trainers Women,Women Bag,1,Sales,6700,5000,6700,5000,1700,Tue
+ID552,01-06-2020,Sabra Y Mcgrrity,Male,Garden City,Felex Ada,Military Boots Women,Women Bag,2,Sales,6700,5001,13400,10002,3398,Mon
+ID553,02-06-2020,Kim W Oliro,Male,Harrison,Winner Sanda,Court Shoes,Women Bag,2,Sales,6700,5002,13400,10004,3396,Tue
+ID554,03-06-2020,Ian F Palrquist,Female,Holbrook,Peter Pan,Brogues,Women Bag,1,Sales,22000,20000,22000,20000,2000,Wed
+ID555,04-06-2020,Nakita H Zitr,Male,Freeport,Farida Ibrahim,Shoe Bag,Female Bag,1,Returned,11000,10000,11000,10000,1000,Thu
+ID556,05-06-2020,Pura O Winrle,Male,Freeport,Farida Ibrahim,Heels,Women Bag,1,Sales,8500,7600,8500,7600,900,Fri
+ID557,06-06-2020,Quinn F Ogirvie,Male,Garden City,Felex Ada,Calf Boots Men,Men Shoes,2,Returned,8500,7600,17000,15200,1800,Sat
+ID558,07-06-2020,Carlton A Knurson,Male,Harrison,Winner Sanda,Foot Ball Boots Women,Women Bag,3,Sales,13200,12000,39600,36000,3600,Sun
+ID559,08-06-2020,Mitchell M Forrhee,Male,Holbrook,Peter Pan,Leader Hand Bag White,Female Bag,2,Sales,22000,20000,44000,40000,4000,Mon
+ID560,09-06-2020,Gilbert Y Alcrla,Male,Freeport,Farida Ibrahim,Leader Hand Bag Black,Female Bag,2,Sales,7700,7000,15400,14000,1400,Tue
+ID561,10-06-2020,Tad Z Rioras,Male,Freeport,Farida Ibrahim,Bag Pack,Male Bags,3,Sales,22000,20000,66000,60000,6000,Wed
+ID562,11-06-2020,Tuan X Garrock,Male,Garden City,Felex Ada,Foot Ball Boots Men,Men Shoes,1,Sales,44000,40000,44000,40000,4000,Thu
+ID563,12-06-2020,Jennefer N Prarl,Male,Harrison,Winner Sanda,Canvas Shoes,Men Shoes,2,Sales,19800,18000,39600,36000,3600,Fri
+ID564,13-06-2020,Mikki F Neare,Male,Holbrook,Peter Pan,Wellington Boots,Women Bag,2,Sales,9950,9000,19900,18000,1900,Sat
+ID565,14-06-2020,Kendrick K Courts,Male,Freeport,Farida Ibrahim,Flip Flops,Women Bag,2,Sales,7700,7000,15400,14000,1400,Sun
+ID566,15-06-2020,Fermin I Gulrck,Male,Freeport,Farida Ibrahim,Mules,Female Bag,4,Sales,11000,10000,44000,40000,4000,Mon
+ID567,16-06-2020,Lynda P Ayer,Male,Garden City,Felex Ada,Loafers,Women Bag,1,Sales,13200,12000,13200,12000,1200,Tue
+ID568,17-06-2020,Melva E Cherard,Female,Harrison,Winner Sanda,Gladiator sandals,Women Bag,2,Sales,9950,9000,19900,18000,1900,Wed
+ID569,18-06-2020,Odell F Hayrard,Female,Holbrook,Peter Pan,Trainers Men,Men Shoes,2,Sales,7700,7000,15400,14000,1400,Thu
+ID570,19-06-2020,Alane Y Higr,Female,Freeport,Farida Ibrahim,Trainers Women,Women Bag,4,Sales,11000,10000,44000,40000,4000,Fri
+ID571,20-06-2020,Garland Q Artrrburn,Male,Freeport,Farida Ibrahim,Military Boots Women,Women Bag,1,Sales,13200,12000,13200,12000,1200,Sat
+ID572,21-06-2020,Carmelina R Gorrell,Male,Garden City,Felex Ada,Court Shoes,Women Bag,2,Sales,44000,40000,88000,80000,8000,Sun
+ID573,22-06-2020,Dee I Orsrni,Male,Harrison,Winner Sanda,Brogues,Women Bag,2,Returned,7700,7000,15400,14000,1400,Mon
+ID574,23-06-2020,Angeline I Fetr,Male,Holbrook,Peter Pan,Shoe Bag,Female Bag,10,Sales,22000,20000,220000,200000,20000,Tue
+ID575,24-06-2020,Myrtle S Fiore,Male,Freeport,Farida Ibrahim,Heels,Women Bag,10,Sales,9950,9000,99500,90000,9500,Wed
+ID576,25-06-2020,Kirby Y Gamrche,Male,Freeport,Farida Ibrahim,Calf Boots Men,Men Shoes,10,Sales,7700,7000,77000,70000,7000,Thu
+ID577,26-06-2020,Celestine E Ledrord,Male,Garden City,Felex Ada,Foot Ball Boots Women,Women Bag,10,Sales,9950,9000,99500,90000,9500,Fri
+ID578,27-06-2020,Arlene B Nelris,Male,Harrison,Winner Sanda,Leader Hand Bag White,Female Bag,10,Sales,9950,9000,99500,90000,9500,Sat
+ID579,28-06-2020,Lazaro X Syer,Male,Holbrook,Peter Pan,Leader Hand Bag Black,Female Bag,10,Sales,9950,9000,99500,90000,9500,Sun
+ID580,29-06-2020,Lynne K Bohrer,Male,Freeport,Farida Ibrahim,Bag Pack,Male Bags,10,Sales,9950,9000,99500,90000,9500,Mon
+ID581,30-06-2020,Veda V Danrs,Male,Freeport,Farida Ibrahim,Foot Ball Boots Men,Men Shoes,10,Sales,9950,9000,99500,90000,9500,Tue
+ID582,01-07-2020,Marci C Vasrallo,Male,Garden City,Felex Ada,Canvas Shoes,Men Shoes,10,Sales,9950,9000,99500,90000,9500,Wed
+ID583,02-07-2020,Janna F Bibrins,Male,Harrison,Winner Sanda,Wellington Boots,Women Bag,10,Sales,9950,9000,99500,90000,9500,Thu
+ID584,03-07-2020,Nila Q Chrrtien,Male,Holbrook,Peter Pan,Flip Flops,Women Bag,10,Sales,9950,9000,99500,90000,9500,Fri
+ID585,04-07-2020,Alesha Z Jarroe,Male,Freeport,Farida Ibrahim,Mules,Female Bag,10,Sales,9950,9000,99500,90000,9500,Sat
+ID586,05-07-2020,,Male,Freeport,Farida Ibrahim,Loafers,Women Bag,10,Sales,9950,9000,99500,90000,9500,Sun
+ID587,06-07-2020,Donella W Bodrly,Male,Garden City,Felex Ada,Gladiator sandals,Women Bag,10,Sales,9950,9000,99500,90000,9500,Mon
+ID588,07-07-2020,Jospeh L Fulr,Male,Harrison,Winner Sanda,Trainers Men,Men Shoes,10,Sales,9950,9000,99500,90000,9500,Tue
+ID589,08-07-2020,Zina N Natron,Male,Holbrook,Peter Pan,Trainers Women,Women Bag,11,Sales,9950,9000,109450,99000,10450,Wed
+ID590,09-07-2020,Agnes E Sterpe,Male,Freeport,Farida Ibrahim,Military Boots Women,Women Bag,11,Returned,9950,9000,109450,99000,10450,Thu
+ID591,10-07-2020,Lillie W Wairscott,Male,Freeport,Farida Ibrahim,Court Shoes,Women Bag,11,Sales,9950,9000,109450,99000,10450,Fri
+ID592,11-07-2020,Mary K Enrrquez,Male,Garden City,Felex Ada,Brogues,Women Bag,2,Returned,10000,9000,20000,18000,2000,Sat
+ID593,12-07-2020,Fiona Y Negrin,Male,Harrison,Winner Sanda,Shoe Bag,Female Bag,3,Returned,10000,9000,30000,27000,3000,Sun
+ID594,13-07-2020,Geri H Jirrn,Male,Holbrook,Peter Pan,Heels,Women Bag,4,Returned,10000,9000,40000,36000,4000,Mon
+ID595,25-07-2020,Son T Mcardle,Male,Freeport,Farida Ibrahim,Calf Boots Men,Men Shoes,1,Sales,6700,5002,6700,5002,1698,Sat
+ID596,01-08-2020,Rosalia O Flarin,Male,Freeport,Farida Ibrahim,Military Boots Women,Women Bag,1,Sales,2250,2200,2250,2200,50,Sat
+ID597,02-08-2020,Ja K Burrach,Male,Garden City,Felex Ada,Court Shoes,Women Bag,1,Sales,100,90,100,90,10,Sun
+ID598,03-08-2020,Josef E Scarfe,Male,Harrison,Winner Sanda,Brogues,Women Bag,2,Sales,100,80,200,160,40,Mon
+ID599,04-08-2020,Alex M Oakrey,Female,Holbrook,Peter Pan,Shoe Bag,Female Bag,2,Sales,2000,1850,4000,3700,300,Tue
+ID600,05-08-2020,Sidney K Cher,Female,Freeport,Farida Ibrahim,Heels,Women Bag,1,Sales,9500,8000,9500,8000,1500,Wed
+ID601,06-08-2020,Thomas V Mesrrve,Female,Freeport,Farida Ibrahim,Calf Boots Men,Men Shoes,100,Sales,4700,4000,470000,400000,70000,Thu
+ID602,07-08-2020,Jesica D Starkpole,Male,Garden City,Felex Ada,Foot Ball Boots Women,Women Bag,2,Sales,400,360,800,720,80,Fri
+ID603,08-08-2020,Candy Y Wenrel,Male,Harrison,Winner Sanda,Leader Hand Bag White,Female Bag,2,Sales,100,90,200,180,20,Sat
+ID604,09-08-2020,Amanda A Edmrnson,Male,Holbrook,Peter Pan,Leader Hand Bag Black,Female Bag,20,Sales,1600,1590,32000,31800,200,Sun
+ID605,10-08-2020,Amee H Corrray,Male,Freeport,Farida Ibrahim,Bag Pack,Male Bags,1,Sales,50,45,50,45,5,Mon
+ID606,11-08-2020,Lelia D Tayror,Female,Freeport,Farida Ibrahim,Foot Ball Boots Men,Men Shoes,2,Sales,600,450,1200,900,300,Tue
+ID607,12-08-2020,Soila G Dairre,Male,Garden City,Felex Ada,Canvas Shoes,Men Shoes,2,Sales,170,150,340,300,40,Wed
+ID608,13-08-2020,Al P Ricrarson,Male,Harrison,Winner Sanda,Wellington Boots,Women Bag,1,Sales,25,20,25,20,5,Thu
+ID609,14-08-2020,Kayleigh P Mccre,Male,Holbrook,Peter Pan,Flip Flops,Women Bag,1,Sales,10000,9000,10000,9000,1000,Fri
+ID610,15-08-2020,Shalanda R Mejras,Male,Freeport,Farida Ibrahim,Calf Boots Men,Men Shoes,2,Sales,6700,5001,13400,10002,3398,Sat
+ID611,16-08-2020,Preston P Caprsso,Male,Freeport,Farida Ibrahim,Foot Ball Boots Women,Women Bag,2,Sales,6700,5002,13400,10004,3396,Sun
+ID612,17-08-2020,Matt Z Angrlo,Male,Garden City,Felex Ada,Leader Hand Bag White,Female Bag,1,Sales,22000,20000,22000,20000,2000,Mon
+ID613,18-08-2020,Gregg G Sisrer,Male,Harrison,Winner Sanda,Leader Hand Bag Black,Female Bag,1,Returned,10000,9000,10000,9000,1000,Tue
+ID614,19-08-2020,Reatha F Gasron,Male,Holbrook,Peter Pan,Trainers Women,Women Bag,1,Sales,8500,7600,8500,7600,900,Wed
+ID615,20-08-2020,Danny H Blarsdell,Male,Freeport,Farida Ibrahim,Military Boots Women,Women Bag,2,Sales,8500,7600,17000,15200,1800,Thu
+ID616,21-08-2020,Susan X Forruna,Male,Freeport,Farida Ibrahim,Court Shoes,Women Bag,3,Sales,13200,12000,39600,36000,3600,Fri
+ID617,22-08-2020,Veola R Trort,Male,Garden City,Felex Ada,Brogues,Women Bag,2,Sales,22000,20000,44000,40000,4000,Sat
+ID618,23-08-2020,Danial X Zamrrripa,Male,Harrison,Winner Sanda,Shoe Bag,Female Bag,2,Sales,7700,7000,15400,14000,1400,Sun
+ID619,24-08-2020,Thresa A Carrballo,Male,Holbrook,Peter Pan,Heels,Women Bag,3,Sales,22000,20000,66000,60000,6000,Mon
+ID620,25-08-2020,Stella X Antrne,Female,Freeport,Farida Ibrahim,Calf Boots Men,Men Shoes,1,Sales,44000,40000,44000,40000,4000,Tue
+ID621,26-08-2020,Jina I Heirer,Female,Freeport,Farida Ibrahim,Foot Ball Boots Women,Women Bag,2,Sales,19800,18000,39600,36000,3600,Wed
+ID622,27-08-2020,Herb B Hasring,Female,Garden City,Felex Ada,Leader Hand Bag White,Female Bag,2,Sales,9950,9000,19900,18000,1900,Thu
+ID623,28-08-2020,,Male,Harrison,Winner Sanda,Leader Hand Bag Black,Female Bag,2,Sales,7700,7000,15400,14000,1400,Fri
+ID624,29-08-2020,Julianne Z Bedrlla,Male,Holbrook,Peter Pan,Bag Pack,Male Bags,4,Sales,11000,10000,44000,40000,4000,Sat
+ID625,30-08-2020,Melania Q Ticr,Male,Freeport,Farida Ibrahim,Foot Ball Boots Men,Men Shoes,1,Sales,13200,12000,13200,12000,1200,Sun
+ID626,31-08-2020,Somer Q Dolrh,Male,Freeport,Farida Ibrahim,Canvas Shoes,Men Shoes,2,Sales,9950,9000,19900,18000,1900,Mon
+ID627,01-08-2020,Myron H Smarl,Female,Garden City,Felex Ada,Wellington Boots,Women Bag,2,Sales,7700,7000,15400,14000,1400,Sat
+ID628,02-08-2020,Golda F Clurter,Male,Harrison,Winner Sanda,Flip Flops,Women Bag,4,Sales,11000,10000,44000,40000,4000,Sun
+ID629,03-08-2020,Herbert T Gasrett,Male,Holbrook,Peter Pan,Mules,Female Bag,1,Sales,13200,12000,13200,12000,1200,Mon
+ID630,04-08-2020,Clyde G Sterrns,Male,Freeport,Farida Ibrahim,Calf Boots Men,Men Shoes,2,Sales,9950,9000,19900,18000,1900,Tue
+ID631,05-08-2020,Rosalba U Felr,Male,Freeport,Farida Ibrahim,Foot Ball Boots Women,Women Bag,2,Sales,7700,7000,15400,14000,1400,Wed
+ID632,06-08-2020,Bettyann R Gotrfried,Male,Garden City,Felex Ada,Leader Hand Bag White,Female Bag,1,Sales,11000,10000,11000,10000,1000,Thu
+ID633,07-08-2020,Lucio Q Oborle,Male,Harrison,Winner Sanda,Leader Hand Bag Black,Female Bag,1,Sales,7700,7000,7700,7000,700,Fri
+ID634,08-08-2020,Desire Z Lecrmpte,Male,Holbrook,Peter Pan,Military Boots Women,Women Bag,2,Sales,9950,9000,19900,18000,1900,Sat
+ID635,09-08-2020,Adelaide O Petriford,Male,Freeport,Farida Ibrahim,Court Shoes,Women Bag,2,Sales,19800,18000,39600,36000,3600,Sun
+ID636,10-08-2020,Leisa S Geary,Male,Freeport,Farida Ibrahim,Brogues,Women Bag,1,Sales,44000,40000,44000,40000,4000,Mon
+ID637,11-08-2020,Darnell Q Mckrever,Male,Garden City,Felex Ada,Shoe Bag,Female Bag,1,Sales,22000,20000,22000,20000,2000,Tue
+ID638,12-08-2020,Corinna A Towrer,Male,Harrison,Winner Sanda,Heels,Women Bag,2,Sales,13000,12000,26000,24000,2000,Wed
+ID639,13-08-2020,Particia U Rimrer,Male,Holbrook,Peter Pan,Calf Boots Men,Men Shoes,2,Sales,6700,5000,13400,10000,3400,Thu
+ID640,14-08-2020,Jermaine J Gamrons,Male,Freeport,Farida Ibrahim,Foot Ball Boots Women,Women Bag,1,Sales,6700,5001,6700,5001,1699,Fri
+ID641,15-08-2020,Liberty X Gilrrease,Female,Freeport,Farida Ibrahim,Leader Hand Bag White,Female Bag,1,Sales,6700,5002,6700,5002,1698,Sat
+ID642,16-08-2020,Stanford V Torrance,Female,Garden City,Felex Ada,Leader Hand Bag Black,Female Bag,2,Sales,6700,5000,13400,10000,3400,Sun
+ID643,17-08-2020,Damion W Whireman,Female,Harrison,Winner Sanda,Calf Boots Men,Men Shoes,2,Sales,6700,5001,13400,10002,3398,Mon
+ID644,18-08-2020,Karlyn B Bolrz,Male,Holbrook,Peter Pan,Foot Ball Boots Women,Women Bag,1,Sales,6700,5002,6700,5002,1698,Tue
+ID645,19-08-2020,Van L Rutrerford,Male,Freeport,Farida Ibrahim,Leader Hand Bag White,Female Bag,1,Sales,6700,5000,6700,5000,1700,Wed
+ID646,20-08-2020,,Male,Freeport,Farida Ibrahim,Leader Hand Bag Black,Female Bag,2,Sales,6700,5001,13400,10002,3398,Thu
+ID647,21-08-2020,Jacob I Cudry,Male,Garden City,Felex Ada,Flip Flops,Women Bag,2,Sales,6700,5002,13400,10004,3396,Fri
+ID648,22-08-2020,Andra P Schrller,Female,Harrison,Winner Sanda,Mules,Female Bag,1,Sales,22000,20000,22000,20000,2000,Sat
+ID649,23-08-2020,Elouise E Fulrher,Male,Holbrook,Peter Pan,Loafers,Women Bag,1,Returned,10000,9000,10000,9000,1000,Sun
+ID650,24-08-2020,Donnell G Golron,Male,Freeport,Farida Ibrahim,Gladiator sandals,Women Bag,1,Sales,8500,7600,8500,7600,900,Mon
+ID651,25-08-2020,Shonna G Ederstein,Male,Freeport,Farida Ibrahim,Trainers Men,Men Shoes,2,Returned,8500,7600,17000,15200,1800,Tue
+ID652,26-08-2020,Miguel J Mourtain,Male,Garden City,Felex Ada,Trainers Women,Women Bag,3,Sales,13200,12000,39600,36000,3600,Wed
+ID653,27-08-2020,Harvey K Mccrlley,Male,Harrison,Winner Sanda,Military Boots Women,Women Bag,2,Sales,22000,20000,44000,40000,4000,Thu
+ID654,28-08-2020,Hipolito I Scrrggs,Male,Holbrook,Peter Pan,Court Shoes,Women Bag,2,Sales,7700,7000,15400,14000,1400,Fri
+ID655,29-08-2020,Maryam T Mearx,Male,Freeport,Farida Ibrahim,Calf Boots Men,Men Shoes,3,Sales,22000,20000,66000,60000,6000,Sat
+ID656,30-08-2020,Brian R Posrell,Male,Freeport,Farida Ibrahim,Foot Ball Boots Women,Women Bag,1,Sales,44000,40000,44000,40000,4000,Sun
+ID657,31-08-2020,Calvin K Srora,Male,Garden City,Felex Ada,Leader Hand Bag White,Female Bag,2,Sales,19800,18000,39600,36000,3600,Mon
+ID658,01-08-2020,Donte D Mcrry,Male,Harrison,Winner Sanda,Leader Hand Bag Black,Female Bag,2,Sales,9950,9000,19900,18000,1900,Sat
+ID659,02-08-2020,Thelma Q Schrchter,Male,Holbrook,Peter Pan,Foot Ball Boots Women,Women Bag,2,Sales,7700,7000,15400,14000,1400,Sun
+ID660,03-08-2020,Jose P Geir,Male,Freeport,Farida Ibrahim,Leader Hand Bag White,Female Bag,4,Sales,11000,10000,44000,40000,4000,Mon
+ID661,04-08-2020,Carlota E Heirt,Male,Freeport,Farida Ibrahim,Leader Hand Bag Black,Female Bag,1,Sales,13200,12000,13200,12000,1200,Tue
+ID662,05-08-2020,Elnora I Spurrier,Female,Garden City,Felex Ada,Bag Pack,Male Bags,2,Sales,9950,9000,19900,18000,1900,Wed
+ID663,06-08-2020,Chadwick N Legrand,Female,Harrison,Winner Sanda,Foot Ball Boots Men,Men Shoes,2,Sales,7700,7000,15400,14000,1400,Thu
+ID664,07-08-2020,Hailey V Midrett,Female,Holbrook,Peter Pan,Canvas Shoes,Men Shoes,4,Sales,11000,10000,44000,40000,4000,Fri
+ID665,08-08-2020,Thad Y Gorrs,Male,Freeport,Farida Ibrahim,Wellington Boots,Women Bag,1,Sales,13200,12000,13200,12000,1200,Sat
+ID666,09-08-2020,Loris Q Jesren,Male,Freeport,Farida Ibrahim,Flip Flops,Women Bag,2,Sales,1900,1800,3800,3600,200,Sun
+ID667,10-08-2020,Ivory B Teerarden,Male,Garden City,Felex Ada,Mules,Female Bag,2,Sales,200,190,400,380,20,Mon
+ID668,11-08-2020,Houston B Sturkey,Male,Harrison,Winner Sanda,Loafers,Women Bag,1,Sales,2250,2200,2250,2200,50,Tue
+ID669,12-08-2020,Abe E Betrencourt,Female,Holbrook,Peter Pan,Gladiator sandals,Women Bag,1,Sales,100,90,100,90,10,Wed
+ID670,13-08-2020,Dagmar P Cosranzo,Male,Freeport,Farida Ibrahim,Trainers Men,Men Shoes,2,Sales,100,80,200,160,40,Thu
+ID671,14-08-2020,Lucien L Carrara,Male,Freeport,Farida Ibrahim,Trainers Women,Women Bag,2,Sales,2000,1850,4000,3700,300,Fri
+ID672,15-08-2020,Dorian D Sturer,Male,Garden City,Felex Ada,Military Boots Women,Women Bag,1,Sales,9500,8000,9500,8000,1500,Sat
+ID673,16-08-2020,Norris K Yarrrough,Male,Harrison,Winner Sanda,Court Shoes,Women Bag,1,Sales,4700,4000,4700,4000,700,Sun
+ID674,17-08-2020,Allan R Gilrtrap,Male,Holbrook,Peter Pan,Brogues,Women Bag,2,Sales,400,360,800,720,80,Mon
+ID675,18-08-2020,Alfredo F Gobrr,Male,Freeport,Farida Ibrahim,Shoe Bag,Female Bag,2,Sales,100,90,200,180,20,Tue
+ID676,19-08-2020,Robert B Senrcal,Male,Freeport,Farida Ibrahim,Heels,Women Bag,1,Sales,1600,1590,1600,1590,10,Wed
+ID677,20-08-2020,Rod C Piprin,Male,Garden City,Felex Ada,Calf Boots Men,Men Shoes,1,Sales,50,45,50,45,5,Thu
+ID678,21-08-2020,Luella M Sorrells,Male,Harrison,Winner Sanda,Foot Ball Boots Women,Women Bag,2,Sales,600,450,1200,900,300,Fri
+ID679,22-08-2020,Luke H Berrardi,Male,Holbrook,Peter Pan,Leader Hand Bag White,Female Bag,2,Sales,170,150,340,300,40,Sat
+ID680,23-08-2020,Linnea S Becrstead,Male,Freeport,Farida Ibrahim,Leader Hand Bag Black,Female Bag,1,Sales,25,20,25,20,5,Sun
+ID681,24-08-2020,Lester V Morreau,Male,Freeport,Farida Ibrahim,Bag Pack,Male Bags,1,Sales,6700,5000,6700,5000,1700,Mon
+ID682,25-08-2020,Rufus L Janrary,Male,Garden City,Felex Ada,Foot Ball Boots Men,Men Shoes,2,Sales,6700,5001,13400,10002,3398,Tue
+ID683,26-08-2020,Daniel D Mccrffrey,Female,Harrison,Winner Sanda,Canvas Shoes,Men Shoes,2,Sales,6700,5002,13400,10004,3396,Wed
+ID684,27-08-2020,Rachelle F Coors,Female,Holbrook,Peter Pan,Wellington Boots,Women Bag,1,Sales,22000,20000,22000,20000,2000,Thu
+ID685,28-08-2020,Dawna P Bohran,Female,Freeport,Farida Ibrahim,Flip Flops,Women Bag,1,Returned,11000,10000,11000,10000,1000,Fri
+ID686,29-08-2020,Dong R Sanrbria,Male,Freeport,Farida Ibrahim,Mules,Female Bag,1,Sales,8500,7600,8500,7600,900,Sat
+ID687,30-08-2020,Neomi I Carrtens,Male,Garden City,Felex Ada,Calf Boots Men,Men Shoes,2,Sales,8500,7600,17000,15200,1800,Sun
+ID688,31-08-2020,Keith I Coarhman,Male,Harrison,Winner Sanda,Foot Ball Boots Women,Women Bag,3,Sales,13200,12000,39600,36000,3600,Mon
+ID689,01-08-2020,Marcus L Sterberg,Male,Holbrook,Peter Pan,Leader Hand Bag White,Female Bag,2,Sales,22000,20000,44000,40000,4000,Sat
+ID690,02-08-2020,Imogene X Kanrgy,Female,Freeport,Farida Ibrahim,Leader Hand Bag Black,Female Bag,2,Sales,7700,7000,15400,14000,1400,Sun
+ID691,03-08-2020,Lovella K Sherran,Male,Freeport,Farida Ibrahim,Military Boots Women,Women Bag,3,Sales,22000,20000,66000,60000,6000,Mon
+ID692,04-08-2020,Muriel B Eudr,Male,Garden City,Felex Ada,Court Shoes,Women Bag,1,Sales,44000,40000,44000,40000,4000,Tue
+ID693,05-08-2020,Beata N Senrer,Male,Harrison,Winner Sanda,Brogues,Women Bag,2,Sales,19800,18000,39600,36000,3600,Wed
+ID694,06-08-2020,Orval Y Kinrey,Male,Holbrook,Peter Pan,Shoe Bag,Female Bag,2,Sales,9950,9000,19900,18000,1900,Thu
+ID695,07-08-2020,Ursula T Mcbrayer,Male,Freeport,Farida Ibrahim,Heels,Women Bag,2,Sales,7700,7000,15400,14000,1400,Fri
+ID696,08-08-2020,Larhonda W Gunrher,Male,Freeport,Farida Ibrahim,Calf Boots Men,Men Shoes,4,Sales,11000,10000,44000,40000,4000,Sat
+ID697,09-08-2020,Sharika A Giuriano,Male,Garden City,Felex Ada,Foot Ball Boots Women,Women Bag,1,Sales,13200,12000,13200,12000,1200,Sun
+ID698,10-08-2020,Erich F Shurtz,Male,Harrison,Winner Sanda,Leader Hand Bag White,Female Bag,2,Sales,1900,1800,3800,3600,200,Mon
+ID699,11-08-2020,Edwardo X Goor,Male,Holbrook,Peter Pan,Leader Hand Bag Black,Female Bag,2,Sales,200,190,400,380,20,Tue
+ID700,12-08-2020,Kaycee N Ortrz,Male,Freeport,Farida Ibrahim,Calf Boots Men,Men Shoes,4,Sales,2250,2200,9000,8800,200,Wed
+ID701,13-08-2020,Era Q Zazreta,Male,Freeport,Farida Ibrahim,Foot Ball Boots Women,Women Bag,1,Sales,100,90,100,90,10,Thu
+ID702,14-08-2020,Cordell P Lamrert,Male,Garden City,Felex Ada,Leader Hand Bag White,Female Bag,2,Sales,100,80,200,160,40,Fri
+ID703,15-08-2020,Nicolle E Walrace,Male,Harrison,Winner Sanda,Leader Hand Bag Black,Female Bag,2,Sales,2000,1850,4000,3700,300,Sat
+ID704,16-08-2020,Fred W Schrab,Female,Holbrook,Peter Pan,Flip Flops,Women Bag,1,Sales,9500,8000,9500,8000,1500,Sun
+ID705,17-08-2020,Hector I Panrs,Female,Freeport,Farida Ibrahim,Mules,Female Bag,1,Sales,4700,4000,4700,4000,700,Mon
+ID706,18-08-2020,Nathanael K Adkrnson,Female,Freeport,Farida Ibrahim,Loafers,Women Bag,2,Sales,400,360,800,720,80,Tue
+ID707,19-08-2020,,Male,Garden City,Felex Ada,Gladiator sandals,Women Bag,2,Sales,100,90,200,180,20,Wed
+ID708,20-08-2020,Else K Watrers,Male,Harrison,Winner Sanda,Trainers Men,Men Shoes,1,Sales,1600,1590,1600,1590,10,Thu
+ID709,21-08-2020,Vito B Eckrrt,Male,Holbrook,Peter Pan,Trainers Women,Women Bag,1,Sales,50,45,50,45,5,Fri
+ID710,22-08-2020,Bennie X Churbley,Male,Freeport,Farida Ibrahim,Military Boots Women,Women Bag,2,Sales,600,450,1200,900,300,Sat
+ID711,23-08-2020,Caprice G Mcbride,Female,Freeport,Farida Ibrahim,Court Shoes,Women Bag,2,Sales,170,150,340,300,40,Sun
+ID712,24-08-2020,Bill C Hasr,Male,Garden City,Felex Ada,Brogues,Women Bag,1,Sales,25,20,25,20,5,Mon
+ID713,25-08-2020,,Male,Harrison,Winner Sanda,Shoe Bag,Female Bag,1,Sales,6700,5002,6700,5002,1698,Tue
+ID714,26-08-2020,Laine S Dolre,Male,Holbrook,Peter Pan,Heels,Women Bag,2,Sales,6700,5000,13400,10000,3400,Wed
+ID715,27-08-2020,Isaias D Cosry,Male,Freeport,Farida Ibrahim,Calf Boots Men,Men Shoes,2,Sales,6700,5001,13400,10002,3398,Thu
+ID716,28-08-2020,Miguel W Icerhour,Male,Freeport,Farida Ibrahim,Foot Ball Boots Women,Women Bag,1,Sales,6700,5002,6700,5002,1698,Fri
+ID717,29-08-2020,Stephen P Starek,Male,Garden City,Felex Ada,Leader Hand Bag White,Female Bag,1,Sales,6700,5000,6700,5000,1700,Sat
+ID718,30-08-2020,Alaine S Auzrnne,Male,Harrison,Winner Sanda,Leader Hand Bag Black,Female Bag,2,Sales,6700,5001,13400,10002,3398,Sun
+ID719,31-08-2020,Rolland A Lesriak,Male,Holbrook,Peter Pan,Bag Pack,Male Bags,2,Sales,6700,5002,13400,10004,3396,Mon
+ID720,01-08-2020,Jean V Ybarez,Male,Freeport,Farida Ibrahim,Foot Ball Boots Men,Men Shoes,1,Sales,22000,20000,22000,20000,2000,Sat
+ID721,02-08-2020,Sage C Burr,Male,Freeport,Farida Ibrahim,Canvas Shoes,Men Shoes,1,Returned,11000,10000,11000,10000,1000,Sun
+ID722,03-08-2020,Krysten D Kasrner,Male,Garden City,Felex Ada,Wellington Boots,Women Bag,1,Sales,8500,7600,8500,7600,900,Mon
+ID723,04-08-2020,Leo B Vitrello,Male,Harrison,Winner Sanda,Flip Flops,Women Bag,2,Returned,8500,7600,17000,15200,1800,Tue
+ID724,05-08-2020,Minna C Lamrdin,Male,Holbrook,Peter Pan,Mules,Female Bag,3,Sales,13200,12000,39600,36000,3600,Wed
+ID725,06-08-2020,Rafael N Sair,Female,Freeport,Farida Ibrahim,Loafers,Women Bag,2,Sales,22000,20000,44000,40000,4000,Thu
+ID726,07-08-2020,Jong V Mulroon,Female,Freeport,Farida Ibrahim,Gladiator sandals,Women Bag,2,Sales,7700,7000,15400,14000,1400,Fri
+ID727,08-08-2020,Krysten L Barrey,Female,Garden City,Felex Ada,Trainers Men,Men Shoes,3,Sales,22000,20000,66000,60000,6000,Sat
+ID728,09-08-2020,Brendan P Taurbee,Male,Harrison,Winner Sanda,Trainers Women,Women Bag,1,Sales,44000,40000,44000,40000,4000,Sun
+ID729,10-08-2020,Blaine C Pinr,Male,Holbrook,Peter Pan,Military Boots Women,Women Bag,2,Sales,19800,18000,39600,36000,3600,Mon
+ID730,11-08-2020,Antoine Y Hodrins,Male,Freeport,Farida Ibrahim,Court Shoes,Women Bag,2,Sales,9950,9000,19900,18000,1900,Tue
+ID731,12-08-2020,Virgilio R Murr,Male,Freeport,Farida Ibrahim,Brogues,Women Bag,2,Sales,7700,7000,15400,14000,1400,Wed
+ID732,13-08-2020,Jeffery M Heirz,Female,Garden City,Felex Ada,Shoe Bag,Female Bag,4,Sales,11000,10000,44000,40000,4000,Thu
+ID733,14-08-2020,Tamala W Gayre,Male,Harrison,Winner Sanda,Heels,Women Bag,1,Sales,13200,12000,13200,12000,1200,Fri
+ID734,15-08-2020,Earnest P Frerricks,Male,Holbrook,Peter Pan,Calf Boots Men,Men Shoes,2,Sales,9950,9000,19900,18000,1900,Sat
+ID735,16-08-2020,Karen B Dawr,Male,Freeport,Farida Ibrahim,Foot Ball Boots Women,Women Bag,2,Sales,7700,7000,15400,14000,1400,Sun
+ID736,17-08-2020,Anton L Trarlor,Male,Freeport,Farida Ibrahim,Leader Hand Bag White,Female Bag,4,Sales,11000,10000,44000,40000,4000,Mon
+ID737,18-08-2020,Maynard B Rusr,Male,Garden City,Felex Ada,Leader Hand Bag Black,Female Bag,1,Sales,13200,12000,13200,12000,1200,Tue
+ID738,19-08-2020,Mahalia E Edlrr,Male,Harrison,Winner Sanda,Bag Pack,Male Bags,2,Sales,9950,9000,19900,18000,1900,Wed
+ID739,20-08-2020,Jules K Melrhor,Male,Holbrook,Peter Pan,Foot Ball Boots Men,Men Shoes,2,Sales,7700,7000,15400,14000,1400,Thu
+ID740,21-08-2020,Tamala L Reirhard,Male,Freeport,Farida Ibrahim,Calf Boots Men,Men Shoes,1,Sales,11000,10000,11000,10000,1000,Fri
+ID741,22-08-2020,Trey B Kirrin,Male,Freeport,Farida Ibrahim,Foot Ball Boots Women,Women Bag,1,Sales,7700,7000,7700,7000,700,Sat
+ID742,23-08-2020,Eva K Vilregas,Male,Garden City,Felex Ada,Leader Hand Bag White,Female Bag,2,Sales,9950,9000,19900,18000,1900,Sun
+ID743,24-08-2020,Matthew F Salrman,Male,Harrison,Winner Sanda,Leader Hand Bag Black,Female Bag,2,Sales,19800,18000,39600,36000,3600,Mon
+ID744,25-08-2020,Isidro R Boering,Male,Holbrook,Peter Pan,Loafers,Women Bag,1,Sales,44000,40000,44000,40000,4000,Tue
+ID745,26-08-2020,Ferdinand Q Bulruck,Male,Freeport,Farida Ibrahim,Gladiator sandals,Women Bag,1,Sales,22000,20000,22000,20000,2000,Wed
+ID746,27-08-2020,Hermelinda E Gorrs,Female,Freeport,Farida Ibrahim,Trainers Men,Men Shoes,2,Sales,13000,12000,26000,24000,2000,Thu
+ID747,28-08-2020,Candice V Minrey,Female,Garden City,Felex Ada,Trainers Women,Women Bag,2,Sales,6700,5000,13400,10000,3400,Fri
+ID748,29-08-2020,Wayne T Abbrtt,Female,Harrison,Winner Sanda,Military Boots Women,Women Bag,1,Sales,6700,5001,6700,5001,1699,Sat
+ID749,30-08-2020,Concetta F Shererd,Male,Holbrook,Peter Pan,Court Shoes,Women Bag,1,Sales,6700,5002,6700,5002,1698,Sun
+ID750,31-08-2020,Audra D Leprge,Male,Freeport,Farida Ibrahim,Brogues,Women Bag,2,Sales,6700,5000,13400,10000,3400,Mon
+ID751,01-08-2020,Hugo V Majrwski,Male,Freeport,Farida Ibrahim,Shoe Bag,Female Bag,2,Sales,6700,5001,13400,10002,3398,Sat
+ID752,02-08-2020,Osvaldo E Heprer,Male,Garden City,Felex Ada,Heels,Women Bag,1,Sales,6700,5002,6700,5002,1698,Sun
+ID753,03-08-2020,Ashly R Saar,Female,Harrison,Winner Sanda,Calf Boots Men,Men Shoes,1,Sales,6700,5000,6700,5000,1700,Mon
+ID754,01-05-2020,Lavonna Y Gebr,Male,Holbrook,Peter Pan,Military Boots Women,Women Bag,1,Sales,2250,2200,2250,2200,50,Fri
+ID755,02-05-2020,Stacey D Seare,Male,Freeport,Farida Ibrahim,Court Shoes,Women Bag,1,Sales,100,90,100,90,10,Sat
+ID756,03-05-2020,Landon A Kerroot,Male,Holbrook,Peter Pan,Brogues,Women Bag,2,Sales,100,80,200,160,40,Sun
+ID757,04-05-2020,Ward Z Kelr,Female,Freeport,Farida Ibrahim,Shoe Bag,Female Bag,2,Sales,2000,1850,4000,3700,300,Mon
+ID758,05-05-2020,Lachelle Q Cror,Female,Holbrook,Peter Pan,Heels,Women Bag,1,Sales,9500,8000,9500,8000,1500,Tue
+ID759,06-05-2020,Nickolas S Gamrlin,Female,Freeport,Farida Ibrahim,Calf Boots Men,Men Shoes,100,Sales,4700,4000,470000,400000,70000,Wed
+ID760,07-05-2020,Santo Z Wesrlund,Male,Holbrook,Peter Pan,Foot Ball Boots Women,Women Bag,2,Sales,400,360,800,720,80,Thu
+ID761,05-05-2020,Enrique O Harrfield,Male,Freeport,Farida Ibrahim,Leader Hand Bag White,Female Bag,2,Sales,100,90,200,180,20,Tue
+ID762,09-05-2020,Bernard N Wearherly,Male,Holbrook,Peter Pan,Military Boots Women,Women Bag,20,Sales,1600,1590,32000,31800,200,Sat
+ID763,10-05-2020,Cordia M Knorp,Male,Freeport,Farida Ibrahim,Wellington Boots,Women Bag,1,Sales,50,45,50,45,5,Sun
+ID764,11-05-2020,Burton C Jin,Female,Holbrook,Peter Pan,Flip Flops,Women Bag,2,Sales,600,450,1200,900,300,Mon
+ID765,12-05-2020,Lauren O Guzri,Male,Freeport,Farida Ibrahim,Leader Hand Bag Black,Female Bag,2,Sales,170,150,340,300,40,Tue
+ID766,13-05-2020,Carter C Hunr,Male,Holbrook,Peter Pan,Military Boots Women,Women Bag,1,Sales,25,20,25,20,5,Wed
+ID767,14-05-2020,Isaiah Y Magrood,Male,Freeport,Farida Ibrahim,Court Shoes,Women Bag,1,Sales,10000,9000,10000,9000,1000,Thu
+ID768,15-05-2020,Hugh N Charira,Male,Holbrook,Peter Pan,Brogues,Women Bag,2,Sales,6700,5001,13400,10002,3398,Fri
+ID769,16-05-2020,Lucius C Moorhead,Male,Freeport,Farida Ibrahim,Shoe Bag,Female Bag,2,Sales,6700,5002,13400,10004,3396,Sat
+ID770,17-05-2020,Deane I Keorn,Male,Freeport,Farida Ibrahim,Heels,Women Bag,1,Sales,22000,20000,22000,20000,2000,Sun
+ID771,15-05-2020,Joannie E Wolrers,Male,Freeport,Farida Ibrahim,Calf Boots Men,Men Shoes,1,Returned,10000,9000,10000,9000,1000,Fri
+ID772,19-05-2020,Christene L Mccrleb,Male,Garden City,Felex Ada,Foot Ball Boots Women,Women Bag,1,Sales,8500,7600,8500,7600,900,Tue
+ID773,20-05-2020,Alline V Kusrner,Male,Harrison,Winner Sanda,Leader Hand Bag White,Female Bag,2,Sales,8500,7600,17000,15200,1800,Wed
+ID774,21-05-2020,Vicki Y Harrrave,Male,Holbrook,Peter Pan,Military Boots Women,Women Bag,3,Sales,13200,12000,39600,36000,3600,Thu
+ID775,22-05-2020,Julienne A Merrel,Male,Freeport,Farida Ibrahim,Wellington Boots,Women Bag,2,Sales,22000,20000,44000,40000,4000,Fri
+ID776,23-05-2020,Keven C Thore,Male,Freeport,Farida Ibrahim,Flip Flops,Women Bag,2,Sales,7700,7000,15400,14000,1400,Sat
+ID777,24-05-2020,Eusebia N Walrroup,Male,Garden City,Felex Ada,Leader Hand Bag Black,Female Bag,3,Sales,22000,20000,66000,60000,6000,Sun
+ID778,25-05-2020,Veronique E Eccreston,Female,Harrison,Winner Sanda,Military Boots Women,Women Bag,1,Sales,44000,40000,44000,40000,4000,Mon
+ID779,26-05-2020,Sean W Ricrman,Female,Holbrook,Peter Pan,Court Shoes,Women Bag,2,Sales,19800,18000,39600,36000,3600,Tue
+ID780,27-05-2020,Lala C Marruez,Female,Freeport,Farida Ibrahim,Brogues,Women Bag,2,Sales,9950,9000,19900,18000,1900,Wed
+ID781,25-05-2020,Derick A Macry,Male,Freeport,Farida Ibrahim,Shoe Bag,Female Bag,2,Sales,7700,7000,15400,14000,1400,Mon
+ID782,29-05-2020,Eda O Brare,Male,Garden City,Felex Ada,Heels,Women Bag,4,Sales,11000,10000,44000,40000,4000,Fri
+ID783,30-05-2020,Willis D Weirsman,Male,Harrison,Winner Sanda,Calf Boots Men,Men Shoes,1,Sales,13200,12000,13200,12000,1200,Sat
+ID784,31-05-2020,Mariam F Pinreiro,Male,Holbrook,Peter Pan,Foot Ball Boots Women,Women Bag,2,Sales,9950,9000,19900,18000,1900,Sun
+ID785,01-05-2020,Malcom L Meirter,Female,Freeport,Farida Ibrahim,Leader Hand Bag White,Female Bag,2,Sales,7700,7000,15400,14000,1400,Fri
+ID786,02-05-2020,Holli G Ethridge,Male,Holbrook,Peter Pan,Military Boots Women,Women Bag,4,Sales,11000,10000,44000,40000,4000,Sat
+ID787,03-05-2020,Cole N Polrng,Male,Freeport,Farida Ibrahim,Wellington Boots,Women Bag,1,Sales,13200,12000,13200,12000,1200,Sun
+ID788,04-05-2020,Ahmad V Lynre,Male,Holbrook,Peter Pan,Flip Flops,Women Bag,2,Sales,9950,9000,19900,18000,1900,Mon
+ID789,05-05-2020,Mariano F Leary,Male,Freeport,Farida Ibrahim,Leader Hand Bag Black,Female Bag,2,Sales,7700,7000,15400,14000,1400,Tue
+ID790,06-05-2020,Tawanda E Bucranon,Male,Holbrook,Peter Pan,Military Boots Women,Women Bag,1,Sales,11000,10000,11000,10000,1000,Wed
+ID791,07-05-2020,Nickolas G Grorsi,Male,Freeport,Farida Ibrahim,Court Shoes,Women Bag,1,Sales,7700,7000,7700,7000,700,Thu
+ID792,05-05-2020,Bradford K Marratt,Male,Holbrook,Peter Pan,Brogues,Women Bag,2,Sales,9950,9000,19900,18000,1900,Tue
+ID793,09-05-2020,Carlton P Bosr,Male,Freeport,Farida Ibrahim,Shoe Bag,Female Bag,2,Sales,19800,18000,39600,36000,3600,Sat
+ID794,10-05-2020,Asuncion X Brarnstein,Male,Holbrook,Peter Pan,Heels,Women Bag,1,Sales,44000,40000,44000,40000,4000,Sun
+ID795,11-05-2020,Theron T Krarer,Male,Freeport,Farida Ibrahim,Calf Boots Men,Men Shoes,1,Sales,22000,20000,22000,20000,2000,Mon
+ID796,12-05-2020,Jeramy F Metryer,Male,Holbrook,Peter Pan,Foot Ball Boots Women,Women Bag,2,Sales,13000,12000,26000,24000,2000,Tue
+ID797,13-05-2020,Sol K Rogrr,Male,Freeport,Farida Ibrahim,Leader Hand Bag White,Female Bag,2,Sales,6700,5000,13400,10000,3400,Wed
+ID798,14-05-2020,Earnest H Birrholz,Male,Holbrook,Peter Pan,Military Boots Women,Women Bag,1,Sales,6700,5001,6700,5001,1699,Thu
+ID799,15-05-2020,Amada J Knorse,Female,Freeport,Farida Ibrahim,Wellington Boots,Women Bag,1,Sales,6700,5002,6700,5002,1698,Fri
+ID800,16-05-2020,Gregorio H Hotringer,Female,Holbrook,Peter Pan,Flip Flops,Women Bag,2,Sales,6700,5000,13400,10000,3400,Sat
+ID801,17-05-2020,Lawerence W Abernethy,Female,Freeport,Farida Ibrahim,Leader Hand Bag Black,Female Bag,2,Sales,6700,5001,13400,10002,3398,Sun
+ID802,15-05-2020,Marina X Quarle,Male,Holbrook,Peter Pan,Military Boots Women,Women Bag,1,Sales,6700,5002,6700,5002,1698,Fri
+ID803,19-05-2020,Whitney N Wasrnger,Male,Freeport,Farida Ibrahim,Court Shoes,Women Bag,1,Sales,6700,5000,6700,5000,1700,Tue
+ID804,20-05-2020,Roy W Wilrie,Male,Holbrook,Peter Pan,Brogues,Women Bag,2,Sales,6700,5001,13400,10002,3398,Wed
+ID805,21-05-2020,Hyun Z Bynre,Male,Freeport,Farida Ibrahim,Shoe Bag,Female Bag,2,Sales,6700,5002,13400,10004,3396,Thu
+ID806,22-05-2020,Katelin F Conry,Female,Holbrook,Peter Pan,Heels,Women Bag,1,Sales,22000,20000,22000,20000,2000,Fri
+ID807,23-05-2020,Jennifer Z Prirgen,Male,Freeport,Farida Ibrahim,Calf Boots Men,Men Shoes,1,Returned,10000,9000,10000,9000,1000,Sat
+ID808,24-05-2020,Zachary U Brerden,Male,Holbrook,Peter Pan,Foot Ball Boots Women,Women Bag,1,Sales,8500,7600,8500,7600,900,Sun
+ID809,25-05-2020,Deon U Mource,Male,Freeport,Farida Ibrahim,Leader Hand Bag White,Female Bag,2,Returned,8500,7600,17000,15200,1800,Mon
+ID810,26-05-2020,Buddy G Sternbeck,Male,Holbrook,Peter Pan,Military Boots Women,Women Bag,3,Sales,13200,12000,39600,36000,3600,Tue
+ID811,27-05-2020,Julius N Bakrer,Male,Freeport,Farida Ibrahim,Wellington Boots,Women Bag,2,Sales,22000,20000,44000,40000,4000,Wed
+ID812,25-05-2020,,Male,Holbrook,Peter Pan,Flip Flops,Women Bag,2,Sales,7700,7000,15400,14000,1400,Mon
+ID813,29-05-2020,Jamal G Dimrrco,Male,Freeport,Farida Ibrahim,Leader Hand Bag Black,Female Bag,3,Sales,22000,20000,66000,60000,6000,Fri
+ID814,30-05-2020,Stephan Q Ranrer,Male,Holbrook,Peter Pan,Military Boots Women,Women Bag,1,Sales,44000,40000,44000,40000,4000,Sat
+ID815,31-05-2020,Jackie P Monrague,Male,Freeport,Farida Ibrahim,Court Shoes,Women Bag,2,Sales,19800,18000,39600,36000,3600,Sun
+ID816,01-05-2020,,Male,Holbrook,Peter Pan,Brogues,Women Bag,2,Sales,9950,9000,19900,18000,1900,Fri
+ID817,02-05-2020,Hosea B Micrelson,Male,Freeport,Farida Ibrahim,Shoe Bag,Female Bag,2,Sales,7700,7000,15400,14000,1400,Sat
+ID818,03-05-2020,Carly L Sirranni,Male,Freeport,Farida Ibrahim,Heels,Women Bag,4,Sales,11000,10000,44000,40000,4000,Sun
+ID819,04-05-2020,Abram S Manrique,Male,Freeport,Farida Ibrahim,Calf Boots Men,Men Shoes,1,Sales,13200,12000,13200,12000,1200,Mon
+ID820,05-05-2020,Mica Z Herrberg,Female,Freeport,Farida Ibrahim,Foot Ball Boots Women,Women Bag,2,Sales,9950,9000,19900,18000,1900,Tue
+ID821,06-05-2020,Lemuel W Harrman,Female,Garden City,Felex Ada,Leader Hand Bag White,Female Bag,2,Sales,7700,7000,15400,14000,1400,Wed
+ID822,07-05-2020,Shanelle Z Hicr,Female,Harrison,Winner Sanda,Military Boots Women,Women Bag,4,Sales,11000,10000,44000,40000,4000,Thu
+ID823,05-05-2020,Maryellen H Harrness,Male,Holbrook,Peter Pan,Wellington Boots,Women Bag,1,Sales,13200,12000,13200,12000,1200,Tue
+ID824,09-05-2020,Sylvester Z Blarkledge,Male,Freeport,Farida Ibrahim,Flip Flops,Women Bag,2,Sales,1900,1800,3800,3600,200,Sat
+ID825,10-05-2020,Vivienne X Binron,Male,Freeport,Farida Ibrahim,Leader Hand Bag Black,Female Bag,2,Sales,200,190,400,380,20,Sun
+ID826,11-05-2020,Ahmed C Minrh,Male,Garden City,Felex Ada,Military Boots Women,Women Bag,1,Sales,2250,2200,2250,2200,50,Mon
+ID827,12-05-2020,Leopoldo U Holr,Female,Harrison,Winner Sanda,Court Shoes,Women Bag,1,Sales,100,90,100,90,10,Tue
+ID828,13-05-2020,Gemma I Chirton,Male,Holbrook,Peter Pan,Brogues,Women Bag,2,Sales,100,80,200,160,40,Wed
+ID829,14-05-2020,Laurence K Rylrs,Male,Freeport,Farida Ibrahim,Shoe Bag,Female Bag,2,Sales,2000,1850,4000,3700,300,Thu
+ID830,15-05-2020,Eleanor D Dicrson,Male,Freeport,Farida Ibrahim,Heels,Women Bag,1,Sales,9500,8000,9500,8000,1500,Fri
+ID831,16-05-2020,Elsy B Latra,Male,Garden City,Felex Ada,Calf Boots Men,Men Shoes,1,Sales,4700,4000,4700,4000,700,Sat
+ID832,17-05-2020,Sherwood K Shire,Male,Harrison,Winner Sanda,Foot Ball Boots Women,Women Bag,2,Sales,400,360,800,720,80,Sun
+ID833,15-05-2020,Carolynn V Moyrihan,Male,Holbrook,Peter Pan,Leader Hand Bag White,Female Bag,2,Sales,100,90,200,180,20,Fri
+ID834,19-05-2020,Mckinley H Scorield,Male,Freeport,Farida Ibrahim,Military Boots Women,Women Bag,1,Sales,1600,1590,1600,1590,10,Tue
+ID835,20-05-2020,Brendon V Crorther,Male,Holbrook,Peter Pan,Wellington Boots,Women Bag,1,Sales,50,45,50,45,5,Wed
+ID836,21-05-2020,Nancy V Trordon,Male,Freeport,Farida Ibrahim,Flip Flops,Women Bag,2,Sales,600,450,1200,900,300,Thu
+ID837,22-05-2020,Darin U Shirp,Male,Holbrook,Peter Pan,Leader Hand Bag Black,Female Bag,2,Sales,170,150,340,300,40,Fri
+ID838,23-05-2020,Joel S Maire,Male,Freeport,Farida Ibrahim,Military Boots Women,Women Bag,1,Sales,25,20,25,20,5,Sat
+ID839,24-05-2020,Luciana N Camrfield,Male,Holbrook,Peter Pan,Court Shoes,Women Bag,1,Sales,6700,5000,6700,5000,1700,Sun
+ID840,25-05-2020,Gilbert Z Blors,Male,Freeport,Farida Ibrahim,Brogues,Women Bag,2,Sales,6700,5001,13400,10002,3398,Mon
+ID841,26-05-2020,Sharda W Chordhury,Female,Holbrook,Peter Pan,Shoe Bag,Female Bag,2,Sales,6700,5002,13400,10004,3396,Tue
+ID842,27-05-2020,Chung J Moyrihan,Female,Freeport,Farida Ibrahim,Heels,Women Bag,1,Sales,22000,20000,22000,20000,2000,Wed
+ID843,25-05-2020,Dayna M Edmrndson,Female,Holbrook,Peter Pan,Calf Boots Men,Men Shoes,1,Returned,11000,10000,11000,10000,1000,Mon
+ID844,29-05-2020,Bobbie S Minrr,Male,Freeport,Farida Ibrahim,Foot Ball Boots Women,Women Bag,1,Sales,8500,7600,8500,7600,900,Fri
+ID845,30-05-2020,Gidget X Lorrng,Male,Holbrook,Peter Pan,Leader Hand Bag White,Female Bag,2,Sales,8500,7600,17000,15200,1800,Sat
+ID846,31-05-2020,Hettie S Laurer,Male,Freeport,Farida Ibrahim,Military Boots Women,Women Bag,3,Sales,13200,12000,39600,36000,3600,Sun
+ID847,01-05-2020,Toi F Starlard,Male,Holbrook,Peter Pan,Wellington Boots,Women Bag,2,Sales,22000,20000,44000,40000,4000,Fri
+ID848,02-05-2020,Tristan L Cocrrell,Female,Freeport,Farida Ibrahim,Flip Flops,Women Bag,2,Sales,7700,7000,15400,14000,1400,Sat
+ID849,03-05-2020,Towanda H Matron,Male,Holbrook,Peter Pan,Leader Hand Bag Black,Female Bag,3,Sales,22000,20000,66000,60000,6000,Sun
+ID850,04-05-2020,Leland C Fifreld,Male,Freeport,Farida Ibrahim,Military Boots Women,Women Bag,1,Sales,44000,40000,44000,40000,4000,Mon
+ID851,05-05-2020,Audria W Barrios,Male,Holbrook,Peter Pan,Court Shoes,Women Bag,2,Sales,19800,18000,39600,36000,3600,Tue
+ID852,06-05-2020,Jim J Lurre,Male,Freeport,Farida Ibrahim,Brogues,Women Bag,2,Sales,9950,9000,19900,18000,1900,Wed
+ID853,07-05-2020,Lorette Y Petrillo,Male,Holbrook,Peter Pan,Shoe Bag,Female Bag,2,Sales,7700,7000,15400,14000,1400,Thu
+ID854,05-05-2020,Damian X Grirt,Male,Freeport,Farida Ibrahim,Heels,Women Bag,4,Sales,11000,10000,44000,40000,4000,Tue
+ID855,09-05-2020,Zana G Ordrnez,Male,Holbrook,Peter Pan,Calf Boots Men,Men Shoes,1,Sales,13200,12000,13200,12000,1200,Sat
+ID856,10-05-2020,Rhett A Charple,Male,Freeport,Farida Ibrahim,Foot Ball Boots Women,Women Bag,2,Sales,1900,1800,3800,3600,200,Sun
+ID857,11-05-2020,Jeneva Y Bybre,Male,Holbrook,Peter Pan,Leader Hand Bag White,Female Bag,2,Sales,200,190,400,380,20,Mon
+ID858,12-05-2020,Brendon J Camr,Male,Freeport,Farida Ibrahim,Military Boots Women,Women Bag,4,Sales,2250,2200,9000,8800,200,Tue
+ID859,13-05-2020,Nettie T Mccrndless,Male,Holbrook,Peter Pan,Wellington Boots,Women Bag,1,Sales,100,90,100,90,10,Wed
+ID860,14-05-2020,Lezlie Z Bohrnnan,Male,Freeport,Farida Ibrahim,Flip Flops,Women Bag,2,Sales,100,80,200,160,40,Thu
+ID861,15-05-2020,Hester B Cabrna,Male,Holbrook,Peter Pan,Leader Hand Bag Black,Female Bag,2,Sales,2000,1850,4000,3700,300,Fri
+ID862,16-05-2020,Isobel K Danre,Female,Freeport,Farida Ibrahim,Military Boots Women,Women Bag,1,Sales,9500,8000,9500,8000,1500,Sat
+ID863,17-05-2020,Erica S Harran,Female,Holbrook,Peter Pan,Court Shoes,Women Bag,1,Sales,4700,4000,4700,4000,700,Sun
+ID864,15-05-2020,Leda X Hasrell,Female,Freeport,Farida Ibrahim,Brogues,Women Bag,2,Sales,400,360,800,720,80,Fri
+ID865,19-05-2020,Loralee V Balr,Male,Holbrook,Peter Pan,Shoe Bag,Female Bag,2,Sales,100,90,200,180,20,Tue
+ID866,20-05-2020,Otha T Orrrll,Male,Freeport,Farida Ibrahim,Heels,Women Bag,1,Sales,1600,1590,1600,1590,10,Wed
+ID867,21-05-2020,Honey D Eavrs,Male,Freeport,Farida Ibrahim,Calf Boots Men,Men Shoes,1,Sales,50,45,50,45,5,Thu
+ID868,22-05-2020,Ellis V Mcnrel,Male,Freeport,Farida Ibrahim,Foot Ball Boots Women,Women Bag,2,Sales,600,450,1200,900,300,Fri
+ID869,23-05-2020,Gabriel S Beare,Female,Freeport,Farida Ibrahim,Leader Hand Bag White,Female Bag,2,Sales,170,150,340,300,40,Sat
+ID870,24-05-2020,Nathanael G Mcmrllin,Male,Garden City,Felex Ada,Military Boots Women,Women Bag,1,Sales,25,20,25,20,5,Sun
+ID871,25-05-2020,Donald H Mazrr,Male,Harrison,Winner Sanda,Wellington Boots,Women Bag,1,Sales,6700,5002,6700,5002,1698,Mon
+ID872,26-05-2020,Eliz R Linreman,Male,Holbrook,Peter Pan,Flip Flops,Women Bag,2,Sales,6700,5000,13400,10000,3400,Tue
+ID873,27-05-2020,Gracie P Letr,Male,Freeport,Farida Ibrahim,Leader Hand Bag Black,Female Bag,2,Sales,6700,5001,13400,10002,3398,Wed
+ID874,25-05-2020,Gema S Grorer,Male,Freeport,Farida Ibrahim,Military Boots Women,Women Bag,1,Sales,6700,5002,6700,5002,1698,Mon
+ID875,29-05-2020,Delana Y Frerdman,Male,Garden City,Felex Ada,Court Shoes,Women Bag,1,Sales,6700,5000,6700,5000,1700,Fri
+ID876,30-05-2020,Mary Y Tatr,Male,Harrison,Winner Sanda,Brogues,Women Bag,2,Sales,6700,5001,13400,10002,3398,Sat
+ID877,31-05-2020,Abe J Macreod,Male,Holbrook,Peter Pan,Shoe Bag,Female Bag,2,Sales,6700,5002,13400,10004,3396,Sun
+ID878,01-05-2020,Evon Q Lawron,Male,Freeport,Farida Ibrahim,Heels,Women Bag,1,Sales,22000,20000,22000,20000,2000,Fri
+ID879,02-05-2020,Jerlene P Dunrigan,Male,Freeport,Farida Ibrahim,Calf Boots Men,Men Shoes,1,Returned,11000,10000,11000,10000,1000,Sat
+ID880,03-05-2020,Bobbie X Schrenrock,Male,Garden City,Felex Ada,Foot Ball Boots Women,Women Bag,1,Sales,8500,7600,8500,7600,900,Sun
+ID881,04-05-2020,Mike A Wadrington,Male,Harrison,Winner Sanda,Leader Hand Bag White,Female Bag,2,Returned,8500,7600,17000,15200,1800,Mon
+ID882,05-05-2020,Nigel K Wadrworth,Male,Holbrook,Peter Pan,Military Boots Women,Women Bag,3,Sales,13200,12000,39600,36000,3600,Tue
+ID883,06-05-2020,Hayden E Novrck,Female,Freeport,Farida Ibrahim,Wellington Boots,Women Bag,2,Sales,22000,20000,44000,40000,4000,Wed
+ID884,07-05-2020,Voncile P Troranowski,Female,Holbrook,Peter Pan,Flip Flops,Women Bag,2,Sales,7700,7000,15400,14000,1400,Thu
+ID885,05-05-2020,Roberto U Derry,Female,Freeport,Farida Ibrahim,Leader Hand Bag Black,Female Bag,3,Sales,22000,20000,66000,60000,6000,Tue
+ID886,09-05-2020,Tona S Husrby,Male,Holbrook,Peter Pan,Military Boots Women,Women Bag,1,Sales,44000,40000,44000,40000,4000,Sat
+ID887,10-05-2020,Londa T Mayr,Male,Freeport,Farida Ibrahim,Court Shoes,Women Bag,2,Sales,19800,18000,39600,36000,3600,Sun
+ID888,11-05-2020,Jocelyn Q Scorti,Male,Holbrook,Peter Pan,Brogues,Women Bag,2,Sales,9950,9000,19900,18000,1900,Mon
+ID889,12-05-2020,Frank O Malron,Male,Freeport,Farida Ibrahim,Shoe Bag,Female Bag,2,Sales,7700,7000,15400,14000,1400,Tue
+ID890,13-05-2020,Kurtis C Irors,Female,Holbrook,Peter Pan,Heels,Women Bag,4,Sales,11000,10000,44000,40000,4000,Wed
+ID891,14-05-2020,Jamey S Seir,Male,Freeport,Farida Ibrahim,Calf Boots Men,Men Shoes,1,Sales,13200,12000,13200,12000,1200,Thu
+ID892,15-05-2020,Walton S Keir,Male,Holbrook,Peter Pan,Foot Ball Boots Women,Women Bag,2,Sales,9950,9000,19900,18000,1900,Fri
+ID893,16-05-2020,Micki R Jauregui,Male,Freeport,Farida Ibrahim,Leader Hand Bag White,Female Bag,2,Sales,7700,7000,15400,14000,1400,Sat
+ID894,17-05-2020,Ngoc X Watron,Male,Holbrook,Peter Pan,Military Boots Women,Women Bag,4,Sales,11000,10000,44000,40000,4000,Sun
+ID895,15-05-2020,Inocencia Z Butrau,Male,Freeport,Farida Ibrahim,Wellington Boots,Women Bag,1,Sales,13200,12000,13200,12000,1200,Fri
+ID896,19-05-2020,Charlie V Koerler,Male,Holbrook,Peter Pan,Flip Flops,Men Shoes,2,Sales,9950,9000,19900,18000,1900,Tue
+ID897,20-05-2020,Rosy U Baureister,Male,Freeport,Farida Ibrahim,Court Shoes,Women Bag,2,Sales,7700,7000,15400,14000,1400,Wed
+ID898,21-05-2020,Charity N Denran,Male,Holbrook,Peter Pan,Brogues,Female Bag,1,Sales,11000,10000,11000,10000,1000,Thu
+ID899,22-05-2020,Luke S Tumrin,Male,Freeport,Farida Ibrahim,Shoe Bag,Women Bag,1,Sales,7700,7000,7700,7000,700,Fri
+ID900,23-05-2020,,Male,Holbrook,Peter Pan,Heels,Women Bag,2,Sales,9950,9000,19900,18000,1900,Sat
+ID901,24-05-2020,Celinda C Magruder,Male,Freeport,Farida Ibrahim,Calf Boots Men,Men Shoes,2,Sales,19800,18000,39600,36000,3600,Sun
+ID902,25-05-2020,Arturo N Halrorsen,Male,Holbrook,Peter Pan,Foot Ball Boots Women,Women Bag,1,Sales,44000,40000,44000,40000,4000,Mon
+ID903,26-05-2020,Tiny Z Olireri,Male,Freeport,Farida Ibrahim,Leader Hand Bag White,Female Bag,1,Sales,22000,20000,22000,20000,2000,Tue
+ID904,27-05-2020,Kerri Y Carr,Female,Holbrook,Peter Pan,Military Boots Women,Women Bag,2,Sales,13000,12000,26000,24000,2000,Wed
+ID905,25-05-2020,Young W Funrs,Female,Freeport,Farida Ibrahim,Wellington Boots,Women Bag,2,Sales,6700,5000,13400,10000,3400,Mon
+ID906,29-05-2020,Neomi P Pitrhford,Female,Holbrook,Peter Pan,Wellington Boots,Men Shoes,1,Sales,6700,5001,6700,5001,1699,Fri
+ID907,30-05-2020,Ivan A Grorer,Male,Freeport,Farida Ibrahim,Wellington Boots,Women Bag,1,Sales,6700,5002,6700,5002,1698,Sat
+ID908,31-05-2020,Etsuko O Wilrot,Male,Holbrook,Peter Pan,Wellington Boots,Female Bag,2,Sales,6700,5000,13400,10000,3400,Sun
+ID909,01-05-2020,William B Mcnrrney,Male,Freeport,Farida Ibrahim,Wellington Boots,Women Bag,2,Sales,6700,5001,13400,10002,3398,Fri
+ID910,02-05-2020,Logan D Berryman,Male,Holbrook,Peter Pan,Wellington Boots,Women Bag,1,Sales,6700,5002,6700,5002,1698,Sat
+ID911,03-05-2020,,Female,Freeport,Farida Ibrahim,Wellington Boots,Men Shoes,1,Sales,6700,5000,6700,5000,1700,Sun
+ID912,01-06-2020,Coy I Genrner,Male,Holbrook,Peter Pan,Military Boots Women,Women Bag,1,Sales,2250,2200,2250,2200,50,Mon
+ID913,02-06-2020,Jimmie F Vasruez,Male,Freeport,Farida Ibrahim,Court Shoes,Women Bag,1,Sales,100,90,100,90,10,Tue
+ID914,03-06-2020,Tommie S Farro,Male,Holbrook,Peter Pan,Brogues,Women Bag,2,Sales,100,80,200,160,40,Wed
+ID915,04-06-2020,Daina U Ledrt,Female,Freeport,Farida Ibrahim,Shoe Bag,Female Bag,2,Sales,2000,1850,4000,3700,300,Thu
+ID916,06-06-2020,Sophia F Knerht,Female,Freeport,Farida Ibrahim,Heels,Women Bag,1,Sales,9500,8000,9500,8000,1500,Sat
+ID917,06-06-2020,Newton V Scaria,Female,Garden City,Felex Ada,Calf Boots Men,Men Shoes,100,Sales,4700,4000,470000,400000,70000,Sat
+ID918,07-06-2020,Reatha E Osbr,Male,Harrison,Winner Sanda,Foot Ball Boots Women,Women Bag,2,Sales,400,360,800,720,80,Sun
+ID919,06-06-2020,Bell N Molrnaro,Male,Holbrook,Peter Pan,Leader Hand Bag White,Female Bag,2,Sales,100,90,200,180,20,Sat
+ID920,09-06-2020,Jason V Grarois,Male,Freeport,Farida Ibrahim,Military Boots Women,Women Bag,20,Sales,1600,1590,32000,31800,200,Tue
+ID921,10-06-2020,Elwood T Morr,Male,Freeport,Farida Ibrahim,Court Shoes,Women Bag,1,Sales,50,45,50,45,5,Wed
+ID922,11-06-2020,Lewis M Racrtte,Female,Garden City,Felex Ada,Brogues,Women Bag,2,Sales,600,450,1200,900,300,Thu
+ID923,12-06-2020,Leigh Y Hawr,Male,Harrison,Winner Sanda,Shoe Bag,Female Bag,2,Sales,170,150,340,300,40,Fri
+ID924,13-06-2020,Thomas B Felrpe,Male,Holbrook,Peter Pan,Wellington Boots,Women Bag,1,Sales,25,20,25,20,5,Sat
+ID925,14-06-2020,Israel T Herrzler,Male,Freeport,Farida Ibrahim,Flip Flops,Women Bag,1,Sales,10000,9000,10000,9000,1000,Sun
+ID926,16-06-2020,Ona K Koerp,Male,Freeport,Farida Ibrahim,Calf Boots Men,Men Shoes,2,Sales,6700,5001,13400,10002,3398,Tue
+ID927,16-06-2020,Kristofer N Calrhan,Male,Garden City,Felex Ada,Foot Ball Boots Women,Women Bag,2,Sales,6700,5002,13400,10004,3396,Tue
+ID928,17-06-2020,Mark F Hamran,Male,Harrison,Winner Sanda,Leader Hand Bag White,Female Bag,1,Sales,22000,20000,22000,20000,2000,Wed
+ID929,16-06-2020,Bobbie Q Holrrook,Male,Holbrook,Peter Pan,Leader Hand Bag Black,Female Bag,1,Returned,10000,9000,10000,9000,1000,Tue
+ID930,19-06-2020,Abe X Parr,Male,Freeport,Farida Ibrahim,Trainers Women,Women Bag,1,Sales,8500,7600,8500,7600,900,Fri
+ID931,20-06-2020,Mignon Q Dilrs,Male,Freeport,Farida Ibrahim,Military Boots Women,Women Bag,2,Sales,8500,7600,17000,15200,1800,Sat
+ID932,21-06-2020,Casey D Krirr,Male,Garden City,Felex Ada,Court Shoes,Women Bag,3,Sales,13200,12000,39600,36000,3600,Sun
+ID933,22-06-2020,Scott K Ricro,Male,Harrison,Winner Sanda,Brogues,Women Bag,2,Sales,22000,20000,44000,40000,4000,Mon
+ID934,23-06-2020,Rosemarie K Felrows,Male,Holbrook,Peter Pan,Shoe Bag,Female Bag,2,Sales,7700,7000,15400,14000,1400,Tue
+ID935,24-06-2020,Lisette F Cowrey,Male,Freeport,Farida Ibrahim,Heels,Women Bag,3,Sales,22000,20000,66000,60000,6000,Wed
+ID936,26-06-2020,Molly U Rasrh,Female,Freeport,Farida Ibrahim,Calf Boots Men,Men Shoes,1,Sales,44000,40000,44000,40000,4000,Fri
+ID937,26-06-2020,Felisha Q Ettrnger,Female,Garden City,Felex Ada,Foot Ball Boots Women,Women Bag,2,Sales,19800,18000,39600,36000,3600,Fri
+ID938,27-06-2020,Linwood H Carrer,Female,Harrison,Winner Sanda,Leader Hand Bag White,Female Bag,2,Sales,9950,9000,19900,18000,1900,Sat
+ID939,26-06-2020,Madelyn W Boor,Male,Holbrook,Peter Pan,Leader Hand Bag Black,Female Bag,2,Sales,7700,7000,15400,14000,1400,Fri
+ID940,29-06-2020,Angelo B Fitrmaurice,Male,Freeport,Farida Ibrahim,Bag Pack,Male Bags,4,Sales,11000,10000,44000,40000,4000,Mon
+ID941,30-06-2020,Gregory I Kidrell,Male,Freeport,Farida Ibrahim,Foot Ball Boots Men,Men Shoes,1,Sales,13200,12000,13200,12000,1200,Tue
+ID942,03-06-2020,Bart B Gilrrease,Male,Garden City,Felex Ada,Canvas Shoes,Men Shoes,2,Sales,9950,9000,19900,18000,1900,Wed
+ID943,01-06-2020,Warner I Manry,Female,Harrison,Winner Sanda,Wellington Boots,Women Bag,2,Sales,7700,7000,15400,14000,1400,Mon
+ID944,02-06-2020,Lala R Denran,Male,Holbrook,Peter Pan,Flip Flops,Women Bag,4,Sales,11000,10000,44000,40000,4000,Tue
+ID945,03-06-2020,Elsie S Deprz,Male,Freeport,Farida Ibrahim,Mules,Female Bag,1,Sales,13200,12000,13200,12000,1200,Wed
+ID946,04-06-2020,Verla H Conrreras,Male,Holbrook,Peter Pan,Calf Boots Men,Men Shoes,2,Sales,9950,9000,19900,18000,1900,Thu
+ID947,06-06-2020,America V Lobrl,Male,Freeport,Farida Ibrahim,Foot Ball Boots Women,Women Bag,2,Sales,7700,7000,15400,14000,1400,Sat
+ID948,06-06-2020,Walter R Sedron,Male,Holbrook,Peter Pan,Leader Hand Bag White,Female Bag,1,Sales,11000,10000,11000,10000,1000,Sat
+ID949,07-06-2020,Margarito M Oxerdine,Male,Freeport,Farida Ibrahim,Leader Hand Bag Black,Female Bag,1,Sales,7700,7000,7700,7000,700,Sun
+ID950,06-06-2020,Arnoldo D Mckren,Male,Holbrook,Peter Pan,Military Boots Women,Women Bag,2,Sales,9950,9000,19900,18000,1900,Sat
+ID951,09-06-2020,Kieth D Casrelli,Male,Freeport,Farida Ibrahim,Court Shoes,Women Bag,2,Sales,19800,18000,39600,36000,3600,Tue
+ID952,10-06-2020,Ngoc P Pogre,Male,Holbrook,Peter Pan,Military Boots Women,Women Bag,1,Sales,44000,40000,44000,40000,4000,Wed
+ID953,11-06-2020,Delana I Selrridge,Male,Freeport,Farida Ibrahim,Court Shoes,Women Bag,1,Sales,22000,20000,22000,20000,2000,Thu
+ID954,12-06-2020,Liane U Grarton,Male,Holbrook,Peter Pan,Brogues,Women Bag,2,Sales,13000,12000,26000,24000,2000,Fri
+ID955,13-06-2020,Vikki N Lezrma,Male,Freeport,Farida Ibrahim,Shoe Bag,Female Bag,2,Sales,6700,5000,13400,10000,3400,Sat
+ID956,14-06-2020,Allyn O Farrior,Male,Holbrook,Peter Pan,Foot Ball Boots Women,Women Bag,1,Sales,6700,5001,6700,5001,1699,Sun
+ID957,16-06-2020,Glady Q Kumr,Female,Freeport,Farida Ibrahim,Leader Hand Bag White,Female Bag,1,Sales,6700,5002,6700,5002,1698,Tue
+ID958,16-06-2020,Oscar R Bovre,Female,Holbrook,Peter Pan,Leader Hand Bag Black,Female Bag,2,Sales,6700,5000,13400,10000,3400,Tue
+ID959,17-06-2020,Valene Z Woormansee,Female,Freeport,Farida Ibrahim,Calf Boots Men,Men Shoes,2,Sales,6700,5001,13400,10002,3398,Wed
+ID960,16-06-2020,Richard C Truran,Male,Holbrook,Peter Pan,Foot Ball Boots Women,Women Bag,1,Sales,6700,5002,6700,5002,1698,Tue
+ID961,19-06-2020,Luigi G Lemro,Male,Freeport,Farida Ibrahim,Leader Hand Bag White,Female Bag,1,Sales,6700,5000,6700,5000,1700,Fri
+ID962,20-06-2020,Isaiah G Parrish,Male,Holbrook,Peter Pan,Leader Hand Bag Black,Female Bag,2,Sales,6700,5001,13400,10002,3398,Sat
+ID963,21-06-2020,Scott D Torrey,Male,Freeport,Farida Ibrahim,Flip Flops,Women Bag,2,Sales,6700,5002,13400,10004,3396,Sun
+ID964,22-06-2020,Shirl M Carrballo,Female,Holbrook,Peter Pan,Mules,Female Bag,1,Sales,22000,20000,22000,20000,2000,Mon
+ID965,23-06-2020,Robin Z Sterart,Male,Freeport,Farida Ibrahim,Loafers,Women Bag,1,Returned,10000,9000,10000,9000,1000,Tue
+ID966,24-06-2020,Shasta P Depry,Male,Freeport,Farida Ibrahim,Gladiator sandals,Women Bag,1,Sales,8500,7600,8500,7600,900,Wed
+ID967,26-06-2020,Jorge R Cogrlan,Male,Garden City,Felex Ada,Trainers Men,Men Shoes,2,Returned,8500,7600,17000,15200,1800,Fri
+ID968,26-06-2020,Myles G Strrm,Male,Harrison,Winner Sanda,Trainers Women,Women Bag,3,Sales,13200,12000,39600,36000,3600,Fri
+ID969,27-06-2020,Herlinda U Negron,Male,Holbrook,Peter Pan,Military Boots Women,Women Bag,2,Sales,22000,20000,44000,40000,4000,Sat
+ID970,26-06-2020,Debbie C Liprey,Male,Freeport,Farida Ibrahim,Court Shoes,Women Bag,2,Sales,7700,7000,15400,14000,1400,Fri
+ID971,29-06-2020,Jenell S Saurrs,Male,Freeport,Farida Ibrahim,Calf Boots Men,Men Shoes,3,Sales,22000,20000,66000,60000,6000,Mon
+ID972,30-06-2020,Leda Y Fabre,Male,Garden City,Felex Ada,Foot Ball Boots Women,Women Bag,1,Sales,44000,40000,44000,40000,4000,Tue
+ID973,01-06-2020,,Male,Harrison,Winner Sanda,Military Boots Women,Women Bag,2,Sales,19800,18000,39600,36000,3600,Mon
+ID974,01-06-2020,Gerry D Woorery,Male,Holbrook,Peter Pan,Court Shoes,Women Bag,2,Sales,9950,9000,19900,18000,1900,Mon
+ID975,02-06-2020,Berna Z Storler,Male,Freeport,Farida Ibrahim,Brogues,Women Bag,2,Sales,7700,7000,15400,14000,1400,Tue
+ID976,03-06-2020,Adam B Katrer,Male,Freeport,Farida Ibrahim,Shoe Bag,Female Bag,4,Sales,11000,10000,44000,40000,4000,Wed
+ID977,04-06-2020,Kellee L Grarelle,Male,Garden City,Felex Ada,Leader Hand Bag Black,Female Bag,1,Sales,13200,12000,13200,12000,1200,Thu
+ID978,06-06-2020,Shavon K Wesrott,Female,Harrison,Winner Sanda,Bag Pack,Male Bags,2,Sales,9950,9000,19900,18000,1900,Sat
+ID979,06-06-2020,Rozanne N Mierke,Female,Holbrook,Peter Pan,Foot Ball Boots Men,Men Shoes,2,Sales,7700,7000,15400,14000,1400,Sat
+ID980,07-06-2020,Randee O Casrity,Female,Freeport,Farida Ibrahim,Canvas Shoes,Men Shoes,4,Sales,11000,10000,44000,40000,4000,Sun
+ID981,06-06-2020,Shemika D Porrerfield,Male,Freeport,Farida Ibrahim,Wellington Boots,Women Bag,1,Sales,13200,12000,13200,12000,1200,Sat
+ID982,09-06-2020,Donte H Grarger,Male,Garden City,Felex Ada,Flip Flops,Women Bag,2,Sales,1900,1800,3800,3600,200,Tue
+ID983,10-06-2020,Ahmed I Strrpe,Male,Harrison,Winner Sanda,Mules,Female Bag,2,Sales,200,190,400,380,20,Wed
+ID984,11-06-2020,Boris A Mccrwn,Male,Holbrook,Peter Pan,Loafers,Women Bag,1,Sales,2250,2200,2250,2200,50,Thu
+ID985,12-06-2020,Omer H Mourtrie,Female,Freeport,Farida Ibrahim,Gladiator sandals,Women Bag,1,Sales,100,90,100,90,10,Fri
+ID986,13-06-2020,Hiram K Storely,Male,Freeport,Farida Ibrahim,Trainers Men,Men Shoes,2,Sales,100,80,200,160,40,Sat
+ID987,14-06-2020,Deanna P Scorgin,Male,Garden City,Felex Ada,Trainers Women,Women Bag,2,Sales,2000,1850,4000,3700,300,Sun
+ID988,16-06-2020,Maris S Brirgs,Male,Harrison,Winner Sanda,Military Boots Women,Women Bag,1,Sales,9500,8000,9500,8000,1500,Tue
+ID989,16-06-2020,Lona T Colrar,Male,Holbrook,Peter Pan,Court Shoes,Women Bag,1,Sales,4700,4000,4700,4000,700,Tue
+ID990,17-06-2020,Eldridge M Benringfield,Male,Freeport,Farida Ibrahim,Brogues,Women Bag,2,Sales,400,360,800,720,80,Wed
+ID991,16-06-2020,Jimmie A Rorre,Male,Freeport,Farida Ibrahim,Shoe Bag,Female Bag,2,Sales,100,90,200,180,20,Tue
+ID992,19-06-2020,Rachelle M Burrhead,Male,Garden City,Felex Ada,Heels,Women Bag,1,Sales,1600,1590,1600,1590,10,Fri
+ID993,20-06-2020,Miguel P Karr,Male,Harrison,Winner Sanda,Military Boots Women,Women Bag,1,Sales,50,45,50,45,5,Sat
+ID994,21-06-2020,Raye T Wilrmon,Male,Holbrook,Peter Pan,Court Shoes,Women Bag,2,Sales,600,450,1200,900,300,Sun
+ID995,22-06-2020,Christi H Amarer,Male,Freeport,Farida Ibrahim,Brogues,Women Bag,2,Sales,170,150,340,300,40,Mon
+ID996,23-06-2020,Liberty A Shrryer,Male,Freeport,Farida Ibrahim,Shoe Bag,Female Bag,1,Sales,25,20,25,20,5,Tue
+ID997,24-06-2020,Zack H Mumrw,Male,Garden City,Felex Ada,Bag Pack,Male Bags,1,Sales,6700,5000,6700,5000,1700,Wed
+ID998,26-06-2020,Blanch Y Mysriwiec,Male,Harrison,Winner Sanda,Foot Ball Boots Men,Men Shoes,2,Sales,6700,5001,13400,10002,3398,Fri
+ID999,26-06-2020,Tammy Z Lorrntz,Female,Holbrook,Peter Pan,Canvas Shoes,Men Shoes,2,Sales,6700,5002,13400,10004,3396,Fri
+ID1000,27-06-2020,Maximina K Frares,Female,Freeport,Farida Ibrahim,Wellington Boots,Women Bag,1,Sales,22000,20000,22000,20000,2000,Sat
+ID1001,26-06-2020,Kiara G Abrrhamson,Female,Freeport,Farida Ibrahim,Flip Flops,Women Bag,1,Returned,11000,10000,11000,10000,1000,Fri
+ID1002,29-06-2020,Retha G Neary,Male,Garden City,Felex Ada,Mules,Female Bag,1,Sales,8500,7600,8500,7600,900,Mon
+ID1003,30-06-2020,Andre Q Maxrn,Male,Harrison,Winner Sanda,Calf Boots Men,Men Shoes,2,Sales,8500,7600,17000,15200,1800,Tue
+ID1004,01-06-2020,Vern T Lomrli,Male,Holbrook,Peter Pan,Foot Ball Boots Women,Women Bag,3,Sales,13200,12000,39600,36000,3600,Mon
+ID1005,01-06-2020,Erin K Stcrair,Male,Freeport,Farida Ibrahim,Leader Hand Bag White,Female Bag,2,Sales,22000,20000,44000,40000,4000,Mon
+ID1006,02-06-2020,Detra D Rymrr,Female,Freeport,Farida Ibrahim,Leader Hand Bag Black,Female Bag,2,Sales,7700,7000,15400,14000,1400,Tue
+ID1007,03-06-2020,Doug B Sourhwick,Male,Garden City,Felex Ada,Military Boots Women,Women Bag,3,Sales,22000,20000,66000,60000,6000,Wed
+ID1008,04-06-2020,Gia M Casrs,Male,Harrison,Winner Sanda,Court Shoes,Women Bag,1,Sales,44000,40000,44000,40000,4000,Thu
+ID1009,06-06-2020,Emeline I Ricrer,Male,Holbrook,Peter Pan,Brogues,Women Bag,2,Sales,19800,18000,39600,36000,3600,Sat
+ID1010,06-06-2020,Richard J Fetrer,Male,Freeport,Farida Ibrahim,Shoe Bag,Female Bag,2,Sales,9950,9000,19900,18000,1900,Sat
+ID1011,07-06-2020,Rick Y Haerner,Male,Freeport,Farida Ibrahim,Heels,Women Bag,2,Sales,7700,7000,15400,14000,1400,Sun
+ID1012,06-06-2020,Shannon J Forre,Male,Garden City,Felex Ada,Calf Boots Men,Men Shoes,4,Sales,11000,10000,44000,40000,4000,Sat
+ID1013,09-06-2020,Gabriel E Pearsall,Male,Harrison,Winner Sanda,Military Boots Women,Women Bag,1,Sales,13200,12000,13200,12000,1200,Tue
+ID1014,10-06-2020,Geri M Tutrill,Male,Holbrook,Peter Pan,Court Shoes,Women Bag,2,Sales,1900,1800,3800,3600,200,Wed
+ID1015,11-06-2020,Lauren R Henressy,Male,Freeport,Farida Ibrahim,Brogues,Women Bag,2,Sales,200,190,400,380,20,Thu
+ID1016,12-06-2020,Monty C Hugres,Male,Freeport,Farida Ibrahim,Shoe Bag,Female Bag,4,Sales,2250,2200,9000,8800,200,Fri
+ID1017,13-06-2020,Bryant L Kinrman,Male,Garden City,Felex Ada,Foot Ball Boots Women,Women Bag,1,Sales,100,90,100,90,10,Sat
+ID1018,14-06-2020,Giovanna M Clirt,Male,Harrison,Winner Sanda,Leader Hand Bag White,Female Bag,2,Sales,100,80,200,160,40,Sun
+ID1019,16-06-2020,Tracie J Winrbarger,Male,Holbrook,Peter Pan,Leader Hand Bag Black,Female Bag,2,Sales,2000,1850,4000,3700,300,Tue
+ID1020,16-06-2020,Narcisa C Rayrurn,Female,Freeport,Farida Ibrahim,Flip Flops,Women Bag,1,Sales,9500,8000,9500,8000,1500,Tue
+ID1021,17-06-2020,Almeda M Dunrord,Female,Freeport,Farida Ibrahim,Mules,Female Bag,1,Sales,4700,4000,4700,4000,700,Wed
+ID1022,16-06-2020,Melida R Corre,Female,Garden City,Felex Ada,Loafers,Women Bag,2,Sales,400,360,800,720,80,Tue
+ID1023,19-06-2020,Armando H Searorn,Male,Harrison,Winner Sanda,Gladiator sandals,Women Bag,2,Sales,100,90,200,180,20,Fri
+ID1024,20-06-2020,Efrain L Wasr,Male,Holbrook,Peter Pan,Trainers Men,Men Shoes,1,Sales,1600,1590,1600,1590,10,Sat
+ID1025,21-06-2020,Edra M Gutrrie,Male,Freeport,Farida Ibrahim,Trainers Women,Women Bag,1,Sales,50,45,50,45,5,Sun
+ID1026,22-06-2020,Harland S Renrhaw,Male,Freeport,Farida Ibrahim,Military Boots Women,Women Bag,2,Sales,600,450,1200,900,300,Mon
+ID1027,23-06-2020,Leroy H Styron,Female,Garden City,Felex Ada,Court Shoes,Women Bag,2,Sales,170,150,340,300,40,Tue
+ID1028,24-06-2020,Maryln H Sprrngfield,Male,Harrison,Winner Sanda,Brogues,Women Bag,1,Sales,25,20,25,20,5,Wed
+ID1029,26-06-2020,Elenora S Whirehill,Male,Holbrook,Peter Pan,Shoe Bag,Female Bag,1,Sales,6700,5002,6700,5002,1698,Fri
+ID1030,26-06-2020,,Male,Freeport,Farida Ibrahim,Heels,Women Bag,2,Sales,6700,5000,13400,10000,3400,Fri
+ID1031,27-06-2020,Dorethea U Engram,Male,Freeport,Farida Ibrahim,Calf Boots Men,Men Shoes,2,Sales,6700,5001,13400,10002,3398,Sat
+ID1032,26-06-2020,Anibal F Pierer,Male,Garden City,Felex Ada,Foot Ball Boots Women,Women Bag,1,Sales,6700,5002,6700,5002,1698,Fri
+ID1033,29-06-2020,Ula W Harrl,Male,Harrison,Winner Sanda,Military Boots Women,Women Bag,1,Sales,6700,5000,6700,5000,1700,Mon
+ID1034,30-06-2020,,Male,Holbrook,Peter Pan,Court Shoes,Women Bag,2,Sales,6700,5001,13400,10002,3398,Tue
+ID1035,01-06-2020,Brent U Perrman,Male,Freeport,Farida Ibrahim,Brogues,Women Bag,2,Sales,6700,5002,13400,10004,3396,Mon
+ID1036,01-06-2020,Eveline B Strrcker,Male,Freeport,Farida Ibrahim,Shoe Bag,Female Bag,1,Sales,22000,20000,22000,20000,2000,Mon
+ID1037,02-06-2020,Keila A Lucrs,Male,Garden City,Felex Ada,Canvas Shoes,Men Shoes,1,Returned,11000,10000,11000,10000,1000,Tue
+ID1038,03-06-2020,Aliza X Samrons,Male,Harrison,Winner Sanda,Wellington Boots,Women Bag,1,Sales,8500,7600,8500,7600,900,Wed
+ID1039,04-06-2020,Bennie E Manrredi,Male,Holbrook,Peter Pan,Flip Flops,Women Bag,2,Returned,8500,7600,17000,15200,1800,Thu
+ID1040,06-06-2020,Lucinda Z Borron,Male,Freeport,Farida Ibrahim,Mules,Female Bag,3,Sales,13200,12000,39600,36000,3600,Sat
+ID1041,06-06-2020,Keila F Lofrand,Female,Freeport,Farida Ibrahim,Loafers,Women Bag,2,Sales,22000,20000,44000,40000,4000,Sat
+ID1042,07-06-2020,Royce K Goorwyn,Female,Garden City,Felex Ada,Gladiator sandals,Women Bag,2,Sales,7700,7000,15400,14000,1400,Sun
+ID1043,06-06-2020,Rickey I Delr,Female,Harrison,Winner Sanda,Trainers Men,Men Shoes,3,Sales,22000,20000,66000,60000,6000,Sat
+ID1044,09-06-2020,Delsie R Tenrison,Male,Holbrook,Peter Pan,Trainers Women,Women Bag,1,Sales,44000,40000,44000,40000,4000,Tue
+ID1045,10-06-2020,Jayme B Shirer,Male,Freeport,Farida Ibrahim,Military Boots Women,Women Bag,2,Sales,19800,18000,39600,36000,3600,Wed
+ID1046,11-06-2020,Gilbert M Wolrgram,Male,Freeport,Farida Ibrahim,Court Shoes,Women Bag,2,Sales,9950,9000,19900,18000,1900,Thu
+ID1047,12-06-2020,Isabella X Rusrell,Male,Garden City,Felex Ada,Brogues,Women Bag,2,Sales,7700,7000,15400,14000,1400,Fri
+ID1048,13-06-2020,Rueben X Pidreon,Female,Harrison,Winner Sanda,Shoe Bag,Female Bag,4,Sales,11000,10000,44000,40000,4000,Sat
+ID1049,14-06-2020,Raymond U Flarin,Male,Holbrook,Peter Pan,Heels,Women Bag,1,Sales,13200,12000,13200,12000,1200,Sun
+ID1050,16-06-2020,Larry K Masr,Male,Freeport,Farida Ibrahim,Calf Boots Men,Men Shoes,2,Sales,9950,9000,19900,18000,1900,Tue
+ID1051,16-06-2020,Nicolle A Crorhers,Male,Freeport,Farida Ibrahim,Foot Ball Boots Women,Women Bag,2,Sales,7700,7000,15400,14000,1400,Tue
+ID1052,17-06-2020,Gustavo F Roure,Male,Garden City,Felex Ada,Leader Hand Bag White,Female Bag,4,Sales,11000,10000,44000,40000,4000,Wed
+ID1053,16-06-2020,Victoria H Musron,Male,Harrison,Winner Sanda,Military Boots Women,Women Bag,1,Sales,13200,12000,13200,12000,1200,Tue
+ID1054,19-06-2020,Dawne Y Garrner,Male,Holbrook,Peter Pan,Court Shoes,Women Bag,2,Sales,9950,9000,19900,18000,1900,Fri
+ID1055,20-06-2020,Newton L Crorartie,Male,Holbrook,Peter Pan,Brogues,Women Bag,2,Sales,7700,7000,15400,14000,1400,Sat
+ID1056,21-06-2020,Doria Z Crorse,Male,Holbrook,Peter Pan,Shoe Bag,Female Bag,1,Sales,11000,10000,11000,10000,1000,Sun
+ID1057,22-06-2020,,Male,Holbrook,Peter Pan,Foot Ball Boots Women,Women Bag,1,Sales,7700,7000,7700,7000,700,Mon
+ID1058,23-06-2020,Audrea K Paprneau,Male,Holbrook,Peter Pan,Leader Hand Bag White,Female Bag,2,Sales,9950,9000,19900,18000,1900,Tue
+ID1059,24-06-2020,Rhett H Goore,Male,Holbrook,Peter Pan,Leader Hand Bag Black,Female Bag,2,Sales,19800,18000,39600,36000,3600,Wed
+ID1060,26-06-2020,Royal U Okerfe,Male,Holbrook,Peter Pan,Loafers,Women Bag,1,Sales,44000,40000,44000,40000,4000,Fri
+ID1061,26-06-2020,Keith Q Ofarrell,Male,Holbrook,Peter Pan,Gladiator sandals,Women Bag,1,Sales,22000,20000,22000,20000,2000,Fri
+ID1062,27-06-2020,Exie C Brarham,Female,Holbrook,Peter Pan,Trainers Men,Men Shoes,2,Sales,13000,12000,26000,24000,2000,Sat
+ID1063,26-06-2020,George U Clorser,Female,Holbrook,Peter Pan,Trainers Women,Women Bag,2,Sales,6700,5000,13400,10000,3400,Fri
+ID1064,29-06-2020,Benny S Brirker,Female,Holbrook,Peter Pan,Military Boots Women,Women Bag,1,Sales,6700,5001,6700,5001,1699,Mon
+ID1065,30-06-2020,Forrest Q Zelr,Male,Holbrook,Peter Pan,Court Shoes,Women Bag,1,Sales,6700,5002,6700,5002,1698,Tue
+ID1066,01-06-2020,Audrie X Mccrmmon,Male,Holbrook,Peter Pan,Brogues,Women Bag,2,Sales,6700,5000,13400,10000,3400,Mon
+ID1067,01-06-2020,Marylyn K Ditro,Male,Holbrook,Peter Pan,Shoe Bag,Female Bag,2,Sales,6700,5001,13400,10002,3398,Mon
+ID1068,02-06-2020,Kori J Fairfax,Male,Holbrook,Peter Pan,Heels,Women Bag,1,Sales,6700,5002,6700,5002,1698,Tue
+ID1069,03-06-2020,Lamar W Estrll,Female,Holbrook,Peter Pan,Calf Boots Men,Men Shoes,1,Sales,6700,5000,6700,5000,1700,Wed
+ID1070,01-07-2020,Giuseppe D Chorinard,Male,Holbrook,Peter Pan,Military Boots Women,Women Bag,1,Sales,2250,2200,2250,2200,50,Wed
+ID1071,02-07-2020,Khalilah A Camro,Male,Freeport,Farida Ibrahim,Court Shoes,Women Bag,1,Sales,100,90,100,90,10,Thu
+ID1072,03-07-2020,Darcel P Burrord,Male,Garden City,Felex Ada,Brogues,Women Bag,2,Sales,100,80,200,160,40,Fri
+ID1073,04-07-2020,August C Navrrette,Female,Harrison,Winner Sanda,Military Boots Women,Female Bag,2,Sales,2000,1850,4000,3700,300,Sat
+ID1074,07-07-2020,Lanelle W Berranga,Female,Holbrook,Peter Pan,Court Shoes,Women Bag,1,Sales,9500,8000,9500,8000,1500,Tue
+ID1075,07-07-2020,Allene T Lepr,Female,Freeport,Farida Ibrahim,Brogues,Men Shoes,100,Sales,4700,4000,470000,400000,70000,Tue
+ID1076,07-07-2020,Eladia A Brargs,Male,Freeport,Farida Ibrahim,Military Boots Women,Women Bag,2,Sales,400,360,800,720,80,Tue
+ID1077,07-07-2020,Agnes D Dour,Male,Garden City,Felex Ada,Court Shoes,Female Bag,2,Sales,100,90,200,180,20,Tue
+ID1078,07-07-2020,,Male,Harrison,Winner Sanda,Brogues,Women Bag,20,Sales,1600,1590,32000,31800,200,Tue
+ID1079,10-07-2020,Emery P Sorrells,Male,Holbrook,Peter Pan,Military Boots Women,Women Bag,1,Sales,50,45,50,45,5,Fri
+ID1080,11-07-2020,Violet L Ertrl,Female,Freeport,Farida Ibrahim,Court Shoes,Women Bag,2,Sales,600,450,1200,900,300,Sat
+ID1081,12-07-2020,Deeanna E Clurk,Male,Freeport,Farida Ibrahim,Brogues,Female Bag,2,Sales,170,150,340,300,40,Sun
+ID1082,13-07-2020,Morgan K Ratrbun,Male,Garden City,Felex Ada,Military Boots Women,Women Bag,1,Sales,25,20,25,20,5,Mon
+ID1083,14-07-2020,Julius Q Stork,Male,Harrison,Winner Sanda,Court Shoes,Women Bag,1,Sales,10000,9000,10000,9000,1000,Tue
+ID1084,17-07-2020,Palmer O Bearer,Male,Holbrook,Peter Pan,Brogues,Men Shoes,2,Sales,6700,5001,13400,10002,3398,Fri
+ID1085,17-07-2020,Vincent N Lenron,Male,Freeport,Farida Ibrahim,Military Boots Women,Women Bag,2,Sales,6700,5002,13400,10004,3396,Fri
+ID1086,17-07-2020,Alexis D Bonrlli,Male,Freeport,Farida Ibrahim,Court Shoes,Female Bag,1,Sales,22000,20000,22000,20000,2000,Fri
+ID1087,17-07-2020,Claretta D Winrert,Male,Garden City,Felex Ada,Brogues,Female Bag,1,Returned,10000,9000,10000,9000,1000,Fri
+ID1088,17-07-2020,Cecily D Hourer,Male,Harrison,Winner Sanda,Military Boots Women,Women Bag,1,Sales,8500,7600,8500,7600,900,Fri
+ID1089,20-07-2020,Horacio S Salrzar,Male,Holbrook,Peter Pan,Court Shoes,Women Bag,2,Sales,8500,7600,17000,15200,1800,Mon
+ID1090,21-07-2020,Adelle E Brurner,Male,Freeport,Farida Ibrahim,Brogues,Women Bag,3,Sales,13200,12000,39600,36000,3600,Tue
+ID1091,22-07-2020,Janessa M Drernen,Male,Freeport,Farida Ibrahim,Military Boots Women,Women Bag,2,Sales,22000,20000,44000,40000,4000,Wed
+ID1092,23-07-2020,Ewa B Starles,Male,Garden City,Felex Ada,Court Shoes,Female Bag,2,Sales,7700,7000,15400,14000,1400,Thu
+ID1093,24-07-2020,Holley M Catrcart,Male,Harrison,Winner Sanda,Brogues,Women Bag,3,Sales,22000,20000,66000,60000,6000,Fri
+ID1094,27-07-2020,Tim N Schreller,Female,Holbrook,Peter Pan,Military Boots Women,Men Shoes,1,Sales,44000,40000,44000,40000,4000,Mon
+ID1095,27-07-2020,Therese Q Belren,Female,Freeport,Farida Ibrahim,Court Shoes,Women Bag,2,Sales,19800,18000,39600,36000,3600,Mon
+ID1096,27-07-2020,Susann A Faurett,Female,Freeport,Farida Ibrahim,Brogues,Female Bag,2,Sales,9950,9000,19900,18000,1900,Mon
+ID1097,27-07-2020,Bryan J Starpley,Male,Garden City,Felex Ada,Military Boots Women,Female Bag,2,Sales,7700,7000,15400,14000,1400,Mon
+ID1098,27-07-2020,Larisa X Strruss,Male,Harrison,Winner Sanda,Court Shoes,Male Bags,4,Sales,11000,10000,44000,40000,4000,Mon
+ID1099,30-07-2020,Adriana O Medred,Male,Holbrook,Peter Pan,Brogues,Men Shoes,1,Sales,13200,12000,13200,12000,1200,Thu
+ID1100,03-07-2020,Rick E Armrnta,Male,Freeport,Farida Ibrahim,Military Boots Women,Men Shoes,2,Sales,9950,9000,19900,18000,1900,Fri
+ID1101,01-07-2020,Garland J Verrille,Female,Freeport,Farida Ibrahim,Court Shoes,Women Bag,2,Sales,7700,7000,15400,14000,1400,Wed
+ID1102,02-07-2020,Ettie S Stirwell,Male,Garden City,Felex Ada,Brogues,Women Bag,4,Sales,11000,10000,44000,40000,4000,Thu
+ID1103,03-07-2020,Ronnie G Gumrs,Male,Harrison,Winner Sanda,Military Boots Women,Female Bag,1,Sales,13200,12000,13200,12000,1200,Fri
+ID1104,04-07-2020,Shirley H Metrler,Male,Holbrook,Peter Pan,Court Shoes,Men Shoes,2,Sales,9950,9000,19900,18000,1900,Sat
+ID1105,07-07-2020,Ahmed V Leare,Male,Freeport,Farida Ibrahim,Brogues,Women Bag,2,Sales,7700,7000,15400,14000,1400,Tue
+ID1106,07-07-2020,Albert Z Dunrord,Male,Freeport,Farida Ibrahim,Military Boots Women,Female Bag,1,Sales,11000,10000,11000,10000,1000,Tue
+ID1107,07-07-2020,Erin L Jasrin,Male,Garden City,Felex Ada,Court Shoes,Female Bag,1,Sales,7700,7000,7700,7000,700,Tue
+ID1108,07-07-2020,Raphael W Kelrner,Male,Harrison,Winner Sanda,Brogues,Women Bag,2,Sales,9950,9000,19900,18000,1900,Tue
+ID1109,07-07-2020,Man W Bear,Male,Holbrook,Peter Pan,Military Boots Women,Women Bag,2,Sales,19800,18000,39600,36000,3600,Tue
+ID1110,10-07-2020,Nikia Z Thrrsher,Male,Freeport,Farida Ibrahim,Court Shoes,Women Bag,1,Sales,44000,40000,44000,40000,4000,Fri
+ID1111,11-07-2020,Cedrick M Corrle,Male,Freeport,Farida Ibrahim,Brogues,Women Bag,1,Sales,22000,20000,22000,20000,2000,Sat
+ID1112,12-07-2020,Chi S Clorton,Male,Garden City,Felex Ada,Military Boots Women,Women Bag,2,Sales,13000,12000,26000,24000,2000,Sun
+ID1113,13-07-2020,Carl M Padrock,Male,Harrison,Winner Sanda,Court Shoes,Female Bag,2,Sales,6700,5000,13400,10000,3400,Mon
+ID1114,14-07-2020,Nestor T Venrura,Male,Holbrook,Peter Pan,Brogues,Women Bag,1,Sales,6700,5001,6700,5001,1699,Tue
+ID1115,17-07-2020,Salvatore J Linrell,Female,Freeport,Farida Ibrahim,Military Boots Women,Female Bag,1,Sales,6700,5002,6700,5002,1698,Fri
+ID1116,17-07-2020,Phil T Urera,Female,Freeport,Farida Ibrahim,Court Shoes,Female Bag,2,Sales,6700,5000,13400,10000,3400,Fri
+ID1117,17-07-2020,Buford Q Giarcola,Female,Garden City,Felex Ada,Brogues,Men Shoes,2,Sales,6700,5001,13400,10002,3398,Fri
+ID1118,17-07-2020,Garland Z Learell,Male,Harrison,Winner Sanda,Military Boots Women,Women Bag,1,Sales,6700,5002,6700,5002,1698,Fri
+ID1119,17-07-2020,Fe A Schrock,Male,Holbrook,Peter Pan,Court Shoes,Female Bag,1,Sales,6700,5000,6700,5000,1700,Fri
+ID1120,20-07-2020,Dustin Y Espry,Male,Freeport,Farida Ibrahim,Brogues,Female Bag,2,Sales,6700,5001,13400,10002,3398,Mon
+ID1121,21-07-2020,Tinisha V Vinre,Male,Freeport,Farida Ibrahim,Military Boots Women,Women Bag,2,Sales,6700,5002,13400,10004,3396,Tue
+ID1122,22-07-2020,Isis F Hasr,Female,Garden City,Felex Ada,Court Shoes,Female Bag,1,Sales,22000,20000,22000,20000,2000,Wed
+ID1123,23-07-2020,Hai Y Ardrn,Male,Harrison,Winner Sanda,Brogues,Women Bag,1,Returned,10000,9000,10000,9000,1000,Thu
+ID1124,24-07-2020,Gerardo Q Berren,Male,Holbrook,Peter Pan,Military Boots Women,Women Bag,1,Sales,8500,7600,8500,7600,900,Fri
+ID1125,27-07-2020,Jewel R Wilrhite,Male,Freeport,Farida Ibrahim,Court Shoes,Men Shoes,2,Returned,8500,7600,17000,15200,1800,Mon
+ID1126,27-07-2020,Jesus E Mclrlland,Male,Freeport,Farida Ibrahim,Brogues,Women Bag,3,Sales,13200,12000,39600,36000,3600,Mon
+ID1127,27-07-2020,Dortha Z Harry,Male,Garden City,Felex Ada,Military Boots Women,Women Bag,2,Sales,22000,20000,44000,40000,4000,Mon
+ID1128,27-07-2020,Pete B Donrelly,Male,Harrison,Winner Sanda,Court Shoes,Women Bag,2,Sales,7700,7000,15400,14000,1400,Mon
+ID1129,27-07-2020,Kristen A Bearchemin,Male,Holbrook,Peter Pan,Brogues,Men Shoes,3,Sales,22000,20000,66000,60000,6000,Mon
+ID1130,30-07-2020,Celesta L Reerer,Male,Freeport,Farida Ibrahim,Military Boots Women,Women Bag,1,Sales,44000,40000,44000,40000,4000,Thu
+ID1131,01-07-2020,Desiree L Sobrl,Male,Freeport,Farida Ibrahim,Court Shoes,Women Bag,2,Sales,19800,18000,39600,36000,3600,Wed
+ID1132,01-07-2020,Izetta B Alfrrd,Male,Garden City,Felex Ada,Brogues,Women Bag,2,Sales,9950,9000,19900,18000,1900,Wed
+ID1133,02-07-2020,Hermila X Crorslin,Male,Harrison,Winner Sanda,Military Boots Women,Women Bag,2,Sales,7700,7000,15400,14000,1400,Thu
+ID1134,03-07-2020,Tommy I Mearows,Male,Holbrook,Peter Pan,Court Shoes,Female Bag,4,Sales,11000,10000,44000,40000,4000,Fri
+ID1135,04-07-2020,Cordell M Twerdy,Male,Freeport,Farida Ibrahim,Brogues,Female Bag,1,Sales,13200,12000,13200,12000,1200,Sat
+ID1136,07-07-2020,Bernarda E Gerrais,Female,Freeport,Farida Ibrahim,Military Boots Women,Male Bags,2,Sales,9950,9000,19900,18000,1900,Tue
+ID1137,07-07-2020,Raymon I Chararria,Female,Garden City,Felex Ada,Court Shoes,Men Shoes,2,Sales,7700,7000,15400,14000,1400,Tue
+ID1138,07-07-2020,Audrea B Prarher,Female,Harrison,Winner Sanda,Brogues,Men Shoes,4,Sales,11000,10000,44000,40000,4000,Tue
+ID1139,07-07-2020,Isis N Rufrs,Male,Holbrook,Peter Pan,Military Boots Women,Women Bag,1,Sales,13200,12000,13200,12000,1200,Tue
+ID1140,07-07-2020,Lucienne U Clyre,Male,Freeport,Farida Ibrahim,Court Shoes,Women Bag,2,Sales,1900,1800,3800,3600,200,Tue
+ID1141,10-07-2020,Jasper P Barraby,Male,Freeport,Farida Ibrahim,Brogues,Female Bag,2,Sales,200,190,400,380,20,Fri
+ID1142,11-07-2020,Walter B Mcmrrrow,Male,Garden City,Felex Ada,Military Boots Women,Women Bag,1,Sales,2250,2200,2250,2200,50,Sat
+ID1143,12-07-2020,,Female,Harrison,Winner Sanda,Court Shoes,Women Bag,1,Sales,100,90,100,90,10,Sun
+ID1144,13-07-2020,Darren U Shorlders,Male,Holbrook,Peter Pan,Brogues,Men Shoes,2,Sales,100,80,200,160,40,Mon
+ID1145,14-07-2020,Nicola S Belris,Male,Freeport,Farida Ibrahim,Military Boots Women,Women Bag,2,Sales,2000,1850,4000,3700,300,Tue
+ID1146,17-07-2020,Thurman T Cacrres,Male,Freeport,Farida Ibrahim,Court Shoes,Women Bag,1,Sales,9500,8000,9500,8000,1500,Fri
+ID1147,17-07-2020,Allen L Vacron,Male,Garden City,Felex Ada,Brogues,Women Bag,1,Sales,4700,4000,4700,4000,700,Fri
+ID1148,17-07-2020,Yung G Boorer,Male,Harrison,Winner Sanda,Military Boots Women,Women Bag,2,Sales,400,360,800,720,80,Fri
+ID1149,17-07-2020,Emiko Z Lolrey,Male,Holbrook,Peter Pan,Court Shoes,Female Bag,2,Sales,100,90,200,180,20,Fri
+ID1150,17-07-2020,Dian I Pearhey,Male,Freeport,Farida Ibrahim,Brogues,Women Bag,1,Sales,1600,1590,1600,1590,10,Fri
+ID1151,20-07-2020,Carmen U Benrow,Male,Freeport,Farida Ibrahim,Military Boots Women,Women Bag,1,Sales,50,45,50,45,5,Mon
+ID1152,21-07-2020,Kimberly K Carr,Male,Freeport,Farida Ibrahim,Court Shoes,Women Bag,2,Sales,600,450,1200,900,300,Tue
+ID1153,22-07-2020,Damian F Mcgrughey,Male,Freeport,Farida Ibrahim,Brogues,Women Bag,2,Sales,170,150,340,300,40,Wed
+ID1154,23-07-2020,Jeff W Zacrrias,Male,Freeport,Farida Ibrahim,Military Boots Women,Female Bag,1,Sales,25,20,25,20,5,Thu
+ID1155,24-07-2020,Vernell X Amaro,Male,Freeport,Farida Ibrahim,Court Shoes,Male Bags,1,Sales,6700,5000,6700,5000,1700,Fri
+ID1156,27-07-2020,Nadia B Rosrer,Male,Freeport,Farida Ibrahim,Brogues,Men Shoes,2,Sales,6700,5001,13400,10002,3398,Mon
+ID1157,27-07-2020,Elijah P Elkrn,Female,Freeport,Farida Ibrahim,Military Boots Women,Men Shoes,2,Sales,6700,5002,13400,10004,3396,Mon
+ID1158,27-07-2020,Kirby W Estrella,Female,Freeport,Farida Ibrahim,Court Shoes,Women Bag,1,Sales,22000,20000,22000,20000,2000,Mon
+ID1159,27-07-2020,Bernie M Kisr,Female,Freeport,Farida Ibrahim,Brogues,Women Bag,1,Returned,11000,10000,11000,10000,1000,Mon
+ID1160,27-07-2020,Judson Y Hodron,Male,Freeport,Farida Ibrahim,Military Boots Women,Female Bag,1,Sales,8500,7600,8500,7600,900,Mon
+ID1161,30-07-2020,Carey N Mccready,Male,Freeport,Farida Ibrahim,Court Shoes,Men Shoes,2,Sales,8500,7600,17000,15200,1800,Thu
+ID1162,03-07-2020,Shayne T Clartor,Male,Freeport,Farida Ibrahim,Brogues,Women Bag,3,Sales,13200,12000,39600,36000,3600,Fri
+ID1163,01-07-2020,Ashlie G Cadrna,Male,Freeport,Farida Ibrahim,Military Boots Women,Female Bag,2,Sales,22000,20000,44000,40000,4000,Wed
+ID1164,02-07-2020,Noah O Lovr,Female,Freeport,Farida Ibrahim,Court Shoes,Female Bag,2,Sales,7700,7000,15400,14000,1400,Thu
+ID1165,03-07-2020,Lashaunda Y Munren,Male,Freeport,Farida Ibrahim,Brogues,Women Bag,3,Sales,22000,20000,66000,60000,6000,Fri
+ID1166,04-07-2020,Colin V Likrns,Male,Freeport,Farida Ibrahim,Military Boots Women,Women Bag,1,Sales,44000,40000,44000,40000,4000,Sat
+ID1167,07-07-2020,Kylie K Frera,Male,Garden City,Felex Ada,Court Shoes,Women Bag,2,Sales,19800,18000,39600,36000,3600,Tue
+ID1168,07-07-2020,Krishna G Rabr,Male,Harrison,Winner Sanda,Brogues,Female Bag,2,Sales,9950,9000,19900,18000,1900,Tue
+ID1169,07-07-2020,Launa N Kohr,Male,Holbrook,Peter Pan,Military Boots Women,Women Bag,2,Sales,7700,7000,15400,14000,1400,Tue
+ID1170,07-07-2020,Trent J Locrman,Male,Freeport,Farida Ibrahim,Court Shoes,Men Shoes,4,Sales,11000,10000,44000,40000,4000,Tue
+ID1171,07-07-2020,Alisha D Coprock,Male,Freeport,Farida Ibrahim,Brogues,Women Bag,1,Sales,13200,12000,13200,12000,1200,Tue
+ID1172,10-07-2020,Richie I Weirz,Male,Garden City,Felex Ada,Military Boots Women,Women Bag,2,Sales,1900,1800,3800,3600,200,Fri
+ID1173,11-07-2020,Leticia V Lewrndowski,Male,Harrison,Winner Sanda,Court Shoes,Women Bag,2,Sales,200,190,400,380,20,Sat
+ID1174,12-07-2020,Elaine B Ranrazzo,Male,Holbrook,Peter Pan,Brogues,Female Bag,4,Sales,2250,2200,9000,8800,200,Sun
+ID1175,13-07-2020,Jack J Warrel,Male,Freeport,Farida Ibrahim,Military Boots Women,Women Bag,1,Sales,100,90,100,90,10,Mon
+ID1176,14-07-2020,Kitty S Sicrles,Male,Freeport,Farida Ibrahim,Court Shoes,Female Bag,2,Sales,100,80,200,160,40,Tue
+ID1177,17-07-2020,Bruna R Welre,Male,Garden City,Felex Ada,Brogues,Female Bag,2,Sales,2000,1850,4000,3700,300,Fri
+ID1178,17-07-2020,Felix S Crorer,Female,Harrison,Winner Sanda,Military Boots Women,Women Bag,1,Sales,9500,8000,9500,8000,1500,Fri
+ID1179,17-07-2020,Eartha Z Oceruera,Female,Holbrook,Peter Pan,Court Shoes,Female Bag,1,Sales,4700,4000,4700,4000,700,Fri
+ID1180,17-07-2020,Laurena P Casron,Female,Freeport,Farida Ibrahim,Brogues,Women Bag,2,Sales,400,360,800,720,80,Fri
+ID1181,17-07-2020,Beatrice A Knorf,Male,Freeport,Farida Ibrahim,Military Boots Women,Women Bag,2,Sales,100,90,200,180,20,Fri
+ID1182,20-07-2020,Zoila X Nair,Male,Garden City,Felex Ada,Court Shoes,Men Shoes,1,Sales,1600,1590,1600,1590,10,Mon
+ID1183,21-07-2020,Jae B Isarell,Male,Harrison,Winner Sanda,Brogues,Women Bag,1,Sales,50,45,50,45,5,Tue
+ID1184,22-07-2020,Donald P Phareuf,Male,Holbrook,Peter Pan,Military Boots Women,Women Bag,2,Sales,600,450,1200,900,300,Wed
+ID1185,23-07-2020,Tyrell R Brarlett,Female,Freeport,Farida Ibrahim,Court Shoes,Women Bag,2,Sales,170,150,340,300,40,Thu
+ID1186,24-07-2020,Ela K Hamrs,Male,Freeport,Farida Ibrahim,Brogues,Women Bag,1,Sales,25,20,25,20,5,Fri
+ID1187,27-07-2020,Marlon M Cadrell,Male,Garden City,Felex Ada,Military Boots Women,Female Bag,1,Sales,6700,5002,6700,5002,1698,Mon
+ID1188,27-07-2020,Nolan V Velrzco,Male,Harrison,Winner Sanda,Court Shoes,Women Bag,2,Sales,6700,5000,13400,10000,3400,Mon
+ID1189,27-07-2020,Ashanti R Swir,Male,Holbrook,Peter Pan,Brogues,Men Shoes,2,Sales,6700,5001,13400,10002,3398,Mon
+ID1190,27-07-2020,Tamica J Holrman,Male,Freeport,Farida Ibrahim,Military Boots Women,Women Bag,1,Sales,6700,5002,6700,5002,1698,Mon
+ID1191,27-07-2020,Marcell T Farras,Male,Freeport,Farida Ibrahim,Court Shoes,Women Bag,1,Sales,6700,5000,6700,5000,1700,Mon
+ID1192,30-07-2020,Abram Q Kefrer,Male,Garden City,Felex Ada,Brogues,Women Bag,2,Sales,6700,5001,13400,10002,3398,Thu
+ID1193,03-07-2020,Silas S Pyart,Male,Harrison,Winner Sanda,Military Boots Women,Women Bag,2,Sales,6700,5002,13400,10004,3396,Fri
+ID1194,01-07-2020,Patria D Rierel,Male,Holbrook,Peter Pan,Court Shoes,Female Bag,1,Sales,22000,20000,22000,20000,2000,Wed
+ID1195,02-07-2020,Nicholas B Salredo,Male,Freeport,Farida Ibrahim,Brogues,Men Shoes,1,Returned,11000,10000,11000,10000,1000,Thu
+ID1196,03-07-2020,Brendon E Monr,Male,Freeport,Farida Ibrahim,Military Boots Women,Women Bag,1,Sales,8500,7600,8500,7600,900,Fri
+ID1197,04-07-2020,Velda V Larre,Male,Garden City,Felex Ada,Court Shoes,Women Bag,2,Returned,8500,7600,17000,15200,1800,Sat
+ID1198,07-07-2020,Sharita Y Lomrardi,Male,Harrison,Winner Sanda,Brogues,Female Bag,3,Sales,13200,12000,39600,36000,3600,Tue
+ID1199,07-07-2020,Virgil R Yuer,Female,Holbrook,Peter Pan,Military Boots Women,Women Bag,2,Sales,22000,20000,44000,40000,4000,Tue
+ID1200,07-07-2020,,Female,Freeport,Farida Ibrahim,Court Shoes,Women Bag,2,Sales,7700,7000,15400,14000,1400,Tue
+ID1201,07-07-2020,Haley G Bovr,Female,Freeport,Farida Ibrahim,Brogues,Men Shoes,3,Sales,22000,20000,66000,60000,6000,Tue
+ID1202,07-07-2020,Margarite E Blarock,Male,Garden City,Felex Ada,Military Boots Women,Women Bag,1,Sales,44000,40000,44000,40000,4000,Tue
+ID1203,10-07-2020,Rina L Charon,Male,Harrison,Winner Sanda,Court Shoes,Women Bag,2,Sales,19800,18000,39600,36000,3600,Fri
+ID1204,11-07-2020,Ramonita Z Finrher,Male,Holbrook,Peter Pan,Brogues,Women Bag,2,Sales,9950,9000,19900,18000,1900,Sat
+ID1205,12-07-2020,Lindsey W Whirtle,Male,Freeport,Farida Ibrahim,Military Boots Women,Women Bag,2,Sales,7700,7000,15400,14000,1400,Sun
+ID1206,13-07-2020,Mauricio U Talry,Female,Freeport,Farida Ibrahim,Court Shoes,Female Bag,4,Sales,11000,10000,44000,40000,4000,Mon
+ID1207,14-07-2020,Chau R Barron,Male,Garden City,Felex Ada,Brogues,Women Bag,1,Sales,13200,12000,13200,12000,1200,Tue
+ID1208,17-07-2020,Lino M Lizrrraga,Male,Harrison,Winner Sanda,Military Boots Women,Men Shoes,2,Sales,9950,9000,19900,18000,1900,Fri
+ID1209,17-07-2020,Fredericka J Varrey,Male,Holbrook,Peter Pan,Court Shoes,Women Bag,2,Sales,7700,7000,15400,14000,1400,Fri
+ID1210,17-07-2020,Aundrea W Lunrberg,Male,Freeport,Farida Ibrahim,Brogues,Female Bag,4,Sales,11000,10000,44000,40000,4000,Fri
+ID1211,17-07-2020,Son D Ricretts,Male,Freeport,Farida Ibrahim,Military Boots Women,Women Bag,1,Sales,13200,12000,13200,12000,1200,Fri
+ID1212,17-07-2020,Dorothea J Canrerbury,Male,Garden City,Felex Ada,Court Shoes,Women Bag,2,Sales,9950,9000,19900,18000,1900,Fri
+ID1213,20-07-2020,Zenia D Owirgs,Male,Harrison,Winner Sanda,Brogues,Women Bag,2,Sales,7700,7000,15400,14000,1400,Mon
+ID1214,21-07-2020,Seth N Liprky,Male,Holbrook,Peter Pan,Military Boots Women,Female Bag,1,Sales,11000,10000,11000,10000,1000,Tue
+ID1215,22-07-2020,Miles N Ligrt,Male,Freeport,Farida Ibrahim,Court Shoes,Women Bag,1,Sales,7700,7000,7700,7000,700,Wed
+ID1216,23-07-2020,Tyler N Larrins,Male,Freeport,Farida Ibrahim,Brogues,Female Bag,2,Sales,9950,9000,19900,18000,1900,Thu
+ID1217,24-07-2020,Asa E Kunre,Male,Garden City,Felex Ada,Military Boots Women,Female Bag,2,Sales,19800,18000,39600,36000,3600,Fri
+ID1218,27-07-2020,Sal C Heiren,Male,Harrison,Winner Sanda,Court Shoes,Women Bag,1,Sales,44000,40000,44000,40000,4000,Mon
+ID1219,27-07-2020,Tomas V Krort,Male,Holbrook,Peter Pan,Brogues,Women Bag,1,Sales,22000,20000,22000,20000,2000,Mon
+ID1220,27-07-2020,Ben N Lamron,Female,Freeport,Farida Ibrahim,Military Boots Women,Men Shoes,2,Sales,13000,12000,26000,24000,2000,Mon
+ID1221,27-07-2020,Myra H Parra,Female,Freeport,Farida Ibrahim,Court Shoes,Women Bag,2,Sales,6700,5000,13400,10000,3400,Mon
+ID1222,27-07-2020,Adele M Burram,Female,Garden City,Felex Ada,Brogues,Women Bag,1,Sales,6700,5001,6700,5001,1699,Mon
+ID1223,30-07-2020,Adria M Melrndrez,Male,Harrison,Winner Sanda,Military Boots Women,Women Bag,1,Sales,6700,5002,6700,5002,1698,Thu
+ID1224,01-07-2020,Clemmie F Monrague,Male,Holbrook,Peter Pan,Court Shoes,Women Bag,2,Sales,6700,5000,13400,10000,3400,Wed
+ID1225,01-07-2020,Valarie O Gorrcki,Male,Freeport,Farida Ibrahim,Brogues,Female Bag,2,Sales,6700,5001,13400,10002,3398,Wed
+ID1226,02-07-2020,Adell W Trorer,Male,Freeport,Farida Ibrahim,Military Boots Women,Women Bag,1,Sales,6700,5002,6700,5002,1698,Thu
+ID1227,03-07-2020,Eric C Irvrne,Female,Garden City,Felex Ada,Court Shoes,Men Shoes,100,Sales,6700,5000,670000,500000,170000,Fri
+ID1228,01-05-2020,Letha L Aper,Male,Freeport,Farida Ibrahim,Brogues,Female Bag,100,Sales,6700,5000,670000,500000,170000,Fri
+ID1229,02-05-2020,Nannie Z Seeran,Male,Garden City,Felex Ada,Military Boots Women,Women Bag,100,Sales,6700,5000,670000,500000,170000,Sat
+ID1230,03-05-2020,Reynalda M Milrwood,Female,Harrison,Winner Sanda,Court Shoes,Women Bag,100,Sales,6700,5000,670000,500000,170000,Sun
+ID1231,04-05-2020,Tanner Y Holrenbeck,Male,Holbrook,Peter Pan,Brogues,Men Shoes,100,Sales,6700,5000,670000,500000,170000,Mon
+ID1232,05-05-2020,Amado C Bonrt,Male,Freeport,Farida Ibrahim,Military Boots Women,Women Bag,100,Sales,6700,5000,670000,500000,170000,Tue
+ID1233,06-05-2020,Jeanetta N Norren,Male,Freeport,Farida Ibrahim,Brogues,Female Bag,100,Sales,200,190,20000,19000,1000,Wed
+ID1234,07-05-2020,Paris U Leire,Male,Garden City,Felex Ada,Military Boots Women,Women Bag,1,Sales,2250,2200,2250,2200,50,Thu
+ID1235,05-05-2020,Alexis Q Grore,Female,Harrison,Winner Sanda,Court Shoes,Women Bag,1,Sales,100,90,100,90,10,Tue
+ID1236,09-05-2020,Chadwick I Harrreaves,Male,Holbrook,Peter Pan,Brogues,Men Shoes,2,Sales,100,80,200,160,40,Sat
+ID1237,10-05-2020,Perry E Hudrleston,Male,Freeport,Farida Ibrahim,Military Boots Women,Women Bag,2,Sales,2000,1850,4000,3700,300,Sun
+ID1238,11-05-2020,Hollis Z Carr,Male,Freeport,Farida Ibrahim,Court Shoes,Women Bag,1,Sales,4700,8000,4700,8000,-3300,Mon
+ID1239,12-05-2020,Kiara T Marrinez,Male,Garden City,Felex Ada,Brogues,Women Bag,1,Sales,4700,4000,4700,4000,700,Tue
+ID1240,13-05-2020,Brigitte D Fenrley,Male,Harrison,Winner Sanda,Military Boots Women,Women Bag,2,Sales,400,360,800,720,80,Wed
+ID1241,14-05-2020,Bobbie P Churley,Male,Holbrook,Peter Pan,Court Shoes,Female Bag,2,Sales,100,90,200,180,20,Thu
+ID1242,15-05-2020,Hong M Towrson,Male,Freeport,Farida Ibrahim,Brogues,Women Bag,1,Sales,1600,1590,1600,1590,10,Fri
+ID1243,16-05-2020,Keith B Macra,Male,Freeport,Farida Ibrahim,Military Boots Women,Women Bag,1,Sales,50,45,50,45,5,Sat
+ID1244,17-05-2020,Harriett A Mccrrry,Male,Freeport,Farida Ibrahim,Court Shoes,Women Bag,2,Sales,600,450,1200,900,300,Sun
+ID1245,15-05-2020,Andres S Garrer,Male,Freeport,Farida Ibrahim,Brogues,Women Bag,2,Sales,170,150,340,300,40,Fri
+ID1246,19-05-2020,Ken X Weirberg,Male,Freeport,Farida Ibrahim,Military Boots Women,Female Bag,1,Sales,25,20,25,20,5,Tue
+ID1247,20-05-2020,Moises U Hugrs,Male,Freeport,Farida Ibrahim,Court Shoes,Male Bags,1,Sales,6700,5000,6700,5000,1700,Wed
+ID1248,21-05-2020,Sunshine F Earre,Male,Freeport,Farida Ibrahim,Brogues,Men Shoes,2,Sales,6700,5001,13400,10002,3398,Thu
+ID1249,22-05-2020,Lavette P Cherey,Female,Freeport,Farida Ibrahim,Military Boots Women,Men Shoes,2,Sales,6700,5002,13400,10004,3396,Fri
+ID1250,23-05-2020,Carmen F Barret,Female,Freeport,Farida Ibrahim,Court Shoes,Women Bag,1,Sales,22000,20000,22000,20000,2000,Sat
+ID1251,24-05-2020,Lizzie D Ratrliff,Female,Freeport,Farida Ibrahim,Brogues,Women Bag,1,Returned,11000,10000,11000,10000,1000,Sun
+ID1252,25-05-2020,Nick Q Pacrard,Male,Freeport,Farida Ibrahim,Military Boots Women,Female Bag,1,Sales,8500,7600,8500,7600,900,Mon
+ID1253,26-05-2020,Alonzo W Starford,Male,Freeport,Farida Ibrahim,Court Shoes,Men Shoes,2,Sales,8500,7600,17000,15200,1800,Tue
+ID1254,27-05-2020,Brett Z Vadrais,Male,Freeport,Farida Ibrahim,Brogues,Women Bag,3,Sales,13200,12000,39600,36000,3600,Wed
+ID1255,25-05-2020,Madalene J Marrine,Male,Freeport,Farida Ibrahim,Military Boots Women,Female Bag,2,Sales,22000,20000,44000,40000,4000,Mon
+ID1256,29-05-2020,Charles S Nicroles,Female,Freeport,Farida Ibrahim,Court Shoes,Female Bag,2,Sales,7700,7000,15400,14000,1400,Fri
+ID1257,30-05-2020,Kristofer Y Fizrr,Male,Freeport,Farida Ibrahim,Brogues,Women Bag,3,Sales,22000,20000,66000,60000,6000,Sat
+ID1258,31-05-2020,Elmo G Pagrno,Male,Freeport,Farida Ibrahim,Military Boots Women,Women Bag,1,Sales,44000,40000,44000,40000,4000,Sun
+ID1259,01-05-2020,Lindy M Reer,Male,Garden City,Felex Ada,Court Shoes,Women Bag,2,Sales,19800,18000,39600,36000,3600,Fri
+ID1260,02-05-2020,Dewayne X Grorm,Male,Harrison,Winner Sanda,Brogues,Female Bag,2,Sales,9950,9000,19900,18000,1900,Sat
+ID1261,03-05-2020,Elenora V Halrey,Male,Holbrook,Peter Pan,Military Boots Women,Women Bag,2,Sales,7700,7000,15400,14000,1400,Sun
+ID1262,04-05-2020,Rosette F Casrio,Male,Freeport,Farida Ibrahim,Court Shoes,Men Shoes,4,Sales,11000,10000,44000,40000,4000,Mon
+ID1263,05-05-2020,Analisa X Birrsell,Male,Freeport,Farida Ibrahim,Brogues,Women Bag,1,Sales,13200,12000,13200,12000,1200,Tue
+ID1264,06-05-2020,Jacinta Y Cherey,Male,Garden City,Felex Ada,Military Boots Women,Women Bag,2,Sales,1900,1800,3800,3600,200,Wed
+ID1265,07-05-2020,Matt D Brarblett,Male,Harrison,Winner Sanda,Court Shoes,Women Bag,2,Sales,200,190,400,380,20,Thu
+ID1266,05-05-2020,Queenie M Aldrr,Male,Holbrook,Peter Pan,Brogues,Female Bag,4,Sales,2250,2200,9000,8800,200,Tue
+ID1267,09-05-2020,Darwin W Lemrine,Male,Freeport,Farida Ibrahim,Military Boots Women,Women Bag,1,Sales,100,90,100,90,10,Sat
+ID1268,10-05-2020,Erik W Sterfen,Male,Freeport,Farida Ibrahim,Court Shoes,Female Bag,2,Sales,100,80,200,160,40,Sun
+ID1269,11-05-2020,Ching D Appregate,Male,Garden City,Felex Ada,Brogues,Female Bag,2,Sales,2000,1850,4000,3700,300,Mon
+ID1270,12-05-2020,Warren L Manron,Female,Harrison,Winner Sanda,Military Boots Women,Women Bag,1,Sales,9500,8000,9500,8000,1500,Tue
+ID1271,13-05-2020,Celestine H Aldrrson,Female,Holbrook,Peter Pan,Court Shoes,Female Bag,1,Sales,4700,4000,4700,4000,700,Wed
+ID1272,14-05-2020,Tammi S Garret,Female,Freeport,Farida Ibrahim,Brogues,Women Bag,2,Sales,400,360,800,720,80,Thu
+ID1273,15-05-2020,Tamesha I Knerper,Male,Freeport,Farida Ibrahim,Military Boots Women,Women Bag,2,Sales,100,90,200,180,20,Fri
+ID1274,16-05-2020,Bernardina X Roerch,Male,Garden City,Felex Ada,Court Shoes,Men Shoes,1,Sales,1600,1590,1600,1590,10,Sat
+ID1275,17-05-2020,Mariano Y Kylrs,Male,Harrison,Winner Sanda,Brogues,Women Bag,1,Sales,50,45,50,45,5,Sun
+ID1276,15-05-2020,Kristie E Jair,Male,Holbrook,Peter Pan,Military Boots Women,Women Bag,2,Sales,600,450,1200,900,300,Fri
+ID1277,19-05-2020,Jeff E Lucrro,Female,Freeport,Farida Ibrahim,Court Shoes,Women Bag,2,Sales,170,150,340,300,40,Tue
+ID1278,20-05-2020,Leanna X Tibretts,Male,Freeport,Farida Ibrahim,Brogues,Women Bag,1,Sales,25,20,25,20,5,Wed
+ID1279,21-05-2020,Robbie N Hecrman,Male,Garden City,Felex Ada,Military Boots Women,Female Bag,1,Sales,6700,5002,6700,5002,1698,Thu
+ID1280,22-05-2020,Raymon S Arnry,Male,Harrison,Winner Sanda,Court Shoes,Women Bag,2,Sales,6700,5000,13400,10000,3400,Fri
+ID1281,23-05-2020,Sergio X Devrreaux,Male,Holbrook,Peter Pan,Brogues,Men Shoes,2,Sales,6700,5001,13400,10002,3398,Sat
+ID1282,24-05-2020,Bobbie A Resrr,Male,Freeport,Farida Ibrahim,Military Boots Women,Women Bag,1,Sales,6700,5002,6700,5002,1698,Sun
+ID1283,25-05-2020,Drew O Livrngston,Male,Freeport,Farida Ibrahim,Court Shoes,Women Bag,1,Sales,6700,5000,6700,5000,1700,Mon
+ID1284,26-05-2020,Ahmad S Bonr,Male,Garden City,Felex Ada,Brogues,Women Bag,2,Sales,6700,5001,13400,10002,3398,Tue
+ID1285,27-05-2020,Collin V Gimrel,Male,Harrison,Winner Sanda,Military Boots Women,Women Bag,2,Sales,6700,5002,13400,10004,3396,Wed
+ID1286,25-05-2020,Refugio Q Orar,Male,Holbrook,Peter Pan,Court Shoes,Female Bag,1,Sales,22000,20000,22000,20000,2000,Mon
+ID1287,29-05-2020,Salena Z Melrhior,Male,Freeport,Farida Ibrahim,Brogues,Men Shoes,1,Returned,11000,10000,11000,10000,1000,Fri
+ID1288,30-05-2020,Jonathan D Galragher,Male,Freeport,Farida Ibrahim,Military Boots Women,Women Bag,1,Sales,8500,7600,8500,7600,900,Sat
+ID1289,31-05-2020,Treena U Palrmo,Male,Garden City,Felex Ada,Court Shoes,Women Bag,2,Returned,8500,7600,17000,15200,1800,Sun
+ID1290,01-05-2020,Chung N Dilreck,Male,Harrison,Winner Sanda,Brogues,Female Bag,3,Sales,13200,12000,39600,36000,3600,Fri
+ID1291,02-05-2020,Fransisca J Bierer,Female,Holbrook,Peter Pan,Military Boots Women,Women Bag,2,Sales,22000,20000,44000,40000,4000,Sat
+ID1292,03-05-2020,Hiram C Dorr,Female,Freeport,Farida Ibrahim,Court Shoes,Women Bag,2,Sales,7700,7000,15400,14000,1400,Sun
+ID1293,04-05-2020,Dorene U Shrrock,Female,Freeport,Farida Ibrahim,Brogues,Men Shoes,3,Sales,22000,20000,66000,60000,6000,Mon
+ID1294,05-05-2020,Casey X Sacr,Male,Garden City,Felex Ada,Military Boots Women,Women Bag,1,Sales,44000,40000,44000,40000,4000,Tue
+ID1295,06-05-2020,Mary D Brurelle,Male,Harrison,Winner Sanda,Court Shoes,Women Bag,2,Sales,19800,18000,39600,36000,3600,Wed
+ID1296,07-05-2020,Ruthie C Linrres,Male,Holbrook,Peter Pan,Brogues,Women Bag,2,Sales,9950,9000,19900,18000,1900,Thu
+ID1297,05-05-2020,Sharice B Munrie,Male,Freeport,Farida Ibrahim,Military Boots Women,Women Bag,2,Sales,7700,7000,15400,14000,1400,Tue
+ID1298,09-05-2020,Boyd N Liprs,Female,Freeport,Farida Ibrahim,Court Shoes,Female Bag,4,Sales,11000,10000,44000,40000,4000,Sat
+ID1299,10-05-2020,Racheal G Savrrd,Male,Garden City,Felex Ada,Brogues,Women Bag,1,Sales,13200,12000,13200,12000,1200,Sun
+ID1300,11-05-2020,Lana D Eckres,Male,Harrison,Winner Sanda,Military Boots Women,Men Shoes,2,Sales,9950,9000,19900,18000,1900,Mon
+ID1301,12-05-2020,Hugh E Boore,Male,Holbrook,Peter Pan,Court Shoes,Women Bag,2,Sales,7700,7000,15400,14000,1400,Tue
+ID1302,13-05-2020,Max Z Vanrlstyne,Male,Freeport,Farida Ibrahim,Brogues,Female Bag,4,Sales,11000,10000,44000,40000,4000,Wed
+ID1303,14-05-2020,Simone Y Pulro,Male,Freeport,Farida Ibrahim,Military Boots Women,Women Bag,1,Sales,13200,12000,13200,12000,1200,Thu
+ID1304,15-05-2020,Robt F Ellrrbee,Male,Garden City,Felex Ada,Court Shoes,Women Bag,2,Sales,9950,9000,19900,18000,1900,Fri
+ID1305,16-05-2020,Peter M Clore,Male,Harrison,Winner Sanda,Brogues,Women Bag,2,Sales,7700,7000,15400,14000,1400,Sat
+ID1306,17-05-2020,Adriene J Kimrell,Male,Holbrook,Peter Pan,Military Boots Women,Female Bag,1,Sales,11000,10000,11000,10000,1000,Sun
+ID1307,15-05-2020,Reid W Monron,Male,Freeport,Farida Ibrahim,Court Shoes,Women Bag,1,Sales,7700,7000,7700,7000,700,Fri
+ID1308,19-05-2020,Jestine H Shir,Male,Freeport,Farida Ibrahim,Brogues,Female Bag,2,Sales,9950,9000,19900,18000,1900,Tue
+ID1309,20-05-2020,Evie Y Abers,Male,Garden City,Felex Ada,Military Boots Women,Female Bag,2,Sales,19800,18000,39600,36000,3600,Wed
+ID1310,21-05-2020,Daryl H Towre,Male,Harrison,Winner Sanda,Court Shoes,Women Bag,1,Sales,44000,40000,44000,40000,4000,Thu
+ID1311,22-05-2020,Roman K Thore,Male,Holbrook,Peter Pan,Brogues,Women Bag,1,Sales,22000,20000,22000,20000,2000,Fri
+ID1312,23-05-2020,,Female,Freeport,Farida Ibrahim,Military Boots Women,Men Shoes,2,Sales,13000,12000,26000,24000,2000,Sat
+ID1313,24-05-2020,Sabra Y Mcgrrity,Female,Freeport,Farida Ibrahim,Court Shoes,Women Bag,2,Sales,6700,5000,13400,10000,3400,Sun
+ID1314,25-05-2020,Kim W Oliro,Female,Garden City,Felex Ada,Brogues,Women Bag,1,Sales,6700,5001,6700,5001,1699,Mon
+ID1315,26-05-2020,Ian F Palrquist,Male,Harrison,Winner Sanda,Military Boots Women,Women Bag,1,Sales,6700,5002,6700,5002,1698,Tue
+ID1316,27-05-2020,Nakita H Zitr,Male,Holbrook,Peter Pan,Court Shoes,Women Bag,2,Sales,6700,5000,13400,10000,3400,Wed
+ID1317,25-05-2020,Pura O Winrle,Male,Freeport,Farida Ibrahim,Brogues,Female Bag,2,Sales,6700,5001,13400,10002,3398,Mon
+ID1318,29-05-2020,Quinn F Ogirvie,Male,Freeport,Farida Ibrahim,Military Boots Women,Women Bag,1,Sales,6700,5002,6700,5002,1698,Fri
+ID1319,30-05-2020,Carlton A Knurson,Female,Garden City,Felex Ada,Court Shoes,Men Shoes,11,Sales,6700,5000,73700,55000,18700,Sat
+ID1320,31-05-2020,Mitchell M Forrhee,Male,Freeport,Farida Ibrahim,Brogues,Female Bag,11,Sales,6700,5000,73700,55000,18700,Sun
+ID1321,01-05-2020,Gilbert Y Alcrla,Male,Garden City,Felex Ada,Military Boots Women,Women Bag,11,Sales,6700,5000,73700,55000,18700,Fri
+ID1322,02-05-2020,Tad Z Rioras,Female,Harrison,Winner Sanda,Court Shoes,Women Bag,11,Sales,6700,5000,73700,55000,18700,Sat
+ID1323,03-05-2020,Tuan X Garrock,Male,Holbrook,Peter Pan,Brogues,Men Shoes,11,Sales,6700,5000,73700,55000,18700,Sun
+ID1324,04-05-2020,Jennefer N Prarl,Male,Freeport,Farida Ibrahim,Military Boots Women,Women Bag,11,Sales,6700,5000,73700,55000,18700,Mon
+ID1325,05-05-2020,Mikki F Neare,Male,Freeport,Farida Ibrahim,Brogues,Female Bag,11,Sales,200,190,2200,2090,110,Tue
+ID1326,06-05-2020,Kendrick K Courts,Male,Garden City,Felex Ada,Military Boots Women,Women Bag,1,Sales,2250,2200,2250,2200,50,Wed
+ID1327,07-05-2020,Fermin I Gulrck,Female,Harrison,Winner Sanda,Court Shoes,Women Bag,1,Sales,100,90,100,90,10,Thu
+ID1328,05-05-2020,Lynda P Ayer,Male,Holbrook,Peter Pan,Brogues,Men Shoes,2,Sales,100,80,200,160,40,Tue
+ID1329,09-05-2020,Melva E Cherard,Male,Freeport,Farida Ibrahim,Military Boots Women,Women Bag,2,Sales,2000,1850,4000,3700,300,Sat
+ID1330,10-05-2020,Odell F Hayrard,Male,Freeport,Farida Ibrahim,Court Shoes,Women Bag,1,Sales,9500,8000,9500,8000,1500,Sun
+ID1331,11-05-2020,Alane Y Higr,Male,Garden City,Felex Ada,Brogues,Women Bag,1,Sales,4700,4000,4700,4000,700,Mon
+ID1332,12-05-2020,Garland Q Artrrburn,Male,Harrison,Winner Sanda,Military Boots Women,Women Bag,2,Sales,400,360,800,720,80,Tue
+ID1333,13-05-2020,Carmelina R Gorrell,Male,Holbrook,Peter Pan,Court Shoes,Female Bag,2,Sales,100,90,200,180,20,Wed
+ID1334,14-05-2020,Dee I Orsrni,Male,Freeport,Farida Ibrahim,Brogues,Women Bag,1,Sales,1600,1590,1600,1590,10,Thu
+ID1335,15-05-2020,Angeline I Fetr,Male,Freeport,Farida Ibrahim,Military Boots Women,Women Bag,1,Sales,50,45,50,45,5,Fri
+ID1336,16-05-2020,Myrtle S Fiore,Male,Freeport,Farida Ibrahim,Court Shoes,Women Bag,2,Sales,600,450,1200,900,300,Sat
+ID1337,17-05-2020,Kirby Y Gamrche,Male,Freeport,Farida Ibrahim,Brogues,Women Bag,2,Sales,170,150,340,300,40,Sun
+ID1338,15-05-2020,Celestine E Ledrord,Male,Freeport,Farida Ibrahim,Military Boots Women,Female Bag,1,Sales,25,20,25,20,5,Fri
+ID1339,19-05-2020,Arlene B Nelris,Male,Freeport,Farida Ibrahim,Court Shoes,Male Bags,1,Sales,6700,5000,6700,5000,1700,Tue
+ID1340,20-05-2020,Lazaro X Syer,Male,Freeport,Farida Ibrahim,Brogues,Men Shoes,2,Sales,6700,5001,13400,10002,3398,Wed
+ID1341,21-05-2020,Lynne K Bohrer,Female,Freeport,Farida Ibrahim,Military Boots Women,Men Shoes,2,Sales,6700,5002,13400,10004,3396,Thu
+ID1342,22-05-2020,Veda V Danrs,Female,Freeport,Farida Ibrahim,Court Shoes,Women Bag,1,Sales,22000,20000,22000,20000,2000,Fri
+ID1343,23-05-2020,Marci C Vasrallo,Female,Freeport,Farida Ibrahim,Brogues,Women Bag,1,Returned,11000,10000,11000,10000,1000,Sat
+ID1344,24-05-2020,Janna F Bibrins,Male,Freeport,Farida Ibrahim,Military Boots Women,Female Bag,1,Sales,8500,7600,8500,7600,900,Sun
+ID1345,25-05-2020,Nila Q Chrrtien,Male,Freeport,Farida Ibrahim,Court Shoes,Men Shoes,2,Sales,8500,7600,17000,15200,1800,Mon
+ID1346,26-05-2020,Alesha Z Jarroe,Male,Freeport,Farida Ibrahim,Brogues,Women Bag,3,Sales,13200,12000,39600,36000,3600,Tue
+ID1347,27-05-2020,,Male,Freeport,Farida Ibrahim,Military Boots Women,Female Bag,2,Sales,22000,20000,44000,40000,4000,Wed
+ID1348,25-05-2020,Donella W Bodrly,Female,Freeport,Farida Ibrahim,Court Shoes,Female Bag,2,Sales,7700,7000,15400,14000,1400,Mon
+ID1349,29-05-2020,Jospeh L Fulr,Male,Freeport,Farida Ibrahim,Brogues,Women Bag,3,Sales,22000,20000,66000,60000,6000,Fri
+ID1350,30-05-2020,Zina N Natron,Male,Freeport,Farida Ibrahim,Military Boots Women,Women Bag,1,Sales,44000,40000,44000,40000,4000,Sat
+ID1351,31-05-2020,Agnes E Sterpe,Male,Garden City,Felex Ada,Court Shoes,Women Bag,2,Sales,19800,18000,39600,36000,3600,Sun
+ID1352,01-05-2020,Lillie W Wairscott,Male,Harrison,Winner Sanda,Brogues,Female Bag,2,Sales,9950,9000,19900,18000,1900,Fri
+ID1353,02-05-2020,Mary K Enrrquez,Male,Holbrook,Peter Pan,Military Boots Women,Women Bag,2,Sales,7700,7000,15400,14000,1400,Sat
+ID1354,03-05-2020,Fiona Y Negrin,Male,Freeport,Farida Ibrahim,Court Shoes,Men Shoes,4,Sales,11000,10000,44000,40000,4000,Sun
+ID1355,04-05-2020,Geri H Jirrn,Male,Freeport,Farida Ibrahim,Brogues,Women Bag,1,Sales,13200,12000,13200,12000,1200,Mon
+ID1356,05-05-2020,Son T Mcardle,Male,Garden City,Felex Ada,Military Boots Women,Women Bag,2,Sales,1900,1800,3800,3600,200,Tue
+ID1357,06-05-2020,Rosalia O Flarin,Male,Harrison,Winner Sanda,Court Shoes,Women Bag,2,Sales,200,190,400,380,20,Wed
+ID1358,07-05-2020,Ja K Burrach,Male,Holbrook,Peter Pan,Brogues,Female Bag,4,Sales,2250,2200,9000,8800,200,Thu
+ID1359,05-05-2020,Josef E Scarfe,Male,Freeport,Farida Ibrahim,Military Boots Women,Women Bag,1,Sales,100,90,100,90,10,Tue
+ID1360,09-05-2020,Alex M Oakrey,Male,Freeport,Farida Ibrahim,Court Shoes,Female Bag,2,Sales,100,80,200,160,40,Sat
+ID1361,10-05-2020,Sidney K Cher,Male,Garden City,Felex Ada,Brogues,Female Bag,2,Sales,2000,1850,4000,3700,300,Sun
+ID1362,11-05-2020,Thomas V Mesrrve,Female,Harrison,Winner Sanda,Military Boots Women,Women Bag,1,Sales,9500,8000,9500,8000,1500,Mon
+ID1363,12-05-2020,Jesica D Starkpole,Female,Holbrook,Peter Pan,Court Shoes,Female Bag,1,Sales,4700,4000,4700,4000,700,Tue
+ID1364,13-05-2020,Candy Y Wenrel,Female,Freeport,Farida Ibrahim,Brogues,Women Bag,2,Sales,400,360,800,720,80,Wed
+ID1365,14-05-2020,Amanda A Edmrnson,Male,Freeport,Farida Ibrahim,Military Boots Women,Women Bag,2,Sales,100,90,200,180,20,Thu
+ID1366,01-05-2020,Amee H Corrray,Male,Garden City,Felex Ada,Court Shoes,Men Shoes,1,Sales,1600,1590,1600,1590,10,Fri
+ID1367,02-05-2020,Lelia D Tayror,Male,Harrison,Winner Sanda,Brogues,Women Bag,1,Sales,50,45,50,45,5,Sat
+ID1368,03-05-2020,Soila G Dairre,Male,Holbrook,Peter Pan,Military Boots Women,Women Bag,2,Sales,600,450,1200,900,300,Sun
+ID1369,04-05-2020,Al P Ricrarson,Female,Freeport,Farida Ibrahim,Court Shoes,Women Bag,2,Sales,170,150,340,300,40,Mon
+ID1370,05-05-2020,Kayleigh P Mccre,Male,Freeport,Farida Ibrahim,Brogues,Women Bag,1,Sales,25,20,25,20,5,Tue
+ID1371,06-05-2020,Shalanda R Mejras,Male,Garden City,Felex Ada,Military Boots Women,Female Bag,1,Sales,6700,5002,6700,5002,1698,Wed
+ID1372,07-05-2020,Preston P Caprsso,Male,Harrison,Winner Sanda,Court Shoes,Women Bag,2,Sales,6700,5000,13400,10000,3400,Thu
+ID1373,05-05-2020,Matt Z Angrlo,Male,Holbrook,Peter Pan,Brogues,Men Shoes,2,Sales,6700,5001,13400,10002,3398,Tue
+ID1374,09-05-2020,Gregg G Sisrer,Male,Freeport,Farida Ibrahim,Military Boots Women,Women Bag,1,Sales,6700,5002,6700,5002,1698,Sat
+ID1375,10-05-2020,Reatha F Gasron,Male,Freeport,Farida Ibrahim,Court Shoes,Women Bag,1,Sales,6700,5000,6700,5000,1700,Sun
+ID1376,11-05-2020,Danny H Blarsdell,Male,Garden City,Felex Ada,Brogues,Women Bag,2,Sales,6700,5001,13400,10002,3398,Mon
+ID1377,12-05-2020,Susan X Forruna,Male,Harrison,Winner Sanda,Military Boots Women,Women Bag,2,Sales,6700,5002,13400,10004,3396,Tue
+ID1378,13-05-2020,Veola R Trort,Male,Holbrook,Peter Pan,Court Shoes,Female Bag,1,Sales,22000,20000,22000,20000,2000,Wed
+ID1379,14-05-2020,Danial X Zamrrripa,Male,Freeport,Farida Ibrahim,Brogues,Men Shoes,1,Returned,11000,10000,11000,10000,1000,Thu
+ID1380,15-05-2020,Thresa A Carrballo,Male,Freeport,Farida Ibrahim,Military Boots Women,Women Bag,1,Sales,8500,7600,8500,7600,900,Fri
+ID1381,16-05-2020,Stella X Antrne,Male,Garden City,Felex Ada,Court Shoes,Women Bag,2,Returned,8500,7600,17000,15200,1800,Sat
+ID1382,17-05-2020,Jina I Heirer,Male,Harrison,Winner Sanda,Brogues,Female Bag,3,Sales,13200,12000,39600,36000,3600,Sun
+ID1383,15-05-2020,Herb B Hasring,Female,Holbrook,Peter Pan,Military Boots Women,Women Bag,2,Sales,22000,20000,44000,40000,4000,Fri
+ID1384,19-05-2020,,Female,Freeport,Farida Ibrahim,Court Shoes,Women Bag,2,Sales,7700,7000,15400,14000,1400,Tue
+ID1385,20-05-2020,Julianne Z Bedrlla,Female,Freeport,Farida Ibrahim,Brogues,Men Shoes,3,Sales,22000,20000,66000,60000,6000,Wed
+ID1386,21-05-2020,Melania Q Ticr,Male,Garden City,Felex Ada,Military Boots Women,Women Bag,1,Sales,44000,40000,44000,40000,4000,Thu
+ID1387,22-05-2020,Somer Q Dolrh,Male,Harrison,Winner Sanda,Court Shoes,Women Bag,2,Sales,19800,18000,39600,36000,3600,Fri
+ID1388,23-05-2020,Myron H Smarl,Male,Holbrook,Peter Pan,Brogues,Women Bag,2,Sales,9950,9000,19900,18000,1900,Sat
+ID1389,24-05-2020,Golda F Clurter,Male,Freeport,Farida Ibrahim,Military Boots Women,Women Bag,2,Sales,7700,7000,15400,14000,1400,Sun
+ID1390,25-05-2020,Herbert T Gasrett,Female,Freeport,Farida Ibrahim,Court Shoes,Female Bag,4,Sales,11000,10000,44000,40000,4000,Mon
+ID1391,26-05-2020,Clyde G Sterrns,Male,Garden City,Felex Ada,Brogues,Women Bag,1,Sales,13200,12000,13200,12000,1200,Tue
+ID1392,27-05-2020,Rosalba U Felr,Male,Harrison,Winner Sanda,Military Boots Women,Men Shoes,2,Sales,9950,9000,19900,18000,1900,Wed
+ID1393,25-05-2020,Bettyann R Gotrfried,Male,Holbrook,Peter Pan,Court Shoes,Women Bag,2,Sales,7700,7000,15400,14000,1400,Mon
+ID1394,29-05-2020,Lucio Q Oborle,Male,Freeport,Farida Ibrahim,Brogues,Female Bag,4,Sales,11000,10000,44000,40000,4000,Fri
+ID1395,30-05-2020,Desire Z Lecrmpte,Male,Freeport,Farida Ibrahim,Military Boots Women,Women Bag,1,Sales,13200,12000,13200,12000,1200,Sat
+ID1396,31-05-2020,Adelaide O Petriford,Male,Garden City,Felex Ada,Court Shoes,Women Bag,2,Sales,9950,9000,19900,18000,1900,Sun
+ID1397,01-05-2020,Leisa S Geary,Male,Harrison,Winner Sanda,Brogues,Women Bag,2,Sales,7700,7000,15400,14000,1400,Fri
+ID1398,02-05-2020,Darnell Q Mckrever,Male,Holbrook,Peter Pan,Military Boots Women,Female Bag,1,Sales,11000,10000,11000,10000,1000,Sat
+ID1399,03-05-2020,Corinna A Towrer,Male,Freeport,Farida Ibrahim,Court Shoes,Women Bag,1,Sales,7700,7000,7700,7000,700,Sun
+ID1400,04-05-2020,Particia U Rimrer,Male,Freeport,Farida Ibrahim,Brogues,Female Bag,2,Sales,9950,9000,19900,18000,1900,Mon
+ID1401,05-05-2020,Jermaine J Gamrons,Male,Garden City,Felex Ada,Military Boots Women,Female Bag,2,Sales,19800,18000,39600,36000,3600,Tue
+ID1402,06-05-2020,Liberty X Gilrrease,Male,Harrison,Winner Sanda,Court Shoes,Women Bag,1,Sales,44000,40000,44000,40000,4000,Wed
+ID1403,07-05-2020,Stanford V Torrance,Male,Holbrook,Peter Pan,Brogues,Women Bag,1,Sales,22000,20000,22000,20000,2000,Thu
+ID1404,05-05-2020,Damion W Whireman,Female,Freeport,Farida Ibrahim,Military Boots Women,Men Shoes,2,Sales,13000,12000,26000,24000,2000,Tue
+ID1405,09-05-2020,Karlyn B Bolrz,Female,Freeport,Farida Ibrahim,Court Shoes,Women Bag,2,Sales,6700,5000,13400,10000,3400,Sat
+ID1406,10-05-2020,Van L Rutrerford,Female,Garden City,Felex Ada,Brogues,Women Bag,1,Sales,6700,5001,6700,5001,1699,Sun
+ID1407,11-05-2020,,Male,Harrison,Winner Sanda,Military Boots Women,Women Bag,1,Sales,6700,5002,6700,5002,1698,Mon
+ID1408,12-05-2020,Jacob I Cudry,Male,Holbrook,Peter Pan,Court Shoes,Women Bag,2,Sales,6700,5000,13400,10000,3400,Tue
+ID1409,13-05-2020,Andra P Schrller,Male,Freeport,Farida Ibrahim,Brogues,Female Bag,2,Sales,6700,5001,13400,10002,3398,Wed
+ID1410,14-05-2020,Elouise E Fulrher,Male,Freeport,Farida Ibrahim,Military Boots Women,Women Bag,1,Sales,6700,5002,6700,5002,1698,Thu
+ID1411,15-05-2020,Donnell G Golron,Female,Garden City,Felex Ada,Court Shoes,Men Shoes,4,Sales,6700,5000,26800,20000,6800,Fri
+ID1412,16-05-2020,Shonna G Ederstein,Male,Freeport,Farida Ibrahim,Brogues,Female Bag,4,Sales,6700,5000,26800,20000,6800,Sat
+ID1413,17-05-2020,Miguel J Mourtain,Male,Garden City,Felex Ada,Military Boots Women,Women Bag,4,Sales,6700,5000,26800,20000,6800,Sun
+ID1414,15-05-2020,Harvey K Mccrlley,Female,Harrison,Winner Sanda,Court Shoes,Women Bag,4,Sales,6700,5000,26800,20000,6800,Fri
+ID1415,19-05-2020,Hipolito I Scrrggs,Male,Holbrook,Peter Pan,Brogues,Men Shoes,4,Sales,6700,5000,26800,20000,6800,Tue
+ID1416,20-05-2020,Maryam T Mearx,Male,Freeport,Farida Ibrahim,Military Boots Women,Women Bag,4,Sales,6700,5000,26800,20000,6800,Wed
+ID1417,21-05-2020,Brian R Posrell,Male,Freeport,Farida Ibrahim,Brogues,Female Bag,4,Sales,200,190,800,760,40,Thu
+ID1418,22-05-2020,Calvin K Srora,Male,Garden City,Felex Ada,Military Boots Women,Women Bag,1,Sales,2250,2200,2250,2200,50,Fri
+ID1419,23-05-2020,Donte D Mcrry,Female,Harrison,Winner Sanda,Court Shoes,Women Bag,1,Sales,100,90,100,90,10,Sat
+ID1420,24-05-2020,Thelma Q Schrchter,Male,Holbrook,Peter Pan,Brogues,Men Shoes,2,Sales,100,80,200,160,40,Sun
+ID1421,25-05-2020,Jose P Geir,Male,Freeport,Farida Ibrahim,Military Boots Women,Women Bag,2,Sales,2000,1850,4000,3700,300,Mon
+ID1422,26-05-2020,Carlota E Heirt,Male,Freeport,Farida Ibrahim,Court Shoes,Women Bag,1,Sales,9500,8000,9500,8000,1500,Tue
+ID1423,27-05-2020,Elnora I Spurrier,Male,Garden City,Felex Ada,Brogues,Women Bag,1,Sales,4700,4000,4700,4000,700,Wed
+ID1424,25-05-2020,Chadwick N Legrand,Male,Harrison,Winner Sanda,Military Boots Women,Women Bag,2,Sales,400,360,800,720,80,Mon
+ID1425,29-05-2020,Hailey V Midrett,Male,Holbrook,Peter Pan,Court Shoes,Female Bag,2,Sales,100,90,200,180,20,Fri
+ID1426,30-05-2020,Thad Y Gorrs,Male,Freeport,Farida Ibrahim,Brogues,Women Bag,1,Sales,1600,1590,1600,1590,10,Sat
+ID1427,31-05-2020,Loris Q Jesren,Male,Freeport,Farida Ibrahim,Military Boots Women,Women Bag,1,Sales,50,45,50,45,5,Sun
+ID1428,01-05-2020,Ivory B Teerarden,Male,Freeport,Farida Ibrahim,Court Shoes,Women Bag,2,Sales,600,450,1200,900,300,Fri
+ID1429,02-05-2020,Houston B Sturkey,Male,Freeport,Farida Ibrahim,Brogues,Women Bag,2,Sales,170,150,340,300,40,Sat
+ID1430,03-05-2020,Abe E Betrencourt,Male,Freeport,Farida Ibrahim,Military Boots Women,Female Bag,1,Sales,25,20,25,20,5,Sun
+ID1431,04-05-2020,Dagmar P Cosranzo,Male,Freeport,Farida Ibrahim,Court Shoes,Male Bags,1,Sales,6700,5000,6700,5000,1700,Mon
+ID1432,05-05-2020,Lucien L Carrara,Male,Freeport,Farida Ibrahim,Brogues,Men Shoes,2,Sales,6700,5001,13400,10002,3398,Tue
+ID1433,06-05-2020,Dorian D Sturer,Female,Freeport,Farida Ibrahim,Military Boots Women,Men Shoes,2,Sales,6700,5002,13400,10004,3396,Wed
+ID1434,07-05-2020,Norris K Yarrrough,Female,Freeport,Farida Ibrahim,Court Shoes,Women Bag,1,Sales,22000,20000,22000,20000,2000,Thu
+ID1435,05-05-2020,Allan R Gilrtrap,Female,Freeport,Farida Ibrahim,Brogues,Women Bag,1,Returned,11000,10000,11000,10000,1000,Tue
+ID1436,09-05-2020,Alfredo F Gobrr,Male,Freeport,Farida Ibrahim,Military Boots Women,Female Bag,1,Sales,8500,7600,8500,7600,900,Sat
+ID1437,10-05-2020,Robert B Senrcal,Male,Freeport,Farida Ibrahim,Court Shoes,Men Shoes,2,Sales,8500,7600,17000,15200,1800,Sun
+ID1438,11-05-2020,Rod C Piprin,Male,Freeport,Farida Ibrahim,Brogues,Women Bag,3,Sales,13200,12000,39600,36000,3600,Mon
+ID1439,12-05-2020,Luella M Sorrells,Male,Freeport,Farida Ibrahim,Military Boots Women,Female Bag,2,Sales,22000,20000,44000,40000,4000,Tue
+ID1440,13-05-2020,Luke H Berrardi,Female,Freeport,Farida Ibrahim,Court Shoes,Female Bag,2,Sales,7700,7000,15400,14000,1400,Wed
+ID1441,14-05-2020,Linnea S Becrstead,Male,Freeport,Farida Ibrahim,Brogues,Women Bag,3,Sales,22000,20000,66000,60000,6000,Thu
+ID1442,15-05-2020,Lester V Morreau,Male,Freeport,Farida Ibrahim,Military Boots Women,Women Bag,1,Sales,44000,40000,44000,40000,4000,Fri
+ID1443,16-05-2020,Rufus L Janrary,Male,Garden City,Felex Ada,Court Shoes,Women Bag,2,Sales,19800,18000,39600,36000,3600,Sat
+ID1444,17-05-2020,Daniel D Mccrffrey,Male,Harrison,Winner Sanda,Brogues,Female Bag,2,Sales,9950,9000,19900,18000,1900,Sun
+ID1445,15-05-2020,Rachelle F Coors,Male,Holbrook,Peter Pan,Military Boots Women,Women Bag,2,Sales,7700,7000,15400,14000,1400,Fri
+ID1446,19-05-2020,Dawna P Bohran,Male,Freeport,Farida Ibrahim,Court Shoes,Men Shoes,4,Sales,11000,10000,44000,40000,4000,Tue
+ID1447,20-05-2020,Dong R Sanrbria,Male,Freeport,Farida Ibrahim,Brogues,Women Bag,1,Sales,13200,12000,13200,12000,1200,Wed
+ID1448,21-05-2020,Neomi I Carrtens,Male,Garden City,Felex Ada,Military Boots Women,Women Bag,2,Sales,1900,1800,3800,3600,200,Thu
+ID1449,22-05-2020,Keith I Coarhman,Male,Harrison,Winner Sanda,Court Shoes,Women Bag,2,Sales,200,190,400,380,20,Fri
+ID1450,23-05-2020,Marcus L Sterberg,Male,Holbrook,Peter Pan,Brogues,Female Bag,4,Sales,2250,2200,9000,8800,200,Sat
+ID1451,24-05-2020,Imogene X Kanrgy,Male,Freeport,Farida Ibrahim,Military Boots Women,Women Bag,1,Sales,100,90,100,90,10,Sun
+ID1452,25-05-2020,Lovella K Sherran,Male,Freeport,Farida Ibrahim,Court Shoes,Female Bag,2,Sales,100,80,200,160,40,Mon
+ID1453,26-05-2020,Muriel B Eudr,Male,Garden City,Felex Ada,Brogues,Female Bag,2,Sales,2000,1850,4000,3700,300,Tue
+ID1454,27-05-2020,Beata N Senrer,Female,Harrison,Winner Sanda,Military Boots Women,Women Bag,1,Sales,9500,8000,9500,8000,1500,Wed
+ID1455,25-05-2020,Orval Y Kinrey,Female,Holbrook,Peter Pan,Court Shoes,Female Bag,1,Sales,4700,4000,4700,4000,700,Mon
+ID1456,29-05-2020,Ursula T Mcbrayer,Female,Freeport,Farida Ibrahim,Brogues,Women Bag,2,Sales,400,360,800,720,80,Fri
+ID1457,30-05-2020,Larhonda W Gunrher,Male,Freeport,Farida Ibrahim,Military Boots Women,Women Bag,2,Sales,100,90,200,180,20,Sat
+ID1458,31-05-2020,Sharika A Giuriano,Male,Garden City,Felex Ada,Court Shoes,Men Shoes,1,Sales,1600,1590,1600,1590,10,Sun
+ID1459,01-05-2020,Erich F Shurtz,Male,Harrison,Winner Sanda,Brogues,Women Bag,1,Sales,50,45,50,45,5,Fri
+ID1460,02-05-2020,Edwardo X Goor,Male,Holbrook,Peter Pan,Military Boots Women,Women Bag,2,Sales,600,450,1200,900,300,Sat
+ID1461,03-05-2020,Kaycee N Ortrz,Female,Freeport,Farida Ibrahim,Court Shoes,Women Bag,2,Sales,170,150,340,300,40,Sun
+ID1462,04-05-2020,Era Q Zazreta,Male,Freeport,Farida Ibrahim,Brogues,Women Bag,1,Sales,25,20,25,20,5,Mon
+ID1463,05-05-2020,Cordell P Lamrert,Male,Garden City,Felex Ada,Military Boots Women,Female Bag,1,Sales,6700,5002,6700,5002,1698,Tue
+ID1464,06-05-2020,Nicolle E Walrace,Male,Harrison,Winner Sanda,Court Shoes,Women Bag,2,Sales,6700,5000,13400,10000,3400,Wed
+ID1465,07-05-2020,Fred W Schrab,Male,Holbrook,Peter Pan,Brogues,Men Shoes,2,Sales,6700,5001,13400,10002,3398,Thu
+ID1466,05-05-2020,Hector I Panrs,Male,Freeport,Farida Ibrahim,Military Boots Women,Women Bag,1,Sales,6700,5002,6700,5002,1698,Tue
+ID1467,09-05-2020,Nathanael K Adkrnson,Male,Freeport,Farida Ibrahim,Court Shoes,Women Bag,1,Sales,6700,5000,6700,5000,1700,Sat
+ID1468,10-05-2020,,Male,Garden City,Felex Ada,Brogues,Women Bag,2,Sales,6700,5001,13400,10002,3398,Sun
+ID1469,11-05-2020,Else K Watrers,Male,Harrison,Winner Sanda,Military Boots Women,Women Bag,2,Sales,6700,5002,13400,10004,3396,Mon
+ID1470,12-05-2020,Vito B Eckrrt,Male,Holbrook,Peter Pan,Court Shoes,Female Bag,1,Sales,22000,20000,22000,20000,2000,Tue
+ID1471,13-05-2020,Bennie X Churbley,Male,Freeport,Farida Ibrahim,Brogues,Men Shoes,1,Returned,11000,10000,11000,10000,1000,Wed
+ID1472,14-05-2020,Caprice G Mcbride,Male,Freeport,Farida Ibrahim,Military Boots Women,Women Bag,1,Sales,8500,7600,8500,7600,900,Thu
+ID1473,15-05-2020,Bill C Hasr,Male,Garden City,Felex Ada,Court Shoes,Women Bag,2,Returned,8500,7600,17000,15200,1800,Fri
+ID1474,16-05-2020,,Male,Harrison,Winner Sanda,Brogues,Female Bag,3,Sales,13200,12000,39600,36000,3600,Sat
+ID1475,17-05-2020,Laine S Dolre,Female,Holbrook,Peter Pan,Military Boots Women,Women Bag,2,Sales,22000,20000,44000,40000,4000,Sun
+ID1476,15-05-2020,Isaias D Cosry,Female,Freeport,Farida Ibrahim,Court Shoes,Women Bag,2,Sales,7700,7000,15400,14000,1400,Fri
+ID1477,19-05-2020,Miguel W Icerhour,Female,Freeport,Farida Ibrahim,Brogues,Men Shoes,3,Sales,22000,20000,66000,60000,6000,Tue
+ID1478,20-05-2020,Stephen P Starek,Male,Garden City,Felex Ada,Military Boots Women,Women Bag,1,Sales,44000,40000,44000,40000,4000,Wed
+ID1479,21-05-2020,Alaine S Auzrnne,Male,Harrison,Winner Sanda,Court Shoes,Women Bag,2,Sales,19800,18000,39600,36000,3600,Thu
+ID1480,22-05-2020,Rolland A Lesriak,Male,Holbrook,Peter Pan,Brogues,Women Bag,2,Sales,9950,9000,19900,18000,1900,Fri
+ID1481,23-05-2020,Jean V Ybarez,Male,Freeport,Farida Ibrahim,Military Boots Women,Women Bag,2,Sales,7700,7000,15400,14000,1400,Sat
+ID1482,24-05-2020,Sage C Burr,Female,Freeport,Farida Ibrahim,Court Shoes,Female Bag,4,Sales,11000,10000,44000,40000,4000,Sun
+ID1483,25-05-2020,Krysten D Kasrner,Male,Garden City,Felex Ada,Brogues,Women Bag,1,Sales,13200,12000,13200,12000,1200,Mon
+ID1484,26-05-2020,Leo B Vitrello,Male,Harrison,Winner Sanda,Military Boots Women,Men Shoes,2,Sales,9950,9000,19900,18000,1900,Tue
+ID1485,27-05-2020,Minna C Lamrdin,Male,Holbrook,Peter Pan,Court Shoes,Women Bag,2,Sales,7700,7000,15400,14000,1400,Wed
+ID1486,25-05-2020,Rafael N Sair,Male,Freeport,Farida Ibrahim,Brogues,Female Bag,4,Sales,11000,10000,44000,40000,4000,Mon
+ID1487,29-05-2020,Jong V Mulroon,Male,Freeport,Farida Ibrahim,Military Boots Women,Women Bag,1,Sales,13200,12000,13200,12000,1200,Fri
+ID1488,30-05-2020,Krysten L Barrey,Male,Garden City,Felex Ada,Court Shoes,Women Bag,2,Sales,9950,9000,19900,18000,1900,Sat
+ID1489,31-05-2020,Brendan P Taurbee,Male,Harrison,Winner Sanda,Brogues,Women Bag,2,Sales,7700,7000,15400,14000,1400,Sun
+ID1490,01-05-2020,Blaine C Pinr,Male,Holbrook,Peter Pan,Military Boots Women,Female Bag,1,Sales,11000,10000,11000,10000,1000,Fri
+ID1491,02-05-2020,Antoine Y Hodrins,Male,Freeport,Farida Ibrahim,Court Shoes,Women Bag,1,Sales,7700,7000,7700,7000,700,Sat
+ID1492,03-05-2020,Virgilio R Murr,Male,Freeport,Farida Ibrahim,Brogues,Female Bag,2,Sales,9950,9000,19900,18000,1900,Sun
+ID1493,04-05-2020,Jeffery M Heirz,Male,Garden City,Felex Ada,Military Boots Women,Female Bag,2,Sales,19800,18000,39600,36000,3600,Mon
+ID1494,05-05-2020,Tamala W Gayre,Male,Harrison,Winner Sanda,Court Shoes,Women Bag,1,Sales,44000,40000,44000,40000,4000,Tue
+ID1495,06-05-2020,Earnest P Frerricks,Male,Holbrook,Peter Pan,Brogues,Women Bag,1,Sales,22000,20000,22000,20000,2000,Wed
+ID1496,07-05-2020,Karen B Dawr,Female,Freeport,Farida Ibrahim,Military Boots Women,Men Shoes,2,Sales,13000,12000,26000,24000,2000,Thu
+ID1497,05-05-2020,Anton L Trarlor,Female,Freeport,Farida Ibrahim,Court Shoes,Women Bag,2,Sales,6700,5000,13400,10000,3400,Tue
+ID1498,09-05-2020,Maynard B Rusr,Female,Garden City,Felex Ada,Brogues,Women Bag,1,Sales,6700,5001,6700,5001,1699,Sat
+ID1499,10-05-2020,Mahalia E Edlrr,Male,Harrison,Winner Sanda,Military Boots Women,Women Bag,1,Sales,6700,5002,6700,5002,1698,Sun
+ID1500,11-05-2020,Jules K Melrhor,Male,Holbrook,Peter Pan,Court Shoes,Women Bag,2,Sales,6700,5000,13400,10000,3400,Mon
+ID1501,12-05-2020,Tamala L Reirhard,Male,Freeport,Farida Ibrahim,Brogues,Female Bag,2,Sales,6700,5001,13400,10002,3398,Tue
+ID1502,13-05-2020,Trey B Kirrin,Male,Freeport,Farida Ibrahim,Military Boots Women,Women Bag,1,Sales,6700,5002,6700,5002,1698,Wed
+ID1503,14-05-2020,Eva K Vilregas,Female,Garden City,Felex Ada,Court Shoes,Men Shoes,1,Sales,6700,5000,6700,5000,1700,Thu
+ID1504,15-05-2020,Matthew F Salrman,Male,Freeport,Farida Ibrahim,Brogues,Female Bag,1,Sales,6700,5000,6700,5000,1700,Fri
+ID1505,16-05-2020,Isidro R Boering,Male,Garden City,Felex Ada,Military Boots Women,Women Bag,1,Sales,6700,5000,6700,5000,1700,Sat
+ID1506,17-05-2020,Ferdinand Q Bulruck,Female,Harrison,Winner Sanda,Court Shoes,Women Bag,1,Sales,6700,5000,6700,5000,1700,Sun
+ID1507,18-05-2020,Hermelinda E Gorrs,Male,Holbrook,Peter Pan,Brogues,Men Shoes,1,Sales,6700,5000,6700,5000,1700,Mon
+ID1508,19-05-2020,Candice V Minrey,Male,Freeport,Farida Ibrahim,Military Boots Women,Women Bag,1,Sales,6700,5000,6700,5000,1700,Tue
+ID1509,20-05-2020,Wayne T Abbrtt,Male,Freeport,Farida Ibrahim,Brogues,Female Bag,1,Sales,200,190,200,190,10,Wed
+ID1510,21-05-2020,Concetta F Shererd,Male,Garden City,Felex Ada,Military Boots Women,Women Bag,1,Sales,2250,2200,2250,2200,50,Thu
+ID1511,22-05-2020,Audra D Leprge,Female,Harrison,Winner Sanda,Court Shoes,Women Bag,1,Sales,100,90,100,90,10,Fri
+ID1512,23-05-2020,Hugo V Majrwski,Male,Holbrook,Peter Pan,Brogues,Men Shoes,2,Sales,100,80,200,160,40,Sat
+ID1513,24-05-2020,Osvaldo E Heprer,Male,Freeport,Farida Ibrahim,Military Boots Women,Women Bag,2,Sales,2000,1850,4000,3700,300,Sun
+ID1514,25-05-2020,Ashly R Saar,Male,Freeport,Farida Ibrahim,Court Shoes,Women Bag,1,Sales,9500,8000,9500,8000,1500,Mon
+ID1515,26-05-2020,Lavonna Y Gebr,Male,Garden City,Felex Ada,Brogues,Women Bag,1,Sales,4700,4000,4700,4000,700,Tue
+ID1516,27-05-2020,Stacey D Seare,Male,Harrison,Winner Sanda,Military Boots Women,Women Bag,2,Sales,400,360,800,720,80,Wed
+ID1517,28-05-2020,Landon A Kerroot,Male,Holbrook,Peter Pan,Court Shoes,Female Bag,2,Sales,100,90,200,180,20,Thu
+ID1518,29-05-2020,Ward Z Kelr,Male,Freeport,Farida Ibrahim,Brogues,Women Bag,1,Sales,1600,1590,1600,1590,10,Fri
+ID1519,30-05-2020,Lachelle Q Cror,Male,Freeport,Farida Ibrahim,Military Boots Women,Women Bag,1,Sales,50,45,50,45,5,Sat
+ID1520,31-05-2020,Nickolas S Gamrlin,Male,Freeport,Farida Ibrahim,Court Shoes,Women Bag,2,Sales,600,450,1200,900,300,Sun
+ID1521,01-06-2020,Santo Z Wesrlund,Male,Freeport,Farida Ibrahim,Brogues,Women Bag,2,Sales,170,150,340,300,40,Mon
+ID1522,02-06-2020,Enrique O Harrfield,Male,Freeport,Farida Ibrahim,Military Boots Women,Female Bag,1,Sales,25,20,25,20,5,Tue
