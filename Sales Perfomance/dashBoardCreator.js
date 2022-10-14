@@ -1,6 +1,6 @@
 const dataAquisition = async ()=>{
     const salesPerformance = await d3.csv('salesPerformanceDashboard.csv')
-    console.log(salesPerformance)
+    // console.log(salesPerformance)
     // console.log(customerAcquisition)
     
     //Parsing and cleaning Data
@@ -52,7 +52,24 @@ const dataAquisition = async ()=>{
     dataSentId(numberFormat(totProducts),"pdt")
     dataSentId(numberFormat(totStores),"str")
     dataSentId(numberFormat(totTransaction),"txn")
-    
+
+    categoryView = d3.rollups(cleanSalePerfData, v => d3.sum(v, f => f.totalSales), d => d.category)
+    categoryContri = categoryView.map(d => ({
+        category: d[0],
+        contribution :(d[1] / totSales ) * 100
+    })).sort((a,b) => d3.descending(a.contribution, b.contribution)) 
+    console.log(categoryContri)
+    //populating the categories
+    let i = 0;
+    for(let cat of categoryContri){
+        console.log(`contri${i + 1}`)
+        dataSentId(categoryContri[i].category, `contri${i + 1}`)
+        dataSentId(categoryContri[i].contribution.toFixed(1), `cat${i + 1}`)
+        i += 1;
+    }
+    //populating the values
+
+
 }   
 
 function sumSeries(dataset, series){
