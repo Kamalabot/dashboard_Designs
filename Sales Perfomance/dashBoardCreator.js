@@ -65,10 +65,10 @@ const dataAquisition = async ()=>{
         console.log(`contri${i + 1}`)
         dataSentId(categoryContri[i].category, `contri${i + 1}`)
         dataSentId(categoryContri[i].contribution.toFixed(1), `cat${i + 1}`)
+        pieChartMaker(categoryContri[i].contribution,`pie${i + 1}`)
         i += 1;
     }
     //populating the values
-    pieChartMaker(50,'pie1','blue')
 
 }   
 
