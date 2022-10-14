@@ -28,7 +28,6 @@ const dataAquisition = async ()=>{
 
     //getting total 
     const totalSales = d3.sum(cleanSalesData, d => d.revenue)
-    const totaladsExp = d3.sum(cleanAdsData, d => d.adsExpense)
     const totalCstAqrd = d3.sum(cleanCustomerAcqData, d => d.cstAcqrd)
     //checking the totals then sending data to DOM
     // console.log(totalCstAqrd,totalSales,totaladsExp)
@@ -47,10 +46,10 @@ const dataAquisition = async ()=>{
     }))
     const monthlyAdsTgt = monthlyTargets.filter(d => d.Activity == 'Ads Budget and expenses').map(d => ({
         months: d.months,
-        Target: +d.Target,
-        Revenue: +d.Revenue
+        Budget: +d.Target,
+        Expense: +d.Revenue
     }))
-
+    console.log(monthlyAdsTgt)
     const cleanProductsTarget = productsTarget.map(d => ({
         Products: d.Products.replace(' ','').replace('.','_'),
         Target: +d.Target,
@@ -58,17 +57,22 @@ const dataAquisition = async ()=>{
     }))
 
     const totalSalesTgt = d3.sum(monthlySalesTgt, d => d.Target)
-    const totaladsExpTgt = d3.sum(monthlyCustTgt, d => d.Target)
-    const totalCstAqrdTgt = d3.sum(monthlyAdsTgt, d => d.Target)
+
+    const totaladsExpTgt = d3.sum(monthlyAdsTgt, d => d.Budget)
+    const totaladsExp = d3.sum(monthlyAdsTgt, d => d.Expense)
+
+    const totalCstAqrdTgt = d3.sum(monthlyCustTgt, d => d.Target)
     
     const totalProductTgt = d3.sum(cleanProductsTarget, d => d.Target)
     const totalProductRev = d3.sum(cleanProductsTarget, d => d.Revenue)
     // console.log(numberFormat(totalSalesTgt))
     dataSentId(numberFormat(totalProductTgt),'pdtTgt')
     dataSentId(numberFormat(totalProductRev),'pdtAch')
+    dataSentId(numberFormat(totaladsExp),'adsAch')
 
     dataSentId(numberFormat(totalSalesTgt),'revenueTgt')
     dataSentId(numberFormat(totalCstAqrdTgt),'customerTgt')
+    dataSentId(numberFormat(totaladsExpTgt),'adsTgt')
 
     const salesAchievement = (totalSales / totalSalesTgt) * 100;
     const acquisitionAchievement = (totalCstAqrd / totalCstAqrdTgt) * 100;
@@ -77,14 +81,15 @@ const dataAquisition = async ()=>{
     dataSentId(`Achieved ${salesAchievement.toFixed(1)}%`,'achvRevn')
     dataSentId(`Achieved ${acquisitionAchievement.toFixed(1)}%`,'achvCust')
     dataSentId(`Achieved ${productWiseAchievement.toFixed(1)}%`,'achvPdt')
+    dataSentId(`Consumed ${adsExpenseAchievement.toFixed(1)}%`,'achvAds')
 
     buildGroupedBar(monthlySalesTgt, 'asset1Chart')
     buildStackedBar(monthlyCustTgt,'asset2Chart')
     scatterPlot(cleanProductsTarget,'asset3Chart','Products','Revenue','Target','purple','orange')
     // buildCompositeChart(cleanProductsTarget,'asset3Chart')
     // buildCompositeChart(adsExpenseAchievement,'asset4Chart')
-
-    console.log(cleanProductsTarget)
+    lineBarPlot(monthlyAdsTgt,'asset4Chart','months','Expense','Budget','purple','orange')
+    // console.log(cleanProductsTarget)
 
 }   
 
