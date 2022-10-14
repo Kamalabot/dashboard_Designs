@@ -60,20 +60,27 @@ const dataAquisition = async ()=>{
     const totalSalesTgt = d3.sum(monthlySalesTgt, d => d.Target)
     const totaladsExpTgt = d3.sum(monthlyCustTgt, d => d.Target)
     const totalCstAqrdTgt = d3.sum(monthlyAdsTgt, d => d.Target)
-    console.log(numberFormat(totalSalesTgt))
+    
+    const totalProductTgt = d3.sum(cleanProductsTarget, d => d.Target)
+    const totalProductRev = d3.sum(cleanProductsTarget, d => d.Revenue)
+    // console.log(numberFormat(totalSalesTgt))
+    dataSentId(numberFormat(totalProductTgt),'pdtTgt')
+    dataSentId(numberFormat(totalProductRev),'pdtAch')
+
     dataSentId(numberFormat(totalSalesTgt),'revenueTgt')
     dataSentId(numberFormat(totalCstAqrdTgt),'customerTgt')
 
     const salesAchievement = (totalSales / totalSalesTgt) * 100;
     const acquisitionAchievement = (totalCstAqrd / totalCstAqrdTgt) * 100;
     const adsExpenseAchievement = (totaladsExp / totaladsExpTgt) * 100
-
+    const productWiseAchievement = (totalProductRev / totalProductTgt) * 100;
     dataSentId(`Achieved ${salesAchievement.toFixed(1)}%`,'achvRevn')
     dataSentId(`Achieved ${acquisitionAchievement.toFixed(1)}%`,'achvCust')
+    dataSentId(`Achieved ${productWiseAchievement.toFixed(1)}%`,'achvPdt')
 
     buildGroupedBar(monthlySalesTgt, 'asset1Chart')
     buildStackedBar(monthlyCustTgt,'asset2Chart')
-    scatterPlot(cleanProductsTarget,'asset3Chart','Products','Target')
+    scatterPlot(cleanProductsTarget,'asset3Chart','Products','Revenue','Target','purple','orange')
     // buildCompositeChart(cleanProductsTarget,'asset3Chart')
     // buildCompositeChart(adsExpenseAchievement,'asset4Chart')
 
