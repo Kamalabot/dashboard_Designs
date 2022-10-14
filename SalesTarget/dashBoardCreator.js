@@ -25,6 +25,7 @@ const dataAquisition = async ()=>{
         cstAcqrd: +d["New Customer"]
         
     }))
+
     //getting total 
     const totalSales = d3.sum(cleanSalesData, d => d.revenue)
     const totaladsExp = d3.sum(cleanAdsData, d => d.adsExpense)
@@ -72,7 +73,8 @@ const dataAquisition = async ()=>{
 
     buildGroupedBar(monthlySalesTgt, 'asset1Chart')
     buildStackedBar(monthlyCustTgt,'asset2Chart')
-    buildCompositeChart(productsTarget,'asset3Chart')
+    scatterPlot(cleanProductsTarget,'asset3Chart','Products','Target')
+    // buildCompositeChart(cleanProductsTarget,'asset3Chart')
     // buildCompositeChart(adsExpenseAchievement,'asset4Chart')
 
     console.log(cleanProductsTarget)

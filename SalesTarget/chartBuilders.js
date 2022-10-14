@@ -1,6 +1,6 @@
 const buildGroupedBar = function (dataIn, svgIn){
     // console.log(dataIn)
-
+    const numberFormat = d3.format(".2s")
     //setting up the chart
     const svg = d3.select(`#${svgIn}`)
     
@@ -51,9 +51,9 @@ const buildGroupedBar = function (dataIn, svgIn){
     
     const xAxis = d3.axisBottom(group);
     
-    const yAxisRight = d3.axisRight(targetsY);
+    const yAxisRight = d3.axisRight(targetsY).ticks(6, "$.2s");
 
-    const yAxisLeft = d3.axisLeft(revenueY);
+    const yAxisLeft = d3.axisLeft(revenueY).ticks(6, "$.2s");
     
     g.append('g')
         .attr('transform', `translate(0,${visHeight})`)
@@ -113,6 +113,7 @@ const buildGroupedBar = function (dataIn, svgIn){
 }
 
 const buildStackedBar = function (dataIn, svgIn){
+    const numberFormat = d3.format(".2s")
     //setting up the inputs
     const months = dataIn.map(d => d.months)
     const targets = dataIn.map(d => d.Target)
