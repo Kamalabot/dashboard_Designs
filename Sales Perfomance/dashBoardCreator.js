@@ -68,7 +68,7 @@ const dataAquisition = async ()=>{
         i += 1;
     }
     //populating the values
-
+    pieChartMaker(50,'pie1','blue')
 
 }   
 
