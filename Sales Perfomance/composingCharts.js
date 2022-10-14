@@ -120,3 +120,29 @@ function axesDomain(axis, axisObject, label, visWidth, visHeight){
         .text(label);
     }
 }
+
+const pieChartMaker = (data, parentId, dataColor)=>{
+    const svg = d3.select(`#${parentId}`)
+    const height = svg.attr('height')
+    const width = svg.attr('width')
+
+
+    var pieGenerator = d3.pie()
+                .startAngle(-0.5 * Math.PI)
+                .endAngle(0.5 * Math.PI);
+
+    var data = [data, 100 - data];
+    var arcData = pieGenerator(data);
+
+    var arcGenerator = d3.arc()
+        .innerRadius(width / 4)
+        .outerRadius(width / 2);
+
+    svg.append('g')
+        .attr('transform',`translate(100,100)`)
+        .selectAll('path')
+        .data(arcData[0])
+        .join('path')
+        .attr('d', arcGenerator)
+        .attr('fill',dataColor);
+}
