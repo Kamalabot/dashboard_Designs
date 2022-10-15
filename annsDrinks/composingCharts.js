@@ -54,7 +54,12 @@ const barPlot = (dataIn, svgIn, yRef, xRef, refColor) => {
     //             .ticks(6, "$.2s"))
     const xAxis = svg.append('g')
         .attr('transform', `translate(${0},${visHeight + margin.top})`)
-        .call(d3.axisBottom(xScale));
+        .call(d3.axisBottom(xScale))
+        .selectAll("text")  
+        .style("text-anchor", "end")
+        .attr("dx", "-.1em")
+        .attr("dy", ".05em")
+        .attr("transform", "rotate(-25)");;
 
     axesDomain('x', xAxis, xRef, visWidth, visHeight);
     axesDomain('y', yAxis, yRef, visWidth, visHeight);
