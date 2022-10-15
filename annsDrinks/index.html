@@ -44,7 +44,8 @@
         </div>
         <div class="w-100 f4 tl flex flex-wrap ba br4 ml2" id="midMid">
             <div class="cf tl w-30 ba br4 pa1 ma2">
-                <svg width="250" height="150" class="bg-yellow" id="saleBar"></svg>
+                <h4 class="tc">Yearly Sales</h4>
+                <svg width="250" height="150" id="saleBar"></svg>
             </div>
             <div class="tl w-20 ba br4 pa1 ma2">
                 <p class="f3 tc" id="drinks">10000</p>
@@ -90,8 +91,13 @@
         </div>
         <div class="w-50 f4 tl flex ba br4" id="lowRight">
             <div class="w-100 f4 tl">
+                <div class="w-100 pv1 ma1 flex mr2">
+                    <input type="radio" name="chart" value="cogs" id="cogsLine">COGS<br>
+                    <input type="radio" name="chart" value="profit" id="profit">Profit<br>
+                    <input type="radio" name="chart" value="sales" id="revenue">Revenue<br>
+                </div>
                 <div class="w-100 pv1 ma1">
-                    <svg width="475" height="450" class="bg-yellow" id="monthSales"></svg>
+                    <svg width="475" height="450" id="monthSales"></svg>
                 </div>
             </div>
         </div>
