@@ -8,43 +8,43 @@
 </head>
 
 <body class="Avenir pa1 bg-teal">
-  <div class="pa1 tc black bg-light-green f3">
+  <div class="pa1 tc black bg-light-green f3 br4">
     <h1 class="tc">Sales Performance Dashboard</h1>
   </div>
   <div class="fl w-100 cf flex flex-wrap">
-    <div class="w-20 f4 tl flex flex-column ba br4" id="left">
-        <div class="cf tl w-100 br4 pa1 ma1" id="qtySold">
+    <div class="w-20 f4 tl flex flex-column" id="left">
+        <div class="cf tl w-100 ba br4 pa1 ma1" id="qtySold">
             <p class="f3 tc" id="qty">10000</p>
             <h2 class="tc">Quantity Sold</h2>
         </div>
-        <div class="tl w-100 br4 pa1 ma1" id="totSales">
+        <div class="tl w-100 ba br4 pa1 ma1" id="totSales">
             <p class="f3 tc" id="sales">10000</p>
             <h2 class="tc">Total Sales</h2>
         </div>
-        <div class="tl w-100 br4 pa1 ma1" id="cogs">
+        <div class="tl w-100 ba br4 pa1 ma1" id="cogs">
             <p class="f3 tc" id="cost">10000</p>
             <h2 class="tc">COGS</h2>
         </div>
-        <div class="tl w-100 br4 pa1 ma1" id="gProfit">
+        <div class="tl w-100 ba br4 pa1 ma1" id="gProfit">
             <p class="f3 tc" id="profit">10000</p>
             <h2 class="tc">Gross Profit</h2>
         </div>
     </div>
     <div class="fl w-60 f4 tl flex flex-column" id="mid">
-        <div class="fl flex tl h4 w-100 ba br4">
-            <div class="w-25 br4 pv1 ma1">
+        <div class="fl flex tl h4 w-100">
+            <div class="w-25 pv1 ma1">
                 <p class="f3 tc" id="cust">10000</p>
                 <h3 class="tc">Customers</h3>
             </div>
-            <div class="w-25 br4 pv1 ma1">
+            <div class="w-25 pv1 ma1">
                 <p class="f3 tc" id="pdt">10000</p>
                 <h3 class="tc">Products</h3>
             </div>
-            <div class="w-25 br4 pv1 ma1">
+            <div class="w-25 pv1 ma1">
                 <p class="f3 tc" id="str">10000</p>
                 <h3 class="tc">Stores</h3>
             </div>
-            <div class="w-25 br4 pv1 ma1">
+            <div class="w-25 pv1 ma1">
                 <p class="f3 tc" id="txn">10000</p>
                 <h3 class="tc">Transactions</h3>
             </div>
@@ -78,36 +78,37 @@
             </div>
         </div>
     </div>
-    <div class="w-20 f4 tl flex flex-column ba br4" id="right">
+    <div class="w-20 f4 tl flex flex-column" id="right">
         <h1 class="tc f2">Product Analysis</h1>
-        <h3 class="w-100 tc">Months</h3>
-        <nav class="ph3 br4 ma2 w-100">
-            <div class="wrap overflow-x-auto h3" id="months">
+        <div class="ph3 ba br4 ma2 w-100">
+            <h3 class="w-100 tc">Months</h3>
+            <nav class="wrap overflow-x-auto h3" id="months">
               <a class="link dim black f3 tc dib mr3" href="#" title="Link 1">January</a>
               <a class="link dim black f3 tc dib mr3" href="#" title="Link 1">February</a>
-            </div>
-        </nav>          
-        <h3 class="w-100 tc">Stores</h3>
-        <nav class="ph3 br4 ma2 w-100">
-            <div class="wrap overflow-x-auto h3" id="stores">
+              <a class="link dim black f3 tc dib mr3" href="#" title="Link 1">February</a>
+            </nav>
+        </div>          
+        <div class="ph3 ba br4 ma2 w-100">
+            <h3 class="w-100 tc">Stores</h3>
+            <nav class="wrap overflow-x-auto h3" id="stores">
               <a class="link dim black f3 tc dib mr3" href="#" title="Link 1">store 1</a>
               <a class="link dim black f3 tc dib mr3" href="#" title="Link 1">store 2</a>
-            </div>
-        </nav>
-        <h3 class="w-100 tc">Sales Rep</h3>
-        <nav class="ph3 br4 ma2 w-100">
-            <div class="wrap overflow-x-auto h3" id="reps">
+            </nav>
+        </div>
+        <div class="ph3 br4 ba ma2 w-100">
+            <h3 class="w-100 tc">Sales Rep</h3>
+            <nav class="wrap overflow-x-auto h3" id="reps">
               <a class="link dim black f3 tc dib mr3" href="#" title="Link 1">Rep 1</a>
               <a class="link dim black f3 tc dib mr3" href="#" title="Link 1">Rep 2</a>
-            </div>
-        </nav>
-        <h3 class="w-100 tc">Gender</h3>
-        <nav class="ph3 br4 ma2 w-100">
-            <div class="wrap overflow-x-auto h3" id="gender">
+            </nav>
+        </div>
+        <div class="ph3 br4 ba ma2 w-100">
+            <h3 class="w-100 tc">Gender</h3>
+            <nav class="wrap overflow-x-auto h3" id="gender">
               <a class="link dim black f3 tc dib mr3" href="#" title="Link 1">Male</a>
               <a class="link dim black f3 tc dib mr3" href="#" title="Link 1">Female</a>
-            </div>
-        </nav>
+            </nav>
+        </div>
     </div>
   </div>
   <script src="composingCharts.js"></script>
