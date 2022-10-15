@@ -18,7 +18,7 @@ const barPlot = (dataIn, svgIn, yRef, xRef, refColor) => {
 
     const width = svg.attr('width');
     const height = svg.attr('height');
-    const margin = { left: 70, right: 0, top: 10, bottom: 30 };
+    const margin = { left: 30, right: 40, top: 10, bottom: 30 };
 
     const visHeight = height - margin.top - margin.bottom;
     const visWidth = width - margin.right - margin.left;
@@ -54,12 +54,13 @@ const barPlot = (dataIn, svgIn, yRef, xRef, refColor) => {
     //             .ticks(6, "$.2s"))
     const xAxis = svg.append('g')
         .attr('transform', `translate(${0},${visHeight + margin.top})`)
-        .call(d3.axisBottom(xScale))
+        .call(d3.axisBottom(xScale)
+                .ticks(7, "$.2s"))
         .selectAll("text")  
         .style("text-anchor", "end")
         .attr("dx", "-.1em")
         .attr("dy", ".05em")
-        .attr("transform", "rotate(-25)");;
+        .attr("transform", "rotate(-25)");
 
     axesDomain('x', xAxis, xRef, visWidth, visHeight);
     axesDomain('y', yAxis, yRef, visWidth, visHeight);
@@ -87,6 +88,81 @@ const barPlot = (dataIn, svgIn, yRef, xRef, refColor) => {
         .attr('font-size', '15');
 
 }
+
+const linePlot = (dataIn, svgIn, xRef, yRef, refColor) => {
+    // console.log(dataIn)
+    //get the values to placed on the charts
+    const cleanDataIn = dataIn;
+    // console.log(cleanDataIn)
+    const xData = cleanDataIn.map(d => d[xRef]);
+    const yData = cleanDataIn.map(d => d[yRef]);
+
+    const numberFormat = d3.format(".2s");
+
+    const svg = d3.select(`#${svgIn}`);
+    const width = svg.attr('width');
+    const height = svg.attr('height');
+    const margin = { left: 50, right: 25, top: 25, bottom: 40 };
+
+    const visHeight = height - margin.top - margin.bottom;
+    const visWidth = width - margin.right - margin.left;
+    svg.selectAll('*').remove()
+    const chart = svg.append('g')
+        .attr('transform', `translate(${0}, ${margin.top})`);
+
+    const xScale = d3.scalePoint()
+        .domain(xData)
+        .range([margin.left, visWidth]);
+
+    const yScale = d3.scaleLinear()
+        .domain([0, d3.max(yData)])
+        .range([visHeight, margin.top])
+        .clamp(true);
+
+    const yAxis = svg.append('g')
+        .attr('transform', `translate(${margin.left},${margin.top})`)
+        .call(d3.axisLeft(yScale)
+            .ticks(7, "$.2s"));
+
+    const xAxis = svg.append('g')
+        .attr('transform', `translate(${0},${visHeight + margin.top})`)
+        .call(d3.axisBottom(xScale))
+        .selectAll("text")  
+        .style("text-anchor", "end")
+        .attr("dx", "-.1em")
+        .attr("dy", ".05em")
+        .attr("transform", "rotate(-25)");
+
+    axesDomain('x', xAxis, xRef, visWidth, visHeight);
+    axesDomain('y', yAxis, yRef, visWidth, visHeight);
+    // axesDomain('y',yTgtAxis,'Target',visWidth,visHeight)
+    const bubbles = chart.selectAll('g')
+        .data(cleanDataIn)
+        .join('g');
+
+    const linePath =  d3.line()
+            .curve(d3.curveCardinal)
+            .x(d => xScale(d[xRef]))
+            .y(d => yScale(d[yRef]))
+
+    const linesGroup = chart.append('g');
+    
+    linesGroup.append('path')
+        .attr('d', linePath(cleanDataIn))
+        .attr('fill','none')
+        .attr('stroke-width',2)
+        .attr('stroke', refColor)
+
+    const valuesRef = bubbles
+        .append('text')
+        .attr('x', d => xScale(d[xRef]))
+        .attr('y', d => yScale(d[yRef]))
+        .text(d => `${numberFormat(d[yRef])}`)
+        .attr('fill', refColor)
+        .attr('font-size', '15')
+        .attr('dy', -10);
+}
+
 
 function axesDomain(axis, axisObject, label, visWidth, visHeight){
     if (axis == 'x' || axis == 'X'){

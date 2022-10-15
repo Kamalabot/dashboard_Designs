@@ -28,7 +28,11 @@ const dataAquisition = async ()=>{
         year:parseDate(d['Date']).getFullYear()
     }))
 
-    console.log(cleanSalePerfData)
+    const yearlySales = groupingSum(cleanSalePerfData,'year','revenue')
+    
+    barPlot(yearlySales,'saleBar','category','value','purple')
+
+    // console.log(cleanSalePerfData)
     // Aggregate data points
     var totCogs, totCustomers, totProducts, totTransaction,totProfit;
 
@@ -121,14 +125,36 @@ const dataAquisition = async ()=>{
     const monthlySales = groupingSum(cleanSalePerfData,'month','revenue')
     const monthlyProfit = groupingSum(cleanSalePerfData,'month','profit')
     const monthlyCogs = groupingSum(cleanSalePerfData,'month','cogs')
-    console.log(monthlyCogs)
+    
+    linePlot(monthlySales, 'monthSales', 'category', 'value', 'purple')
+
+    var cogs = document.getElementById('cogsLine')
+    cogs.addEventListener('click',()=>{
+            if(cogs.checked){
+                linePlot(monthlyCogs, 'monthSales', 'category', 'value', 'purple')
+            }
+    })
+
+    var sales = document.getElementById('revenue')
+    sales.addEventListener('click',()=>{
+            if(sales.checked){
+                linePlot(monthlySales, 'monthSales', 'category', 'value', 'purple')
+            }
+    })
+
+    var profit = document.getElementById('profit')
+    profit.addEventListener('click',()=>{
+            if(profit.checked){
+                linePlot(monthlyProfit, 'monthSales', 'category', 'value', 'purple')
+            }
+    })
 }   
 
 function groupingSum(dataset, category, reqdSum){
     var result = d3.rollups(dataset,v => d3.sum(v, f => f[reqdSum]), d => d[category]).map(d => ({
         category: d[0],
         value :d[1] 
-    })).sort((a,b) => d3.descending(a.value, b.value))
+    }))
     return result
 }
 
