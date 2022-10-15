@@ -14,7 +14,7 @@ const dataAquisition = async ()=>{
     
     const cleanSalePerfData = information.map(d=>({
         id: Number(d.Id),
-        category: d.Categories,
+        category: d.Categories.replace(' ',''),
         price: Number(d['Sals Price']),
         qty: Number(d.Qty),
         revenue: Number(d.Revenue),
@@ -87,9 +87,9 @@ const dataAquisition = async ()=>{
 
     
     //Working on providing the event listeners to create explorations
-    eventListenerAdd(cleanSalePerfData,"categs_0", "category", categories[0])
-    eventListenerAdd(cleanSalePerfData,"categs_1", "category", categories[1])
-    eventListenerAdd(cleanSalePerfData,"categs_2", "category", categories[2])
+    eventListenerAdd(cleanSalePerfData,"categs_0", "category", categories[0].product)
+    eventListenerAdd(cleanSalePerfData,"categs_1", "category", categories[1].product)
+    eventListenerAdd(cleanSalePerfData,"categs_2", "category", categories[2].product)
 
     eventListenerAdd(cleanSalePerfData,"pdts_0", "product", products[0].product)
     eventListenerAdd(cleanSalePerfData,"pdts_1", "product", products[1].product)
@@ -205,7 +205,7 @@ function filterPerformance(dataset, filterCat, filterValue){
         let makeReply = {feature: perf, data: sumSeries(filterData,perf)}
         consolidateData.push(makeReply)
     }
-    // console.log(consolidateData)
+    console.log(consolidateData)
     barPlot(consolidateData,'categSales', 'feature','data','purple')
     // return consolidateData
 }
