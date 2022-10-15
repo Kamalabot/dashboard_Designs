@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Pub Sales Analysis</title>
+    <link rel="stylesheet" href="./tachyons.min.css">
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+</head>
+
+<body class="Avenir pa1 bg-teal">
+  <div class="pa1 tc black bg-light-green f3 br4">
+    <h1 class="tc">Drinks and Dimes Dashboard</h1>
+  </div>
+  <div class="fl w-100 cf flex flex-wrap">
+    <div class="w-20 f4 tl flex flex-column" id="left">
+        <div class="ph3 ba br4 w-100">
+            <h3 class="w-100 tc">Months</h3>
+            <nav class="wrap overflow-x-auto h3" id="months">
+            </nav>
+        </div>          
+        <div class="ph3 ba br4 w-100">
+            <h3 class="w-100 tc">Stores</h3>
+            <nav class="wrap overflow-x-auto h3" id="stores">
+            </nav>
+        </div>
+        <div class="ph3 br4 ba w-100">
+            <h3 class="w-100 tc">Sales Rep</h3>
+            <nav class="wrap overflow-x-auto h3" id="reps">
+            </nav>
+        </div>
+        <div class="ph3 br4 ba w-100">
+            <h3 class="w-100 tc">Gender</h3>
+            <nav class="wrap overflow-x-auto h3" id="gender">
+              <a class="link dim black f3 tc dib mr4" href="#" id ="gender_0" title="Link 1">Male</a>
+              <a class="link dim black f3 tc dib mr4" href="#" id ="gender_1" title="Link 1">Female</a>
+            </nav>
+        </div>
+    </div>
+    <div class="fl w-80 f4 tl flex flex-wrap">
+        <div class="fl flex tl ml2 h4 w-100 ba br4" id="midTop"></div>
+        <div class="w-100 f4 tl flex flex-wrap ba br4 ml2" id="midMid">
+            <div class="cf tl w-20 ba br4 pa1 ma2" id="qtySold">
+                <p class="f3 tc" id="qty">10000</p>
+                <h2 class="tc">Quantity Sold</h2>
+            </div>
+            <div class="tl w-20 ba br4 pa1 ma2" id="totSales">
+                <p class="f3 tc" id="sales">10000</p>
+                <h2 class="tc">Total Sales</h2>
+            </div>
+            <div class="tl w-20 ba br4 pa1 ma2" id="cogs">
+                <p class="f3 tc" id="cost">10000</p>
+                <h2 class="tc">COGS</h2>
+            </div>
+            <div class="tl w-20 ba br4 pa1 ma2" id="gProfit">
+                <p class="f3 tc" id="profit">10000</p>
+                <h2 class="tc">Gross Profit</h2>
+            </div>
+        </div>
+        <div class="w-50 f4 tl flex-column flex" id="lowLeft">
+            <div class="tl w-100 ba br4 flex">
+                <div class="w-20 pv1 ma2 tc">
+                    <svg width="100" height="100" class="bg-yellow"></svg>
+                    <p class="f3 tc" id="profit">10000</p>
+                </div>
+                <div class="w-20 pv1 ma2 tc">
+                    <svg width="100" height="100" class="bg-yellow"></svg>
+                    <p class="f3 tc" id="profit">10000</p>
+                </div>
+                <div class="w-20 pv1 ma2 tc">
+                    <svg width="100" height="100" class="bg-yellow"></svg>
+                    <p class="f3 tc" id="profit">10000</p>
+                </div>
+                <div class="w-20 pv1 ma2 tc">
+                    <svg width="100" height="100" class="bg-yellow"></svg>
+                    <p class="f3 tc" id="profit">10000</p>
+                </div>
+            </div>
+            <div class="tl w-100 ba br4">
+                <div class="w-100 pv1 ma1">
+                    <svg width="475" height="150" class="bg-yellow"></svg>
+                </div>
+            </div>
+        </div>
+        <div class="w-50 f4 tl flex ba br4" id="lowRight">
+            <div class="w-100 f4 tl">
+                <div class="w-100 pv1 ma1">
+                    <svg width="475" height="300" class="bg-yellow"></svg>
+                </div>
+            </div>
+        </div>
+    </div>
+  </div>
+  <script src="composingCharts.js"></script>
+  <script src="dashBoardCreator.js"></script>
+</body>
+</html>
