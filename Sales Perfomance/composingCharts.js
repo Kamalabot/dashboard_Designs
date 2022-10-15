@@ -1,19 +1,21 @@
-const lineBarPlot = (dataIn, svgIn, xRef, yRef, yTgt, refColor, tgtColor) => {
+const barPlot = (dataIn, svgIn, yRef, xRef, refColor) => {
     // console.log(dataIn)
     //get the values to placed on the charts
     const cleanDataIn = dataIn;
-    console.log(cleanDataIn)
+    // console.log(cleanDataIn)
     const xData = cleanDataIn.map(d => d[xRef]);
     const yData = cleanDataIn.map(d => d[yRef]);
-    const yTarget = cleanDataIn.map(d => d[yTgt]);
     // console.log(xData, d3.max(yData), yTarget);
-
+    // const shrinkedY = yData.map(d =>d.includes('Women')? 
+    //                     d.replace('Women','W') 
+    //                     :d.replace('Men','M'))
+    // console.log(shrinkedY)
     const numberFormat = d3.format(".2s");
 
     const svg = d3.select(`#${svgIn}`);
     const width = svg.attr('width');
     const height = svg.attr('height');
-    const margin = { left: 50, right: 25, top: 25, bottom: 40 };
+    const margin = { left: 70, right: 0, top: 10, bottom: 30 };
 
     const visHeight = height - margin.top - margin.bottom;
     const visWidth = width - margin.right - margin.left;
@@ -21,13 +23,14 @@ const lineBarPlot = (dataIn, svgIn, xRef, yRef, yTgt, refColor, tgtColor) => {
     const chart = svg.append('g')
         .attr('transform', `translate(${0}, ${margin.top})`);
 
-    const xScale = d3.scalePoint()
-        .domain(xData)
-        .range([margin.left, visWidth]);
-
-    const yScale = d3.scaleLinear()
-        .domain([0, d3.max(yData)])
+    const yScale = d3.scaleBand()
+        .domain(yData)
         .range([visHeight, margin.top])
+        .paddingInner(0.2);
+
+    const xScale = d3.scaleLinear()
+        .domain([0, d3.max(xData)])
+        .range([margin.left, visWidth + 35])
         .clamp(true);
 
     // const tgtScale = d3.scaleLinear()
@@ -35,8 +38,12 @@ const lineBarPlot = (dataIn, svgIn, xRef, yRef, yTgt, refColor, tgtColor) => {
     //     .range([visHeight,margin.top])
     const yAxis = svg.append('g')
         .attr('transform', `translate(${margin.left},${margin.top})`)
-        .call(d3.axisLeft(yScale)
-            .ticks(7, "$.2s"));
+        .call(d3.axisLeft(yScale))
+        .selectAll("text")  
+        .style("text-anchor", "end")
+        .attr("dx", "-.1em")
+        .attr("dy", ".05em")
+        .attr("transform", "rotate(-25)");
 
     // const yTgtAxis = svg.append('g')
     //     .attr('transform',`translate(${visWidth + margin.right},${margin.top})`)
@@ -55,43 +62,21 @@ const lineBarPlot = (dataIn, svgIn, xRef, yRef, yTgt, refColor, tgtColor) => {
 
     const bars = bubbles
         .append('rect')
-        .attr('x', d => xScale(d[xRef]))
+        .attr('x',xScale(0))
         .attr('y', d => yScale(d[yRef]))
-        .attr('width', 30)
-        .attr('height', d => visHeight - yScale(d[yRef]))
+        .attr('height', yScale.bandwidth())
+        .attr('width', d => xScale(d[xRef]) - margin.left)
         .attr('class', 'ref')
         .attr('fill', refColor)
         .attr('opacity', 0.7);
 
-    const linePath =  d3.line()
-            .x(d => xScale(d[xRef]))
-            .y(d => yScale(d[yTgt]))
-
-    const linesGroup = chart.append('g');
-    
-    linesGroup.append('path')
-        .attr('d', linePath(cleanDataIn))
-        .attr('fill','none')
-        .attr('stroke-width',2)
-        .attr('stroke', tgtColor)
-
-
     const valuesRef = bubbles
         .append('text')
         .attr('x', d => xScale(d[xRef]))
-        .attr('y', d => yScale(d[yRef]))
-        .text(d => `${numberFormat(d[yRef])}`)
+        .attr('y', d => yScale(d[yRef]) + yScale.bandwidth())
+        .text(d => `${numberFormat(d[xRef])}`)
         .attr('fill', refColor)
         .attr('font-size', '15');
-
-    const valuesTgt = bubbles
-        .append('text')
-        .attr('x', d => xScale(d[xRef]))
-        .attr('y', d => yScale(d[yTgt]))
-        .text(d => `${numberFormat(d[yTgt])}`)
-        .attr('fill', tgtColor)
-        .attr('font-size', '15')
-        .attr('dy', -10);
 
 }
 
@@ -115,8 +100,8 @@ function axesDomain(axis, axisObject, label, visWidth, visHeight){
         .attr('text-anchor', 'start')
         .attr('dominant-baseline', 'hanging')
         .attr('font-weight', 'bold')
-        .attr('y',25)
-        .attr('x',-50)
+        .attr('y',-2)
+        .attr('x',-30)
         .text(label);
     }
 }
