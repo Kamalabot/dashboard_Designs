@@ -1,4 +1,5 @@
 const barPlot = (dataIn, svgIn, yRef, xRef, refColor) => {
+
     // console.log(dataIn)
     //get the values to placed on the charts
     const cleanDataIn = dataIn;
@@ -13,6 +14,8 @@ const barPlot = (dataIn, svgIn, yRef, xRef, refColor) => {
     const numberFormat = d3.format(".2s");
 
     const svg = d3.select(`#${svgIn}`);
+    svg.selectAll('*').remove()
+
     const width = svg.attr('width');
     const height = svg.attr('height');
     const margin = { left: 70, right: 0, top: 10, bottom: 30 };
@@ -125,7 +128,7 @@ const pieChartMaker = (data, parentId)=>{
     var arcGenerator = d3.arc()
         .innerRadius(width / 4)
         .outerRadius(width / 2);
-    console.log(arcData)
+    // console.log(arcData)
     svg.append('g')
         .attr('transform',`translate(75,100)`)
         .selectAll('path')
