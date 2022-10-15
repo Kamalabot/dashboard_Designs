@@ -16,14 +16,14 @@ const dataAquisition = async ()=>{
         category: d.Category,
         cost: Number(d.Cost),
         customerName: d['Customer Name'],
-        genter: d.Gender,
+        gender: d.Gender,
         grossProfit: Number(d['Gross Profit']),
         price: Number(d.Price),
         product: d.Product,
         qty: Number(d.Qty),
         dateSold: parseDate(d['Sales Date']),
         saleId:d['Sales ID'],
-        salesRep: d['Sales Reps'],
+        reps: d['Sales Reps'],
         stores:d.Stores,
         totalSales: Number(d['Total Sales']),
         txnType: d['Trans.Types'],
@@ -45,7 +45,7 @@ const dataAquisition = async ()=>{
     totCustomers= d3.rollups(cleanSalePerfData,v => v.length, d => d.customerName).length;
     totProducts= d3.rollups(cleanSalePerfData,v => v.length, d => d.product).length;
     totStores= d3.rollups(cleanSalePerfData,v => v.length,d => d.stores).length;
-    totReps = d3.rollups(cleanSalePerfData,v => v.length,d => d.salesRep).length;
+    totReps = d3.rollups(cleanSalePerfData,v => v.length,d => d.reps).length;
 
     // console.log(totQtySold, totSales, totCogs, totProfit, totCustomers, totTransaction, totProducts, totStores)
 
@@ -54,7 +54,7 @@ const dataAquisition = async ()=>{
         count: d[1]
     }));
     var stores= d3.rollups(cleanSalePerfData,v => v.length,d => d.stores).map(d => d[0]);
-    var reps = d3.rollups(cleanSalePerfData,v => v.length,d => d.salesRep).map(d => d[0]);
+    var reps = d3.rollups(cleanSalePerfData,v => v.length,d => d.reps).map(d => d[0]);
     // console.log(reps)
     var months = [... new Set(cleanSalePerfData.map(d => d.dateSold.toLocaleString('default', { month: 'long' })))]
     // console.log(months)
@@ -86,17 +86,39 @@ const dataAquisition = async ()=>{
     }
     //populating the product analysis columns
     let domId = document.getElementById("months")
-    var id = 0;
+    var idx = 0;
     for(let elt of months){
-        let htmlFrag = `<a class="link dim black f3 dib mr5 tc" href="#" title="Link ${id + 1}">${elt}</a>`
+        //Adding months string to page
+        let htmlFrag = `<a class="link dim black f3 dib mr5 tc" href="#" id="months_${idx}" title="Link ${idx + 1}">${elt}</a>`
         domId.innerHTML += htmlFrag;
-        id += 1;
+        //Adding Event listener to each month link
+        eventListenerAdd(cleanSalePerfData,`months_${idx}`, "month", `${elt}`)
+        idx += 1;
     }
-    populateNav(stores,'stores')
-    populateNav(reps,'reps')
 
-    //Working on the charts
-    console.log(filterPerformance(cleanSalePerfData,'month','July'))
+    populateNav(cleanSalePerfData, stores,'stores')
+    populateNav(cleanSalePerfData, reps,'reps')
+
+    //Working on providing the event listeners to create explorations
+    eventListenerAdd(cleanSalePerfData,"months_0", "month", months[0])
+    eventListenerAdd(cleanSalePerfData,"months_1", "month", months[1])
+    eventListenerAdd(cleanSalePerfData,"months_2", "month", months[2])
+    eventListenerAdd(cleanSalePerfData,"months_3", "month", months[3])
+
+    eventListenerAdd(cleanSalePerfData,"stores_0", "stores", stores[0])
+    eventListenerAdd(cleanSalePerfData,"stores_1", "stores", stores[1])
+    eventListenerAdd(cleanSalePerfData,"stores_2", "stores", stores[2])
+    eventListenerAdd(cleanSalePerfData,"stores_3", "stores", stores[3])
+
+    eventListenerAdd(cleanSalePerfData,"reps_0", "reps", reps[0])
+    eventListenerAdd(cleanSalePerfData,"reps_1", "reps", reps[1])
+    eventListenerAdd(cleanSalePerfData,"reps_2", "reps", reps[2])
+    eventListenerAdd(cleanSalePerfData,"reps_3", "reps", reps[3])
+
+    eventListenerAdd(cleanSalePerfData,"gender_0", "gender", 'Male')
+    eventListenerAdd(cleanSalePerfData,"gender_1", "gender", 'Female')
+
+    // console.log(filterPerformance(cleanSalePerfData,'month','July'))
     barPlot(products, 'chart1', 'product', 'count', 'orange')
 
 }   
@@ -111,13 +133,21 @@ function groupingSum(dataset, category, reqdSum){
 
 function filterPerformance(dataset, filterCat, filterValue){
     let filterData = dataset.filter(d => d[filterCat] == filterValue)
+    let consolidateData =[];
+    let performanceMetrics = ['totalSales', 'grossProfit','cogs'];
+    for( let perf of performanceMetrics){
+        let makeReply = {feature: perf, data: sumSeries(filterData,perf)}
+        consolidateData.push(makeReply)
+    }
     var reply = {
         totSales:sumSeries(filterData,'totalSales'),
         grossProfit:sumSeries(filterData,'grossProfit'),
         cogs:sumSeries(filterData,'cogs'),
         qty: sumSeries(filterData,'qty')
     }
-    return reply
+    
+    barPlot(consolidateData,'chart1', 'feature','data','orange')
+    // return consolidateData
 }
 
 function sumSeries(dataset, series){
@@ -130,14 +160,27 @@ function dataSentId(value, id){
     elt.textContent = value
 }
 
-function populateNav(arrayList, id){
+function populateNav(mainDataSet,arrayList, id){
     let domId = document.getElementById(id)
-    var id = 0;
+    var idx = 0;
     for(let elt of arrayList){
-        let htmlFrag = `<a class="link dim black f3 dib mr3" href="#" title="Link ${id + 1}">${elt}</a>`
+        let htmlFrag = `<a class="link dim black f3 dib mr3" href="#" id="${id}_${idx}" title="Link ${idx + 1}">${elt}</a>`
         domId.innerHTML += htmlFrag;
-        id += 1;
+        //Adding Event listener to each link and initiating the values which it will filter
+        idx += 1;
     } 
+}
+
+function eventListenerAdd(maindataset, id, filterCat, filterValue){
+    console.log(`Entering from ${id} with ${filterCat} and ${filterValue}`)
+    let eleId = document.getElementById(id)
+    eleId.addEventListener('click',()=>{
+        console.log(`Entering from ${id} with ${filterCat} and ${filterValue}`)
+        //maindataset is the data that hte filter will work on. filterCat is the category in the data
+        let filteredData = filterPerformance(maindataset, filterCat, filterValue)
+        console.log(filteredData)
+    })
+
 }
 
 dataAquisition()
