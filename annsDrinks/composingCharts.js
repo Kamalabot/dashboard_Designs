@@ -97,7 +97,7 @@ const linePlot = (dataIn, svgIn, xRef, yRef, refColor) => {
     const xData = cleanDataIn.map(d => d[xRef]);
     const yData = cleanDataIn.map(d => d[yRef]);
 
-    const numberFormat = d3.format(".2s");
+    const numberFormat = d3.format(".3s");
 
     const svg = d3.select(`#${svgIn}`);
     const width = svg.attr('width');
@@ -163,6 +163,72 @@ const linePlot = (dataIn, svgIn, xRef, yRef, refColor) => {
         .attr('dy', -10);
 }
 
+const lineQtrPerfPlot = (dataIn, svgIn, xRef, yRef, refColor) => {
+    // console.log(dataIn)
+    //get the values to placed on the charts
+    const cleanDataIn = dataIn;
+    console.log(cleanDataIn)
+    const xData = cleanDataIn.map(d => d[xRef]);
+    const yData = cleanDataIn.map(d => d[yRef]);
+    console.log(xData)
+    const numberFormat = d3.format(".3s");
+
+    const svg = d3.select(`#${svgIn}`);
+    const width = svg.attr('width');
+    const height = svg.attr('height');
+
+    svg.selectAll('*').remove()
+    const chart = svg.append('g')
+        .attr('transform', `translate(${10}, 0)`);
+
+    const xScale = d3.scalePoint()
+        .domain(xData)
+        .range([20, 650])
+
+    const bubbles = chart.selectAll('g')
+        .data(cleanDataIn)
+        .join('g');
+
+    const circles = bubbles.append('circle')
+        .attr('cx', d => xScale(d[xRef]))
+        .attr('cy', 50)
+        .attr('r', 25)
+        .attr('fill','purple')
+        // .attr('stroke-width',5)
+        .attr('opacity',0.4)
+
+    const linePath =  d3.line()
+            .curve(d3.curveCardinal)
+            .x(d => xScale(d[xRef]))
+            .y(d => height / 2)
+
+    const linesGroup = chart.append('g');
+    
+    linesGroup.append('path')
+        .attr('d', linePath(cleanDataIn))
+        .attr('fill','none')
+        .attr('stroke-width',2)
+        .attr('stroke', refColor)
+
+    const valuesRef = bubbles
+        .append('text')
+        .attr('x', d => xScale(d[xRef]))
+        .attr('y', (height / 2 )+ 25)
+        .text(d => `${numberFormat(d[yRef])}`)
+        .attr('fill', refColor)
+        .attr('font-size', '15')
+        .attr('dy', -10);
+
+    const qtrRef = bubbles
+        .append('text')
+        .attr('x', d => xScale(d[xRef]))
+        .attr('y', (height / 2 )- 20)
+        .text(d => `${d[xRef]}`)
+        .attr('fill', refColor)
+        .attr('font-size', '15')
+        .attr('dy', -10);
+}
+
 
 function axesDomain(axis, axisObject, label, visWidth, visHeight){
     if (axis == 'x' || axis == 'X'){
@@ -190,7 +256,7 @@ function axesDomain(axis, axisObject, label, visWidth, visHeight){
     }
 }
 
-const pieChartMaker = (data, parentId)=>{
+const pieChartMaker = (data, refData, parentId)=>{
     const svg = d3.select(`#${parentId}`)
     const height = svg.attr('height')
     const width = svg.attr('width')
@@ -200,18 +266,18 @@ const pieChartMaker = (data, parentId)=>{
                 .startAngle(0.5 * Math.PI)
                 .endAngle(-0.5 * Math.PI);
 
-    var data = [100 - data, data];
+    var data = [refData - data, data];
     var arcData = pieGenerator(data);
 
     var fillScale = d3.scaleOrdinal()
         .range(['purple', "orange"])
 
     var arcGenerator = d3.arc()
-        .innerRadius(width / 4)
-        .outerRadius(width / 2);
+        .innerRadius(width / 5)
+        .outerRadius(width / 3);
     // console.log(arcData)
     svg.append('g')
-        .attr('transform',`translate(75,100)`)
+        .attr('transform',`translate(40,100)`)
         .selectAll('path')
         .data(arcData)
         .join('path')

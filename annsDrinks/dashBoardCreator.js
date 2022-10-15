@@ -10,6 +10,8 @@ const dataAquisition = async ()=>{
     var monthNames= ["January","February","March","April","May","June","July",
             "August","September","October","November","December"];          
 
+    
+    
     const cleanSalePerfData = information.map(d=>({
         id: Number(d.Id),
         category: d.Categories,
@@ -25,14 +27,15 @@ const dataAquisition = async ()=>{
         dateSold: parseDate(d['Date']),
         reps: d['Sales Reps'],
         month: monthNames[parseDate(d['Date']).getMonth()],
-        year:parseDate(d['Date']).getFullYear()
+        year:parseDate(d['Date']).getFullYear(),
+        qtr: getQuarter(parseDate(d['Date']).getMonth())
     }))
 
     const yearlySales = groupingSum(cleanSalePerfData,'year','revenue')
     
     barPlot(yearlySales,'saleBar','category','value','purple')
 
-    // console.log(cleanSalePerfData)
+    console.log(cleanSalePerfData)
     // Aggregate data points
     var totCogs, totCustomers, totProducts, totTransaction,totProfit;
 
@@ -62,10 +65,18 @@ const dataAquisition = async ()=>{
         product: d[0],
         count: d[1] 
     }));
-    // console.log(customers)
+    const repSales = groupingSum(cleanSalePerfData,'reps','revenue')
+    const totalRepSales = sumSeries(repSales,'value')
+    console.log(totalRepSales)
     var months = [... new Set(cleanSalePerfData.map(d => d.month))]
     // console.log(months)
-
+    var repIdx = 0;
+    for(let name of repSales){
+        dataSentId(numberFormat(name.value),`sales${repIdx + 1}`)
+        dataSentId(name.category,`name${repIdx + 1}`)
+        pieChartMaker(name.value, totalRepSales, `rep${repIdx + 1}`)
+        repIdx += 1;
+    }
 
     dataSentId(numberFormat(totProducts),"drinks")
     dataSentId(numberFormat(totCustomers),"custs")
@@ -74,6 +85,7 @@ const dataAquisition = async ()=>{
     populateNav(cleanSalePerfData, categories,'categs')
     populateNav(cleanSalePerfData, products,'pdts')
 
+    
     //Working on providing the event listeners to create explorations
     eventListenerAdd(cleanSalePerfData,"categs_0", "category", categories[0])
     eventListenerAdd(cleanSalePerfData,"categs_1", "category", categories[1])
@@ -125,6 +137,8 @@ const dataAquisition = async ()=>{
     const monthlySales = groupingSum(cleanSalePerfData,'month','revenue')
     const monthlyProfit = groupingSum(cleanSalePerfData,'month','profit')
     const monthlyCogs = groupingSum(cleanSalePerfData,'month','cogs')
+
+    filterPerformance(cleanSalePerfData, 'gender', 'M')
     
     linePlot(monthlySales, 'monthSales', 'category', 'value', 'purple')
 
@@ -148,7 +162,32 @@ const dataAquisition = async ()=>{
                 linePlot(monthlyProfit, 'monthSales', 'category', 'value', 'purple')
             }
     })
+
+    var qtrRevenuePerformances = quarterConsolidation(cleanSalePerfData, 'revenue', 2020)
+    // console.log(qtrRevenuePerformances)
+    lineQtrPerfPlot(qtrRevenuePerformances, 'mtop', 'qtrs','value', 'purple')
 }   
+
+function getQuarter(month){
+    if (month >=0 && month < 3){
+        return 'Qtr1'
+    } else if (month >= 3 && month < 6 ){
+        return 'Qtr2'
+    } else if (month >= 6 && month < 9){
+        return 'Qtr3'
+    } if( month >= 9){
+        return 'Qtr4'
+    }
+}
+
+function quarterConsolidation(dataset, reqdCateg, year){
+    var yearFilterData = dataset.filter(d => d['year'] == year);
+    var result = d3.rollups(yearFilterData,v => d3.sum(v, f => f[reqdCateg]), d => d['qtr']).map(d => ({
+        qtrs: d[0],
+        value: d[1] 
+    }))
+    return result
+}
 
 function groupingSum(dataset, category, reqdSum){
     var result = d3.rollups(dataset,v => d3.sum(v, f => f[reqdSum]), d => d[category]).map(d => ({
@@ -166,7 +205,7 @@ function filterPerformance(dataset, filterCat, filterValue){
         let makeReply = {feature: perf, data: sumSeries(filterData,perf)}
         consolidateData.push(makeReply)
     }
-    console.log(consolidateData)
+    // console.log(consolidateData)
     barPlot(consolidateData,'categSales', 'feature','data','purple')
     // return consolidateData
 }
