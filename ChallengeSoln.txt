@@ -1,0 +1,125 @@
+Customer Segmentation Dashboard tells the story of product sales and profit about regional customers. Analytical users studying business growth across regions and profit distribution among customers can use it to acquire valuable insights. They get access to detailed information via the appropriate Visualizations and information hierarchy. Key highlights of this Dashboard include – Region-wise money flow and the customers’ product-specific turnover with respect to time. 
+
+
+Challenges  
+
+Some of major challenges faced by client were :
+
+Our Client with offices spread across various geographies was facing predicaments in identifying the most approachable and valuable customers in the industry 
+As a result, the client wanted to leverage superior customer segmentation strategies to gain a deeper understanding of their clients, buying preferences, and value perceptions 
+ This would help the client gain a superior competitive advantage over their competitors and accordingly tailor customer offerings  
+
+Solution  
+
+Solution provided by InfoCepts helped Customer overcome above challenges. 
+
+The comprehensive analysis of the obtained information helped the client to segment customers into smaller groups and gain an in-depth understanding of their behavior patterns
+The client was also able to identify the buying behavior and discover the unmet need of the customers
+Customer segmentation further helped the client devise better pricing strategies and marketing campaigns to reach out to the ideal target audience
+
+Student Analyst Dashboard is intended to provide information about Student applications and their performance to Educational Institutions and Universities. It makes insights of every applicant, historical to contemporary, viable to be comprehended at a glance, especially when applications are coming from different parts of the world. This Dashboard consists of three tabs. ‘Applicant’ tab contains detailed summary of every student applicant including Nationality, Country of origin, score, preferred course etc. ‘Appeal and Transfer’ tab contains information about number of appeals, application in process, mode of transfer and reason of transfer. ‘Student’ tab gives personal information of students and summary of their performance till date.   
+
+   
+
+ Challenges  
+
+Some of the major challenges faced by the Client were- 
+
+Collating and maintaining data of every applicant till date from disparate sources posed a challenge 
+Lack of aggregated summary data linking departments and courses 
+Lack of systematic analysis on Faculty ranking, program ranking according to performance and demand respectively 
+Lack of detailed analysis on performance of every student  
+ 
+
+ Solution  
+
+ Our solution enabled the following capabilities to address customer challenges: 
+
+Interactive and seamless interface that accelerated the decision-making process 
+Dashboard provides information about every applicant with aggregated summary data as well as detailed analysis 
+Dashboard contains visualizations clearly depicting current ranking of program/faculty in comparison with last year’s ranking   
+It provides information about students through visuals containing their CAP threshold, year-on-year improvement etc
+
+Our client is Asia’s topmost and a world-leading comprehensive research university. The dashboard provides information on Water, Power, Utility and Energy consumption across all their facilities in the university and helps in supporting the productivity of those facilities. It provides facility wise costing details on each of the parameters and can be compared to similar data from the previous year or month. Our client uses this dashboard to understand the current state of operation and get useful insights on analyzing the consumption and costing trend. 
+
+ 
+
+ Challenges 
+
+Some of the major challenges faced by the client previously were : 
+
+Maintaining valuable assets, such as buildings, equipment and other elements of the operation 
+No way for statistical analysis of data for planning and management for the purpose of minimizing costs, maximizing utility, and flexible maintenance 
+No way for historical analysis of costs, trend, and changes over time 
+ 
+
+Solution 
+
+We at InfoCepts provided a platform for the management to get instant insight on energy consumption level, evaluation on higher use facilities and discuss their potential problems 
+
+This helps to eliminate waste, reduce and control the current level of energy use and improve the existing operating procedures 
+Keen Insight on budget, cost, and productivity enabling qualitative growth on education and facilities in the university 
+
+Our client is one the largest Specialty retailer in USA. To get continuous growth in retail Industry, Companies need to be well aware of every store performance on a daily basis. The client used to generate the store performance reports manually, which involved a lot of human efforts, time, and cost. This retail store performance dashboard provides a complete overview of sales happening in brick-and-mortar stores located in different counties of USA.
+
+ 
+
+Challenges  
+
+Major challenges faced by the client for monitoring store performance were :
+
+The reports were being manually generated by the Business office for each store and were being mailed to each store individually. It used to take a lot of time and effort 
+As data was being stored in excel sheets, getting periodic comparisons(like last year vs. this year) for analysis was not possible  
+Extracting useful insights from a huge amount of data was a tedious job 
+ 
+
+Solution  
+
+ Solution provided by InfoCepts enabled the following capabilities to address customer challenges : 
+
+Automate the data feeds from excel sheets into Datawarehouse which acts as a source for generating reports 
+Centralized application storing data for all stores and providing the correct level of data security as per user roles  
+Useful insights like Traffic and Conversion, Sales trend by Traffic and by worked hours, etc. are handy for Store Managers 
+Leadership Management tab of the dashboard helps senior managers in analyzing trends across stores and taking better decisions
+
+A Sales Professional needs a mobile app to get insights on sales performance, gains, declines and customer data analysis on a monthly and yearly basis. We developed a Mobile App for Sales Professionals to have their Retail Analytics on fingertips, enabling faster and precise decision-making.
+
+Challenges
+
+Capturing accurate call level information for analysis
+Lack of non-purchasing customers information
+Obtaining authentic member details for SIB Metrics
+ 
+
+Solution
+
+We created a multi-screen iPad app for the sales team that gives a snapshot of how a member is performing against their sales targets
+
+Ability to get information on the products they need to focus on today, who are the customers that need speaking to, growing customers, declining customers and who are non-purchasing customers
+This App also provides details like call analysis feature and analysis of number of total calls have made to customers and to each Business class
+We have included offline capabilities for accessing the application in remote areas
+
+Marketing Performance analysis provides an at-a-glance summary of the Sales manager’s performance which helps both the team and the individual a single source of truth. It provides a high-level view of all the key KPIs on the sales performance of a Marketing manager. These KPIs help the marketing team and the salesperson to take decisions on the strong and weak pointers depending upon Leads, Leads Conversion Rates, Revenue, and Market Size. Each lead, visits and the conversion helps the team to make decisions for their specific regions. The analysis helps categorize deals based on different opportunities like Customer and Product Surveys, Campaigns, etc. and the profit or revenue earned by them.
+
+ 
+
+Challenges
+
+The marketing team finds it difficult to track the performance of marketing managers across different regions and have a holistic view of leads and conversions
+Unaware about different competitors in the market and unable to compare performance
+Delayed decisions tend to reduce the conversion rates of leads to deals
+Absence of a sophisticated view of Sale, Leads, conversions, deals, opportunities, revenue, etc
+The inability to focus on weak pointers/leads to improve the conversion value
+ 
+
+Solution
+
+Our Marketing Dashboards focused on Sales performance KPIs and Leads to Deals conversion KPIs :
+
+Managers Sales performance to gauge performance of individual Marketing manager in respective region
+Leads and its conversion into Deals from different sources such as Campaigns, Partners, Trade shows, Websites, etc
+Leads to Deals conversion analysis to understands how many leads got converted into successful deals
+Analyzing moves of market leaders alongside the moves of other competitors
+The breakup of Revenue across different time series
+Analysis across Deal size across different competitors and opportunities
+Opportunities and Prospect deals
