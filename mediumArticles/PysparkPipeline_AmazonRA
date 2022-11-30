@@ -1,0 +1,126 @@
+Pyspark Pipeline with Malformed Excel Worksheet
+
+Objective: To discuss the implementation of the Pyspark pipeline with a realworld data. Start from the very beginning.
+- Diving into real world file formats.(Ignore it
+- XL file provided by third-party, 
+- File is read into temporary Pandas dataframe,
+- Data from worksheet is extracted into multiple dataframes,
+- Pandas DF is converted to Pyspark DF
+- PysparkDF is written to the Database and CSV File (Output 1)
+- Data is analysed and data manipulated for Data visualisation and ML model, 
+- ML pipeline is created using MLlib 
+- Prediction dataframe is returned.
+- Dataframe is written to the Database and CSV File (Output 2)
+
+SideEffect: I explore Pyspark ecosystem to find some unique concepts that were missed. Especially the concepts the data engineers and those working in data must in detail
+ 
+Real world Files:
+
+When you want to do real-world data analysis, have you been overwhelmed by the number of files that needs to be ingested, or confused with the multiple tables inside the excel worksheet shared with you? 
+1) The files and worksheets are reflection of the thinking method the creator has. People think in a non-linear, and inter-connected way, and the tools like excel works as a canvas. That results in multiple tables inside a single worksheet handed over to you.
+
+2) Another common challenge is to have huge number of files in individual subfolders. The file format may be text/csv/json or any of the compressed formats out there. The data inside these files are organised into individual tables, with its own column names and schema. These files are created from a database, an application or another program. You must have guessed, the file creator's mind has been forced to use a set of formats.
+
+3) Then comes the ubiquitous text files, that either have extensions or simply just a name. Webscraping data, Logfiles, ML models, configuration files, output of devices, blog posts, ascii arts(https://en.wikipedia.org/wiki/ASCII_art) etc comes unders this category. Machines and some humans have fetish for files without extensions. Those of us, who have used used notepad to create text file might think, these files cannot become complicated. Text files, due to its freedom, can contain data in a very convoluted fashion, or might have structured formats like Json/ CSV written in wrong format. Such formats when created by machines or programs makes me think that programs were faulty, however the reality is, the programmmer mind was entangled in multiple priorities.Dealing with text files in Pyspark is simplified too, but will be taken up in a seperate post
+
+RDDs and RDD Dataframes:
+Pyspark has excellent support for the more structured data, even when the files are nested inside multiple folders. By default pyspark does recursiveFileLookup when the folder path is provided. The read method in SparkSession has following arguments that are frequently used in reading in the file. In this case "CSV" file format. Notice the "recursiveFileLookup" argument which is a booleanType. So if you  
+
+Signature:
+sparkSession.read.csv(
+    path: Union[str, List[str]],
+    schema: Union[pyspark.sql.types.StructType, str, NoneType] = None,
+    sep: Optional[str] = None,
+    header: Union[bool, str, NoneType] = None,
+    inferSchema: Union[bool, str, NoneType] = None,
+    recursiveFileLookup: Union[bool, str, NoneType] = None,
+) -> 'DataFrame'
+
+The unstructed variety of the files can be processed with Pyspark RDDs. Which can be read into the Spark Context using  sparkContext.textFile(filePath). 
+
+Signature:
+sparkContext.textFile(
+    name: str,
+    minPartitions: Optional[int] = None,
+    use_unicode: bool = True,
+) -> pyspark.rdd.RDD[str]
+
+Notice the object type from each method. The former is a Dataframe, while the later is a RDD. I will let you to explore reading in the structured and unstructured file format into Pyspark session, and see how the data inside the objects are structured. Takes some time to get used to the RDD object. I had discussed about manipulating RDDs with map-filter-reduce option here. It can jumpstart your exploration
+
+Then why fallback to Pandas?
+To uphold the DRY principle. When someone has already written much of the clean up functions and attached it to pandas dataframe objects as methods, it is inefficient to re-invent the wheels. Ensure Pandas and Openpyxl libraries are installed. The file reading is done as below. The methods you will need from pandas are
+
+1) pd.read_excel
+2) ds.columns
+3) ds.dropna(axis=0/1,inplace=True)
+4) ds.iloc[1:,:]
+5) ds[[columns,that,you,need]]
+
+ds= pd.read_excel("sales Target Dashboard.xlsx",sheet_name="DataSource",
+                          parse_dates=True)
+                          
+Start by looking at the columns that are read into the dataframe using ds.columns. Which might show outputs that contains named columns mixed with unnamed columns. The unnamed columns usually contain null values, so safely dropped. But in case of excel worksheets, scrutinize the dataframe more closely.
+
+Index(['S/N', 'Date', 'Branch', 'Pizza Type', 'Quantity', 'Time', 'Time Range',
+       'Price', 'Unnamed: 11','Unnamed: 12', 'Daily Target', 'Unnamed: 14', 
+       'Sales Target','Unnamed: 19','Branch.1', 'Unnamed: 24',
+       'Unnamed: 25'],
+      dtype='object')
+
+The data inside the worksheets are like islands seperated by ocean of empty cells. Use the iloc[...] and ds[[column,names]] commands to cut out the columns and rows that have some data inside it and discard the empty cells later by using the ds.dropna() method. After this activity, you will have multiple dataframes, with clean data inside. The columns of the dataframes will look something like below
+
+saledata.columns => ['S/N', 'Date', 'Branch', 'Pizza Type', 'Quantity', 'Time', 'Time Range','Price']
+branchdata.columns =>['DailyTarget', 'SalesTarget']
+branchtarget.columns => ['Branch', 'Manager', 'Location']
+
+Pandas to Pyspark world:
+
+To move from pandas to pyspark world, the magic command is,
+
+sparkDF = sparkSession.createDataFrame(pandas_dataframe_object)
+
+That will convert the pandas dataframe, and extend the SQL and Spark methods for processing data. I am addicted with the functionality SQL functions provide. On top of it the functions can be chained inside the select statement, as if writing regular sql query. It is very intuitive to work with, and easy to learn. The pre-requisite is you have practiced your SQL chops. There is a very good reason for you to master SQL, now. 
+
+Writing out the dataframe to CSV file and to Database:
+
+Pyspark dataframes can be written to csv files to the local folder and it can be written out directly to Database, if 
+- Appropriate JDBC drivers are available 
+- Spark session has been configured to use the drivers and then started. 
+- Pyspark dataframe is created using thus configured spark session. 
+
+If any of the above steps is missed, then writing to the database will error out( okay, throw an exception!!!)
+
+The below function takes the pyspark dataframe, and pushes it directly to the database of your choice, with the tableName of your choice.
+
+```
+def writingSparkDFtoDatabase(sparkDF,dbName,dbTableName):
+    
+    try:
+        sparkDF.write \
+                    .format('jdbc') \
+                    .option("url", f"jdbc:postgresql://localhost:5432/{dbName}") \
+                    .option('dbtable', dbTableName) \
+                    .option('user','postgres') \
+                    .option('password', 1234) \
+                    .option('driver','org.postgresql.Driver') \
+                    .save(mode='overwrite')
+        print('Write Complete')
+    except Exception as e:
+        print(f'Write errored out due to {e}')
+```
+
+To write the dataframe to csv file following signature is used. And note, the path has to be "folder name". Pyspark writes multiple files to the folder, since pyspark works in a distributed environment.
+
+psDataframeObject.write.csv(
+    path: str,
+    mode: Optional[str] = None,
+    compression: Optional[str] = None,
+    header: Union[bool, str, NoneType] = None,
+) -> None
+
+Time for Truth about Pipelines:
+
+There are two pipelines that is used in data processing. The data ingestion and extraction pipeline that I have discussed above. Another pipeline is, actually an Object inside Pyspark environment. The pipeline of the Object kind is invoked by calling the Pipeline function
+
+from pyspark.ml import PipeLine
+
