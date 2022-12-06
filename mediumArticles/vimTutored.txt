@@ -28,13 +28,15 @@ I am trying to copy from that clipboard.
 
 What i learnt is that every command can be multiplied 
 by using that number before invoking
-
 If you see a misplaced "that" it because 'of using the '
 excellent search and replace command
 
 ```
 %s/oldWord/newWord/g
 ```
+If you use gVim, you can get copy-on-select behaviour when using :set guioptions+=a.
+This is enabled by default on X11 systems (copies to PRIMARY), but not on MS Windows & OSX (as selecting any text would override your clipboard).
 
-
+No +clipboard?
+Vim requires the +clipboard feature flag for any of this to work; you can check if your Vim has this by using :echo has('clipboard') from within Vim (if the output is 0, it's not present, if it's 1, it is), or checking the output of vim --version for +clipboard.
 There

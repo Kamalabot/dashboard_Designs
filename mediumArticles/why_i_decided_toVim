@@ -1,0 +1,95 @@
+
+Why I decided to Vim?
+Files. That is the only reason.
+
+Vim creates a love hate relation to anyone trying grok it. The secret lies in the teacher who teaches you. Teachers who can teach Vim are passionate, have imagination, believe that Vim makes linux user’s lives better, and genuinely feel that moving to Vim will be biggest favor we do to ourselves.
+
+Occam’s Razor: The passion, extensive use and imagination of the teacher means these teachers have failed a lot more, managed to be patient and learnt to Vim. They can consolidate their understanding of the Vim commands and come up with the most used commands. Much of the work in Vim is done using the below 15 commands.
+
+How is this related to Data Engineering?
+
+Files. Every thing that we do in data engineering will deal with files of some kind. They are mostly on Linux. Suddenly you will find working with files in 10 different folder, spread across 5 different cloud services and 8 different docker images. Using GUI will bog you down like 50 dollar server. I thought to myself that, its high time I learnt Vim from Derek.
+
+DT, a youtuber hosting DistroWatch channel. He could be found talking here.
+
+https://www.youtube.com/c/distrotube
+
+These commands are not substitute for DT’s video. Please watch his video for better understanding. It is kind of a intuitive cheat sheet. Now to the meat of the stuff. Lets jump into commands
+
+Modes:
+i ==> Insert
+v ==> Visual
+Esc ==> Normal 
+
+Moves only possible in Normal Mode
+j ==> down / junk
+k ==> up/ kick
+l ==> right / lane change
+h ==> left / head left 
+
+These commands can be augmented by typing the number before the invoking them
+
+10j ==> will take cursor 10 lines down
+9l ==> will move the cursor 9 characters right
+We all want to copy | paste code from multiple locations. Vim by default doesn’t come with its own clipboard. I learnt it the hard way, and searched stack-exchange and found the following
+
+In the Normal mode 
+type ":echo has('clipboard')"
+if the reply is 1 then there is clipboard
+else No clipboard
+How to enable Clipboard?
+
+Install gvim. Graphical Vim brings with it the clipboard, which the regular command line Vim will inherit. Then with a bit more command foo like below
+
+"+p ==> paste the content from your clipboard
+"+u ==> yank the content from Vim to clipboard
+
+at the bottom you will see vim telling how many lines where yanked / pasted
+Now comes the killer moves that you guys are waiting for. Moving like a Ninja inside the file that you are working.
+
+e ==> moves / ejects the cursor to the end of the word 
+w ==> whacks the cursor to beginning of the word
+b ==> moves / bashes the cursor backwards
+
+same like the above commands the numbers can be prepended to these letters, and 
+that much number of moves will be seen on the cursor
+
+f'a character' ==> forward to cursor on "that character"
+t'a character' ==> track the cursor before " that character"
+Okay, tell us how we Undo / Redo?
+
+Coming to it. I had to nervously review Derek Video after I screwed up Space vim’s init.toml file. I wanted to redo something, and there DT explained as follows
+
+u ==> undo
+ctrl + r ==> redo
+Now for Find and Replace
+
+#find and replace
+move into Normal mode
+:%s/currentWord/newWord
+
+#Just find
+/word ==> will locate the word instances. Can move to each word with "n"
+?word ==> will locate the word instances. Can move to each word with "n" backwards
+Notice the Mnemonics
+
+I had attached words that have same starting letter as the vim command, for example
+
+l ==> right / "lane change" to right
+h ==> left / "head" left 
+There is a purpose to it. I observed Derek in the videos constantly verbalized what he was trying to do the with the cursor. And then he was invoking the command. That is the point which lead me to write this article, along with the mnemonics. As you train with Vim, using these words will help you recollect the command letter faster.
+
+Then there is Buffers + Windows:
+
+This is specific to Vim with Space Vim installed. ‘Vi’ editor don’t have the function. Inside the Normal mode hitting the space bar will open up a drawer like shown below. It is a Guide to move around Vim. Installing Space Vim provides this drawer.
+
+Vim spacebar drawer
+Space bar Drawer
+This drawer has slew of sub commands, that do various things to the files that are opened inside the vim-editor. There are 2 things we need to concentrate here
+
+[w] +Windows
+[b] +Buffers
+Once you are inside Vim, you will be surprised when multiple files open in same instances, and they are arranged like the Chrome/FireFox tabs. In order to move around there the above drawer and the commands inside them comes in handy.
+
+An Aside: I had been struggling to master Vim for so many years. Out of the blue, I came across DT’s video and I am able to get things done with Vim. As I iterated, the way a teacher teaches is more important. It is true in case of any programming languages/Linux/Unix. Search for the teacher that matches your way of learning.
+
