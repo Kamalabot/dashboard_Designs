@@ -1,0 +1,57 @@
+3 Steps to make VIM a light weight Python IDE
+
+Background: This is an offshoot learning that came from my low-end laptop, running 
+Manjaro Linux. https://medium.com/@kamaljp/why-i-decided-to-vim-ca87ddc9fbd6
+VScode was feature rich, and very friendly when it came to editing, executing and 
+then backing up the code to Git. When I tried working with VSCode on my laptop 
+my OS started freezing up randomly. I had been using Mousepad and Jupyter-notebook 
+since then to run my Python code. 
+
+Airflow needs functions:
+I am programming a pipeline that takes multiple files from a source location, 
+does transformations and then writes it two different locations. One is local 
+file system as a CSV file. The other is local database server (planning to make
+it remote later). 
+
+Airflow Python Operator requires Python Functions. Functions needs to be tested 
+and then imported into the DAG file, where all the integration was happening. 
+I was missing the ease of VScode. Today things changed when I decided to try making
+VIM the Python IDE. 
+
+Choosing the VIM:
+I had been looking for alternates to VSCode, and thought about spacemacs. The 
+emacs variant. Another candidate that entered was SpaceVim. In reality both the 
+editors are same at the architecture level. I had prior experience with Vim, but 
+SpaceVim had taken it to whole different levels with Windows and Buffers inside 
+Vim. On top of it the Pluggins. 
+
+Plugins are Super Easy with Space Vim:
+https://spacevim.org/quick-start-guide/ The link shows how to get started with 
+SpaceVim. I had written about how DTs video helped me to come upto speed with 
+SpaceVim. I just wanted to explore adding plugins in spaceVim. Only the following 
+four lines needs to be added in the init.toml file to add support for Git and Python 
+the two important applications I wanted.
+
+name = "lang#python"
+python_interpreter ="/bin/python3" 
+name = "git"
+git_plugin = "fugitive"
+
+For the Python linting to work, pylint, yapf and isort libraries were suggested 
+to be pip installed. Then Vim had to be restarted. Once it was started the pulgins 
+installed by itself(I think internet is required). After that the option to execute 
+the python scripts, and manipulate the git repo was enabled in Vim. The commands 
+where 
+
+Spc l r ==> To execute the python program
+Spc g A ==> To stage all files 
+
+There are many other options as shown in the picture, which are explained in the 
+SpaceVim documentation. 
+
+This article is written with SpaceVim:
+I prefer to have back up of my writings, so I first draft it in local text file. Then 
+store that in Git-repo. Medium provides the option to import the post from any location 
+in the internet. Git repo is internet facing, so importing from there is a breeze. There 
+is one challenge, the pictures are not stored and the command formats are different. These 
+are small shortcomings which can be tolerated.
