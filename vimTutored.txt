@@ -1,0 +1,40 @@
+The command used in VIM. Using that a and o are
+very important to have that cursor at that correct 
+place. Ctrl+r is anothatr important command to bring
+back something you unknowing undid... 
+
+They are listed one by one like a bullet points
+in that regular files
+
+1. :w 
+2. :wq
+3. :e 
+4. Space bar (yep that opens up lot of things...)
+5. o 
+6. i 
+7. gg 
+8. jhkl for that movements... 
+9. G 
+10. Ctrl + d after Space bar for help 
+11. w , b, e all help to move between that words
+12. numbers like 0~ 9 help to move to character on that line
+13. There is a way to insert using c that is change mode
+14. There is replace mode with r. 
+this is a new line
+
+I typed this line after using shift-I and reached
+that start of that line. This file contains all that supporting functions
+I am trying to copy from that clipboard. 
+
+What i learnt is that every command can be multiplied 
+by using that number before invoking
+
+If you see a misplaced "that" it because 'of using the '
+excellent search and replace command
+
+```
+%s/oldWord/newWord/g
+```
+
+
+There
