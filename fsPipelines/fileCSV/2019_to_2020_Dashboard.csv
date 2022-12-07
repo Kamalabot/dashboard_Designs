@@ -1,0 +1,1259 @@
+ID,Date,Customer,Gender,City,Distributors,Branch,Manager,Product,Category,Price,Cost,Qty,Total_Sales,cogs,Profit
+88065565355,2020-01-01,Mumin Yusha,Male,Little Falls,Antone E Angel,Main Street,Drek Yassi,Oliver Cromwell,Alcoholic,52,49,100,5200,4900,300
+88065565356,2020-01-02,Cordia M Knopp,Female,Auburn,Merle N Burrus,Uptown Store,Drek Yassi,Boost,Non Alcoholic,9,6,3000,27000,18000,9000
+88065565357,2020-01-03,Burton C Jin,Male,Betavia,Twanna Y Manges,Uptown Store,Drek Yassi,Cel Ray,Non Alcoholic,5,2,5000,25000,10000,15000
+88065565358,2020-01-04,Femi Grek,Male,Beacon,Reatha Q Breazeale,Main Street,Drek Yassi,Oliver Cromwell,Alcoholic,14,11,300,4200,3300,900
+88065565359,2020-01-05,Femi Grek,Male,Beacon,Antone E Angel,Main Street,Drek Yassi,Boost,Alcoholic,6,3,2000,12000,6000,6000
+88065565360,2020-01-06,Femi Grek,Male,Beacon,Merle N Burrus,Main Street,Drek Yassi,Cel Ray,Non Alcoholic,10,7,600,6000,4200,1800
+88065565361,2020-01-07,Hugh N Chavira,Male,Geneva,Twanna Y Manges,Uptown Store,Drek Yassi,Oliver Cromwell,Alcoholic,13,10,1230,15990,12300,3690
+88065565362,2020-01-08,Lucius C Moorhead,Male,Elmira,Reatha Q Breazeale,Main Street,Drek Yassi,Boost,Non Alcoholic,20,17,900,18000,15300,2700
+88065565363,2020-01-09,Deane I Keown,Male,Glen Cove,Antone E Angel,Main Street,Drek Yassi,Cel Ray,Alcoholic,15,12,2390,35850,28680,7170
+88065565364,2020-01-10,Joannie E Wolters,Female,Glens Falls,Merle N Burrus,Uptown Store,Drek Yassi,Cazadores Tequila,Alcoholic,20,17,10000,200000,170000,30000
+88065565365,2020-01-11,Christene L Mccaleb,Female,Hornell ,Twanna Y Manges,Uptown Store,Drek Yassi,Oliver Cromwell,Alcoholic,12,9,2300,27600,20700,6900
+88065565366,2020-01-12,Alline V Kushner,Female,Hudson,Reatha Q Breazeale,Main Street,Drek Yassi,Boost,Non Alcoholic,16,13,7800,124800,101400,23400
+88065565367,2020-01-13,Femi Grek,Male,Beacon,Antone E Angel,Main Street,Drek Yassi,Cel Ray,Non Alcoholic,70,67,450,31500,30150,1350
+88065565368,2020-01-14,Femi Grek,Male,Beacon,Merle N Burrus,Main Street,Drek Yassi,Oliver Cromwell,Alcoholic,15,12,2000,30000,24000,6000
+88065565369,2020-01-15,Femi Grek,Male,Beacon,Twanna Y Manges,Main Street,Drek Yassi,Boost,Alcoholic,16,13,123,1968,1599,369
+88065565370,2020-01-16,Femi Grek,Male,Beacon,Reatha Q Breazeale,Main Street,Drek Yassi,Cel Ray,Non Alcoholic,20,17,12903,258060,219351,38709
+88065565371,2020-01-17,Femi Grek,Male,Beacon,Antone E Angel,Main Street,Drek Yassi,Oliver Cromwell,Alcoholic,12,9,100000,1200000,900000,300000
+88065565372,2020-01-18,Femi Grek,Male,Beacon,Merle N Burrus,Main Street,Drek Yassi,Boost,Non Alcoholic,12,9,12000,144000,108000,36000
+88065565373,2020-01-19,Lala C Marquez,Female,Mount,Twanna Y Manges,Uptown Store,Drek Yassi,Cel Ray,Alcoholic,18,15,60,1080,900,180
+88065565374,2020-01-20,Derick A Macey,Male,New York,Reatha Q Breazeale,Main Street,Drek Yassi,Cazadores Tequila,Alcoholic,10,7,89,890,623,267
+88065565375,2020-01-21,Eda O Brase,Female,Newburgh,Antone E Angel,Main Street,Drek Yassi,Oliver Cromwell,Alcoholic,15,12,77,1155,924,231
+88065565376,2020-01-22,Willis D Weissman,Male,Olean,Merle N Burrus,Uptown Store,Drek Yassi,Boost,Non Alcoholic,15,12,68,1020,816,204
+88065565377,2020-01-23,Mariam F Pinheiro,Female,Peekskill,Antone E Angel,Main Street,Drek Yassi,Cel Ray,Non Alcoholic,23,20,15,345,300,45
+88065565378,2020-01-24,Malcom L Meister,Male,Port Jervis,Merle N Burrus,Uptown Store,Drek Yassi,Oliver Cromwell,Alcoholic,9,6,47,423,282,141
+88065565379,2020-01-25,Holli G Ethridge,Female,Poughkeepsie,Antone E Angel,Main Street,Drek Yassi,Boost,Alcoholic,18,15,6,108,90,18
+88065565380,2020-01-26,Cole N Poling,Male,Rye ,Merle N Burrus,Uptown Store,Drek Yassi,Cel Ray,Non Alcoholic,14,11,10,140,110,30
+88065565381,2020-01-27,Ahmad V Lynde,Male,Rome,Antone E Angel,Main Street,Drek Yassi,Oliver Cromwell,Alcoholic,30,27,11,330,297,33
+88065565382,2020-01-28,Mariano F Leary,Male,Rochester,Merle N Burrus,Uptown Store,Drek Yassi,Boost,Non Alcoholic,16,13,60,960,780,180
+88065565383,2020-01-29,Tawanda E Buchanon,Female,Salamanca,Antone E Angel,Main Street,Drek Yassi,Cel Ray,Alcoholic,52,49,89,4628,4361,267
+88065565384,2020-01-30,Nickolas G Grossi,Male,Springs,Merle N Burrus,Uptown Store,Drek Yassi,Cazadores Tequila,Alcoholic,14,11,77,1078,847,231
+88065565385,2020-01-31,Bradford K Marlatt,Male,Sherrill,Antone E Angel,Main Street,Drek Yassi,Oliver Cromwell,Alcoholic,6,3,68,408,204,204
+88065565386,2020-02-01,Carlton P Bose,Male,Syracuse,Merle N Burrus,Uptown Store,Drek Yassi,Boost,Non Alcoholic,13,10,15,195,150,45
+88065565387,2020-02-02,Asuncion X Braunstein,Female,Troy,Antone E Angel,Main Street,Drek Yassi,Cel Ray,Non Alcoholic,15,12,100,1500,1200,300
+88065565388,2020-02-03,Theron T Kramer,Male,Watertown,Merle N Burrus,Uptown Store,Drek Yassi,Oliver Cromwell,Alcoholic,20,17,3000,60000,51000,9000
+88065565389,2020-02-04,Jeramy F Metoyer,Male,Watervliet,Antone E Angel,Main Street,Drek Yassi,Boost,Alcoholic,12,9,5000,60000,45000,15000
+88065565390,2020-02-05,Sol K Roger,Female,Yakers,Merle N Burrus,Uptown Store,Drek Yassi,Cel Ray,Non Alcoholic,16,13,300,4800,3900,900
+88065565391,2020-02-06,Earnest H Birkholz,Male,New York,Antone E Angel,Main Street,Drek Yassi,Oliver Cromwell,Alcoholic,20,17,2000,40000,34000,6000
+88065565392,2020-02-07,Amada J Knouse,Female,Hempstead,Merle N Burrus,Uptown Store,Drek Yassi,Boost,Non Alcoholic,12,9,600,7200,5400,1800
+88065565393,2020-02-08,Gregorio H Hottinger,Male,Brookhaven,Antone E Angel,Main Street,Drek Yassi,Cel Ray,Alcoholic,10,7,1230,12300,8610,3690
+88065565394,2020-02-09,Lawerence W Abernethy,Male,Islip,Merle N Burrus,Uptown Store,Drek Yassi,Cazadores Tequila,Alcoholic,15,12,900,13500,10800,2700
+88065565395,2020-02-10,Marina X Quayle,Female,Babylon,Antone E Angel,Main Street,Drek Yassi,Oliver Cromwell,Alcoholic,15,12,2390,35850,28680,7170
+88065565396,2020-02-11,Whitney N Wasinger,Male,Albany,Merle N Burrus,Uptown Store,Drek Yassi,Boost,Non Alcoholic,20,17,10000,200000,170000,30000
+88065565397,2020-02-12,Roy W Wilkie,Male,Auburn,Antone E Angel,Main Street,Ben Frech,Cel Ray,Non Alcoholic,12,9,2300,27600,20700,6900
+88065565398,2020-02-13,Hyun Z Bynoe,Female,Betavia,Merle N Burrus,Uptown Store,Ben Frech,Oliver Cromwell,Alcoholic,13,10,7800,101400,78000,23400
+88065565399,2020-02-14,Katelin F Coney,Female,Beacon,Antone E Angel,Main Street,Ben Frech,Boost,Alcoholic,15,12,450,6750,5400,1350
+88065565400,2020-02-15,Jennifer Z Pridgen,Female,Elmira,Merle N Burrus,Uptown Store,Ben Frech,Cel Ray,Non Alcoholic,14,11,2000,28000,22000,6000
+88065565401,2020-02-16,Zachary U Breeden,Male,Glen Cove,Antone E Angel,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,30,27,123,3690,3321,369
+88065565402,2020-02-17,Deon U Mounce,Male,New York,Merle N Burrus,Uptown Store,Ben Frech,Boost,Non Alcoholic,16,13,12903,206448,167739,38709
+88065565403,2020-02-18,Buddy G Steinbeck,Male,Hempstead,Antone E Angel,Main Street,Ben Frech,Cel Ray,Alcoholic,9,6,100000,900000,600000,300000
+88065565404,2020-02-19,Julius N Bakker,Male,Brookhaven,Merle N Burrus,Uptown Store,Ben Frech,Cazadores Tequila,Alcoholic,5,2,12000,60000,24000,36000
+88065565405,2020-02-20,Hans G Koh,Male,Glen Cove,Antone E Angel,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,18,15,60,1080,900,180
+88065565406,2020-02-21,Jamal G Dimarco,Male,Glens Falls,Merle N Burrus,Uptown Store,Ben Frech,Boost,Non Alcoholic,10,7,89,890,623,267
+88065565407,2020-02-22,Stephan Q Ranger,Male,Hornell ,Antone E Angel,Main Street,Ben Frech,Cel Ray,Non Alcoholic,20,17,77,1540,1309,231
+88065565408,2020-02-23,Jackie P Montague,Male,Hudson,Merle N Burrus,Uptown Store,Ben Frech,Oliver Cromwell,Alcoholic,70,67,68,4760,4556,204
+88065565409,2020-02-24,Nathanael W Ohl,Male,Johnstown,Antone E Angel,Main Street,Ben Frech,Boost,Alcoholic,15,12,15,225,180,45
+88065565410,2020-02-25,Hosea B Michelson,Male,Kingston,Merle N Burrus,Uptown Store,Ben Frech,Cel Ray,Non Alcoholic,12,9,47,564,423,141
+88065565411,2020-02-26,Carly L Sirianni,Female,Little Falls,Antone E Angel,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,18,15,6,108,90,18
+88065565412,2020-02-27,Abram S Manrique,Male,Lockport,Merle N Burrus,Uptown Store,Ben Frech,Boost,Non Alcoholic,23,20,10,230,200,30
+88065565413,2020-02-28,Mica Z Herzberg,Female,Long Beach,Antone E Angel,Main Street,Ben Frech,Cel Ray,Alcoholic,9,6,11,99,66,33
+88065565414,2020-02-29,Lemuel W Hardman,Male,Middletown,Merle N Burrus,Uptown Store,Ben Frech,Cazadores Tequila,Alcoholic,18,15,60,1080,900,180
+88065565415,2020-03-01,Shanelle Z Hick,Female,Mount,Antone E Angel,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,52,49,89,4628,4361,267
+88065565416,2020-03-02,Maryellen H Hartness,Female,New York,Merle N Burrus,Uptown Store,Ben Frech,Boost,Non Alcoholic,9,6,77,693,462,231
+88065565417,2020-03-03,Sylvester Z Blackledge,Male,Salamanca,Antone E Angel,Main Street,Ben Frech,Cel Ray,Non Alcoholic,5,2,68,340,136,204
+88065565418,2020-03-04,Vivienne X Binion,Female,Springs,Merle N Burrus,Uptown Store,Ben Frech,Oliver Cromwell,Alcoholic,14,11,15,210,165,45
+88065565419,2020-03-05,Ahmed C Minch,Male,Sherrill,Antone E Angel,Main Street,Ben Frech,Boost,Alcoholic,6,3,100,600,300,300
+88065565420,2020-03-06,Leopoldo U Hole,Male,Syracuse,Merle N Burrus,Uptown Store,Ben Frech,Cel Ray,Non Alcoholic,10,7,3000,30000,21000,9000
+88065565421,2020-03-07,Gemma I Chilton,Female,Troy,Antone E Angel,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,13,10,5000,65000,50000,15000
+88065565422,2020-03-08,Laurence K Ryles,Male,Olean,Merle N Burrus,Uptown Store,Ben Frech,Boost,Non Alcoholic,20,17,300,6000,5100,900
+88065565423,2020-03-09,Eleanor D Dickson,Female,Peekskill,Antone E Angel,Main Street,Ben Frech,Cel Ray,Alcoholic,15,12,2000,30000,24000,6000
+88065565424,2020-03-10,Elsy B Latta,Female,Port Jervis,Merle N Burrus,Uptown Store,Ben Frech,Cazadores Tequila,Alcoholic,20,17,600,12000,10200,1800
+88065565425,2020-03-11,Sherwood K Shire,Male,Kingston,Antone E Angel,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,12,9,1230,14760,11070,3690
+88065565426,2020-03-12,Carolynn V Moynihan,Female,Little Falls,Merle N Burrus,Uptown Store,Ben Frech,Boost,Non Alcoholic,16,13,900,14400,11700,2700
+88065565427,2020-03-13,Mckinley H Scofield,Male,Lockport,Antone E Angel,Main Street,Ben Frech,Cel Ray,Non Alcoholic,70,67,2390,167300,160130,7170
+88065565428,2020-03-14,Brendon V Crowther,Male,Long Beach,Merle N Burrus,Uptown Store,Ben Frech,Oliver Cromwell,Alcoholic,15,12,10000,150000,120000,30000
+88065565429,2020-03-15,Nancy V Trogdon,Female,Middletown,Antone E Angel,Main Street,Ben Frech,Boost,Alcoholic,16,13,2300,36800,29900,6900
+88065565430,2020-03-16,Darin U Shipp,Male,Watervliet,Merle N Burrus,Uptown Store,Ben Frech,Cel Ray,Non Alcoholic,20,17,7800,156000,132600,23400
+88065565431,2020-03-17,Joel S Maine,Male,Yakers,Antone E Angel,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,12,9,450,5400,4050,1350
+88065565432,2020-03-18,Luciana N Campfield,Female,New York,Merle N Burrus,Uptown Store,Ben Frech,Boost,Non Alcoholic,12,9,2000,24000,18000,6000
+88065565433,2020-03-19,Gilbert Z Bloss,Male,Hempstead,Antone E Angel,Main Street,Ben Frech,Cel Ray,Alcoholic,18,15,123,2214,1845,369
+88065565434,2020-03-20,Sharda W Choudhury,Female,New York,Merle N Burrus,Uptown Store,Ben Frech,Cazadores Tequila,Alcoholic,10,7,12903,129030,90321,38709
+88065565435,2020-03-21,Chung J Moynihan,Male,Hempstead,Antone E Angel,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,15,12,100000,1500000,1200000,300000
+88065565436,2020-03-22,Dayna M Edmondson,Female,Brookhaven,Merle N Burrus,Uptown Store,Ben Frech,Boost,Non Alcoholic,15,12,12000,180000,144000,36000
+88065565437,2020-03-23,Bobbie S Miner,Female,Islip,Antone E Angel,Main Street,Ben Frech,Cel Ray,Non Alcoholic,23,20,60,1380,1200,180
+88065565438,2020-03-24,Gidget X Loring,Female,Babylon,Merle N Burrus,Uptown Store,Ben Frech,Oliver Cromwell,Alcoholic,9,6,89,801,534,267
+88065565439,2020-03-25,Hettie S Lauber,Female,Albany,Antone E Angel,Main Street,Ben Frech,Boost,Alcoholic,18,15,77,1386,1155,231
+88065565440,2020-03-26,Toi F Stallard,Female,Auburn,Merle N Burrus,Uptown Store,Ben Frech,Cel Ray,Non Alcoholic,14,11,68,952,748,204
+88065565441,2020-03-27,Tristan L Cockrell,Female,Betavia,Antone E Angel,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,30,27,15,450,405,45
+88065565442,2020-03-28,Towanda H Matson,Female,Beacon,Merle N Burrus,Uptown Store,Ben Frech,Boost,Non Alcoholic,16,13,47,752,611,141
+88065565443,2020-03-29,Leland C Fifield,Male,Choes,Antone E Angel,Main Street,Ben Frech,Cel Ray,Alcoholic,52,49,6,312,294,18
+88065565444,2020-03-30,Audria W Barrios,Female,Fulton,Merle N Burrus,Uptown Store,Ben Frech,Cazadores Tequila,Alcoholic,14,11,10,140,110,30
+88065565445,2020-03-31,Jim J Lurie,Male,Geneva,Antone E Angel,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,6,3,11,66,33,33
+88065565446,2020-04-01,Lorette Y Petrillo,Female,Elmira,Merle N Burrus,Uptown Store,Ben Frech,Boost,Non Alcoholic,13,10,60,780,600,180
+88065565447,2020-04-02,Damian X Grist,Male,Glen Cove,Antone E Angel,Main Street,Ben Frech,Cel Ray,Non Alcoholic,15,12,89,1335,1068,267
+88065565448,2020-04-03,Zana G Ordonez,Female,Glens Falls,Merle N Burrus,Uptown Store,Ben Frech,Oliver Cromwell,Alcoholic,20,17,77,1540,1309,231
+88065565449,2020-04-04,Rhett A Chapple,Male,Hornell ,Antone E Angel,Main Street,Ben Frech,Boost,Alcoholic,12,9,68,816,612,204
+88065565450,2020-04-05,Jeneva Y Bybee,Female,Hudson,Merle N Burrus,Uptown Store,Ben Frech,Cel Ray,Non Alcoholic,16,13,15,240,195,45
+88065565451,2020-04-06,Brendon J Camp,Male,Johnstown,Antone E Angel,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,20,17,100,2000,1700,300
+88065565452,2020-04-07,Nettie T Mccandless,Female,Kingston,Merle N Burrus,Uptown Store,Ben Frech,Boost,Non Alcoholic,12,9,3000,36000,27000,9000
+88065565453,2020-04-08,Lezlie Z Bohannan,Female,Little Falls,Antone E Angel,Main Street,Ben Frech,Cel Ray,Alcoholic,10,7,5000,50000,35000,15000
+88065565454,2020-04-09,Hester B Cabana,Female,Lockport,Merle N Burrus,Uptown Store,Ben Frech,Cazadores Tequila,Alcoholic,15,12,300,4500,3600,900
+88065565455,2020-04-10,Isobel K Dance,Female,Long Beach,Antone E Angel,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,15,12,2000,30000,24000,6000
+88065565456,2020-04-11,Erica S Harlan,Female,Middletown,Merle N Burrus,Uptown Store,Ben Frech,Boost,Non Alcoholic,20,17,600,12000,10200,1800
+88065565457,2020-04-12,Leda X Haskell,Female,Mount,Antone E Angel,Main Street,Ben Frech,Cel Ray,Non Alcoholic,12,9,1230,14760,11070,3690
+88065565458,2020-04-13,Loralee V Ball,Female,New York,Merle N Burrus,Uptown Store,Drek Yassi,Oliver Cromwell,Alcoholic,13,10,900,11700,9000,2700
+88065565459,2020-04-14,Otha T Orrell,Male,Newburgh,Antone E Angel,Main Street,Drek Yassi,Boost,Alcoholic,15,12,2390,35850,28680,7170
+88065565460,2020-04-15,Honey D Eaves,Female,Olean,Merle N Burrus,Uptown Store,Drek Yassi,Cel Ray,Non Alcoholic,14,11,10000,140000,110000,30000
+88065565461,2020-04-16,Ellis V Mcneel,Male,Peekskill,Antone E Angel,Main Street,Drek Yassi,Oliver Cromwell,Alcoholic,30,27,2300,69000,62100,6900
+88065565462,2020-04-17,Gabriel S Beale,Male,Port Jervis,Merle N Burrus,Uptown Store,Drek Yassi,Boost,Non Alcoholic,16,13,7800,124800,101400,23400
+88065565463,2020-04-18,Nathanael G Mcmillin,Male,Poughkeepsie,Antone E Angel,Main Street,Drek Yassi,Cel Ray,Alcoholic,9,6,450,4050,2700,1350
+88065565464,2020-04-19,Donald H Mazur,Male,Rye ,Twanna Y Manges,Uptown Store,Drek Yassi,Cazadores Tequila,Alcoholic,5,2,2000,10000,4000,6000
+88065565465,2020-04-20,Eliz R Linneman,Female,Rome,Reatha Q Breazeale,Main Street,Drek Yassi,Oliver Cromwell,Alcoholic,18,15,123,2214,1845,369
+88065565466,2020-04-21,Gracie P Lett,Female,Rochester,Twanna Y Manges,Uptown Store,Drek Yassi,Boost,Non Alcoholic,10,7,12903,129030,90321,38709
+88065565467,2020-04-22,Gema S Grover,Female,Salamanca,Reatha Q Breazeale,Main Street,Drek Yassi,Cel Ray,Non Alcoholic,20,17,100000,2000000,1700000,300000
+88065565468,2020-04-23,Delana Y Freedman,Female,Springs,Twanna Y Manges,Uptown Store,Drek Yassi,Oliver Cromwell,Alcoholic,70,67,12000,840000,804000,36000
+88065565469,2020-04-24,Mary Y Tate,Male,New York,Reatha Q Breazeale,Main Street,Drek Yassi,Boost,Alcoholic,15,12,60,900,720,180
+88065565470,2020-04-25,Abe J Macleod,Male,Syracuse,Twanna Y Manges,Uptown Store,Drek Yassi,Cel Ray,Non Alcoholic,12,9,89,1068,801,267
+88065565471,2020-04-26,Evon Q Lawson,Female,Kingston,Reatha Q Breazeale,Main Street,Drek Yassi,Oliver Cromwell,Alcoholic,18,15,77,1386,1155,231
+88065565472,2020-04-27,Jerlene P Dunnigan,Female,Watertown,Twanna Y Manges,Uptown Store,Drek Yassi,Boost,Non Alcoholic,23,20,68,1564,1360,204
+88065565473,2020-04-28,Bobbie X Schoenrock,Male,Watervliet,Reatha Q Breazeale,Main Street,Drek Yassi,Cel Ray,Alcoholic,9,6,15,135,90,45
+88065565474,2020-04-29,Mike A Waddington,Male,Yakers,Twanna Y Manges,Uptown Store,Drek Yassi,Cazadores Tequila,Alcoholic,18,15,47,846,705,141
+88065565475,2020-04-30,Nigel K Wadsworth,Male,New York,Reatha Q Breazeale,Main Street,Drek Yassi,Oliver Cromwell,Alcoholic,52,49,6,312,294,18
+88065565476,2020-05-01,Hayden E Novack,Male,Hempstead,Twanna Y Manges,Uptown Store,Drek Yassi,Boost,Non Alcoholic,9,6,10,90,60,30
+88065565477,2020-05-02,Voncile P Trojanowski,Female,New York,Reatha Q Breazeale,Main Street,Drek Yassi,Cel Ray,Non Alcoholic,5,2,11,55,22,33
+88065565478,2020-05-03,Roberto U Derry,Female,New York,Twanna Y Manges,Uptown Store,Drek Yassi,Oliver Cromwell,Alcoholic,14,11,60,840,660,180
+88065565479,2020-05-04,Tona S Huseby,Female,Babylon,Reatha Q Breazeale,Main Street,Drek Yassi,Boost,Alcoholic,6,3,89,534,267,267
+88065565480,2020-05-05,Londa T Maya,Female,Beacon,Twanna Y Manges,Uptown Store,Drek Yassi,Cel Ray,Non Alcoholic,10,7,77,770,539,231
+88065565481,2020-05-06,Jocelyn Q Scotti,Female,New York,Reatha Q Breazeale,Main Street,Drek Yassi,Oliver Cromwell,Alcoholic,13,10,68,884,680,204
+88065565482,2020-05-07,Frank O Mallon,Female,Betavia,Twanna Y Manges,Uptown Store,Drek Yassi,Boost,Non Alcoholic,20,17,15,300,255,45
+88065565483,2020-05-08,Kurtis C Irons,Male,Beacon,Reatha Q Breazeale,Main Street,Drek Yassi,Cel Ray,Alcoholic,15,12,100,1500,1200,300
+88065565484,2020-05-09,Jamey S Seim,Male,Elmira,Antone E Angel,Main Street,Drek Yassi,Cazadores Tequila,Alcoholic,20,17,3000,60000,51000,9000
+88065565485,2020-05-10,Walton S Keim,Male,Glen Cove,Merle N Burrus,Uptown Store,Drek Yassi,Oliver Cromwell,Alcoholic,12,9,5000,60000,45000,15000
+88065565486,2020-05-11,Micki R Jauregui,Female,New York,Twanna Y Manges,Uptown Store,Drek Yassi,Boost,Non Alcoholic,16,13,300,4800,3900,900
+88065565487,2020-05-12,Ngoc X Watson,Female,Hempstead,Reatha Q Breazeale,Main Street,Drek Yassi,Cel Ray,Non Alcoholic,70,67,2000,140000,134000,6000
+88065565488,2020-05-13,Inocencia Z Buteau,Female,Brookhaven,Antone E Angel,Main Street,Drek Yassi,Oliver Cromwell,Alcoholic,15,12,600,9000,7200,1800
+88065565489,2020-05-14,Charlie V Koeller,Male,Glen Cove,Merle N Burrus,Uptown Store,Drek Yassi,Boost,Alcoholic,16,13,1230,19680,15990,3690
+88065565490,2020-05-15,Rosy U Baumeister,Female,Glens Falls,Twanna Y Manges,Uptown Store,Drek Yassi,Cel Ray,Non Alcoholic,20,17,900,18000,15300,2700
+88065565491,2020-05-16,Charity N Denman,Female,Hornell ,Reatha Q Breazeale,Main Street,Drek Yassi,Oliver Cromwell,Alcoholic,12,9,2390,28680,21510,7170
+88065565492,2020-05-17,Luke S Tumlin,Male,Hudson,Antone E Angel,Main Street,Drek Yassi,Boost,Non Alcoholic,12,9,10000,120000,90000,30000
+88065565493,2020-05-18,Hannah K Ma,Female,Johnstown,Merle N Burrus,Uptown Store,Drek Yassi,Cel Ray,Alcoholic,18,15,2300,41400,34500,6900
+88065565494,2020-05-19,Celinda C Magruder,Female,Kingston,Twanna Y Manges,Uptown Store,Drek Yassi,Cazadores Tequila,Alcoholic,10,7,7800,78000,54600,23400
+88065565495,2020-05-20,Arturo N Halvorsen,Male,Little Falls,Reatha Q Breazeale,Main Street,Drek Yassi,Oliver Cromwell,Alcoholic,15,12,450,6750,5400,1350
+88065565496,2020-05-21,Tiny Z Oliveri,Female,Lockport,Antone E Angel,Main Street,Drek Yassi,Boost,Non Alcoholic,15,12,2000,30000,24000,6000
+88065565497,2020-05-22,Kerri Y Card,Female,Long Beach,Merle N Burrus,Uptown Store,Drek Yassi,Cel Ray,Non Alcoholic,23,20,123,2829,2460,369
+88065565498,2020-05-23,Young W Funes,Male,Middletown,Twanna Y Manges,Uptown Store,Drek Yassi,Oliver Cromwell,Alcoholic,9,6,12903,116127,77418,38709
+88065565499,2020-05-24,Neomi P Pitchford,Female,Mount,Reatha Q Breazeale,Main Street,Drek Yassi,Boost,Alcoholic,18,15,100000,1800000,1500000,300000
+88065565500,2020-05-25,Ivan A Groner,Male,New York,Antone E Angel,Main Street,Ben Frech,Cel Ray,Non Alcoholic,14,11,12000,168000,132000,36000
+88065565501,2020-05-26,Etsuko O Wilmot,Female,Salamanca,Merle N Burrus,Uptown Store,Ben Frech,Oliver Cromwell,Alcoholic,30,27,60,1800,1620,180
+88065565502,2020-05-27,William B Mcnerney,Male,Springs,Twanna Y Manges,Uptown Store,Ben Frech,Boost,Non Alcoholic,16,13,89,1424,1157,267
+88065565503,2020-05-28,Logan D Berryman,Male,Sherrill,Reatha Q Breazeale,Main Street,Ben Frech,Cel Ray,Alcoholic,52,49,77,4004,3773,231
+88065565504,2020-05-29,Houston K Joe,Male,Syracuse,Antone E Angel,Main Street,Ben Frech,Cazadores Tequila,Alcoholic,14,11,68,952,748,204
+88065565505,2020-05-30,Coy I Gentner,Male,Troy,Merle N Burrus,Uptown Store,Ben Frech,Oliver Cromwell,Alcoholic,6,3,15,90,45,45
+88065565506,2020-05-31,Jimmie F Vasquez,Male,Olean,Twanna Y Manges,Uptown Store,Ben Frech,Boost,Non Alcoholic,13,10,47,611,470,141
+88065565507,2020-06-01,Tommie S Fargo,Male,Peekskill,Reatha Q Breazeale,Main Street,Ben Frech,Cel Ray,Non Alcoholic,15,12,6,90,72,18
+88065565508,2020-06-02,Daina U Ledet,Female,Port Jervis,Antone E Angel,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,20,17,10,200,170,30
+88065565509,2020-06-03,Sophia F Knecht,Female,Kingston,Merle N Burrus,Uptown Store,Ben Frech,Boost,Alcoholic,12,9,11,132,99,33
+88065565510,2020-06-04,Newton V Scalia,Male,Little Falls,Twanna Y Manges,Uptown Store,Ben Frech,Cel Ray,Non Alcoholic,16,13,60,960,780,180
+88065565511,2020-06-05,Reatha E Osby,Female,Lockport,Reatha Q Breazeale,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,20,17,89,1780,1513,267
+88065565512,2020-06-06,Bell N Molinaro,Female,Long Beach,Antone E Angel,Main Street,Ben Frech,Boost,Non Alcoholic,12,9,77,924,693,231
+88065565513,2020-06-07,Jason V Gravois,Male,Middletown,Merle N Burrus,Uptown Store,Ben Frech,Cel Ray,Alcoholic,10,7,68,680,476,204
+88065565514,2020-06-08,Elwood T More,Male,Watervliet,Twanna Y Manges,Uptown Store,Ben Frech,Cazadores Tequila,Alcoholic,15,12,15,225,180,45
+88065565515,2020-06-09,Lewis M Racette,Male,Yakers,Reatha Q Breazeale,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,15,12,100,1500,1200,300
+88065565516,2020-06-10,Leigh Y Haws,Male,New York,Antone E Angel,Main Street,Ben Frech,Boost,Non Alcoholic,20,17,3000,60000,51000,9000
+88065565517,2020-06-11,Thomas B Felipe,Male,Hempstead,Merle N Burrus,Uptown Store,Ben Frech,Cel Ray,Non Alcoholic,12,9,5000,60000,45000,15000
+88065565518,2020-06-12,Israel T Hertzler,Male,New York,Twanna Y Manges,Uptown Store,Ben Frech,Oliver Cromwell,Alcoholic,13,10,300,3900,3000,900
+88065565519,2020-06-13,Ona K Koepp,Female,Hempstead,Reatha Q Breazeale,Main Street,Ben Frech,Boost,Alcoholic,15,12,2000,30000,24000,6000
+88065565520,2020-06-14,Kristofer N Calahan,Male,Brookhaven,Antone E Angel,Main Street,Ben Frech,Cel Ray,Non Alcoholic,14,11,600,8400,6600,1800
+88065565521,2020-06-15,Mark F Hamman,Male,Islip,Merle N Burrus,Uptown Store,Ben Frech,Oliver Cromwell,Alcoholic,30,27,1230,36900,33210,3690
+88065565522,2020-06-16,Bobbie Q Holbrook,Male,Babylon,Twanna Y Manges,Uptown Store,Ben Frech,Boost,Non Alcoholic,16,13,900,14400,11700,2700
+88065565523,2020-06-17,Abe X Paro,Male,Albany,Reatha Q Breazeale,Main Street,Ben Frech,Cel Ray,Alcoholic,9,6,2390,21510,14340,7170
+88065565524,2020-06-18,Mignon Q Dills,Female,Auburn,Antone E Angel,Main Street,Ben Frech,Cazadores Tequila,Alcoholic,5,2,10000,50000,20000,30000
+88065565525,2020-06-19,Casey D Krier,Male,Betavia,Merle N Burrus,Uptown Store,Ben Frech,Oliver Cromwell,Alcoholic,18,15,2300,41400,34500,6900
+88065565526,2020-06-20,Scott K Ricco,Female,Beacon,Twanna Y Manges,Uptown Store,Ben Frech,Boost,Non Alcoholic,10,7,7800,78000,54600,23400
+88065565527,2020-06-21,Rosemarie K Fellows,Female,Choes,Reatha Q Breazeale,Main Street,Ben Frech,Cel Ray,Non Alcoholic,20,17,450,9000,7650,1350
+88065565528,2020-06-22,Lisette F Cowley,Female,Fulton,Antone E Angel,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,70,67,2000,140000,134000,6000
+88065565529,2020-06-23,Molly U Rasch,Female,Geneva,Merle N Burrus,Uptown Store,Ben Frech,Boost,Alcoholic,15,12,123,1845,1476,369
+88065565530,2020-06-24,Felisha Q Ettinger,Female,Elmira,Twanna Y Manges,Uptown Store,Ben Frech,Cel Ray,Non Alcoholic,12,9,12903,154836,116127,38709
+88065565531,2020-06-25,Linwood H Carter,Male,Glen Cove,Reatha Q Breazeale,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,18,15,100000,1800000,1500000,300000
+88065565532,2020-06-26,Madelyn W Boos,Female,Glens Falls,Antone E Angel,Main Street,Ben Frech,Boost,Non Alcoholic,23,20,12000,276000,240000,36000
+88065565533,2020-06-27,Angelo B Fitzmaurice,Male,Hornell ,Merle N Burrus,Uptown Store,Ben Frech,Cel Ray,Alcoholic,9,6,60,540,360,180
+88065565534,2020-06-28,Gregory I Kidwell,Female,Hudson,Twanna Y Manges,Uptown Store,Ben Frech,Cazadores Tequila,Alcoholic,18,15,89,1602,1335,267
+88065565535,2020-06-29,Bart B Gilcrease,Male,Johnstown,Reatha Q Breazeale,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,52,49,77,4004,3773,231
+88065565536,2020-06-30,Warner I Manly,Male,Kingston,Antone E Angel,Main Street,Ben Frech,Boost,Non Alcoholic,9,6,68,612,408,204
+88065565537,2020-07-01,Lala R Denman,Female,Little Falls,Merle N Burrus,Uptown Store,Ben Frech,Cel Ray,Non Alcoholic,5,2,15,75,30,45
+88065565538,2020-07-02,Elsie S Depaz,Female,Lockport,Twanna Y Manges,Uptown Store,Ben Frech,Oliver Cromwell,Alcoholic,14,11,47,658,517,141
+88065565539,2020-07-03,Verla H Contreras,Female,Long Beach,Reatha Q Breazeale,Main Street,Ben Frech,Boost,Alcoholic,6,3,6,36,18,18
+88065565540,2020-07-04,America V Lobel,Female,Middletown,Antone E Angel,Main Street,Ben Frech,Cel Ray,Non Alcoholic,10,7,10,100,70,30
+88065565541,2020-07-05,Walter R Seddon,Female,Mount,Merle N Burrus,Uptown Store,Ben Frech,Oliver Cromwell,Alcoholic,13,10,11,143,110,33
+88065565542,2020-07-06,Margarito M Oxendine,Male,New York,Twanna Y Manges,Uptown Store,Ben Frech,Boost,Non Alcoholic,20,17,60,1200,1020,180
+88065565543,2020-07-07,Arnoldo D Mckeen,Male,Newburgh,Reatha Q Breazeale,Main Street,Ben Frech,Cel Ray,Alcoholic,15,12,89,1335,1068,267
+88065565544,2020-07-08,Kieth D Castelli,Male,Olean,Antone E Angel,Main Street,Ben Frech,Cazadores Tequila,Alcoholic,20,17,77,1540,1309,231
+88065565545,2020-07-09,Ngoc P Pogue,Female,Peekskill,Merle N Burrus,Uptown Store,Ben Frech,Oliver Cromwell,Alcoholic,12,9,68,816,612,204
+88065565546,2020-07-10,Delana I Selfridge,Female,Port Jervis,Twanna Y Manges,Uptown Store,Ben Frech,Boost,Non Alcoholic,16,13,15,240,195,45
+88065565547,2020-07-11,Liane U Grafton,Female,Poughkeepsie,Reatha Q Breazeale,Main Street,Ben Frech,Cel Ray,Non Alcoholic,70,67,100,7000,6700,300
+88065565548,2020-07-12,Vikki N Lezama,Female,Rye ,Antone E Angel,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,15,12,3000,45000,36000,9000
+88065565549,2020-07-13,Allyn O Farrior,Female,Rome,Merle N Burrus,Uptown Store,Ben Frech,Boost,Alcoholic,16,13,5000,80000,65000,15000
+88065565550,2020-07-14,Glady Q Kump,Female,Rochester,Twanna Y Manges,Uptown Store,Ben Frech,Cel Ray,Non Alcoholic,20,17,300,6000,5100,900
+88065565551,2020-07-15,Oscar R Bovee,Male,Salamanca,Reatha Q Breazeale,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,12,9,2000,24000,18000,6000
+88065565552,2020-07-16,Valene Z Woodmansee,Female,Springs,Antone E Angel,Main Street,Ben Frech,Boost,Non Alcoholic,12,9,600,7200,5400,1800
+88065565553,2020-07-17,Richard C Truman,Male,Sherrill,Merle N Burrus,Uptown Store,Ben Frech,Cel Ray,Alcoholic,18,15,1230,22140,18450,3690
+88065565554,2020-07-18,Luigi G Lembo,Male,Syracuse,Twanna Y Manges,Uptown Store,Ben Frech,Cazadores Tequila,Alcoholic,10,7,900,9000,6300,2700
+88065565555,2020-07-19,Isaiah G Parrish,Male,Troy,Reatha Q Breazeale,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,15,12,2390,35850,28680,7170
+88065565556,2020-07-20,Scott D Torrey,Male,Watertown,Antone E Angel,Main Street,Ben Frech,Boost,Non Alcoholic,15,12,10000,150000,120000,30000
+88065565557,2020-07-21,Shirl M Caraballo,Female,Watervliet,Merle N Burrus,Uptown Store,Ben Frech,Cel Ray,Non Alcoholic,23,20,2300,52900,46000,6900
+88065565558,2020-07-22,Robin Z Stewart,Male,Yakers,Twanna Y Manges,Uptown Store,Ben Frech,Oliver Cromwell,Alcoholic,9,6,7800,70200,46800,23400
+88065565559,2020-07-23,Shasta P Depuy,Female,New York,Reatha Q Breazeale,Main Street,Ben Frech,Boost,Alcoholic,18,15,450,8100,6750,1350
+88065565560,2020-07-24,Jorge R Coghlan,Male,Hempstead,Antone E Angel,Main Street,Ben Frech,Cel Ray,Non Alcoholic,14,11,2000,28000,22000,6000
+88065565561,2020-07-25,Myles G Strum,Male,Brookhaven,Merle N Burrus,Uptown Store,Drek Yassi,Oliver Cromwell,Alcoholic,30,27,123,3690,3321,369
+88065565562,2020-07-26,Herlinda U Negron,Female,Islip,Twanna Y Manges,Uptown Store,Drek Yassi,Boost,Non Alcoholic,16,13,12903,206448,167739,38709
+88065565563,2020-07-27,Debbie C Lipsey,Female,Babylon,Reatha Q Breazeale,Main Street,Drek Yassi,Cel Ray,Alcoholic,52,49,100000,5200000,4900000,300000
+88065565564,2020-07-28,Jenell S Sauers,Female,Albany,Antone E Angel,Main Street,Drek Yassi,Cazadores Tequila,Alcoholic,14,11,12000,168000,132000,36000
+88065565565,2020-07-29,Leda Y Fabre,Female,Auburn,Merle N Burrus,Uptown Store,Drek Yassi,Oliver Cromwell,Alcoholic,6,3,60,360,180,180
+88065565566,2020-07-30,Edmundo R Rew,Male,Betavia,Twanna Y Manges,Uptown Store,Drek Yassi,Boost,Non Alcoholic,13,10,89,1157,890,267
+88065565567,2020-07-31,Gerry D Woolery,Male,Beacon,Reatha Q Breazeale,Main Street,Drek Yassi,Cel Ray,Non Alcoholic,15,12,77,1155,924,231
+88065565568,2020-08-01,Berna Z Stoller,Female,Elmira,Antone E Angel,Main Street,Drek Yassi,Oliver Cromwell,Alcoholic,20,17,68,1360,1156,204
+88065565569,2020-08-02,Adam B Katzer,Male,Glen Cove,Merle N Burrus,Uptown Store,Drek Yassi,Boost,Alcoholic,12,9,15,180,135,45
+88065565570,2020-08-03,Kellee L Gravelle,Female,New York,Twanna Y Manges,Uptown Store,Drek Yassi,Cel Ray,Non Alcoholic,16,13,47,752,611,141
+88065565571,2020-08-04,Shavon K Wescott,Female,Hempstead,Reatha Q Breazeale,Main Street,Drek Yassi,Oliver Cromwell,Alcoholic,20,17,6,120,102,18
+88065565572,2020-08-05,Rozanne N Mielke,Female,Brookhaven,Antone E Angel,Main Street,Drek Yassi,Boost,Non Alcoholic,12,9,10,120,90,30
+88065565573,2020-08-06,Randee O Cassity,Female,Glen Cove,Merle N Burrus,Uptown Store,Drek Yassi,Cel Ray,Alcoholic,10,7,11,110,77,33
+88065565574,2020-08-07,Shemika D Porterfield,Female,Glens Falls,Twanna Y Manges,Uptown Store,Drek Yassi,Cazadores Tequila,Alcoholic,15,12,60,900,720,180
+88065565575,2020-08-08,Donte H Granger,Male,Hornell ,Reatha Q Breazeale,Main Street,Drek Yassi,Oliver Cromwell,Alcoholic,15,12,89,1335,1068,267
+88065565576,2020-08-09,Ahmed I Strope,Male,Hudson,Antone E Angel,Main Street,Drek Yassi,Boost,Non Alcoholic,20,17,77,1540,1309,231
+88065565577,2020-08-10,Boris A Mccown,Male,Johnstown,Merle N Burrus,Uptown Store,Drek Yassi,Cel Ray,Non Alcoholic,12,9,68,816,612,204
+88065565578,2020-08-11,Omer H Moultrie,Male,Kingston,Twanna Y Manges,Uptown Store,Drek Yassi,Oliver Cromwell,Alcoholic,13,10,15,195,150,45
+88065565579,2020-08-12,Hiram K Stokely,Male,Little Falls,Reatha Q Breazeale,Main Street,Drek Yassi,Boost,Alcoholic,15,12,100,1500,1200,300
+88065565580,2020-08-13,Deanna P Scoggin,Female,Lockport,Antone E Angel,Main Street,Drek Yassi,Cel Ray,Non Alcoholic,14,11,3000,42000,33000,9000
+88065565581,2020-08-14,Maris S Briggs,Female,Long Beach,Merle N Burrus,Uptown Store,Drek Yassi,Oliver Cromwell,Alcoholic,30,27,5000,150000,135000,15000
+88065565582,2020-08-15,Lona T Collar,Female,Middletown,Twanna Y Manges,Uptown Store,Drek Yassi,Boost,Non Alcoholic,16,13,300,4800,3900,900
+88065565583,2020-08-16,Eldridge M Benningfield,Male,Mount,Reatha Q Breazeale,Main Street,Drek Yassi,Cel Ray,Alcoholic,9,6,2000,18000,12000,6000
+88065565584,2020-08-17,Jimmie A Rorie,Male,New York,Antone E Angel,Main Street,Drek Yassi,Cazadores Tequila,Alcoholic,5,2,600,3000,1200,1800
+88065565585,2020-08-18,Rachelle M Burkhead,Female,Salamanca,Merle N Burrus,Uptown Store,Drek Yassi,Oliver Cromwell,Alcoholic,18,15,1230,22140,18450,3690
+88065565586,2020-08-19,Miguel P Karp,Male,Springs,Twanna Y Manges,Uptown Store,Drek Yassi,Boost,Non Alcoholic,10,7,900,9000,6300,2700
+88065565587,2020-08-20,Raye T Willmon,Female,Sherrill,Reatha Q Breazeale,Main Street,Drek Yassi,Cel Ray,Non Alcoholic,20,17,2390,47800,40630,7170
+88065565588,2020-08-21,Christi H Amaker,Female,Syracuse,Antone E Angel,Main Street,Drek Yassi,Oliver Cromwell,Alcoholic,70,67,10000,700000,670000,30000
+88065565589,2020-08-22,Liberty A Shroyer,Female,Troy,Merle N Burrus,Uptown Store,Drek Yassi,Boost,Alcoholic,15,12,2300,34500,27600,6900
+88065565590,2020-08-23,Zack H Mumaw,Male,Olean,Twanna Y Manges,Uptown Store,Drek Yassi,Cel Ray,Non Alcoholic,12,9,7800,93600,70200,23400
+88065565591,2020-08-24,Blanch Y Mysliwiec,Female,Peekskill,Reatha Q Breazeale,Main Street,Drek Yassi,Oliver Cromwell,Alcoholic,18,15,450,8100,6750,1350
+88065565592,2020-08-25,Tammy Z Lorentz,Female,Port Jervis,Antone E Angel,Main Street,Drek Yassi,Boost,Non Alcoholic,23,20,2000,46000,40000,6000
+88065565593,2020-08-26,Maximina K Frates,Female,Kingston,Merle N Burrus,Uptown Store,Drek Yassi,Cel Ray,Alcoholic,9,6,123,1107,738,369
+88065565594,2020-08-27,Kiara G Abrahamson,Female,Little Falls,Twanna Y Manges,Uptown Store,Drek Yassi,Cazadores Tequila,Alcoholic,18,15,12903,232254,193545,38709
+88065565595,2020-08-28,Retha G Nealy,Female,Lockport,Reatha Q Breazeale,Main Street,Drek Yassi,Oliver Cromwell,Alcoholic,52,49,100000,5200000,4900000,300000
+88065565596,2020-08-29,Andre Q Maxon,Male,Long Beach,Antone E Angel,Main Street,Drek Yassi,Boost,Non Alcoholic,9,6,12000,108000,72000,36000
+88065565597,2020-08-30,Vern T Lomeli,Male,Middletown,Merle N Burrus,Uptown Store,Drek Yassi,Cel Ray,Non Alcoholic,5,2,60,300,120,180
+88065565598,2020-08-31,Erin K Stclair,Male,Watervliet,Twanna Y Manges,Uptown Store,Drek Yassi,Oliver Cromwell,Alcoholic,14,11,89,1246,979,267
+88065565599,2020-09-01,Detra D Rymer,Female,Yakers,Reatha Q Breazeale,Main Street,Drek Yassi,Boost,Alcoholic,6,3,77,462,231,231
+88065565600,2020-09-02,Doug B Southwick,Male,New York,Antone E Angel,Main Street,Drek Yassi,Cel Ray,Non Alcoholic,10,7,68,680,476,204
+88065565601,2020-09-03,Gia M Casas,Female,Hempstead,Merle N Burrus,Uptown Store,Drek Yassi,Oliver Cromwell,Alcoholic,13,10,15,195,150,45
+88065565602,2020-09-04,Emeline I Richer,Female,New York,Twanna Y Manges,Uptown Store,Drek Yassi,Boost,Non Alcoholic,20,17,47,940,799,141
+88065565603,2020-09-05,Richard J Fetter,Male,Hempstead,Reatha Q Breazeale,Main Street,Ben Frech,Cel Ray,Alcoholic,15,12,6,90,72,18
+88065565604,2020-09-06,Rick Y Haefner,Male,Brookhaven,Antone E Angel,Main Street,Ben Frech,Cazadores Tequila,Alcoholic,20,17,10,200,170,30
+88065565605,2020-09-07,Shannon J Force,Female,Islip,Merle N Burrus,Uptown Store,Ben Frech,Oliver Cromwell,Alcoholic,12,9,11,132,99,33
+88065565606,2020-09-08,Gabriel E Pearsall,Female,Babylon,Twanna Y Manges,Uptown Store,Ben Frech,Boost,Non Alcoholic,16,13,60,960,780,180
+88065565607,2020-09-09,Geri M Tuthill,Female,Albany,Reatha Q Breazeale,Main Street,Ben Frech,Cel Ray,Non Alcoholic,70,67,89,6230,5963,267
+88065565608,2020-09-10,Lauren R Hennessy,Male,Auburn,Antone E Angel,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,15,12,77,1155,924,231
+88065565609,2020-09-11,Monty C Hughes,Male,Betavia,Merle N Burrus,Uptown Store,Ben Frech,Boost,Alcoholic,16,13,68,1088,884,204
+88065565610,2020-09-12,Bryant L Kinsman,Male,Beacon,Twanna Y Manges,Uptown Store,Ben Frech,Cel Ray,Non Alcoholic,20,17,15,300,255,45
+88065565611,2020-09-13,Giovanna M Clift,Female,Choes,Reatha Q Breazeale,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,12,9,100,1200,900,300
+88065565612,2020-09-14,Tracie J Winebarger,Female,Fulton,Antone E Angel,Main Street,Ben Frech,Boost,Non Alcoholic,12,9,3000,36000,27000,9000
+88065565613,2020-09-15,Narcisa C Rayburn,Female,Geneva,Merle N Burrus,Uptown Store,Ben Frech,Cel Ray,Alcoholic,18,15,5000,90000,75000,15000
+88065565614,2020-09-16,Almeda M Dunford,Female,Elmira,Twanna Y Manges,Uptown Store,Ben Frech,Cazadores Tequila,Alcoholic,10,7,300,3000,2100,900
+88065565615,2020-09-17,Melida R Corle,Female,Glen Cove,Reatha Q Breazeale,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,15,12,2000,30000,24000,6000
+88065565616,2020-09-18,Armando H Seaborn,Male,Glens Falls,Antone E Angel,Main Street,Ben Frech,Boost,Non Alcoholic,15,12,600,9000,7200,1800
+88065565617,2020-09-19,Efrain L Wass,Male,Hornell ,Merle N Burrus,Uptown Store,Ben Frech,Cel Ray,Non Alcoholic,23,20,1230,28290,24600,3690
+88065565618,2020-09-20,Edra M Guthrie,Female,Hudson,Twanna Y Manges,Uptown Store,Ben Frech,Oliver Cromwell,Alcoholic,9,6,900,8100,5400,2700
+88065565619,2020-09-21,Harland S Renshaw,Male,Johnstown,Reatha Q Breazeale,Main Street,Ben Frech,Boost,Alcoholic,18,15,2390,43020,35850,7170
+88065565620,2020-09-22,Leroy H Styron,Male,Kingston,Antone E Angel,Main Street,Ben Frech,Cel Ray,Non Alcoholic,14,11,10000,140000,110000,30000
+88065565621,2020-09-23,Maryln H Springfield,Female,Little Falls,Merle N Burrus,Uptown Store,Ben Frech,Oliver Cromwell,Alcoholic,30,27,2300,69000,62100,6900
+88065565622,2020-09-24,Elenora S Whitehill,Female,Lockport,Twanna Y Manges,Uptown Store,Ben Frech,Boost,Non Alcoholic,16,13,7800,124800,101400,23400
+88065565623,2020-09-25,Izola E Ye,Female,Long Beach,Reatha Q Breazeale,Main Street,Ben Frech,Cel Ray,Alcoholic,52,49,450,23400,22050,1350
+88065565624,2020-09-26,Dorethea U Engram,Female,Middletown,Antone E Angel,Main Street,Ben Frech,Cazadores Tequila,Alcoholic,14,11,2000,28000,22000,6000
+88065565625,2020-09-27,Anibal F Pieper,Male,Mount,Merle N Burrus,Uptown Store,Ben Frech,Oliver Cromwell,Alcoholic,6,3,123,738,369,369
+88065565626,2020-09-28,Ula W Hartl,Female,New York,Twanna Y Manges,Uptown Store,Ben Frech,Boost,Non Alcoholic,13,10,12903,167739,129030,38709
+88065565627,2020-09-29,Latanya C Law,Female,Newburgh,Reatha Q Breazeale,Main Street,Ben Frech,Cel Ray,Non Alcoholic,15,12,100000,1500000,1200000,300000
+88065565628,2020-09-30,Brent U Perlman,Male,Olean,Antone E Angel,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,20,17,12000,240000,204000,36000
+88065565629,2020-10-01,Eveline B Strecker,Female,Peekskill,Merle N Burrus,Uptown Store,Ben Frech,Boost,Alcoholic,12,9,60,720,540,180
+88065565630,2020-10-02,Keila A Lucas,Female,Port Jervis,Twanna Y Manges,Uptown Store,Ben Frech,Cel Ray,Non Alcoholic,16,13,89,1424,1157,267
+88065565631,2020-10-03,Aliza X Sammons,Female,Poughkeepsie,Reatha Q Breazeale,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,20,17,77,1540,1309,231
+88065565632,2020-10-04,Bennie E Manfredi,Male,Rye ,Antone E Angel,Main Street,Ben Frech,Boost,Non Alcoholic,12,9,68,816,612,204
+88065565633,2020-10-05,Lucinda Z Borton,Female,Rome,Merle N Burrus,Uptown Store,Ben Frech,Cel Ray,Alcoholic,10,7,15,150,105,45
+88065565634,2020-10-06,Keila F Lofland,Female,Rochester,Twanna Y Manges,Uptown Store,Ben Frech,Cazadores Tequila,Alcoholic,15,12,47,705,564,141
+88065565635,2020-10-07,Royce K Goodwyn,Female,Salamanca,Reatha Q Breazeale,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,15,12,6,90,72,18
+88065565636,2020-10-08,Rickey I Delk,Male,Springs,Antone E Angel,Main Street,Ben Frech,Boost,Non Alcoholic,20,17,10,200,170,30
+88065565637,2020-10-09,Delsie R Tennison,Female,Sherrill,Merle N Burrus,Uptown Store,Ben Frech,Cel Ray,Non Alcoholic,12,9,11,132,99,33
+88065565638,2020-10-10,Jayme B Shimer,Female,Syracuse,Twanna Y Manges,Uptown Store,Ben Frech,Oliver Cromwell,Alcoholic,13,10,60,780,600,180
+88065565639,2020-10-11,Gilbert M Wolfgram,Male,Troy,Reatha Q Breazeale,Main Street,Ben Frech,Boost,Alcoholic,15,12,89,1335,1068,267
+88065565640,2020-10-12,Isabella X Russell,Female,Watertown,Antone E Angel,Main Street,Ben Frech,Cel Ray,Non Alcoholic,14,11,77,1078,847,231
+88065565641,2020-10-13,Rueben X Pidgeon,Male,Watervliet,Merle N Burrus,Uptown Store,Ben Frech,Oliver Cromwell,Alcoholic,30,27,68,2040,1836,204
+88065565642,2020-10-14,Raymond U Flavin,Male,Yakers,Antone E Angel,Main Street,Ben Frech,Boost,Non Alcoholic,16,13,15,240,195,45
+88065565643,2020-10-15,Larry K Mash,Male,New York,Merle N Burrus,Uptown Store,Ben Frech,Cel Ray,Alcoholic,9,6,100,900,600,300
+88065565644,2020-10-16,Nicolle A Crothers,Female,Hempstead,Antone E Angel,Main Street,Ben Frech,Cazadores Tequila,Alcoholic,5,2,3000,15000,6000,9000
+88065565645,2020-10-17,Gustavo F Rouse,Male,Brookhaven,Merle N Burrus,Uptown Store,Ben Frech,Oliver Cromwell,Alcoholic,18,15,5000,90000,75000,15000
+88065565646,2020-10-18,Victoria H Musson,Female,Islip,Antone E Angel,Main Street,Ben Frech,Boost,Non Alcoholic,10,7,300,3000,2100,900
+88065565647,2020-10-19,Dawne Y Gardner,Female,Babylon,Merle N Burrus,Uptown Store,Ben Frech,Cel Ray,Non Alcoholic,20,17,2000,40000,34000,6000
+88065565648,2020-10-20,Newton L Cromartie,Male,Albany,Antone E Angel,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,70,67,600,42000,40200,1800
+88065565649,2020-10-21,Doria Z Crouse,Female,Auburn,Merle N Burrus,Uptown Store,Ben Frech,Boost,Alcoholic,15,12,1230,18450,14760,3690
+88065565650,2020-10-22,Gerry X Koh,Male,Betavia,Antone E Angel,Main Street,Ben Frech,Cel Ray,Non Alcoholic,12,9,900,10800,8100,2700
+88065565651,2020-10-23,Audrea K Papineau,Female,Beacon,Merle N Burrus,Uptown Store,Ben Frech,Oliver Cromwell,Alcoholic,18,15,2390,43020,35850,7170
+88065565652,2020-10-24,Rhett H Goode,Male,Elmira,Antone E Angel,Main Street,Ben Frech,Boost,Non Alcoholic,23,20,10000,230000,200000,30000
+88065565653,2020-10-25,Royal U Okeefe,Male,Glen Cove,Merle N Burrus,Uptown Store,Ben Frech,Cel Ray,Alcoholic,9,6,2300,20700,13800,6900
+88065565654,2020-10-26,Keith Q Ofarrell,Male,New York,Antone E Angel,Main Street,Ben Frech,Cazadores Tequila,Alcoholic,18,15,7800,140400,117000,23400
+88065565655,2020-10-27,Exie C Bradham,Female,Hempstead,Merle N Burrus,Uptown Store,Ben Frech,Oliver Cromwell,Alcoholic,52,49,450,23400,22050,1350
+88065565656,2020-10-28,George U Clouser,Male,Brookhaven,Antone E Angel,Main Street,Ben Frech,Boost,Non Alcoholic,9,6,2000,18000,12000,6000
+88065565657,2020-10-29,Benny S Brinker,Male,Glen Cove,Merle N Burrus,Uptown Store,Ben Frech,Cel Ray,Non Alcoholic,5,2,123,615,246,369
+88065565658,2020-10-30,Forrest Q Zell,Male,Glens Falls,Antone E Angel,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,14,11,12903,180642,141933,38709
+88065565659,2020-10-31,Audrie X Mccammon,Female,Hornell ,Merle N Burrus,Uptown Store,Ben Frech,Boost,Alcoholic,6,3,100000,600000,300000,300000
+88065565660,2020-11-01,Marylyn K Ditto,Female,Hudson,Antone E Angel,Main Street,Ben Frech,Cel Ray,Non Alcoholic,10,7,12000,120000,84000,36000
+88065565661,2020-11-02,Kori J Fairfax,Female,Johnstown,Merle N Burrus,Uptown Store,Ben Frech,Oliver Cromwell,Alcoholic,13,10,60,780,600,180
+88065565662,2020-11-03,Lamar W Estill,Male,Kingston,Twanna Y Manges,Uptown Store,Ben Frech,Boost,Non Alcoholic,20,17,89,1780,1513,267
+88065565663,2020-11-04,Giuseppe D Chouinard,Male,Little Falls,Reatha Q Breazeale,Main Street,Ben Frech,Cel Ray,Alcoholic,15,12,77,1155,924,231
+88065565664,2020-11-05,Khalilah A Campo,Female,Lockport,Reatha Q Breazeale,Main Street,Drek Yassi,Cazadores Tequila,Alcoholic,20,17,68,1360,1156,204
+88065565665,2020-11-06,Darcel P Burford,Female,Long Beach,Reatha Q Breazeale,Main Street,Drek Yassi,Oliver Cromwell,Alcoholic,12,9,15,180,135,45
+88065565666,2020-11-07,August C Navarette,Male,Middletown,Reatha Q Breazeale,Main Street,Drek Yassi,Boost,Non Alcoholic,16,13,47,752,611,141
+88065565667,2020-11-08,Lanelle W Berlanga,Female,Mount,Reatha Q Breazeale,Main Street,Drek Yassi,Cel Ray,Non Alcoholic,70,67,6,420,402,18
+88065565668,2020-11-09,Allene T Lepe,Female,New York,Reatha Q Breazeale,Main Street,Drek Yassi,Oliver Cromwell,Alcoholic,15,12,10,150,120,30
+88065565669,2020-11-10,Eladia A Braggs,Female,Salamanca,Reatha Q Breazeale,Main Street,Drek Yassi,Boost,Alcoholic,16,13,11,176,143,33
+88065565670,2020-11-11,Agnes D Doud,Female,Springs,Reatha Q Breazeale,Main Street,Drek Yassi,Cel Ray,Non Alcoholic,20,17,60,1200,1020,180
+88065565671,2020-11-12,Carlo B Ali,Male,Sherrill,Reatha Q Breazeale,Main Street,Drek Yassi,Oliver Cromwell,Alcoholic,12,9,89,1068,801,267
+88065565672,2020-11-13,Emery P Sorrells,Male,Syracuse,Reatha Q Breazeale,Main Street,Drek Yassi,Boost,Non Alcoholic,12,9,77,924,693,231
+88065565673,2020-11-14,Violet L Ertel,Female,Troy,Reatha Q Breazeale,Main Street,Drek Yassi,Cel Ray,Alcoholic,18,15,68,1224,1020,204
+88065565674,2020-11-15,Deeanna E Cluck,Female,Olean,Reatha Q Breazeale,Main Street,Drek Yassi,Cazadores Tequila,Alcoholic,10,7,15,150,105,45
+88065565675,2020-11-16,Morgan K Rathbun,Male,Peekskill,Reatha Q Breazeale,Main Street,Drek Yassi,Oliver Cromwell,Alcoholic,15,12,100,1500,1200,300
+88065565676,2020-11-17,Julius Q Stock,Male,Port Jervis,Reatha Q Breazeale,Main Street,Drek Yassi,Boost,Non Alcoholic,15,12,3000,45000,36000,9000
+88065565677,2020-11-18,Palmer O Beamer,Male,Kingston,Reatha Q Breazeale,Main Street,Drek Yassi,Cel Ray,Non Alcoholic,23,20,5000,115000,100000,15000
+88065565678,2020-11-19,Vincent N Lennon,Male,Little Falls,Reatha Q Breazeale,Main Street,Drek Yassi,Oliver Cromwell,Alcoholic,9,6,300,2700,1800,900
+88065565679,2020-11-20,Alexis D Bonelli,Male,Lockport,Reatha Q Breazeale,Main Street,Drek Yassi,Boost,Alcoholic,18,15,2000,36000,30000,6000
+88065565680,2020-11-21,Claretta D Wingert,Female,Long Beach,Twanna Y Manges,Uptown Store,Drek Yassi,Cel Ray,Non Alcoholic,14,11,600,8400,6600,1800
+88065565681,2020-11-22,Cecily D Houser,Female,Middletown,Reatha Q Breazeale,Main Street,Drek Yassi,Oliver Cromwell,Alcoholic,30,27,1230,36900,33210,3690
+88065565682,2020-11-23,Horacio S Salazar,Male,Watervliet,Twanna Y Manges,Uptown Store,Drek Yassi,Boost,Non Alcoholic,16,13,900,14400,11700,2700
+88065565683,2020-11-24,Adelle E Brunner,Female,Yakers,Reatha Q Breazeale,Main Street,Drek Yassi,Cel Ray,Alcoholic,52,49,2390,124280,117110,7170
+88065565684,2020-11-25,Janessa M Drennen,Female,New York,Twanna Y Manges,Uptown Store,Drek Yassi,Cazadores Tequila,Alcoholic,14,11,10000,140000,110000,30000
+88065565685,2020-11-26,Ewa B Staples,Female,Hempstead,Reatha Q Breazeale,Main Street,Drek Yassi,Oliver Cromwell,Alcoholic,6,3,2300,13800,6900,6900
+88065565686,2020-11-27,Holley M Cathcart,Female,New York,Twanna Y Manges,Uptown Store,Drek Yassi,Boost,Non Alcoholic,13,10,7800,101400,78000,23400
+88065565687,2020-11-28,Tim N Schueller,Male,Hempstead,Reatha Q Breazeale,Main Street,Drek Yassi,Cel Ray,Non Alcoholic,15,12,450,6750,5400,1350
+88065565688,2020-11-29,Therese Q Belden,Female,Brookhaven,Twanna Y Manges,Uptown Store,Drek Yassi,Oliver Cromwell,Alcoholic,20,17,2000,40000,34000,6000
+88065565689,2020-11-30,Susann A Faucett,Female,Islip,Reatha Q Breazeale,Main Street,Drek Yassi,Boost,Alcoholic,12,9,123,1476,1107,369
+88065565690,2020-12-01,Bryan J Stampley,Male,Babylon,Twanna Y Manges,Uptown Store,Drek Yassi,Cel Ray,Non Alcoholic,16,13,12903,206448,167739,38709
+88065565691,2020-12-02,Larisa X Strauss,Female,Albany,Reatha Q Breazeale,Main Street,Drek Yassi,Oliver Cromwell,Alcoholic,20,17,100000,2000000,1700000,300000
+88065565692,2020-12-03,Adriana O Medved,Female,Auburn,Twanna Y Manges,Uptown Store,Drek Yassi,Boost,Non Alcoholic,12,9,12000,144000,108000,36000
+88065565693,2020-12-04,Rick E Armenta,Male,Betavia,Reatha Q Breazeale,Main Street,Drek Yassi,Cel Ray,Alcoholic,10,7,60,600,420,180
+88065565694,2020-12-05,Garland J Verville,Male,Beacon,Twanna Y Manges,Uptown Store,Drek Yassi,Cazadores Tequila,Alcoholic,15,12,89,1335,1068,267
+88065565695,2020-12-06,Ettie S Stilwell,Female,Choes,Reatha Q Breazeale,Main Street,Drek Yassi,Oliver Cromwell,Alcoholic,15,12,77,1155,924,231
+88065565696,2020-12-07,Ronnie G Gumbs,Male,Fulton,Twanna Y Manges,Uptown Store,Drek Yassi,Boost,Non Alcoholic,20,17,68,1360,1156,204
+88065565697,2020-08-23,Shirley H Mettler,Male,Geneva,Reatha Q Breazeale,Main Street,Drek Yassi,Cel Ray,Non Alcoholic,12,9,15,180,135,45
+88065565698,2020-08-24,Ahmed V Lease,Male,Elmira,Twanna Y Manges,Uptown Store,Drek Yassi,Oliver Cromwell,Alcoholic,13,10,47,611,470,141
+88065565699,2020-08-25,Albert Z Dunford,Male,Glen Cove,Reatha Q Breazeale,Main Street,Drek Yassi,Boost,Alcoholic,15,12,6,90,72,18
+88065565700,2020-08-29,Erin L Jasmin,Female,Glens Falls,Twanna Y Manges,Uptown Store,Drek Yassi,Cel Ray,Non Alcoholic,14,11,10,140,110,30
+88065565701,2020-08-28,Raphael W Kellner,Male,Hornell ,Reatha Q Breazeale,Main Street,Drek Yassi,Oliver Cromwell,Alcoholic,30,27,11,330,297,33
+88065565702,2020-08-28,Man W Bean,Female,Hudson,Twanna Y Manges,Uptown Store,Drek Yassi,Boost,Non Alcoholic,16,13,60,960,780,180
+88065565703,2020-08-29,Nikia Z Thrasher,Female,Johnstown,Reatha Q Breazeale,Main Street,Drek Yassi,Cel Ray,Alcoholic,9,6,89,801,534,267
+88065565704,2020-08-30,Cedrick M Cordle,Male,Kingston,Twanna Y Manges,Uptown Store,Drek Yassi,Cazadores Tequila,Alcoholic,5,2,77,385,154,231
+88065565705,2020-08-31,Chi S Clopton,Male,Little Falls,Reatha Q Breazeale,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,18,15,68,1224,1020,204
+88065565706,2020-08-01,Carl M Paddock,Male,Lockport,Twanna Y Manges,Uptown Store,Ben Frech,Boost,Non Alcoholic,10,7,15,150,105,45
+88065565707,2020-08-02,Nestor T Ventura,Male,Long Beach,Reatha Q Breazeale,Main Street,Ben Frech,Cel Ray,Non Alcoholic,20,17,100,2000,1700,300
+88065565708,2020-08-03,Salvatore J Lindell,Male,Middletown,Twanna Y Manges,Uptown Store,Ben Frech,Oliver Cromwell,Alcoholic,70,67,3000,210000,201000,9000
+88065565709,2020-08-04,Phil T Urena,Male,Mount,Reatha Q Breazeale,Main Street,Ben Frech,Boost,Alcoholic,15,12,5000,75000,60000,15000
+88065565710,2020-08-05,Buford Q Giancola,Male,New York,Twanna Y Manges,Uptown Store,Ben Frech,Cel Ray,Non Alcoholic,12,9,300,3600,2700,900
+88065565711,2020-08-09,Garland Z Leavell,Male,Newburgh,Reatha Q Breazeale,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,18,15,2000,36000,30000,6000
+88065565712,2020-08-08,Fe A Schrock,Female,Olean,Twanna Y Manges,Uptown Store,Ben Frech,Boost,Non Alcoholic,23,20,600,13800,12000,1800
+88065565713,2020-08-08,Dustin Y Espey,Male,Peekskill,Reatha Q Breazeale,Main Street,Ben Frech,Cel Ray,Alcoholic,9,6,1230,11070,7380,3690
+88065565714,2020-08-09,Tinisha V Vince,Female,Port Jervis,Twanna Y Manges,Uptown Store,Ben Frech,Cazadores Tequila,Alcoholic,18,15,900,16200,13500,2700
+88065565715,2020-08-10,Isis F Hash,Female,Poughkeepsie,Reatha Q Breazeale,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,5,2,2390,11950,4780,7170
+88065565716,2020-08-11,Hai Y Arden,Male,Rye ,Twanna Y Manges,Uptown Store,Ben Frech,Boost,Non Alcoholic,14,11,10000,140000,110000,30000
+88065565717,2020-08-12,Gerardo Q Bergen,Male,Rome,Reatha Q Breazeale,Main Street,Ben Frech,Cel Ray,Non Alcoholic,6,3,2300,13800,6900,6900
+88065565718,2020-08-13,Jewel R Willhite,Male,Rochester,Twanna Y Manges,Uptown Store,Ben Frech,Oliver Cromwell,Alcoholic,10,7,7800,78000,54600,23400
+88065565719,2020-08-14,Jesus E Mclelland,Male,Salamanca,Reatha Q Breazeale,Main Street,Ben Frech,Boost,Alcoholic,13,10,450,5850,4500,1350
+88065565720,2020-08-15,Dortha Z Harty,Female,Springs,Twanna Y Manges,Uptown Store,Ben Frech,Cel Ray,Non Alcoholic,20,17,2000,40000,34000,6000
+88065565721,2020-08-19,Pete B Donnelly,Male,Sherrill,Antone E Angel,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,15,12,123,1845,1476,369
+88065565722,2020-08-18,Kristen A Beauchemin,Female,Syracuse,Antone E Angel,Main Street,Ben Frech,Boost,Non Alcoholic,20,17,12903,258060,219351,38709
+88065565723,2020-08-18,Celesta L Reeser,Female,Troy,Antone E Angel,Main Street,Ben Frech,Cel Ray,Alcoholic,12,9,100000,1200000,900000,300000
+88065565724,2020-08-19,Desiree L Sobel,Female,Watertown,Antone E Angel,Main Street,Ben Frech,Cazadores Tequila,Alcoholic,16,13,12000,192000,156000,36000
+88065565725,2020-08-20,Izetta B Alford,Female,Watervliet,Antone E Angel,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,70,67,60,4200,4020,180
+88065565726,2020-08-21,Hermila X Crosslin,Female,Yakers,Antone E Angel,Main Street,Ben Frech,Boost,Non Alcoholic,15,12,89,1335,1068,267
+88065565727,2020-08-22,Tommy I Meadows,Male,New York,Antone E Angel,Main Street,Ben Frech,Cel Ray,Non Alcoholic,16,13,77,1232,1001,231
+88065565728,2020-08-23,Cordell M Tweedy,Male,Hempstead,Antone E Angel,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,20,17,68,1360,1156,204
+88065565729,2020-08-24,Bernarda E Gervais,Female,Brookhaven,Antone E Angel,Main Street,Ben Frech,Boost,Alcoholic,12,9,15,180,135,45
+88065565730,2020-08-25,Raymon I Chavarria,Male,Islip,Antone E Angel,Main Street,Ben Frech,Cel Ray,Non Alcoholic,12,9,47,564,423,141
+88065565731,2020-08-29,Audrea B Prather,Female,Babylon,Antone E Angel,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,18,15,6,108,90,18
+88065565732,2020-08-28,Isis N Rufus,Female,Albany,Antone E Angel,Main Street,Ben Frech,Boost,Non Alcoholic,10,7,10,100,70,30
+88065565733,2020-08-28,Lucienne U Clyne,Female,Auburn,Antone E Angel,Main Street,Ben Frech,Cel Ray,Alcoholic,15,12,11,165,132,33
+88065565734,2020-08-29,Jasper P Barnaby,Male,Betavia,Antone E Angel,Main Street,Ben Frech,Cazadores Tequila,Alcoholic,23,20,60,1380,1200,180
+88065565735,2020-08-30,Walter B Mcmorrow,Male,Beacon,Antone E Angel,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,9,6,89,801,534,267
+88065565736,2020-08-31,Shasta F Bay,Female,Elmira,Antone E Angel,Main Street,Ben Frech,Boost,Non Alcoholic,18,15,77,1386,1155,231
+88065565737,2020-09-01,Darren U Shoulders,Male,Glen Cove,Merle N Burrus,Uptown Store,Ben Frech,Cel Ray,Non Alcoholic,14,11,68,952,748,204
+88065565738,2020-09-02,Nicola S Bellis,Female,New York,Twanna Y Manges,Uptown Store,Ben Frech,Oliver Cromwell,Alcoholic,30,27,15,450,405,45
+88065565739,2020-09-03,Thurman T Caceres,Male,Hempstead,Reatha Q Breazeale,Main Street,Ben Frech,Boost,Alcoholic,16,13,100,1600,1300,300
+88065565740,2020-09-04,Allen L Vachon,Female,Brookhaven,Antone E Angel,Main Street,Ben Frech,Cel Ray,Non Alcoholic,52,49,3000,156000,147000,9000
+88065565741,2020-09-05,Yung G Booher,Female,Glen Cove,Antone E Angel,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,14,11,5000,70000,55000,15000
+88065565742,2020-09-09,Emiko Z Lolley,Female,Glens Falls,Merle N Burrus,Uptown Store,Ben Frech,Boost,Non Alcoholic,6,3,300,1800,900,900
+88065565743,2020-09-08,Dian I Peachey,Female,Hornell ,Twanna Y Manges,Uptown Store,Ben Frech,Cel Ray,Alcoholic,13,10,2000,26000,20000,6000
+88065565744,2020-09-08,Carmen U Benbow,Female,Hudson,Reatha Q Breazeale,Main Street,Ben Frech,Cazadores Tequila,Alcoholic,15,12,600,9000,7200,1800
+88065565745,2020-09-09,Kimberly K Carr,Female,Johnstown,Antone E Angel,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,20,17,1230,24600,20910,3690
+88065565746,2020-09-10,Damian F Mcgaughey,Male,Kingston,Antone E Angel,Main Street,Ben Frech,Boost,Non Alcoholic,12,9,900,10800,8100,2700
+88065565747,2020-09-11,Jeff W Zacarias,Male,Little Falls,Merle N Burrus,Uptown Store,Ben Frech,Cel Ray,Non Alcoholic,16,13,2390,38240,31070,7170
+88065565748,2020-09-12,Vernell X Amado,Female,Lockport,Twanna Y Manges,Uptown Store,Ben Frech,Oliver Cromwell,Alcoholic,20,17,10000,200000,170000,30000
+88065565749,2020-09-13,Nadia B Rosner,Female,Long Beach,Reatha Q Breazeale,Main Street,Ben Frech,Boost,Alcoholic,12,9,2300,27600,20700,6900
+88065565750,2020-09-14,Elijah P Elkin,Male,Middletown,Antone E Angel,Main Street,Ben Frech,Cel Ray,Non Alcoholic,10,7,7800,78000,54600,23400
+88065565751,2020-09-15,Kirby W Estrella,Male,Mount,Antone E Angel,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,15,12,450,6750,5400,1350
+88065565752,2020-09-19,Bernie M Kish,Male,New York,Merle N Burrus,Uptown Store,Ben Frech,Boost,Non Alcoholic,15,12,2000,30000,24000,6000
+88065565753,2020-09-18,Judson Y Hodson,Male,Salamanca,Twanna Y Manges,Uptown Store,Ben Frech,Cel Ray,Alcoholic,20,17,123,2460,2091,369
+88065565754,2020-09-18,Carey N Mccready,Female,Springs,Reatha Q Breazeale,Main Street,Ben Frech,Cazadores Tequila,Alcoholic,12,9,12903,154836,116127,38709
+88065565755,2020-09-19,Shayne T Claytor,Male,Sherrill,Antone E Angel,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,13,10,100000,1300000,1000000,300000
+88065565756,2020-09-20,Ashlie G Cadena,Female,Syracuse,Antone E Angel,Main Street,Ben Frech,Boost,Non Alcoholic,15,12,12000,180000,144000,36000
+88065565757,2020-09-21,Noah O Love,Male,Troy,Merle N Burrus,Uptown Store,Ben Frech,Cel Ray,Non Alcoholic,14,11,60,840,660,180
+88065565758,2020-09-22,Lashaunda Y Munden,Female,Olean,Twanna Y Manges,Uptown Store,Ben Frech,Oliver Cromwell,Alcoholic,30,27,89,2670,2403,267
+88065565759,2020-09-23,Colin V Likens,Male,Peekskill,Reatha Q Breazeale,Main Street,Ben Frech,Boost,Alcoholic,16,13,77,1232,1001,231
+88065565760,2020-09-24,Kylie K Freda,Female,Port Jervis,Antone E Angel,Main Street,Ben Frech,Cel Ray,Non Alcoholic,9,6,68,612,408,204
+88065565761,2020-09-25,Krishna G Raby,Female,Kingston,Antone E Angel,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,5,2,15,75,30,45
+88065565762,2020-09-29,Launa N Kohl,Female,Little Falls,Merle N Burrus,Uptown Store,Ben Frech,Boost,Non Alcoholic,18,15,47,846,705,141
+88065565763,2020-09-28,Trent J Lockman,Male,Lockport,Twanna Y Manges,Uptown Store,Ben Frech,Cel Ray,Alcoholic,10,7,6,60,42,18
+88065565764,2020-09-28,Alisha D Coppock,Female,Long Beach,Reatha Q Breazeale,Main Street,Ben Frech,Cazadores Tequila,Alcoholic,20,17,10,200,170,30
+88065565765,2020-09-29,Richie I Weisz,Male,Middletown,Antone E Angel,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,70,67,11,770,737,33
+88065565766,2020-09-30,Leticia V Lewandowski,Female,Watervliet,Antone E Angel,Main Street,Drek Yassi,Boost,Non Alcoholic,15,12,60,900,720,180
+88065565767,2020-09-20,Elaine B Randazzo,Female,Yakers,Merle N Burrus,Uptown Store,Drek Yassi,Cel Ray,Non Alcoholic,12,9,89,1068,801,267
+88065565768,2020-01-01,Jack J Warfel,Male,New York,Twanna Y Manges,Uptown Store,Drek Yassi,Oliver Cromwell,Alcoholic,18,15,77,1386,1155,231
+88065565769,2020-01-01,Kitty S Sickles,Female,Hempstead,Reatha Q Breazeale,Main Street,Drek Yassi,Boost,Alcoholic,23,20,68,1564,1360,204
+88065565770,2020-01-01,Bruna R Welke,Female,New York,Antone E Angel,Main Street,Drek Yassi,Cel Ray,Non Alcoholic,9,6,15,135,90,45
+88065565771,2020-01-01,Felix S Croker,Male,Hempstead,Antone E Angel,Main Street,Drek Yassi,Oliver Cromwell,Alcoholic,18,15,100,1800,1500,300
+88065565772,2020-01-01,Eartha Z Oceguera,Female,Brookhaven,Merle N Burrus,Uptown Store,Drek Yassi,Boost,Non Alcoholic,5,2,3000,15000,6000,9000
+88065565773,2020-01-01,Laurena P Caston,Female,Islip,Twanna Y Manges,Uptown Store,Drek Yassi,Cel Ray,Alcoholic,14,11,5000,70000,55000,15000
+88065565774,2020-01-01,Beatrice A Knopf,Female,Babylon,Reatha Q Breazeale,Main Street,Drek Yassi,Cazadores Tequila,Alcoholic,6,3,300,1800,900,900
+88065565775,2020-01-01,Zoila X Nair,Female,Albany,Antone E Angel,Main Street,Drek Yassi,Oliver Cromwell,Alcoholic,10,7,2000,20000,14000,6000
+88065565776,2020-01-01,Jae B Isabell,Male,Auburn,Antone E Angel,Main Street,Drek Yassi,Boost,Non Alcoholic,13,10,600,7800,6000,1800
+88065565777,2020-01-01,Donald P Phaneuf,Male,Betavia,Merle N Burrus,Uptown Store,Drek Yassi,Cel Ray,Non Alcoholic,20,17,1230,24600,20910,3690
+88065565778,2020-01-01,Tyrell R Bramlett,Male,Beacon,Twanna Y Manges,Uptown Store,Drek Yassi,Oliver Cromwell,Alcoholic,15,12,900,13500,10800,2700
+88065565779,2020-01-01,Ela K Hames,Female,Choes,Reatha Q Breazeale,Main Street,Drek Yassi,Boost,Alcoholic,20,17,2390,47800,40630,7170
+88065565780,2020-01-01,Marlon M Caddell,Male,Fulton,Antone E Angel,Main Street,Drek Yassi,Cel Ray,Non Alcoholic,12,9,10000,120000,90000,30000
+88065565781,2020-01-01,Nolan V Velazco,Male,Geneva,Antone E Angel,Main Street,Drek Yassi,Oliver Cromwell,Alcoholic,16,13,2300,36800,29900,6900
+88065565782,2020-01-01,Ashanti R Swim,Female,Elmira,Merle N Burrus,Uptown Store,Drek Yassi,Boost,Non Alcoholic,70,67,7800,546000,522600,23400
+88065565783,2020-01-01,Tamica J Holoman,Female,Glen Cove,Twanna Y Manges,Uptown Store,Drek Yassi,Cel Ray,Alcoholic,15,12,450,6750,5400,1350
+88065565784,2020-01-01,Marcell T Farias,Female,Glens Falls,Reatha Q Breazeale,Main Street,Drek Yassi,Cazadores Tequila,Alcoholic,16,13,2000,32000,26000,6000
+88065565785,2020-01-01,Abram Q Keffer,Male,Hornell ,Antone E Angel,Main Street,Drek Yassi,Oliver Cromwell,Alcoholic,20,17,123,2460,2091,369
+88065565786,2020-01-01,Silas S Pyatt,Male,Hudson,Antone E Angel,Main Street,Drek Yassi,Boost,Non Alcoholic,12,9,12903,154836,116127,38709
+88065565787,2020-01-01,Patria D Riedel,Female,Johnstown,Merle N Burrus,Uptown Store,Drek Yassi,Cel Ray,Non Alcoholic,12,9,100000,1200000,900000,300000
+88065565788,2020-01-01,Nicholas B Salcedo,Male,Kingston,Twanna Y Manges,Uptown Store,Drek Yassi,Oliver Cromwell,Alcoholic,18,15,12000,216000,180000,36000
+88065565789,2020-01-01,Brendon E Mone,Male,Little Falls,Reatha Q Breazeale,Main Street,Drek Yassi,Boost,Alcoholic,10,7,60,600,420,180
+88065565790,2020-01-01,Velda V Larue,Female,Lockport,Antone E Angel,Main Street,Drek Yassi,Cel Ray,Non Alcoholic,15,12,89,1335,1068,267
+88065565791,2020-01-01,Sharita Y Lombardi,Female,Long Beach,Antone E Angel,Main Street,Drek Yassi,Oliver Cromwell,Alcoholic,23,20,77,1771,1540,231
+88065565792,2020-01-01,Virgil R Yuen,Male,Middletown,Merle N Burrus,Uptown Store,Drek Yassi,Boost,Non Alcoholic,9,6,68,612,408,204
+88065565793,2020-01-01,Delfina O Day,Female,Mount,Twanna Y Manges,Uptown Store,Drek Yassi,Cel Ray,Alcoholic,18,15,15,270,225,45
+88065565794,2020-01-01,Haley G Bova,Female,New York,Reatha Q Breazeale,Main Street,Drek Yassi,Cazadores Tequila,Alcoholic,14,11,47,658,517,141
+88065565795,2020-01-01,Margarite E Blalock,Female,Newburgh,Antone E Angel,Main Street,Drek Yassi,Oliver Cromwell,Alcoholic,30,27,6,180,162,18
+88065565796,2020-01-01,Rina L Chacon,Female,Olean,Antone E Angel,Main Street,Drek Yassi,Boost,Non Alcoholic,16,13,10,160,130,30
+88065565797,2020-01-01,Ramonita Z Fincher,Female,Peekskill,Merle N Burrus,Uptown Store,Drek Yassi,Cel Ray,Non Alcoholic,52,49,11,572,539,33
+88065565798,2020-01-01,Lindsey W Whittle,Male,Port Jervis,Twanna Y Manges,Uptown Store,Drek Yassi,Oliver Cromwell,Alcoholic,14,11,60,840,660,180
+88065565799,2020-01-01,Mauricio U Talty,Male,Poughkeepsie,Reatha Q Breazeale,Main Street,Drek Yassi,Boost,Alcoholic,6,3,89,534,267,267
+88065565800,2020-01-01,Chau R Barron,Female,Rye ,Antone E Angel,Main Street,Drek Yassi,Cel Ray,Non Alcoholic,13,10,77,1001,770,231
+88065565801,2020-01-01,Lino M Lizarraga,Male,Rome,Antone E Angel,Main Street,Drek Yassi,Oliver Cromwell,Alcoholic,15,12,68,1020,816,204
+88065565802,2020-01-01,Fredericka J Varney,Female,Rochester,Merle N Burrus,Uptown Store,Drek Yassi,Boost,Non Alcoholic,20,17,15,300,255,45
+88065565803,2020-01-01,Aundrea W Lundberg,Female,Salamanca,Twanna Y Manges,Uptown Store,Drek Yassi,Cel Ray,Alcoholic,12,9,100,1200,900,300
+88065565804,2020-01-01,Son D Ricketts,Male,Springs,Reatha Q Breazeale,Main Street,Drek Yassi,Cazadores Tequila,Alcoholic,16,13,3000,48000,39000,9000
+88065565805,2020-01-01,Dorothea J Canterbury,Female,Sherrill,Antone E Angel,Main Street,Drek Yassi,Oliver Cromwell,Alcoholic,20,17,5000,100000,85000,15000
+88065565806,2020-01-01,Zenia D Owings,Female,Syracuse,Antone E Angel,Main Street,Drek Yassi,Boost,Non Alcoholic,12,9,300,3600,2700,900
+88065565807,2020-01-01,Seth N Lipsky,Male,Troy,Merle N Burrus,Uptown Store,Drek Yassi,Cel Ray,Non Alcoholic,10,7,2000,20000,14000,6000
+88065565808,2020-01-01,Miles N Light,Male,Watertown,Twanna Y Manges,Uptown Store,Ben Frech,Oliver Cromwell,Alcoholic,15,12,600,9000,7200,1800
+88065565809,2020-01-01,Tyler N Larkins,Male,Watervliet,Reatha Q Breazeale,Main Street,Ben Frech,Boost,Alcoholic,15,12,1230,18450,14760,3690
+88065565810,2020-01-01,Asa E Kunze,Male,Yakers,Antone E Angel,Main Street,Ben Frech,Cel Ray,Non Alcoholic,20,17,900,18000,15300,2700
+88065565811,2020-01-01,Sal C Heiden,Male,New York,Antone E Angel,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,12,9,2390,28680,21510,7170
+88065565812,2020-01-01,Tomas V Krout,Male,Hempstead,Merle N Burrus,Uptown Store,Ben Frech,Boost,Non Alcoholic,13,10,10000,130000,100000,30000
+88065565813,2020-01-01,Ben N Lamson,Male,Brookhaven,Twanna Y Manges,Uptown Store,Ben Frech,Cel Ray,Alcoholic,15,12,2300,34500,27600,6900
+88065565814,2020-01-01,Myra H Parra,Female,Islip,Reatha Q Breazeale,Main Street,Ben Frech,Cazadores Tequila,Alcoholic,14,11,7800,109200,85800,23400
+88065565815,2020-01-01,Adele M Burnam,Female,Babylon,Antone E Angel,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,30,27,450,13500,12150,1350
+88065565816,2020-01-01,Adria M Melendrez,Female,Albany,Antone E Angel,Main Street,Ben Frech,Boost,Non Alcoholic,16,13,2000,32000,26000,6000
+88065565817,2020-01-01,Clemmie F Montague,Female,Auburn,Merle N Burrus,Uptown Store,Ben Frech,Cel Ray,Non Alcoholic,9,6,123,1107,738,369
+88065565818,2020-01-01,Valarie O Gorecki,Female,Betavia,Twanna Y Manges,Uptown Store,Ben Frech,Oliver Cromwell,Alcoholic,5,2,12903,64515,25806,38709
+88065565819,2020-01-01,Adell W Trower,Female,Beacon,Reatha Q Breazeale,Main Street,Ben Frech,Boost,Alcoholic,18,15,100000,1800000,1500000,300000
+88065565820,2020-01-01,Eric C Irvine,Male,Elmira,Antone E Angel,Main Street,Ben Frech,Cel Ray,Non Alcoholic,10,7,12000,120000,84000,36000
+88065565821,2020-01-01,Letha L Apel,Female,Glen Cove,Antone E Angel,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,20,17,60,1200,1020,180
+88065565822,2020-01-01,Nannie Z Seeman,Female,New York,Merle N Burrus,Uptown Store,Ben Frech,Boost,Non Alcoholic,70,67,89,6230,5963,267
+88065565823,2020-01-01,Reynalda M Millwood,Female,Hempstead,Twanna Y Manges,Uptown Store,Ben Frech,Cel Ray,Alcoholic,15,12,77,1155,924,231
+88065565824,2020-01-01,Tanner Y Hollenbeck,Male,Brookhaven,Reatha Q Breazeale,Main Street,Ben Frech,Cazadores Tequila,Alcoholic,12,9,68,816,612,204
+88065565825,2020-01-01,Amado C Bonet,Male,Glen Cove,Antone E Angel,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,18,15,15,270,225,45
+88065565826,2020-01-01,Jeanetta N Norden,Female,Glens Falls,Antone E Angel,Main Street,Ben Frech,Boost,Non Alcoholic,23,20,47,1081,940,141
+88065565827,2020-01-01,Paris U Leite,Male,Hornell ,Merle N Burrus,Uptown Store,Ben Frech,Cel Ray,Non Alcoholic,9,6,6,54,36,18
+88065565828,2020-01-01,Alexis Q Grose,Male,Hudson,Twanna Y Manges,Uptown Store,Ben Frech,Oliver Cromwell,Alcoholic,18,15,10,180,150,30
+88065565829,2020-01-01,Chadwick I Hargreaves,Male,Johnstown,Reatha Q Breazeale,Main Street,Ben Frech,Boost,Alcoholic,5,2,11,55,22,33
+88065565830,2020-01-01,Perry E Huddleston,Male,Kingston,Antone E Angel,Main Street,Ben Frech,Cel Ray,Non Alcoholic,14,11,60,840,660,180
+88065565831,2020-01-01,Hollis Z Carr,Male,Little Falls,Antone E Angel,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,6,3,89,534,267,267
+88065565832,2020-01-01,Kiara T Martinez,Female,Lockport,Merle N Burrus,Uptown Store,Ben Frech,Boost,Non Alcoholic,10,7,77,770,539,231
+88065565833,2020-01-01,Brigitte D Fendley,Female,Long Beach,Twanna Y Manges,Uptown Store,Ben Frech,Cel Ray,Alcoholic,13,10,68,884,680,204
+88065565834,2020-01-01,Bobbie P Chumley,Male,Middletown,Reatha Q Breazeale,Main Street,Ben Frech,Cazadores Tequila,Alcoholic,20,17,15,300,255,45
+88065565835,2020-01-01,Hong M Townson,Male,Mount,Antone E Angel,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,15,12,100,1500,1200,300
+88065565836,2020-01-01,Keith B Macha,Female,New York,Antone E Angel,Main Street,Ben Frech,Boost,Non Alcoholic,20,17,3000,60000,51000,9000
+88065565837,2020-01-01,Harriett A Mccurry,Female,Salamanca,Merle N Burrus,Uptown Store,Ben Frech,Cel Ray,Non Alcoholic,12,9,5000,60000,45000,15000
+88065565838,2020-01-01,Andres S Garner,Male,Springs,Twanna Y Manges,Uptown Store,Ben Frech,Oliver Cromwell,Alcoholic,16,13,300,4800,3900,900
+88065565839,2020-01-01,Ken X Weisberg,Male,Sherrill,Reatha Q Breazeale,Main Street,Ben Frech,Boost,Alcoholic,70,67,2000,140000,134000,6000
+88065565840,2020-01-01,Moises U Hughs,Male,Syracuse,Antone E Angel,Main Street,Ben Frech,Cel Ray,Non Alcoholic,15,12,600,9000,7200,1800
+88065565841,2020-01-01,Sunshine F Earle,Female,Troy,Antone E Angel,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,16,13,1230,19680,15990,3690
+88065565842,2020-01-01,Lavette P Cheney,Female,Olean,Merle N Burrus,Uptown Store,Ben Frech,Boost,Non Alcoholic,20,17,900,18000,15300,2700
+88065565843,2020-01-01,Carmen F Barret,Female,Peekskill,Twanna Y Manges,Uptown Store,Ben Frech,Cel Ray,Alcoholic,12,9,2390,28680,21510,7170
+88065565844,2020-01-01,Lizzie D Ratcliff,Female,Port Jervis,Reatha Q Breazeale,Main Street,Ben Frech,Cazadores Tequila,Alcoholic,12,9,10000,120000,90000,30000
+88065565845,2020-01-01,Nick Q Packard,Male,Kingston,Antone E Angel,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,18,15,2300,41400,34500,6900
+88065565846,2020-01-01,Alonzo W Stanford,Male,Little Falls,Antone E Angel,Main Street,Ben Frech,Boost,Non Alcoholic,10,7,7800,78000,54600,23400
+88065565847,2020-01-01,Brett Z Vadnais,Male,Lockport,Merle N Burrus,Uptown Store,Ben Frech,Cel Ray,Non Alcoholic,18,15,450,8100,6750,1350
+88065565848,2020-01-01,Madalene J Martine,Female,Long Beach,Twanna Y Manges,Uptown Store,Ben Frech,Oliver Cromwell,Alcoholic,10,7,2000,20000,14000,6000
+88065565849,2020-01-01,Charles S Nicholes,Male,Middletown,Reatha Q Breazeale,Main Street,Ben Frech,Boost,Alcoholic,15,12,123,1845,1476,369
+88065565850,2020-01-01,Kristofer Y Fizer,Male,Watervliet,Antone E Angel,Main Street,Ben Frech,Cel Ray,Non Alcoholic,23,20,12903,296769,258060,38709
+88065565851,2020-01-01,Elmo G Pagano,Male,Yakers,Antone E Angel,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,9,6,100000,900000,600000,300000
+88065565852,2020-01-01,Lindy M Reel,Female,New York,Merle N Burrus,Uptown Store,Ben Frech,Boost,Non Alcoholic,18,15,12000,216000,180000,36000
+88065565853,2020-01-01,Dewayne X Groom,Male,Hempstead,Twanna Y Manges,Uptown Store,Ben Frech,Cel Ray,Alcoholic,18,15,60,1080,900,180
+88065565854,2020-01-01,Elenora V Halley,Female,New York,Reatha Q Breazeale,Main Street,Ben Frech,Cazadores Tequila,Alcoholic,10,7,89,890,623,267
+88065565855,2020-01-01,Rosette F Cascio,Female,Hempstead,Antone E Angel,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,15,12,77,1155,924,231
+88065565856,2020-01-01,Analisa X Birdsell,Female,Brookhaven,Antone E Angel,Main Street,Ben Frech,Boost,Non Alcoholic,23,20,68,1564,1360,204
+88065565857,2020-01-01,Jacinta Y Cheney,Female,Islip,Merle N Burrus,Uptown Store,Ben Frech,Cel Ray,Non Alcoholic,9,6,15,135,90,45
+88065565858,2020-01-01,Matt D Bramblett,Male,Babylon,Twanna Y Manges,Uptown Store,Ben Frech,Oliver Cromwell,Alcoholic,18,15,47,846,705,141
+88065565859,2020-01-01,Queenie M Alder,Female,Albany,Reatha Q Breazeale,Main Street,Ben Frech,Boost,Alcoholic,18,15,6,108,90,18
+88065565860,2020-01-01,Darwin W Lemoine,Male,Auburn,Antone E Angel,Main Street,Ben Frech,Cel Ray,Non Alcoholic,10,7,10,100,70,30
+88065565861,2020-01-01,Erik W Steffen,Male,Betavia,Antone E Angel,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,15,12,11,165,132,33
+88065565862,2020-01-01,Ching D Applegate,Female,Beacon,Merle N Burrus,Uptown Store,Ben Frech,Boost,Non Alcoholic,23,20,60,1380,1200,180
+88065565863,2020-01-01,Warren L Manion,Male,Choes,Twanna Y Manges,Uptown Store,Ben Frech,Cel Ray,Alcoholic,9,6,89,801,534,267
+88065565864,2020-01-01,Celestine H Alderson,Female,Fulton,Reatha Q Breazeale,Main Street,Ben Frech,Cazadores Tequila,Alcoholic,18,15,77,1386,1155,231
+88065565865,2020-01-01,Tammi S Garret,Female,Geneva,Antone E Angel,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,15,12,68,1020,816,204
+88065565866,2020-01-01,Tamesha I Knepper,Female,Elmira,Antone E Angel,Main Street,Ben Frech,Boost,Non Alcoholic,15,12,15,225,180,45
+88065565867,2020-01-01,Bernardina X Roesch,Female,Glen Cove,Merle N Burrus,Uptown Store,Ben Frech,Cel Ray,Non Alcoholic,20,17,100,2000,1700,300
+88065565868,2020-01-01,Mariano Y Kyles,Male,Glens Falls,Merle N Burrus,Uptown Store,Ben Frech,Oliver Cromwell,Alcoholic,12,9,3000,36000,27000,9000
+88065565869,2020-01-01,Kristie E Jain,Female,Hornell ,Merle N Burrus,Uptown Store,Ben Frech,Boost,Alcoholic,13,10,5000,65000,50000,15000
+88065565870,2020-01-01,Jeff E Lucero,Male,Hudson,Merle N Burrus,Uptown Store,Ben Frech,Cel Ray,Non Alcoholic,15,12,300,4500,3600,900
+88065565871,2020-01-01,Leanna X Tibbetts,Female,Johnstown,Merle N Burrus,Uptown Store,Ben Frech,Oliver Cromwell,Alcoholic,14,11,2000,28000,22000,6000
+88065565872,2020-01-01,Robbie N Heckman,Female,Kingston,Antone E Angel,Main Street,Ben Frech,Boost,Non Alcoholic,30,27,600,18000,16200,1800
+88065565873,2020-01-01,Bernard N Weatherly,Male,Little Falls,Merle N Burrus,Uptown Store,Drek Yassi,Cel Ray,Alcoholic,16,13,1230,19680,15990,3690
+88065565874,2020-01-01,Cordia M Knopp,Female,Auburn,Twanna Y Manges,Uptown Store,Drek Yassi,Cazadores Tequila,Alcoholic,9,6,900,8100,5400,2700
+88065565875,2020-01-01,Burton C Jin,Male,Betavia,Reatha Q Breazeale,Main Street,Drek Yassi,Oliver Cromwell,Alcoholic,5,2,2390,11950,4780,7170
+88065565876,2020-01-01,Lauren O Guzzi,Male,Middletown,Antone E Angel,Main Street,Drek Yassi,Boost,Non Alcoholic,18,15,10000,180000,150000,30000
+88065565877,2020-01-01,Carter C Hunt,Male,Mount,Merle N Burrus,Uptown Store,Drek Yassi,Cel Ray,Non Alcoholic,10,7,2300,23000,16100,6900
+88065565878,2020-01-01,Isaiah Y Magwood,Male,New York,Twanna Y Manges,Uptown Store,Drek Yassi,Oliver Cromwell,Alcoholic,20,17,7800,156000,132600,23400
+88065565879,2020-01-01,Hugh N Chavira,Male,Geneva,Reatha Q Breazeale,Main Street,Drek Yassi,Boost,Alcoholic,70,67,450,31500,30150,1350
+88065565880,2020-01-01,Lucius C Moorhead,Male,Elmira,Antone E Angel,Main Street,Drek Yassi,Cel Ray,Non Alcoholic,15,12,2000,30000,24000,6000
+88065565881,2020-01-01,Deane I Keown,Female,Glen Cove,Merle N Burrus,Uptown Store,Drek Yassi,Oliver Cromwell,Alcoholic,15,12,123,1845,1476,369
+88065565882,2020-01-01,Joannie E Wolters,Female,Glens Falls,Twanna Y Manges,Uptown Store,Drek Yassi,Boost,Non Alcoholic,15,12,12903,193545,154836,38709
+88065565883,2020-01-01,Christene L Mccaleb,Female,Hornell ,Reatha Q Breazeale,Main Street,Drek Yassi,Cel Ray,Alcoholic,20,17,100000,2000000,1700000,300000
+88065565884,2020-01-01,Alline V Kushner,Female,Hudson,Antone E Angel,Main Street,Drek Yassi,Cazadores Tequila,Alcoholic,12,9,12000,144000,108000,36000
+88065565885,2020-01-01,Vicki Y Hargrave,Female,Johnstown,Antone E Angel,Main Street,Drek Yassi,Oliver Cromwell,Alcoholic,13,10,60,780,600,180
+88065565886,2020-01-01,Bernard N Weatherly,Male,Little Falls,Twanna Y Manges,Uptown Store,Ben Frech,Boost,Non Alcoholic,15,12,89,1335,1068,267
+88065565887,2020-01-01,Cordia M Knopp,Female,Auburn,Reatha Q Breazeale,Main Street,Ben Frech,Cel Ray,Non Alcoholic,14,11,77,1078,847,231
+88065565888,2020-01-01,Burton C Jin,Male,Betavia,Antone E Angel,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,30,27,68,2040,1836,204
+88065565889,2020-01-01,Lauren O Guzzi,Male,Middletown,Merle N Burrus,Uptown Store,Ben Frech,Boost,Alcoholic,16,13,15,240,195,45
+88065565890,2020-01-01,Carter C Hunt,Male,Mount,Twanna Y Manges,Uptown Store,Ben Frech,Cel Ray,Non Alcoholic,9,6,47,423,282,141
+88065565891,2020-01-01,Isaiah Y Magwood,Male,New York,Reatha Q Breazeale,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,5,2,6,30,12,18
+88065565892,2020-01-01,Hugh N Chavira,Male,Geneva,Antone E Angel,Main Street,Ben Frech,Boost,Non Alcoholic,18,15,10,180,150,30
+88065565893,2020-01-01,Lucius C Moorhead,Male,Elmira,Reatha Q Breazeale,Main Street,Drek Yassi,Cel Ray,Alcoholic,10,7,11,110,77,33
+88065565894,2020-01-01,Deane I Keown,Female,Glen Cove,Twanna Y Manges,Uptown Store,Drek Yassi,Cazadores Tequila,Alcoholic,20,17,60,1200,1020,180
+88065565895,2020-01-01,Joannie E Wolters,Female,Glens Falls,Reatha Q Breazeale,Main Street,Drek Yassi,Oliver Cromwell,Alcoholic,70,67,89,6230,5963,267
+88065565896,2020-01-01,Christene L Mccaleb,Female,Hornell ,Twanna Y Manges,Uptown Store,Drek Yassi,Boost,Non Alcoholic,15,12,77,1155,924,231
+88065565897,2020-01-01,Alline V Kushner,Female,Hudson,Reatha Q Breazeale,Main Street,Drek Yassi,Cel Ray,Non Alcoholic,15,12,68,1020,816,204
+88065565898,2020-01-01,Vicki Y Hargrave,Female,Johnstown,Twanna Y Manges,Uptown Store,Drek Yassi,Oliver Cromwell,Alcoholic,15,12,15,225,180,45
+88065565899,2020-01-01,Bernard N Weatherly,Male,Little Falls,Reatha Q Breazeale,Main Street,Drek Yassi,Boost,Alcoholic,20,17,100,2000,1700,300
+88065565900,2020-01-01,Cordia M Knopp,Female,Auburn,Twanna Y Manges,Uptown Store,Drek Yassi,Cel Ray,Non Alcoholic,12,9,3000,36000,27000,9000
+88065565901,2020-01-01,Burton C Jin,Male,Betavia,Reatha Q Breazeale,Main Street,Drek Yassi,Oliver Cromwell,Alcoholic,13,10,5000,65000,50000,15000
+88065565902,2020-01-01,Lauren O Guzzi,Male,Middletown,Twanna Y Manges,Uptown Store,Drek Yassi,Boost,Non Alcoholic,15,12,300,4500,3600,900
+88065565903,2020-01-01,Carter C Hunt,Male,Mount,Reatha Q Breazeale,Main Street,Drek Yassi,Cel Ray,Alcoholic,14,11,2000,28000,22000,6000
+88065565904,2020-01-01,Isaiah Y Magwood,Male,New York,Twanna Y Manges,Uptown Store,Drek Yassi,Cazadores Tequila,Alcoholic,30,27,600,18000,16200,1800
+88065565905,2020-01-01,Hugh N Chavira,Male,Geneva,Reatha Q Breazeale,Main Street,Drek Yassi,Oliver Cromwell,Alcoholic,16,13,1230,19680,15990,3690
+88065565906,2020-01-01,Lucius C Moorhead,Male,Elmira,Twanna Y Manges,Uptown Store,Ben Frech,Boost,Non Alcoholic,9,6,900,8100,5400,2700
+88065565907,2020-01-01,Deane I Keown,Female,Glen Cove,Reatha Q Breazeale,Main Street,Ben Frech,Cel Ray,Non Alcoholic,5,2,2390,11950,4780,7170
+88065565908,2020-01-01,Joannie E Wolters,Female,Glens Falls,Twanna Y Manges,Uptown Store,Ben Frech,Oliver Cromwell,Alcoholic,18,15,10000,180000,150000,30000
+88065565909,2020-01-01,Christene L Mccaleb,Female,Hornell ,Reatha Q Breazeale,Main Street,Ben Frech,Boost,Alcoholic,10,7,2300,23000,16100,6900
+88065565910,2020-01-01,Alline V Kushner,Female,Hudson,Twanna Y Manges,Uptown Store,Ben Frech,Cel Ray,Non Alcoholic,20,17,7800,156000,132600,23400
+88065565911,2020-01-01,Vicki Y Hargrave,Female,Johnstown,Reatha Q Breazeale,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,70,67,450,31500,30150,1350
+88065565912,2020-01-01,Mary Y Tate,Male,New York,Twanna Y Manges,Uptown Store,Ben Frech,Boost,Non Alcoholic,15,12,2000,30000,24000,6000
+88065565913,2020-01-01,Abe J Macleod,Male,Syracuse,Reatha Q Breazeale,Main Street,Ben Frech,Cel Ray,Alcoholic,20,17,123,2460,2091,369
+88065565914,2020-01-01,Evon Q Lawson,Female,Kingston,Twanna Y Manges,Uptown Store,Ben Frech,Cazadores Tequila,Alcoholic,12,9,12903,154836,116127,38709
+88065565915,2020-01-01,Jerlene P Dunnigan,Female,Watertown,Reatha Q Breazeale,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,10,7,100000,1000000,700000,300000
+88065565916,2020-01-01,Bobbie X Schoenrock,Male,Watervliet,Reatha Q Breazeale,Main Street,Ben Frech,Boost,Non Alcoholic,15,12,12000,180000,144000,36000
+88065565917,2020-01-01,Mike A Waddington,Male,Yakers,Twanna Y Manges,Uptown Store,Ben Frech,Cel Ray,Non Alcoholic,15,12,60,900,720,180
+88065565918,2020-01-01,Nigel K Wadsworth,Male,New York,Reatha Q Breazeale,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,20,17,89,1780,1513,267
+88065565919,2020-01-01,Hayden E Novack,Male,Hempstead,Reatha Q Breazeale,Main Street,Ben Frech,Boost,Alcoholic,12,9,77,924,693,231
+88065565920,2020-01-01,Voncile P Trojanowski,Female,New York,Reatha Q Breazeale,Main Street,Ben Frech,Cel Ray,Non Alcoholic,13,10,68,884,680,204
+88065565921,2020-01-01,Roberto U Derry,Female,New York,Antone E Angel,Main Street,Drek Yassi,Oliver Cromwell,Alcoholic,15,12,15,225,180,45
+88065565922,2020-01-01,Tona S Huseby,Female,Babylon,Antone E Angel,Main Street,Drek Yassi,Boost,Non Alcoholic,14,11,47,658,517,141
+88065565923,2020-01-01,Londa T Maya,Female,Beacon,Merle N Burrus,Uptown Store,Drek Yassi,Cel Ray,Alcoholic,30,27,6,180,162,18
+88065565924,2020-01-01,Jocelyn Q Scotti,Female,New York,Twanna Y Manges,Uptown Store,Drek Yassi,Cazadores Tequila,Alcoholic,16,13,10,160,130,30
+88065565925,2020-01-01,Mary Y Tate,Male,New York,Reatha Q Breazeale,Main Street,Drek Yassi,Oliver Cromwell,Alcoholic,9,6,11,99,66,33
+88065565926,2020-01-01,Abe J Macleod,Male,Syracuse,Antone E Angel,Main Street,Drek Yassi,Boost,Non Alcoholic,5,2,60,300,120,180
+88065565927,2020-01-01,Evon Q Lawson,Female,Kingston,Antone E Angel,Main Street,Drek Yassi,Cel Ray,Non Alcoholic,18,15,89,1602,1335,267
+88065565928,2020-01-01,Jerlene P Dunnigan,Female,Watertown,Merle N Burrus,Uptown Store,Drek Yassi,Oliver Cromwell,Alcoholic,10,7,77,770,539,231
+88065565929,2020-01-01,Bobbie X Schoenrock,Male,Watervliet,Twanna Y Manges,Uptown Store,Drek Yassi,Boost,Alcoholic,20,17,68,1360,1156,204
+88065565930,2020-01-01,Mike A Waddington,Male,Yakers,Reatha Q Breazeale,Main Street,Drek Yassi,Cel Ray,Non Alcoholic,70,67,15,1050,1005,45
+88065565931,2020-01-01,Nigel K Wadsworth,Male,New York,Antone E Angel,Main Street,Drek Yassi,Oliver Cromwell,Alcoholic,15,12,100,1500,1200,300
+88065565932,2020-01-01,Hayden E Novack,Male,Hempstead,Antone E Angel,Main Street,Drek Yassi,Boost,Non Alcoholic,12,9,3000,36000,27000,9000
+88065565933,2020-01-01,Voncile P Trojanowski,Female,New York,Merle N Burrus,Uptown Store,Drek Yassi,Cel Ray,Alcoholic,18,15,5000,90000,75000,15000
+88065565934,2020-01-01,Roberto U Derry,Female,New York,Twanna Y Manges,Uptown Store,Drek Yassi,Cazadores Tequila,Alcoholic,23,20,300,6900,6000,900
+88065565935,2020-01-01,Tona S Huseby,Female,Babylon,Reatha Q Breazeale,Main Street,Drek Yassi,Oliver Cromwell,Alcoholic,9,6,2000,18000,12000,6000
+88065565936,2020-01-01,Londa T Maya,Female,Beacon,Antone E Angel,Main Street,Drek Yassi,Boost,Non Alcoholic,18,15,600,10800,9000,1800
+88065565937,2020-01-01,Jocelyn Q Scotti,Female,New York,Antone E Angel,Main Street,Drek Yassi,Cel Ray,Non Alcoholic,52,49,1230,63960,60270,3690
+88065565938,2020-01-01,Mary Y Tate,Male,New York,Merle N Burrus,Uptown Store,Drek Yassi,Oliver Cromwell,Alcoholic,9,6,900,8100,5400,2700
+88065565939,2020-01-01,Abe J Macleod,Male,Syracuse,Twanna Y Manges,Uptown Store,Drek Yassi,Boost,Alcoholic,5,2,2390,11950,4780,7170
+88065565940,2020-01-01,Evon Q Lawson,Female,Kingston,Reatha Q Breazeale,Main Street,Drek Yassi,Cel Ray,Non Alcoholic,14,11,10000,140000,110000,30000
+88065565941,2020-01-01,Jerlene P Dunnigan,Female,Watertown,Antone E Angel,Main Street,Drek Yassi,Oliver Cromwell,Alcoholic,6,3,2300,13800,6900,6900
+88065565942,2020-01-01,Bobbie X Schoenrock,Male,Watervliet,Antone E Angel,Main Street,Drek Yassi,Boost,Non Alcoholic,10,7,7800,78000,54600,23400
+88065565943,2020-01-01,Mike A Waddington,Male,Yakers,Merle N Burrus,Uptown Store,Drek Yassi,Cel Ray,Alcoholic,13,10,450,5850,4500,1350
+88065565944,2020-01-01,Nigel K Wadsworth,Male,New York,Antone E Angel,Main Street,Drek Yassi,Cazadores Tequila,Alcoholic,20,17,2000,40000,34000,6000
+88065565945,2020-01-01,Hayden E Novack,Male,Hempstead,Merle N Burrus,Uptown Store,Drek Yassi,Oliver Cromwell,Alcoholic,15,12,123,1845,1476,369
+88065565946,2020-01-01,Voncile P Trojanowski,Female,New York,Twanna Y Manges,Uptown Store,Drek Yassi,Boost,Non Alcoholic,20,17,12903,258060,219351,38709
+88065565947,2020-01-01,Roberto U Derry,Female,New York,Reatha Q Breazeale,Main Street,Drek Yassi,Cel Ray,Non Alcoholic,12,9,100000,1200000,900000,300000
+88065565948,2020-01-01,Tona S Huseby,Female,Babylon,Antone E Angel,Main Street,Drek Yassi,Oliver Cromwell,Alcoholic,16,13,12000,192000,156000,36000
+88065565949,2020-01-01,Londa T Maya,Female,Beacon,Merle N Burrus,Uptown Store,Drek Yassi,Boost,Alcoholic,70,67,60,4200,4020,180
+88065565950,2020-01-01,Jocelyn Q Scotti,Female,New York,Twanna Y Manges,Uptown Store,Drek Yassi,Cel Ray,Non Alcoholic,15,12,89,1335,1068,267
+88065565951,2020-01-01,Mary Y Tate,Male,New York,Reatha Q Breazeale,Main Street,Drek Yassi,Oliver Cromwell,Alcoholic,16,13,77,1232,1001,231
+88065565952,2020-01-01,Abe J Macleod,Male,Syracuse,Antone E Angel,Main Street,Drek Yassi,Boost,Non Alcoholic,20,17,68,1360,1156,204
+88065565953,2020-01-01,Evon Q Lawson,Female,Kingston,Merle N Burrus,Uptown Store,Drek Yassi,Cel Ray,Alcoholic,12,9,15,180,135,45
+88065565954,2020-01-01,Jerlene P Dunnigan,Female,Watertown,Twanna Y Manges,Uptown Store,Drek Yassi,Cazadores Tequila,Alcoholic,12,9,47,564,423,141
+88065565955,2020-01-01,Bobbie X Schoenrock,Male,Watervliet,Reatha Q Breazeale,Main Street,Drek Yassi,Oliver Cromwell,Alcoholic,18,15,6,108,90,18
+88065565956,2020-01-01,Mike A Waddington,Male,Yakers,Antone E Angel,Main Street,Drek Yassi,Boost,Non Alcoholic,10,7,10,100,70,30
+88065565957,2020-01-01,Nigel K Wadsworth,Male,New York,Merle N Burrus,Uptown Store,Drek Yassi,Cel Ray,Non Alcoholic,15,12,11,165,132,33
+88065565958,2020-08-05,Hayden E Novack,Male,Hempstead,Twanna Y Manges,Uptown Store,Drek Yassi,Oliver Cromwell,Alcoholic,15,12,60,900,720,180
+88065565959,2019-08-09,Voncile P Trojanowski,Female,New York,Reatha Q Breazeale,Main Street,Drek Yassi,Boost,Alcoholic,23,20,89,2047,1780,267
+88065565960,2019-08-08,Roberto U Derry,Female,New York,Antone E Angel,Main Street,Drek Yassi,Cel Ray,Non Alcoholic,9,6,77,693,462,231
+88065565961,2019-08-08,Tona S Huseby,Female,Babylon,Merle N Burrus,Uptown Store,Drek Yassi,Oliver Cromwell,Alcoholic,18,15,68,1224,1020,204
+88065565962,2019-08-09,Londa T Maya,Female,Beacon,Twanna Y Manges,Uptown Store,Drek Yassi,Boost,Non Alcoholic,14,11,15,210,165,45
+88065565963,2019-08-10,Jocelyn Q Scotti,Female,New York,Reatha Q Breazeale,Main Street,Drek Yassi,Cel Ray,Alcoholic,30,27,100,3000,2700,300
+88065565964,2019-08-11,Mary Y Tate,Male,New York,Antone E Angel,Main Street,Drek Yassi,Cazadores Tequila,Alcoholic,16,13,3000,48000,39000,9000
+88065565965,2019-08-12,Abe J Macleod,Male,Syracuse,Merle N Burrus,Uptown Store,Drek Yassi,Oliver Cromwell,Alcoholic,52,49,5000,260000,245000,15000
+88065565966,2019-08-13,Evon Q Lawson,Female,Kingston,Antone E Angel,Main Street,Drek Yassi,Boost,Non Alcoholic,14,11,300,4200,3300,900
+88065565967,2019-08-14,Jerlene P Dunnigan,Female,Watertown,Merle N Burrus,Uptown Store,Drek Yassi,Cel Ray,Non Alcoholic,6,3,2000,12000,6000,6000
+88065565968,2019-08-15,Bobbie X Schoenrock,Male,Watervliet,Antone E Angel,Main Street,Drek Yassi,Oliver Cromwell,Alcoholic,13,10,600,7800,6000,1800
+88065565969,2019-08-19,Mike A Waddington,Male,Yakers,Merle N Burrus,Uptown Store,Drek Yassi,Boost,Alcoholic,15,12,1230,18450,14760,3690
+88065565970,2019-08-18,Nigel K Wadsworth,Male,New York,Antone E Angel,Main Street,Drek Yassi,Cel Ray,Non Alcoholic,20,17,900,18000,15300,2700
+88065565971,2019-08-18,Hayden E Novack,Male,Hempstead,Merle N Burrus,Uptown Store,Drek Yassi,Oliver Cromwell,Alcoholic,12,9,2390,28680,21510,7170
+88065565972,2019-08-19,Voncile P Trojanowski,Female,New York,Antone E Angel,Main Street,Drek Yassi,Boost,Non Alcoholic,16,13,10000,160000,130000,30000
+88065565973,2019-08-20,Roberto U Derry,Female,New York,Merle N Burrus,Uptown Store,Drek Yassi,Cel Ray,Alcoholic,20,17,2300,46000,39100,6900
+88065565974,2019-08-21,Tona S Huseby,Female,Babylon,Antone E Angel,Main Street,Drek Yassi,Cazadores Tequila,Alcoholic,12,9,7800,93600,70200,23400
+88065565975,2019-08-22,Londa T Maya,Female,Beacon,Merle N Burrus,Uptown Store,Drek Yassi,Oliver Cromwell,Alcoholic,10,7,450,4500,3150,1350
+88065565976,2019-08-23,Jocelyn Q Scotti,Female,New York,Antone E Angel,Main Street,Drek Yassi,Boost,Non Alcoholic,15,12,2000,30000,24000,6000
+88065565977,2019-08-01,Orval Q Schlesinger,Male,Watertown,Merle N Burrus,Uptown Store,Drek Yassi,Cel Ray,Non Alcoholic,15,12,123,1845,1476,369
+88065565978,2019-08-02,Elois Z Ono,Female,Watervliet,Antone E Angel,Main Street,Drek Yassi,Oliver Cromwell,Alcoholic,20,17,12903,258060,219351,38709
+88065565979,2019-08-03,Andreas L Kennard,Male,Yakers,Merle N Burrus,Uptown Store,Drek Yassi,Boost,Alcoholic,12,9,100000,1200000,900000,300000
+88065565980,2019-08-04,Randee X Blunt,Female,New York,Antone E Angel,Main Street,Drek Yassi,Cel Ray,Non Alcoholic,13,10,12000,156000,120000,36000
+88065565981,2019-08-05,Chester N Sitz,Male,Hempstead,Merle N Burrus,Uptown Store,Drek Yassi,Oliver Cromwell,Alcoholic,15,12,60,900,720,180
+88065565982,2019-08-09,Allyson I Ours,Female,Brookhaven,Antone E Angel,Main Street,Drek Yassi,Boost,Non Alcoholic,14,11,89,1246,979,267
+88065565983,2019-08-08,Marlana W Zak,Female,Islip,Merle N Burrus,Uptown Store,Drek Yassi,Cel Ray,Alcoholic,30,27,77,2310,2079,231
+88065565984,2019-08-08,Shanti P Brinegar,Female,Babylon,Antone E Angel,Main Street,Drek Yassi,Cazadores Tequila,Alcoholic,16,13,68,1088,884,204
+88065565985,2019-08-09,Valentin T Dearborn,Male,Albany,Merle N Burrus,Uptown Store,Drek Yassi,Oliver Cromwell,Alcoholic,9,6,15,135,90,45
+88065565986,2019-08-10,Stanton Y Cavallaro,Male,Auburn,Antone E Angel,Main Street,Drek Yassi,Boost,Non Alcoholic,5,2,47,235,94,141
+88065565987,2019-08-11,Adelaide L Harrop,Female,Betavia,Merle N Burrus,Uptown Store,Drek Yassi,Cel Ray,Non Alcoholic,18,15,6,108,90,18
+88065565988,2019-08-12,Vonda U Mckinnis,Female,Beacon,Antone E Angel,Main Street,Drek Yassi,Oliver Cromwell,Alcoholic,10,7,10,100,70,30
+88065565989,2019-08-13,Graham O Romeo,Male,Elmira,Merle N Burrus,Uptown Store,Drek Yassi,Boost,Alcoholic,20,17,11,220,187,33
+88065565990,2019-08-14,Bert Q Lauritzen,Male,Glen Cove,Antone E Angel,Main Street,Drek Yassi,Cel Ray,Non Alcoholic,70,67,60,4200,4020,180
+88065565991,2019-08-15,Bryce B Edens,Male,New York,Merle N Burrus,Uptown Store,Drek Yassi,Oliver Cromwell,Alcoholic,15,12,89,1335,1068,267
+88065565992,2019-08-19,Leonia Y Derosier,Female,Hempstead,Antone E Angel,Main Street,Drek Yassi,Boost,Non Alcoholic,12,9,77,924,693,231
+88065565993,2019-08-18,Jesus H Guillen,Male,Brookhaven,Merle N Burrus,Uptown Store,Drek Yassi,Cel Ray,Alcoholic,18,15,68,1224,1020,204
+88065565994,2019-08-18,Sammy C Holtzclaw,Male,Glen Cove,Antone E Angel,Main Street,Drek Yassi,Cazadores Tequila,Alcoholic,23,20,15,345,300,45
+88065565995,2019-08-19,Irving C Pillar,Male,Glens Falls,Merle N Burrus,Uptown Store,Drek Yassi,Oliver Cromwell,Alcoholic,9,6,100,900,600,300
+88065565996,2019-08-20,Amiee Z Chaffins,Female,Hornell ,Antone E Angel,Main Street,Drek Yassi,Boost,Non Alcoholic,18,15,3000,54000,45000,9000
+88065565997,2019-08-21,Carolina B Pasillas,Female,Hudson,Merle N Burrus,Uptown Store,Drek Yassi,Cel Ray,Non Alcoholic,52,49,5000,260000,245000,15000
+88065565998,2019-08-22,Stasia L Daley,Female,Johnstown,Antone E Angel,Main Street,Drek Yassi,Oliver Cromwell,Alcoholic,9,6,300,2700,1800,900
+88065565999,2019-08-23,Kimberlee J Hawkins,Female,Kingston,Merle N Burrus,Uptown Store,Drek Yassi,Boost,Alcoholic,5,2,2000,10000,4000,6000
+88065566000,2019-08-24,Valencia M Cuffee,Female,Little Falls,Antone E Angel,Main Street,Drek Yassi,Cel Ray,Non Alcoholic,14,11,600,8400,6600,1800
+88065566001,2019-08-25,Gavin V Mckillip,Male,Lockport,Merle N Burrus,Uptown Store,Drek Yassi,Oliver Cromwell,Alcoholic,6,3,1230,7380,3690,3690
+88065566002,2019-08-29,Veronica I Mower,Female,Long Beach,Antone E Angel,Main Street,Drek Yassi,Boost,Non Alcoholic,10,7,900,9000,6300,2700
+88065566003,2019-08-28,Efren G Ager,Male,Middletown,Merle N Burrus,Uptown Store,Drek Yassi,Cel Ray,Alcoholic,13,10,2390,31070,23900,7170
+88065566004,2019-08-28,Christoper K Manzano,Male,Mount,Antone E Angel,Main Street,Drek Yassi,Cazadores Tequila,Alcoholic,20,17,10000,200000,170000,30000
+88065566005,2019-08-29,Jayson S Carrol,Male,New York,Merle N Burrus,Uptown Store,Drek Yassi,Oliver Cromwell,Alcoholic,15,12,2300,34500,27600,6900
+88065566006,2019-08-30,Alexis C Amaral,Male,Salamanca,Antone E Angel,Main Street,Drek Yassi,Boost,Non Alcoholic,20,17,7800,156000,132600,23400
+88065566007,2019-08-31,Carter B Hilderbrand,Male,Springs,Merle N Burrus,Uptown Store,Drek Yassi,Cel Ray,Non Alcoholic,12,9,450,5400,4050,1350
+88065566008,2019-08-01,Adelia U Villagomez,Female,Sherrill,Antone E Angel,Main Street,Drek Yassi,Oliver Cromwell,Alcoholic,16,13,2000,32000,26000,6000
+88065566009,2019-08-02,Silas J Wojcik,Male,Syracuse,Merle N Burrus,Uptown Store,Drek Yassi,Boost,Alcoholic,70,67,123,8610,8241,369
+88065566010,2019-08-03,Sheila F Bergman,Female,Troy,Antone E Angel,Main Street,Drek Yassi,Cel Ray,Non Alcoholic,15,12,12903,193545,154836,38709
+88065566011,2019-08-04,Korey U Eddington,Male,Olean,Merle N Burrus,Uptown Store,Drek Yassi,Oliver Cromwell,Alcoholic,16,13,100000,1600000,1300000,300000
+88065566012,2019-08-05,Brenton U Boyett,Male,Peekskill,Antone E Angel,Main Street,Drek Yassi,Boost,Non Alcoholic,20,17,12000,240000,204000,36000
+88065566013,2019-08-09,Debrah X Flury,Female,Port Jervis,Merle N Burrus,Uptown Store,Drek Yassi,Cel Ray,Alcoholic,12,9,60,720,540,180
+88065566014,2019-08-08,Min X Buckmaster,Female,Kingston,Antone E Angel,Main Street,Drek Yassi,Cazadores Tequila,Alcoholic,12,9,89,1068,801,267
+88065566015,2019-08-08,Ramona V Hemphill,Female,Little Falls,Merle N Burrus,Uptown Store,Drek Yassi,Oliver Cromwell,Alcoholic,18,15,77,1386,1155,231
+88065566016,2019-08-09,Misti H Mendenhall,Female,Lockport,Antone E Angel,Main Street,Drek Yassi,Boost,Non Alcoholic,10,7,68,680,476,204
+88065566017,2019-08-10,Lemuel V Darden,Male,Long Beach,Merle N Burrus,Uptown Store,Drek Yassi,Cel Ray,Non Alcoholic,15,12,15,225,180,45
+88065566018,2019-08-11,Ellis J Mccune,Male,Middletown,Antone E Angel,Main Street,Drek Yassi,Oliver Cromwell,Alcoholic,15,12,47,705,564,141
+88065566019,2019-08-12,Stacey H Galante,Male,Watervliet,Merle N Burrus,Uptown Store,Drek Yassi,Boost,Alcoholic,23,20,6,138,120,18
+88065566020,2019-08-13,Jaquelyn C Holzman,Female,Yakers,Antone E Angel,Main Street,Drek Yassi,Cel Ray,Non Alcoholic,9,6,10,90,60,30
+88065566021,2019-08-14,Marcellus H Macintyre,Male,New York,Merle N Burrus,Uptown Store,Ben Frech,Oliver Cromwell,Alcoholic,18,15,11,198,165,33
+88065566022,2019-01-01,Toney O Gentle,Male,Hempstead,Antone E Angel,Main Street,Ben Frech,Boost,Non Alcoholic,14,11,60,840,660,180
+88065566023,2019-01-02,Sam E Lacey,Male,New York,Merle N Burrus,Uptown Store,Ben Frech,Cel Ray,Alcoholic,30,27,89,2670,2403,267
+88065566024,2019-01-03,Arden B Fujita,Male,Hempstead,Antone E Angel,Main Street,Ben Frech,Cazadores Tequila,Alcoholic,16,13,77,1232,1001,231
+88065566025,2019-01-04,Linsey P Orsini,Female,Brookhaven,Merle N Burrus,Uptown Store,Ben Frech,Oliver Cromwell,Alcoholic,52,49,68,3536,3332,204
+88065566026,2019-01-05,Ruby B Hare,Female,Islip,Antone E Angel,Main Street,Ben Frech,Boost,Non Alcoholic,14,11,15,210,165,45
+88065566027,2019-01-06,Thomas H Huang,Male,Babylon,Merle N Burrus,Uptown Store,Ben Frech,Cel Ray,Non Alcoholic,6,3,100,600,300,300
+88065566028,2019-01-07,Davida A Funkhouser,Female,Albany,Antone E Angel,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,13,10,3000,39000,30000,9000
+88065566029,2019-01-08,Kristle D Figgs,Female,Auburn,Merle N Burrus,Uptown Store,Ben Frech,Boost,Alcoholic,15,12,5000,75000,60000,15000
+88065566030,2019-01-09,Duncan O Maheu,Male,Betavia,Antone E Angel,Main Street,Ben Frech,Cel Ray,Non Alcoholic,20,17,300,6000,5100,900
+88065566031,2019-01-10,Elijah X Ahmad,Male,Beacon,Merle N Burrus,Uptown Store,Ben Frech,Oliver Cromwell,Alcoholic,12,9,2000,24000,18000,6000
+88065566032,2019-01-11,Maryellen E Zackery,Female,Choes,Antone E Angel,Main Street,Ben Frech,Boost,Non Alcoholic,16,13,600,9600,7800,1800
+88065566033,2019-01-12,Bret C Delancey,Male,Fulton,Merle N Burrus,Uptown Store,Ben Frech,Cel Ray,Alcoholic,20,17,1230,24600,20910,3690
+88065566034,2019-01-13,Bryan V Guyton,Male,Geneva,Antone E Angel,Main Street,Ben Frech,Cazadores Tequila,Alcoholic,12,9,900,10800,8100,2700
+88065566035,2019-01-14,Lakenya Z Mccroskey,Female,Elmira,Merle N Burrus,Uptown Store,Ben Frech,Oliver Cromwell,Alcoholic,10,7,2390,23900,16730,7170
+88065566036,2019-01-15,Clyde P Ponton,Male,Glen Cove,Antone E Angel,Main Street,Ben Frech,Boost,Non Alcoholic,15,12,10000,150000,120000,30000
+88065566037,2019-01-16,Waylon Z Curtsinger,Male,Glens Falls,Merle N Burrus,Uptown Store,Ben Frech,Cel Ray,Non Alcoholic,15,12,2300,34500,27600,6900
+88065566038,2019-01-17,Reyes X Segal,Male,Hornell ,Antone E Angel,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,20,17,7800,156000,132600,23400
+88065566039,2019-01-18,Cristal Q Kucharski,Female,Hudson,Merle N Burrus,Uptown Store,Ben Frech,Boost,Alcoholic,12,9,450,5400,4050,1350
+88065566040,2019-01-19,Sidney D Amore,Female,Johnstown,Antone E Angel,Main Street,Ben Frech,Cel Ray,Non Alcoholic,13,10,2000,26000,20000,6000
+88065566041,2019-01-20,Stacy B Kennell,Female,Kingston,Merle N Burrus,Uptown Store,Ben Frech,Oliver Cromwell,Alcoholic,15,12,123,1845,1476,369
+88065566042,2019-01-21,Marleen R Guyette,Female,Little Falls,Antone E Angel,Main Street,Ben Frech,Boost,Non Alcoholic,14,11,12903,180642,141933,38709
+88065566043,2019-01-22,Claudio Q Bien,Male,Lockport,Merle N Burrus,Uptown Store,Ben Frech,Cel Ray,Alcoholic,30,27,100000,3000000,2700000,300000
+88065566044,2019-01-23,Esmeralda N Veliz,Female,Long Beach,Antone E Angel,Main Street,Ben Frech,Cazadores Tequila,Alcoholic,16,13,12000,192000,156000,36000
+88065566045,2019-01-24,Toya B Rawlins,Female,Middletown,Merle N Burrus,Uptown Store,Ben Frech,Oliver Cromwell,Alcoholic,9,6,60,540,360,180
+88065566046,2019-01-25,Lamar L Legg,Male,Mount,Antone E Angel,Main Street,Ben Frech,Boost,Non Alcoholic,5,2,89,445,178,267
+88065566047,2019-01-26,Carey J Sandlin,Male,New York,Merle N Burrus,Uptown Store,Ben Frech,Cel Ray,Non Alcoholic,18,15,77,1386,1155,231
+88065566048,2019-01-27,Andres P Towles,Male,Newburgh,Antone E Angel,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,10,7,68,680,476,204
+88065566049,2019-01-28,Aleisha H Mathew,Female,Olean,Merle N Burrus,Uptown Store,Ben Frech,Boost,Alcoholic,20,17,15,300,255,45
+88065566050,2019-01-29,Kizzy W Brazelton,Female,Peekskill,Antone E Angel,Main Street,Ben Frech,Cel Ray,Non Alcoholic,12,9,47,564,423,141
+88065566051,2019-01-30,Jeffery A Brafford,Male,Port Jervis,Merle N Burrus,Uptown Store,Ben Frech,Oliver Cromwell,Alcoholic,10,7,6,60,42,18
+88065566052,2019-01-31,Bernardo X Barbee,Male,Poughkeepsie,Antone E Angel,Main Street,Ben Frech,Boost,Non Alcoholic,15,12,10,150,120,30
+88065566053,2019-02-01,Lenny U Rister,Male,Rye ,Twanna Y Manges,Uptown Store,Ben Frech,Cel Ray,Alcoholic,15,12,11,165,132,33
+88065566054,2019-02-02,Lamont J Brescia,Male,Rome,Reatha Q Breazeale,Main Street,Ben Frech,Cazadores Tequila,Alcoholic,20,17,60,1200,1020,180
+88065566055,2019-02-03,Ilse X Harr,Female,Rochester,Twanna Y Manges,Uptown Store,Ben Frech,Oliver Cromwell,Alcoholic,12,9,89,1068,801,267
+88065566056,2019-02-04,Janie P Caswell,Female,Salamanca,Reatha Q Breazeale,Main Street,Ben Frech,Boost,Non Alcoholic,13,10,77,1001,770,231
+88065566057,2019-02-05,Joesph Y Shrout,Male,Springs,Twanna Y Manges,Uptown Store,Ben Frech,Cel Ray,Non Alcoholic,15,12,68,1020,816,204
+88065566058,2019-02-06,Dorla G Westberry,Female,Sherrill,Reatha Q Breazeale,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,14,11,15,210,165,45
+88065566059,2019-02-07,August C Strother,Male,Syracuse,Twanna Y Manges,Uptown Store,Ben Frech,Boost,Alcoholic,30,27,100,3000,2700,300
+88065566060,2019-02-08,Lynn M Blocher,Male,Troy,Reatha Q Breazeale,Main Street,Ben Frech,Cel Ray,Non Alcoholic,16,13,3000,48000,39000,9000
+88065566061,2019-02-09,Kieth G Coney,Male,Watertown,Twanna Y Manges,Uptown Store,Ben Frech,Oliver Cromwell,Alcoholic,9,6,5000,45000,30000,15000
+88065566062,2019-02-10,Olevia U Cartier,Female,Watervliet,Reatha Q Breazeale,Main Street,Ben Frech,Boost,Non Alcoholic,5,2,300,1500,600,900
+88065566063,2019-02-11,Linwood J Franqui,Male,Yakers,Twanna Y Manges,Uptown Store,Ben Frech,Cel Ray,Alcoholic,18,15,2000,36000,30000,6000
+88065566064,2019-02-12,Reagan H Costas,Female,New York,Reatha Q Breazeale,Main Street,Ben Frech,Cazadores Tequila,Alcoholic,10,7,600,6000,4200,1800
+88065566065,2019-02-13,Rosalva G Shepley,Female,Hempstead,Twanna Y Manges,Uptown Store,Ben Frech,Oliver Cromwell,Alcoholic,20,17,1230,24600,20910,3690
+88065566066,2019-02-14,Keenan W Spruell,Male,Brookhaven,Reatha Q Breazeale,Main Street,Ben Frech,Boost,Non Alcoholic,70,67,900,63000,60300,2700
+88065566067,2019-02-15,Chrissy H Edmonson,Female,Islip,Twanna Y Manges,Uptown Store,Ben Frech,Cel Ray,Non Alcoholic,15,12,2390,35850,28680,7170
+88065566068,2019-02-16,Joleen H Chea,Female,Babylon,Reatha Q Breazeale,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,12,9,10000,120000,90000,30000
+88065566069,2019-02-17,Les V Gran,Male,Albany,Twanna Y Manges,Uptown Store,Ben Frech,Boost,Alcoholic,18,15,2300,41400,34500,6900
+88065566070,2019-02-18,Walter H Hargreaves,Male,Auburn,Reatha Q Breazeale,Main Street,Ben Frech,Cel Ray,Non Alcoholic,23,20,7800,179400,156000,23400
+88065566071,2019-02-19,Akiko S Godby,Female,Betavia,Twanna Y Manges,Uptown Store,Ben Frech,Oliver Cromwell,Alcoholic,9,6,450,4050,2700,1350
+88065566072,2019-02-20,Simon G Cromwell,Male,Beacon,Reatha Q Breazeale,Main Street,Ben Frech,Boost,Non Alcoholic,18,15,2000,36000,30000,6000
+88065566073,2019-02-21,Tim U Kornegay,Male,Elmira,Antone E Angel,Main Street,Ben Frech,Cel Ray,Alcoholic,52,49,123,6396,6027,369
+88065566074,2019-02-22,Loren I Casady,Male,Glen Cove,Merle N Burrus,Uptown Store,Ben Frech,Cazadores Tequila,Alcoholic,9,6,12903,116127,77418,38709
+88065566075,2019-02-23,Rufus F Furlong,Male,New York,Twanna Y Manges,Uptown Store,Ben Frech,Oliver Cromwell,Alcoholic,5,2,100000,500000,200000,300000
+88065566076,2019-02-24,Zackary G Parkins,Male,Hempstead,Reatha Q Breazeale,Main Street,Ben Frech,Boost,Non Alcoholic,14,11,12000,168000,132000,36000
+88065566077,2019-02-25,Cedric N Cavallo,Male,Brookhaven,Antone E Angel,Main Street,Ben Frech,Cel Ray,Non Alcoholic,6,3,60,360,180,180
+88065566078,2019-02-26,Donya G Rodden,Female,Glen Cove,Merle N Burrus,Uptown Store,Ben Frech,Oliver Cromwell,Alcoholic,10,7,89,890,623,267
+88065566079,2019-02-27,Arlen F Maly,Male,Glens Falls,Twanna Y Manges,Uptown Store,Ben Frech,Boost,Alcoholic,13,10,77,1001,770,231
+88065566080,2019-02-28,Bo E Curlee,Male,Hornell ,Reatha Q Breazeale,Main Street,Ben Frech,Cel Ray,Non Alcoholic,20,17,68,1360,1156,204
+88065566081,2019-03-01,Rosanna D Standley,Female,Hudson,Antone E Angel,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,15,12,15,225,180,45
+88065566082,2019-03-02,Jody K Rude,Male,Johnstown,Merle N Burrus,Uptown Store,Ben Frech,Boost,Non Alcoholic,20,17,47,940,799,141
+88065566083,2019-03-03,Arlen Z Vanslyke,Male,Kingston,Twanna Y Manges,Uptown Store,Ben Frech,Cel Ray,Alcoholic,12,9,6,72,54,18
+88065566084,2019-03-04,Korey I Garrity,Male,Little Falls,Reatha Q Breazeale,Main Street,Ben Frech,Cazadores Tequila,Alcoholic,16,13,10,160,130,30
+88065566085,2019-03-05,Jose P Tubbs,Male,Lockport,Antone E Angel,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,70,67,11,770,737,33
+88065566086,2019-03-06,Elroy L Shorts,Male,Long Beach,Merle N Burrus,Uptown Store,Ben Frech,Boost,Non Alcoholic,15,12,60,900,720,180
+88065566087,2019-03-07,Roberto A Fresquez,Male,Middletown,Twanna Y Manges,Uptown Store,Ben Frech,Cel Ray,Non Alcoholic,16,13,89,1424,1157,267
+88065566088,2019-03-08,Ronnie E Swim,Female,Mount,Reatha Q Breazeale,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,20,17,77,1540,1309,231
+88065566089,2019-03-09,Brad I Pattison,Male,New York,Antone E Angel,Main Street,Ben Frech,Boost,Alcoholic,12,9,68,816,612,204
+88065566090,2019-03-10,Angela P Lorenzen,Female,Salamanca,Merle N Burrus,Uptown Store,Ben Frech,Cel Ray,Non Alcoholic,12,9,15,180,135,45
+88065566091,2019-03-11,Russ U Belliveau,Male,Springs,Twanna Y Manges,Uptown Store,Ben Frech,Oliver Cromwell,Alcoholic,18,15,100,1800,1500,300
+88065566092,2019-03-12,Rashida M Durante,Female,Sherrill,Reatha Q Breazeale,Main Street,Ben Frech,Boost,Non Alcoholic,10,7,3000,30000,21000,9000
+88065566093,2019-03-13,Grady Y Perera,Male,Syracuse,Antone E Angel,Main Street,Ben Frech,Cel Ray,Alcoholic,15,12,5000,75000,60000,15000
+88065566094,2019-03-14,Nigel O Sansom,Male,Troy,Merle N Burrus,Uptown Store,Ben Frech,Cazadores Tequila,Alcoholic,15,12,300,4500,3600,900
+88065566095,2019-03-15,Orval N Pichardo,Male,Olean,Twanna Y Manges,Uptown Store,Ben Frech,Oliver Cromwell,Alcoholic,23,20,2000,46000,40000,6000
+88065566096,2019-03-16,Bong M Alvares,Female,Peekskill,Reatha Q Breazeale,Main Street,Ben Frech,Boost,Non Alcoholic,9,6,600,5400,3600,1800
+88065566097,2019-03-17,Federico I Carlile,Male,Port Jervis,Antone E Angel,Main Street,Ben Frech,Cel Ray,Non Alcoholic,18,15,1230,22140,18450,3690
+88065566098,2019-03-18,Marco J Desilva,Male,Kingston,Merle N Burrus,Uptown Store,Ben Frech,Oliver Cromwell,Alcoholic,14,11,900,12600,9900,2700
+88065566099,2019-03-19,Natasha L Mcelhannon,Female,Little Falls,Twanna Y Manges,Uptown Store,Ben Frech,Boost,Alcoholic,30,27,2390,71700,64530,7170
+88065566100,2019-03-20,Cristi T Clem,Female,Lockport,Reatha Q Breazeale,Main Street,Ben Frech,Cel Ray,Non Alcoholic,16,13,10000,160000,130000,30000
+88065566101,2019-03-21,Andreas T Viles,Male,Long Beach,Antone E Angel,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,52,49,2300,119600,112700,6900
+88065566102,2019-03-22,Liz R Lomonaco,Female,Middletown,Merle N Burrus,Uptown Store,Ben Frech,Boost,Non Alcoholic,14,11,7800,109200,85800,23400
+88065566103,2019-03-23,Elenor B Gibbs,Female,Watervliet,Twanna Y Manges,Uptown Store,Ben Frech,Cel Ray,Alcoholic,6,3,450,2700,1350,1350
+88065566104,2019-03-24,Van T Dotson,Male,Yakers,Reatha Q Breazeale,Main Street,Ben Frech,Cazadores Tequila,Alcoholic,13,10,2000,26000,20000,6000
+88065566105,2019-03-25,Hoyt O Reiss,Male,New York,Antone E Angel,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,15,12,123,1845,1476,369
+88065566106,2019-03-26,Danette A Kuykendall,Female,Hempstead,Merle N Burrus,Uptown Store,Ben Frech,Boost,Non Alcoholic,20,17,12903,258060,219351,38709
+88065566107,2019-03-27,Silvana V Hendrix,Female,New York,Twanna Y Manges,Uptown Store,Ben Frech,Cel Ray,Non Alcoholic,12,9,100000,1200000,900000,300000
+88065566108,2019-03-28,Clara B Sifuentes,Female,Hempstead,Reatha Q Breazeale,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,16,13,12000,192000,156000,36000
+88065566109,2019-03-29,Luella W Kemmerer,Female,Brookhaven,Antone E Angel,Main Street,Ben Frech,Boost,Alcoholic,20,17,60,1200,1020,180
+88065566110,2019-03-30,Adella U Foushee,Female,Islip,Merle N Burrus,Uptown Store,Ben Frech,Cel Ray,Non Alcoholic,12,9,89,1068,801,267
+88065566111,2019-03-31,Mirian E Gorman,Female,Babylon,Twanna Y Manges,Uptown Store,Ben Frech,Oliver Cromwell,Alcoholic,10,7,77,770,539,231
+88065566112,2019-04-01,Donna R Woodrum,Female,Albany,Reatha Q Breazeale,Main Street,Ben Frech,Boost,Non Alcoholic,15,12,68,1020,816,204
+88065566113,2019-04-02,Dusty L Kugler,Male,Auburn,Antone E Angel,Main Street,Ben Frech,Cel Ray,Alcoholic,15,12,15,225,180,45
+88065566114,2019-04-03,Toney W Bollman,Male,Betavia,Merle N Burrus,Uptown Store,Ben Frech,Cazadores Tequila,Alcoholic,20,17,47,940,799,141
+88065566115,2019-04-04,Dennis K Cayer,Male,Beacon,Twanna Y Manges,Uptown Store,Ben Frech,Oliver Cromwell,Alcoholic,12,9,6,72,54,18
+88065566116,2019-04-05,Karl O Langlinais,Male,Choes,Reatha Q Breazeale,Main Street,Ben Frech,Boost,Non Alcoholic,13,10,10,130,100,30
+88065566117,2019-04-06,Hung H Nicola,Male,Fulton,Antone E Angel,Main Street,Ben Frech,Cel Ray,Non Alcoholic,15,12,11,165,132,33
+88065566118,2019-04-07,Dovie F Larue,Female,Geneva,Merle N Burrus,Uptown Store,Ben Frech,Oliver Cromwell,Alcoholic,14,11,60,840,660,180
+88065566119,2019-04-08,Verona H Brobst,Female,Elmira,Twanna Y Manges,Uptown Store,Ben Frech,Boost,Alcoholic,30,27,89,2670,2403,267
+88065566120,2019-04-09,Gwyn N Mitzel,Female,Glen Cove,Reatha Q Breazeale,Main Street,Ben Frech,Cel Ray,Non Alcoholic,16,13,77,1232,1001,231
+88065566121,2019-04-10,Linh U Ashton,Female,Glens Falls,Antone E Angel,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,9,6,68,612,408,204
+88065566122,2019-04-11,Guillermo X Schwan,Male,Hornell ,Merle N Burrus,Uptown Store,Ben Frech,Boost,Non Alcoholic,5,2,15,75,30,45
+88065566123,2019-04-12,Arron R Vegas,Male,Hudson,Twanna Y Manges,Uptown Store,Ben Frech,Cel Ray,Alcoholic,18,15,100,1800,1500,300
+88065566124,2019-04-13,Curtis E Quayle,Female,Johnstown,Reatha Q Breazeale,Main Street,Ben Frech,Cazadores Tequila,Alcoholic,10,7,3000,30000,21000,9000
+88065566125,2019-04-14,Walton U Kapoor,Male,Kingston,Antone E Angel,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,20,17,5000,100000,85000,15000
+88065566126,2019-04-15,Cortez F Espiritu,Male,Little Falls,Merle N Burrus,Uptown Store,Ben Frech,Boost,Non Alcoholic,70,67,300,21000,20100,900
+88065566127,2019-04-16,Robert F Trudeau,Male,Lockport,Twanna Y Manges,Uptown Store,Ben Frech,Cel Ray,Non Alcoholic,15,12,2000,30000,24000,6000
+88065566128,2019-04-17,Hyun M Gloss,Female,Long Beach,Reatha Q Breazeale,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,12,9,600,7200,5400,1800
+88065566129,2019-04-18,Markus J Lamm,Male,Middletown,Antone E Angel,Main Street,Ben Frech,Boost,Alcoholic,18,15,1230,22140,18450,3690
+88065566130,2019-04-19,Rosaline H Brenneman,Female,Mount,Merle N Burrus,Uptown Store,Ben Frech,Cel Ray,Non Alcoholic,23,20,900,20700,18000,2700
+88065566131,2019-04-20,Steve S Everette,Male,New York,Twanna Y Manges,Uptown Store,Ben Frech,Oliver Cromwell,Alcoholic,9,6,2390,21510,14340,7170
+88065566132,2019-04-21,Alesia B Bear,Female,Newburgh,Reatha Q Breazeale,Main Street,Ben Frech,Boost,Non Alcoholic,18,15,10000,180000,150000,30000
+88065566133,2019-04-22,Cythia I Stecker,Female,Olean,Antone E Angel,Main Street,Ben Frech,Cel Ray,Alcoholic,52,49,2300,119600,112700,6900
+88065566134,2019-04-23,Alanna L Tyrell,Female,Peekskill,Merle N Burrus,Uptown Store,Ben Frech,Cazadores Tequila,Alcoholic,9,6,7800,70200,46800,23400
+88065566135,2019-04-24,Tristan M Brackett,Male,Port Jervis,Twanna Y Manges,Uptown Store,Ben Frech,Oliver Cromwell,Alcoholic,5,2,450,2250,900,1350
+88065566136,2019-04-25,Bernardo I Garzon,Male,Poughkeepsie,Reatha Q Breazeale,Main Street,Ben Frech,Boost,Non Alcoholic,14,11,2000,28000,22000,6000
+88065566137,2019-04-26,Hubert L Kirkland,Male,Rye ,Antone E Angel,Main Street,Ben Frech,Cel Ray,Non Alcoholic,6,3,123,738,369,369
+88065566138,2019-04-27,Reynaldo S Service,Male,Rome,Merle N Burrus,Uptown Store,Ben Frech,Oliver Cromwell,Alcoholic,10,7,12903,129030,90321,38709
+88065566139,2019-04-28,Mac U Palmquist,Male,Rochester,Twanna Y Manges,Uptown Store,Ben Frech,Boost,Alcoholic,13,10,100000,1300000,1000000,300000
+88065566140,2019-04-29,Monte F Mcginn,Male,Salamanca,Reatha Q Breazeale,Main Street,Ben Frech,Cel Ray,Non Alcoholic,20,17,12000,240000,204000,36000
+88065566141,2019-04-30,Deshawn O Mankin,Male,Springs,Antone E Angel,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,15,12,60,900,720,180
+88065566142,2019-05-01,Aurelio K Wyckoff,Male,Sherrill,Merle N Burrus,Uptown Store,Ben Frech,Boost,Non Alcoholic,20,17,89,1780,1513,267
+88065566143,2019-05-02,Janean A Tyler,Female,Syracuse,Twanna Y Manges,Uptown Store,Ben Frech,Cel Ray,Alcoholic,12,9,77,924,693,231
+88065566144,2019-05-03,Deandre U Groleau,Male,Troy,Reatha Q Breazeale,Main Street,Ben Frech,Cazadores Tequila,Alcoholic,16,13,68,1088,884,204
+88065566145,2019-05-04,Kristal F Bickford,Female,Watertown,Antone E Angel,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,70,67,15,1050,1005,45
+88065566146,2019-05-05,Annabelle E Encinas,Female,Watervliet,Merle N Burrus,Uptown Store,Ben Frech,Boost,Non Alcoholic,15,12,47,705,564,141
+88065566147,2019-05-06,Sarita P Schubert,Female,Yakers,Twanna Y Manges,Uptown Store,Ben Frech,Cel Ray,Non Alcoholic,16,13,6,96,78,18
+88065566148,2019-05-07,Jeanna U Li,Female,New York,Reatha Q Breazeale,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,20,17,10,200,170,30
+88065566149,2019-05-08,Russ I Teed,Male,Hempstead,Antone E Angel,Main Street,Ben Frech,Boost,Alcoholic,12,9,11,132,99,33
+88065566150,2019-05-09,Shavonne B Boylan,Female,Brookhaven,Merle N Burrus,Uptown Store,Ben Frech,Cel Ray,Non Alcoholic,12,9,60,720,540,180
+88065566151,2019-05-10,Isaac O Dempster,Male,Islip,Twanna Y Manges,Uptown Store,Ben Frech,Oliver Cromwell,Alcoholic,18,15,89,1602,1335,267
+88065566152,2019-05-11,Corey F Stowe,Male,Babylon,Reatha Q Breazeale,Main Street,Ben Frech,Boost,Non Alcoholic,10,7,77,770,539,231
+88065566153,2019-05-12,Stan I Folks,Male,Albany,Antone E Angel,Main Street,Ben Frech,Cel Ray,Alcoholic,15,12,68,1020,816,204
+88065566154,2019-05-13,Giuseppina E Fink,Female,Auburn,Merle N Burrus,Uptown Store,Ben Frech,Cazadores Tequila,Alcoholic,15,12,15,225,180,45
+88065566155,2019-05-14,Ingeborg Z Weisser,Female,Betavia,Twanna Y Manges,Uptown Store,Ben Frech,Oliver Cromwell,Alcoholic,23,20,100,2300,2000,300
+88065566156,2019-05-15,Carolin T Loya,Female,Beacon,Reatha Q Breazeale,Main Street,Ben Frech,Boost,Non Alcoholic,9,6,3000,27000,18000,9000
+88065566157,2019-05-16,Alda F Penning,Female,Elmira,Antone E Angel,Main Street,Ben Frech,Cel Ray,Non Alcoholic,18,15,5000,90000,75000,15000
+88065566158,2019-05-17,Talisha F Nicklas,Female,Glen Cove,Merle N Burrus,Uptown Store,Ben Frech,Oliver Cromwell,Alcoholic,14,11,300,4200,3300,900
+88065566159,2019-05-18,Terrance E Schiefelbein,Male,New York,Twanna Y Manges,Uptown Store,Ben Frech,Boost,Alcoholic,30,27,2000,60000,54000,6000
+88065566160,2019-05-19,Tyree W Linden,Male,Hempstead,Reatha Q Breazeale,Main Street,Ben Frech,Cel Ray,Non Alcoholic,16,13,600,9600,7800,1800
+88065566161,2019-05-20,Cameron K Gratton,Male,Brookhaven,Antone E Angel,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,52,49,1230,63960,60270,3690
+88065566162,2019-05-21,Mack L Lykes,Male,Glen Cove,Merle N Burrus,Uptown Store,Ben Frech,Boost,Non Alcoholic,14,11,900,12600,9900,2700
+88065566163,2019-05-22,Edmund K Masuda,Male,Glens Falls,Twanna Y Manges,Uptown Store,Ben Frech,Cel Ray,Alcoholic,6,3,2390,14340,7170,7170
+88065566164,2019-05-23,Alfred L Strausbaugh,Male,Hornell ,Reatha Q Breazeale,Main Street,Ben Frech,Cazadores Tequila,Alcoholic,13,10,10000,130000,100000,30000
+88065566165,2019-05-24,Cleveland A Zinke,Male,Hudson,Antone E Angel,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,15,12,2300,34500,27600,6900
+88065566166,2019-05-25,Damien A Izquierdo,Male,Johnstown,Merle N Burrus,Uptown Store,Ben Frech,Boost,Non Alcoholic,20,17,7800,156000,132600,23400
+88065566167,2019-05-26,Chase T Scurry,Male,Kingston,Twanna Y Manges,Uptown Store,Ben Frech,Cel Ray,Non Alcoholic,12,9,450,5400,4050,1350
+88065566168,2019-05-27,Lorriane P Ho,Female,Little Falls,Reatha Q Breazeale,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,16,13,2000,32000,26000,6000
+88065566169,2019-05-28,Alina L Prowell,Female,Lockport,Antone E Angel,Main Street,Ben Frech,Boost,Alcoholic,20,17,123,2460,2091,369
+88065566170,2019-05-29,Keven H Araiza,Male,Long Beach,Merle N Burrus,Uptown Store,Ben Frech,Cel Ray,Non Alcoholic,12,9,12903,154836,116127,38709
+88065566171,2019-05-30,Jaleesa I Averett,Female,Middletown,Twanna Y Manges,Uptown Store,Ben Frech,Oliver Cromwell,Alcoholic,10,7,100000,1000000,700000,300000
+88065566172,2019-05-31,Corina U Korhonen,Female,Mount,Reatha Q Breazeale,Main Street,Ben Frech,Boost,Non Alcoholic,15,12,12000,180000,144000,36000
+88065566173,2019-06-01,Andrew D Hersey,Female,New York,Antone E Angel,Main Street,Ben Frech,Cel Ray,Alcoholic,15,12,60,900,720,180
+88065566174,2019-06-02,Delphine P Carpio,Female,Salamanca,Merle N Burrus,Uptown Store,Ben Frech,Cazadores Tequila,Alcoholic,20,17,89,1780,1513,267
+88065566175,2019-06-03,Joanie N Folkerts,Female,Springs,Twanna Y Manges,Uptown Store,Ben Frech,Oliver Cromwell,Alcoholic,12,9,77,924,693,231
+88065566176,2019-06-04,Keith E Moyes,Male,Sherrill,Reatha Q Breazeale,Main Street,Ben Frech,Boost,Non Alcoholic,13,10,68,884,680,204
+88065566177,2019-06-05,Katie N Kinnison,Female,Syracuse,Antone E Angel,Main Street,Ben Frech,Cel Ray,Non Alcoholic,15,12,15,225,180,45
+88065566178,2019-06-06,Angel F Palomino,Male,Troy,Merle N Burrus,Uptown Store,Ben Frech,Oliver Cromwell,Alcoholic,14,11,47,658,517,141
+88065566179,2019-06-07,Vicki V Broussard,Female,Olean,Twanna Y Manges,Uptown Store,Ben Frech,Boost,Alcoholic,30,27,6,180,162,18
+88065566180,2019-06-08,Sam C Limones,Male,Peekskill,Reatha Q Breazeale,Main Street,Ben Frech,Cel Ray,Non Alcoholic,16,13,10,160,130,30
+88065566181,2019-06-09,Amelia H Burbank,Female,Port Jervis,Antone E Angel,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,9,6,11,99,66,33
+88065566182,2019-06-10,Daniel L Nava,Male,Kingston,Merle N Burrus,Uptown Store,Ben Frech,Boost,Non Alcoholic,5,2,60,300,120,180
+88065566183,2019-06-11,Jefferson N Thurman,Male,Little Falls,Twanna Y Manges,Uptown Store,Ben Frech,Cel Ray,Alcoholic,18,15,89,1602,1335,267
+88065566184,2019-06-12,Forest Z Hacker,Male,Lockport,Reatha Q Breazeale,Main Street,Ben Frech,Cazadores Tequila,Alcoholic,10,7,77,770,539,231
+88065566185,2019-06-13,Colleen B Lenihan,Female,Long Beach,Antone E Angel,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,20,17,68,1360,1156,204
+88065566186,2019-06-14,Elease H Burger,Female,Middletown,Merle N Burrus,Uptown Store,Ben Frech,Boost,Non Alcoholic,12,9,15,180,135,45
+88065566187,2019-06-15,Benedict B Wix,Male,Watervliet,Twanna Y Manges,Uptown Store,Ben Frech,Cel Ray,Non Alcoholic,10,7,100,1000,700,300
+88065566188,2019-06-16,Minta J Branham,Female,Yakers,Reatha Q Breazeale,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,15,12,3000,45000,36000,9000
+88065566189,2019-06-17,Cicely W Colton,Female,New York,Antone E Angel,Main Street,Ben Frech,Boost,Alcoholic,15,12,5000,75000,60000,15000
+88065566190,2019-06-18,Sheryll X Broadbent,Female,Hempstead,Merle N Burrus,Uptown Store,Ben Frech,Cel Ray,Non Alcoholic,20,17,300,6000,5100,900
+88065566191,2019-06-19,Margarett E Mulford,Female,New York,Twanna Y Manges,Uptown Store,Ben Frech,Oliver Cromwell,Alcoholic,12,9,2000,24000,18000,6000
+88065566192,2019-06-20,Zane J Hurdle,Male,Hempstead,Reatha Q Breazeale,Main Street,Ben Frech,Boost,Non Alcoholic,13,10,600,7800,6000,1800
+88065566193,2019-06-21,Fermin L Zapata,Male,Brookhaven,Antone E Angel,Main Street,Ben Frech,Cel Ray,Alcoholic,15,12,1230,18450,14760,3690
+88065566194,2019-06-22,Benedict U Daye,Male,Islip,Merle N Burrus,Uptown Store,Ben Frech,Cazadores Tequila,Alcoholic,14,11,900,12600,9900,2700
+88065566195,2019-06-23,Sena U Delrosario,Female,Babylon,Twanna Y Manges,Uptown Store,Ben Frech,Oliver Cromwell,Alcoholic,30,27,2390,71700,64530,7170
+88065566196,2019-06-24,Forest Z Blewett,Male,Albany,Reatha Q Breazeale,Main Street,Ben Frech,Boost,Non Alcoholic,16,13,10000,160000,130000,30000
+88065566197,2019-06-25,Cassaundra K Polito,Female,Auburn,Antone E Angel,Main Street,Ben Frech,Cel Ray,Non Alcoholic,9,6,2300,20700,13800,6900
+88065566198,2019-06-26,Wiley U Maske,Male,Betavia,Merle N Burrus,Uptown Store,Ben Frech,Oliver Cromwell,Alcoholic,5,2,7800,39000,15600,23400
+88065566199,2019-06-27,Taneka Q Church,Female,Beacon,Twanna Y Manges,Uptown Store,Ben Frech,Boost,Alcoholic,18,15,450,8100,6750,1350
+88065566200,2019-06-28,Stanley F Casillas,Male,Choes,Reatha Q Breazeale,Main Street,Ben Frech,Cel Ray,Non Alcoholic,10,7,2000,20000,14000,6000
+88065566201,2019-06-29,Kraig P Brownfield,Male,Fulton,Antone E Angel,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,20,17,123,2460,2091,369
+88065566202,2019-06-30,Clint Q Orear,Male,Geneva,Merle N Burrus,Uptown Store,Ben Frech,Boost,Non Alcoholic,70,67,12903,903210,864501,38709
+88065566203,2019-07-01,Dawna T Woodbury,Female,Elmira,Twanna Y Manges,Uptown Store,Ben Frech,Cel Ray,Alcoholic,15,12,100000,1500000,1200000,300000
+88065566204,2019-07-02,Andria Z Reza,Female,Betavia,Twanna Y Manges,Uptown Store,Ben Frech,Cazadores Tequila,Alcoholic,12,9,12000,144000,108000,36000
+88065566205,2019-07-03,Bertha E Harbison,Female,Beacon,Reatha Q Breazeale,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,18,15,60,1080,900,180
+88065566206,2019-07-04,Bert S Kinkade,Male,Elmira,Twanna Y Manges,Uptown Store,Ben Frech,Boost,Non Alcoholic,23,20,89,2047,1780,267
+88065566207,2019-07-05,Margrett M Confer,Female,Glen Cove,Reatha Q Breazeale,Main Street,Ben Frech,Cel Ray,Non Alcoholic,9,6,77,693,462,231
+88065566208,2019-07-06,Tuan L Rhymes,Male,New York,Twanna Y Manges,Uptown Store,Ben Frech,Oliver Cromwell,Alcoholic,18,15,68,1224,1020,204
+88065566209,2019-07-07,Meda I Hayner,Female,Hempstead,Reatha Q Breazeale,Main Street,Ben Frech,Boost,Alcoholic,52,49,15,780,735,45
+88065566210,2019-07-08,Adalberto W Creek,Male,Brookhaven,Twanna Y Manges,Uptown Store,Ben Frech,Cel Ray,Non Alcoholic,9,6,47,423,282,141
+88065566211,2019-07-09,Renaldo K Cheatham,Male,Glen Cove,Reatha Q Breazeale,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,5,2,6,30,12,18
+88065566212,2019-07-10,Grisel R Whitty,Female,Glens Falls,Twanna Y Manges,Uptown Store,Ben Frech,Boost,Non Alcoholic,14,11,10,140,110,30
+88065566213,2019-07-11,Clemente S Wiechmann,Male,Hornell ,Reatha Q Breazeale,Main Street,Ben Frech,Cel Ray,Alcoholic,6,3,11,66,33,33
+88065566214,2019-07-12,Wm S Goldschmidt,Male,Hudson,Twanna Y Manges,Uptown Store,Ben Frech,Cazadores Tequila,Alcoholic,10,7,60,600,420,180
+88065566215,2019-07-13,Lamar A Partida,Male,Johnstown,Reatha Q Breazeale,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,13,10,89,1157,890,267
+88065566216,2019-07-14,Rex K Dion,Male,Kingston,Twanna Y Manges,Uptown Store,Ben Frech,Boost,Non Alcoholic,20,17,77,1540,1309,231
+88065566217,2019-07-15,Louann X Sakamoto,Female,Little Falls,Reatha Q Breazeale,Main Street,Ben Frech,Cel Ray,Non Alcoholic,15,12,68,1020,816,204
+88065566218,2019-07-16,Murray D Pennock,Male,Lockport,Reatha Q Breazeale,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,20,17,15,300,255,45
+88065566219,2019-07-17,Rosella E Marron,Female,Long Beach,Twanna Y Manges,Uptown Store,Ben Frech,Boost,Alcoholic,12,9,100,1200,900,300
+88065566220,2019-07-18,Nelida E Cheeks,Female,Middletown,Reatha Q Breazeale,Main Street,Ben Frech,Cel Ray,Non Alcoholic,16,13,3000,48000,39000,9000
+88065566221,2019-07-19,Roselia F Britton,Female,Mount,Reatha Q Breazeale,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,70,67,5000,350000,335000,15000
+88065566222,2019-07-20,Gilberto U Greaves,Male,New York,Reatha Q Breazeale,Main Street,Ben Frech,Boost,Non Alcoholic,15,12,300,4500,3600,900
+88065566223,2019-07-21,Keven A Jewell,Male,New York,Antone E Angel,Main Street,Ben Frech,Cel Ray,Alcoholic,16,13,2000,32000,26000,6000
+88065566224,2019-07-22,Kate O Paull,Female,Hempstead,Antone E Angel,Main Street,Ben Frech,Cazadores Tequila,Alcoholic,20,17,600,12000,10200,1800
+88065566225,2019-07-23,Marni O Otter,Female,Brookhaven,Merle N Burrus,Uptown Store,Ben Frech,Oliver Cromwell,Alcoholic,12,9,1230,14760,11070,3690
+88065566226,2019-07-24,Augusta G Kircher,Female,Islip,Twanna Y Manges,Uptown Store,Ben Frech,Boost,Non Alcoholic,12,9,900,10800,8100,2700
+88065566227,2019-07-25,Lincoln D Cauley,Male,Babylon,Reatha Q Breazeale,Main Street,Ben Frech,Cel Ray,Non Alcoholic,18,15,2390,43020,35850,7170
+88065566228,2019-07-26,Ramona W Rand,Female,Albany,Antone E Angel,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,10,7,10000,100000,70000,30000
+88065566229,2019-07-27,Davis Z Gaylor,Male,Auburn,Antone E Angel,Main Street,Ben Frech,Boost,Alcoholic,15,12,2300,34500,27600,6900
+88065566230,2019-07-28,Margit E Gallion,Female,Betavia,Merle N Burrus,Uptown Store,Ben Frech,Cel Ray,Non Alcoholic,15,12,7800,117000,93600,23400
+88065566231,2019-07-29,Sharyl Y Torian,Female,Beacon,Twanna Y Manges,Uptown Store,Ben Frech,Oliver Cromwell,Alcoholic,23,20,450,10350,9000,1350
+88065566232,2019-07-30,Buddy W Lofgren,Male,Choes,Reatha Q Breazeale,Main Street,Ben Frech,Boost,Non Alcoholic,9,6,2000,18000,12000,6000
+88065566233,2019-07-31,Malcolm Y Bonaparte,Male,Fulton,Antone E Angel,Main Street,Ben Frech,Cel Ray,Alcoholic,18,15,123,2214,1845,369
+88065566234,2019-08-01,Marissa S Hughes,Female,Beacon,Twanna Y Manges,Uptown Store,Ben Frech,Cazadores Tequila,Alcoholic,14,11,12903,180642,141933,38709
+88065566235,2019-08-02,Paz J Hegwood,Female,Choes,Reatha Q Breazeale,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,30,27,100000,3000000,2700000,300000
+88065566236,2019-08-03,Jacinda X Michalec,Female,Fulton,Antone E Angel,Main Street,Ben Frech,Boost,Non Alcoholic,16,13,12000,192000,156000,36000
+88065566237,2019-08-04,August F Dones,Male,Beacon,Twanna Y Manges,Uptown Store,Ben Frech,Cel Ray,Non Alcoholic,52,49,60,3120,2940,180
+88065566238,2019-08-05,Sherlene E Mcdaniel,Female,Choes,Reatha Q Breazeale,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,14,11,89,1246,979,267
+88065566239,2019-08-06,Linette Q Menard,Female,Fulton,Antone E Angel,Main Street,Ben Frech,Boost,Alcoholic,6,3,77,462,231,231
+88065566240,2019-08-07,Emmanuel G Chamorro,Male,Beacon,Twanna Y Manges,Uptown Store,Ben Frech,Cel Ray,Non Alcoholic,13,10,68,884,680,204
+88065566241,2019-08-08,Jeramy T Londono,Male,Choes,Reatha Q Breazeale,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,15,12,15,225,180,45
+88065566242,2019-08-09,Freddie C Headen,Male,Fulton,Antone E Angel,Main Street,Ben Frech,Boost,Non Alcoholic,20,17,47,940,799,141
+88065566243,2019-08-10,Stefanie P Rose,Female,Beacon,Twanna Y Manges,Uptown Store,Ben Frech,Cel Ray,Alcoholic,12,9,6,72,54,18
+88065566244,2019-08-11,Paola R Timberlake,Female,Choes,Reatha Q Breazeale,Main Street,Ben Frech,Cazadores Tequila,Alcoholic,16,13,10,160,130,30
+88065566245,2019-08-12,Bridget D Spadaro,Female,Fulton,Antone E Angel,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,20,17,11,220,187,33
+88065566246,2019-08-13,Mauricio I Streets,Male,Beacon,Twanna Y Manges,Uptown Store,Ben Frech,Boost,Non Alcoholic,12,9,60,720,540,180
+88065566247,2019-08-14,Les V Bejarano,Male,Choes,Reatha Q Breazeale,Main Street,Ben Frech,Cel Ray,Non Alcoholic,10,7,89,890,623,267
+88065566248,2019-08-15,Vinita E Chamber,Female,Fulton,Antone E Angel,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,15,12,77,1155,924,231
+88065566249,2019-08-16,Neil Z Stoughton,Male,Beacon,Twanna Y Manges,Uptown Store,Ben Frech,Boost,Alcoholic,15,12,68,1020,816,204
+88065566250,2019-08-17,Kassie Q Binder,Female,Choes,Reatha Q Breazeale,Main Street,Ben Frech,Cel Ray,Non Alcoholic,20,17,15,300,255,45
+88065566251,2019-08-18,Carlton P Mahurin,Male,Fulton,Antone E Angel,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,12,9,100,1200,900,300
+88065566252,2019-08-19,Mei H Silvera,Female,Beacon,Twanna Y Manges,Uptown Store,Ben Frech,Boost,Non Alcoholic,13,10,3000,39000,30000,9000
+88065566253,2019-08-20,Cindie T Madden,Female,Choes,Reatha Q Breazeale,Main Street,Ben Frech,Cel Ray,Alcoholic,15,12,5000,75000,60000,15000
+88065566254,2019-08-21,Van E Broadbent,Male,Fulton,Antone E Angel,Main Street,Ben Frech,Cazadores Tequila,Alcoholic,14,11,300,4200,3300,900
+88065566255,2019-08-22,Joanna M Sandefur,Female,Beacon,Twanna Y Manges,Uptown Store,Ben Frech,Oliver Cromwell,Alcoholic,30,27,2000,60000,54000,6000
+88065566256,2019-08-23,Estella E Miley,Female,Choes,Reatha Q Breazeale,Main Street,Ben Frech,Boost,Non Alcoholic,16,13,600,9600,7800,1800
+88065566257,2019-08-24,Liana T Quesenberry,Female,Fulton,Antone E Angel,Main Street,Ben Frech,Cel Ray,Non Alcoholic,9,6,1230,11070,7380,3690
+88065566258,2019-08-25,Guy S Troy,Male,Beacon,Twanna Y Manges,Uptown Store,Ben Frech,Oliver Cromwell,Alcoholic,5,2,900,4500,1800,2700
+88065566259,2019-08-26,Isiah S Coppock,Male,Choes,Reatha Q Breazeale,Main Street,Ben Frech,Boost,Alcoholic,18,15,2390,43020,35850,7170
+88065566260,2019-08-27,Loren H Mckenzie,Female,Fulton,Antone E Angel,Main Street,Ben Frech,Cel Ray,Non Alcoholic,10,7,10000,100000,70000,30000
+88065566261,2019-08-28,Gwyn I Parish,Female,Beacon,Twanna Y Manges,Uptown Store,Ben Frech,Oliver Cromwell,Alcoholic,20,17,2300,46000,39100,6900
+88065566262,2019-08-29,Norris P Ewen,Male,Choes,Reatha Q Breazeale,Main Street,Ben Frech,Boost,Non Alcoholic,70,67,7800,546000,522600,23400
+88065566263,2019-08-30,Tayna L Covarrubias,Female,Fulton,Antone E Angel,Main Street,Ben Frech,Cel Ray,Alcoholic,15,12,450,6750,5400,1350
+88065566264,2019-08-31,Asley F Mcewan,Female,Beacon,Twanna Y Manges,Uptown Store,Ben Frech,Cazadores Tequila,Alcoholic,12,9,2000,24000,18000,6000
+88065566265,2019-09-01,Jeremiah N Curran,Male,Choes,Reatha Q Breazeale,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,18,15,123,2214,1845,369
+88065566266,2019-09-02,Troy J Higbee,Male,Fulton,Antone E Angel,Main Street,Ben Frech,Boost,Non Alcoholic,23,20,12903,296769,258060,38709
+88065566267,2019-09-03,Lesha K Cai,Female,Beacon,Twanna Y Manges,Uptown Store,Ben Frech,Cel Ray,Non Alcoholic,9,6,100000,900000,600000,300000
+88065566268,2019-09-04,Denis T Yelle,Male,Choes,Reatha Q Breazeale,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,18,15,12000,216000,180000,36000
+88065566269,2019-09-05,Krissy S Valazquez,Female,Fulton,Antone E Angel,Main Street,Ben Frech,Boost,Alcoholic,52,49,60,3120,2940,180
+88065566270,2019-09-06,Hayden J Jang,Male,Beacon,Twanna Y Manges,Uptown Store,Ben Frech,Cel Ray,Non Alcoholic,9,6,89,801,534,267
+88065566271,2019-09-07,Franklyn V Hummell,Male,Choes,Reatha Q Breazeale,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,5,2,77,385,154,231
+88065566272,2019-09-08,Patrick H Gilleland,Female,Beacon,Reatha Q Breazeale,Main Street,Ben Frech,Boost,Non Alcoholic,14,11,68,952,748,204
+88065566273,2019-09-09,Lidia S Gerling,Female,Elmira,Antone E Angel,Main Street,Ben Frech,Cel Ray,Alcoholic,6,3,15,90,45,45
+88065566274,2019-09-10,Carlotta T Ryles,Female,Glen Cove,Antone E Angel,Main Street,Ben Frech,Cazadores Tequila,Alcoholic,10,7,47,470,329,141
+88065566275,2019-09-11,Digna Q Eck,Female,New York,Merle N Burrus,Uptown Store,Ben Frech,Oliver Cromwell,Alcoholic,13,10,6,78,60,18
+88065566276,2019-09-12,Galina G Woodbury,Female,Hempstead,Twanna Y Manges,Uptown Store,Ben Frech,Boost,Non Alcoholic,20,17,10,200,170,30
+88065566277,2019-09-13,Carmon A Howlett,Female,Brookhaven,Reatha Q Breazeale,Main Street,Ben Frech,Cel Ray,Non Alcoholic,15,12,11,165,132,33
+88065566278,2019-09-14,Josiah R Gutierres,Male,Glen Cove,Antone E Angel,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,20,17,60,1200,1020,180
+88065566279,2019-09-15,Leonel S Yuan,Male,Glens Falls,Antone E Angel,Main Street,Ben Frech,Boost,Alcoholic,12,9,89,1068,801,267
+88065566280,2019-09-16,Sharri Z Gormley,Female,Hornell ,Merle N Burrus,Uptown Store,Ben Frech,Cel Ray,Non Alcoholic,16,13,77,1232,1001,231
+88065566281,2019-09-17,Mignon H Ballesteros,Female,Hudson,Twanna Y Manges,Uptown Store,Ben Frech,Oliver Cromwell,Alcoholic,70,67,68,4760,4556,204
+88065566282,2019-09-18,Carmelia R Lattimer,Female,Johnstown,Reatha Q Breazeale,Main Street,Ben Frech,Boost,Non Alcoholic,15,12,15,225,180,45
+88065566283,2019-09-19,Francis O Encarnacion,Male,Kingston,Antone E Angel,Main Street,Ben Frech,Cel Ray,Alcoholic,16,13,100,1600,1300,300
+88065566284,2019-09-20,Denis Y Fehr,Male,Little Falls,Antone E Angel,Main Street,Ben Frech,Cazadores Tequila,Alcoholic,20,17,3000,60000,51000,9000
+88065566285,2019-09-21,Lisa C Sheridan,Female,Lockport,Merle N Burrus,Uptown Store,Ben Frech,Oliver Cromwell,Alcoholic,12,9,5000,60000,45000,15000
+88065566286,2019-09-22,Ezequiel N Shell,Male,Long Beach,Twanna Y Manges,Uptown Store,Ben Frech,Boost,Non Alcoholic,12,9,300,3600,2700,900
+88065566287,2019-09-23,Timmy I Poteat,Male,Middletown,Reatha Q Breazeale,Main Street,Ben Frech,Cel Ray,Non Alcoholic,18,15,2000,36000,30000,6000
+88065566288,2019-09-24,Nigel V Dupras,Male,Mount,Antone E Angel,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,10,7,600,6000,4200,1800
+88065566289,2019-09-25,Meryl B Jude,Female,New York,Antone E Angel,Main Street,Ben Frech,Boost,Alcoholic,15,12,1230,18450,14760,3690
+88065566290,2019-09-26,Herb B Irving,Male,Salamanca,Merle N Burrus,Uptown Store,Ben Frech,Cel Ray,Non Alcoholic,15,12,900,13500,10800,2700
+88065566291,2019-09-27,Samantha V Lucky,Female,Springs,Twanna Y Manges,Uptown Store,Ben Frech,Oliver Cromwell,Alcoholic,23,20,2390,54970,47800,7170
+88065566292,2019-09-28,Frankie I Speed,Male,Sherrill,Reatha Q Breazeale,Main Street,Ben Frech,Boost,Non Alcoholic,9,6,10000,90000,60000,30000
+88065566293,2019-09-29,Wilhelmina Y Keaney,Female,Syracuse,Antone E Angel,Main Street,Ben Frech,Cel Ray,Alcoholic,18,15,2300,41400,34500,6900
+88065566294,2019-09-30,Karlene L Mckean,Female,Troy,Antone E Angel,Main Street,Ben Frech,Cazadores Tequila,Alcoholic,14,11,7800,109200,85800,23400
+88065566295,2019-10-01,Emmitt X Plante,Male,Olean,Merle N Burrus,Uptown Store,Ben Frech,Oliver Cromwell,Alcoholic,30,27,450,13500,12150,1350
+88065566296,2019-10-02,Chaya W Caudle,Female,Peekskill,Twanna Y Manges,Uptown Store,Ben Frech,Boost,Non Alcoholic,16,13,2000,32000,26000,6000
+88065566297,2019-10-03,Reanna I Hampton,Female,Port Jervis,Reatha Q Breazeale,Main Street,Ben Frech,Cel Ray,Non Alcoholic,52,49,123,6396,6027,369
+88065566298,2019-10-04,Micaela N Buker,Female,New York,Antone E Angel,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,14,11,12903,180642,141933,38709
+88065566299,2019-10-05,Carmelia E Bergeron,Female,Little Falls,Antone E Angel,Main Street,Ben Frech,Boost,Alcoholic,6,3,100000,600000,300000,300000
+88065566300,2019-10-06,Ulysses S Abate,Male,Lockport,Merle N Burrus,Uptown Store,Ben Frech,Cel Ray,Non Alcoholic,13,10,12000,156000,120000,36000
+88065566301,2019-10-07,Love G Lent,Female,Long Beach,Twanna Y Manges,Uptown Store,Ben Frech,Oliver Cromwell,Alcoholic,15,12,60,900,720,180
+88065566302,2019-10-08,Stan S Watt,Male,Middletown,Reatha Q Breazeale,Main Street,Ben Frech,Boost,Non Alcoholic,20,17,89,1780,1513,267
+88065566303,2019-10-09,Kindra V Cruickshank,Female,Watervliet,Antone E Angel,Main Street,Ben Frech,Cel Ray,Alcoholic,12,9,77,924,693,231
+88065566304,2019-10-10,Micheal F Mcleroy,Male,Yakers,Antone E Angel,Main Street,Ben Frech,Cazadores Tequila,Alcoholic,16,13,68,1088,884,204
+88065566305,2019-10-11,Meryl B Jude,Female,New York,Antone E Angel,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,20,17,15,300,255,45
+88065566306,2019-10-12,Herb B Irving,Male,Salamanca,Merle N Burrus,Uptown Store,Ben Frech,Boost,Non Alcoholic,12,9,47,564,423,141
+88065566307,2019-10-13,Samantha V Lucky,Female,Springs,Twanna Y Manges,Uptown Store,Ben Frech,Cel Ray,Non Alcoholic,10,7,6,60,42,18
+88065566308,2019-10-14,Frankie I Speed,Male,Sherrill,Reatha Q Breazeale,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,15,12,10,150,120,30
+88065566309,2019-10-15,Wilhelmina Y Keaney,Female,Syracuse,Antone E Angel,Main Street,Ben Frech,Boost,Alcoholic,15,12,11,165,132,33
+88065566310,2019-10-16,Karlene L Mckean,Female,Troy,Antone E Angel,Main Street,Ben Frech,Cel Ray,Non Alcoholic,20,17,60,1200,1020,180
+88065566311,2019-10-17,Emmitt X Plante,Male,Olean,Merle N Burrus,Uptown Store,Ben Frech,Oliver Cromwell,Alcoholic,12,9,89,1068,801,267
+88065566312,2019-10-18,Chaya W Caudle,Female,Peekskill,Twanna Y Manges,Uptown Store,Ben Frech,Boost,Non Alcoholic,13,10,77,1001,770,231
+88065566313,2019-10-19,Reanna I Hampton,Female,Port Jervis,Reatha Q Breazeale,Main Street,Ben Frech,Cel Ray,Alcoholic,15,12,68,1020,816,204
+88065566314,2019-10-20,Micaela N Buker,Female,New York,Antone E Angel,Main Street,Ben Frech,Cazadores Tequila,Alcoholic,14,11,15,210,165,45
+88065566315,2019-10-21,Carmelia E Bergeron,Female,Little Falls,Antone E Angel,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,30,27,100,3000,2700,300
+88065566316,2019-10-22,Ulysses S Abate,Male,Lockport,Merle N Burrus,Uptown Store,Ben Frech,Boost,Non Alcoholic,16,13,3000,48000,39000,9000
+88065566317,2019-10-23,Love G Lent,Female,Long Beach,Twanna Y Manges,Uptown Store,Ben Frech,Cel Ray,Non Alcoholic,9,6,5000,45000,30000,15000
+88065566318,2019-10-24,Stan S Watt,Male,Middletown,Reatha Q Breazeale,Main Street,Ben Frech,Oliver Cromwell,Alcoholic,5,2,300,1500,600,900
+88065566319,2019-10-25,Kindra V Cruickshank,Female,Watervliet,Antone E Angel,Main Street,Ben Frech,Boost,Alcoholic,18,15,2000,36000,30000,6000
+88065566320,2019-10-26,Gwyn E Etzel,Female,Yakers,Antone E Angel,Main Street,Ben Frech,Cel Ray,Non Alcoholic,10,7,600,6000,4200,1800
+88065566321,2019-10-27,Ressie I Goodwyn,Female,Albany,Antone E Angel,Fenard Store,Ben Frech,Oliver Cromwell,Alcoholic,52,49,1230,63960,60270,3690
+88065566322,2019-10-28,Colton B Salzman,Male,Auburn,Merle N Burrus,Fenard Store,Ben Frech,Boost,Non Alcoholic,9,6,900,8100,5400,2700
+88065566323,2019-10-29,Marylynn G Ealey,Female,Betavia,Twanna Y Manges,Fenard Store,Ben Frech,Cel Ray,Alcoholic,5,2,2390,11950,4780,7170
+88065566324,2019-10-30,Reanna I Hampton,Female,Port Jervis,Reatha Q Breazeale,Fenard Store,Ben Frech,Cazadores Tequila,Alcoholic,14,11,10000,140000,110000,30000
+88065566325,2019-10-31,Micaela N Buker,Female,New York,Antone E Angel,Fenard Store,Ben Frech,Oliver Cromwell,Alcoholic,6,3,2300,13800,6900,6900
+88065566326,2019-11-01,Carmelia E Bergeron,Female,Little Falls,Merle N Burrus,Fenard Store,Ben Frech,Boost,Non Alcoholic,10,7,7800,78000,54600,23400
+88065566327,2019-11-02,Neil V Gebhard,Male,Geneva,Twanna Y Manges,Fenard Store,Ben Frech,Cel Ray,Non Alcoholic,13,10,450,5850,4500,1350
+88065566328,2019-11-03,Kermit L Mcphail,Male,Elmira,Reatha Q Breazeale,Fenard Store,Ben Frech,Oliver Cromwell,Alcoholic,20,17,2000,40000,34000,6000
+88065566329,2019-11-04,Julio P Dockery,Female,Glen Cove,Antone E Angel,Fenard Store,Ben Frech,Boost,Alcoholic,15,12,123,1845,1476,369
+88065566330,2019-11-05,Tressa Q Standard,Female,Glens Falls,Merle N Burrus,Fenard Store,Ben Frech,Cel Ray,Non Alcoholic,20,17,12903,258060,219351,38709
+88065566331,2019-11-06,Dwayne W Marker,Male,Hornell ,Twanna Y Manges,Fenard Store,Ben Frech,Oliver Cromwell,Alcoholic,12,9,100000,1200000,900000,300000
+88065566332,2019-11-07,Ayako L Bachmann,Female,Hudson,Reatha Q Breazeale,Fenard Store,Ben Frech,Boost,Non Alcoholic,16,13,12000,192000,156000,36000
+88065566333,2019-11-08,Salena I Santillan,Female,Johnstown,Antone E Angel,Fenard Store,Ben Frech,Cel Ray,Alcoholic,70,67,60,4200,4020,180
+88065566334,2019-11-09,Nelson O Dubuc,Male,Kingston,Merle N Burrus,Fenard Store,Ben Frech,Cazadores Tequila,Alcoholic,15,12,89,1335,1068,267
+88065566335,2019-11-10,Lincoln D Demaria,Male,Little Falls,Twanna Y Manges,Fenard Store,Ben Frech,Oliver Cromwell,Alcoholic,16,13,77,1232,1001,231
+88065566336,2019-11-11,Eleonora S Pollard,Female,Lockport,Reatha Q Breazeale,Fenard Store,Ben Frech,Boost,Non Alcoholic,20,17,68,1360,1156,204
+88065566337,2019-11-12,Reanna I Hampton,Female,Port Jervis,Antone E Angel,Fenard Store,Ben Frech,Cel Ray,Non Alcoholic,12,9,15,180,135,45
+88065566338,2019-11-13,Micaela N Buker,Female,New York,Merle N Burrus,Fenard Store,Ben Frech,Oliver Cromwell,Alcoholic,12,9,47,564,423,141
+88065566339,2019-11-14,Carmelia E Bergeron,Female,Little Falls,Twanna Y Manges,Fenard Store,Ben Frech,Boost,Alcoholic,18,15,6,108,90,18
+88065566340,2019-11-15,Sherise C Bledsoe,Female,New York,Reatha Q Breazeale,Fenard Store,Ben Frech,Cel Ray,Non Alcoholic,10,7,10,100,70,30
+88065566341,2019-11-16,Chase J Paradise,Male,Newburgh,Antone E Angel,Fenard Store,Ben Frech,Oliver Cromwell,Alcoholic,15,12,11,165,132,33
+88065566342,2019-11-17,Ernestine E Fludd,Female,Olean,Merle N Burrus,Fenard Store,Ben Frech,Boost,Non Alcoholic,15,12,60,900,720,180
+88065566343,2019-11-18,Fernando S Korhonen,Male,Peekskill,Antone E Angel,Fenard Store,Ben Frech,Cel Ray,Alcoholic,23,20,89,2047,1780,267
+88065566344,2019-11-19,Shanti F Quirion,Female,Port Jervis,Merle N Burrus,Fenard Store,Ben Frech,Cazadores Tequila,Alcoholic,9,6,77,693,462,231
+88065566345,2019-11-20,Dovie U Nickerson,Female,Poughkeepsie,Antone E Angel,Fenard Store,Ben Frech,Oliver Cromwell,Alcoholic,18,15,68,1224,1020,204
+88065566346,2019-11-21,Lacy Q Deshotel,Male,Rye ,Merle N Burrus,Fenard Store,Ben Frech,Boost,Non Alcoholic,14,11,15,210,165,45
+88065566347,2019-11-22,Leslie I Stolte,Male,Rome,Antone E Angel,Fenard Store,Ben Frech,Cel Ray,Non Alcoholic,30,27,100,3000,2700,300
+88065566348,2019-11-23,Valene R Yost,Female,Rochester,Merle N Burrus,Fenard Store,Ben Frech,Oliver Cromwell,Alcoholic,16,13,3000,48000,39000,9000
+88065566349,2019-11-24,Earlean Y Funke,Female,Salamanca,Antone E Angel,Fenard Store,Ben Frech,Boost,Alcoholic,52,49,5000,260000,245000,15000
+88065566350,2019-11-25,Eloise Z Demoss,Female,Springs,Merle N Burrus,Fenard Store,Ben Frech,Cel Ray,Non Alcoholic,14,11,300,4200,3300,900
+88065566351,2019-11-26,Reanna I Hampton,Female,Port Jervis,Antone E Angel,Fenard Store,Ben Frech,Oliver Cromwell,Alcoholic,6,3,2000,12000,6000,6000
+88065566352,2019-11-27,Micaela N Buker,Female,New York,Merle N Burrus,Fenard Store,Ben Frech,Boost,Non Alcoholic,13,10,600,7800,6000,1800
+88065566353,2019-11-28,Carmelia E Bergeron,Female,Little Falls,Antone E Angel,Fenard Store,Ben Frech,Cel Ray,Alcoholic,15,12,1230,18450,14760,3690
+88065566354,2019-11-29,Keven F Bingham,Male,Watertown,Merle N Burrus,Fenard Store,Ben Frech,Cazadores Tequila,Alcoholic,20,17,900,18000,15300,2700
+88065566355,2019-11-30,Magaly U Mcneel,Female,Watervliet,Antone E Angel,Fenard Store,Ben Frech,Oliver Cromwell,Alcoholic,12,9,2390,28680,21510,7170
+88065566356,2019-12-01,Mika J Rodriquez,Female,Yakers,Merle N Burrus,Fenard Store,Ben Frech,Boost,Non Alcoholic,16,13,10000,160000,130000,30000
+88065566357,2019-12-02,Freddy A Rolling,Male,New York,Antone E Angel,Fenard Store,Ben Frech,Cel Ray,Non Alcoholic,20,17,2300,46000,39100,6900
+88065566358,2019-12-03,Morgan O Carriere,Female,Hempstead,Merle N Burrus,Fenard Store,Ben Frech,Oliver Cromwell,Alcoholic,12,9,7800,93600,70200,23400
+88065566359,2019-12-04,Reanna I Hampton,Female,Port Jervis,Antone E Angel,Fenard Store,Ben Frech,Boost,Alcoholic,10,7,450,4500,3150,1350
+88065566360,2019-12-05,Micaela N Buker,Female,New York,Merle N Burrus,Fenard Store,Ben Frech,Cel Ray,Non Alcoholic,15,12,2000,30000,24000,6000
+88065566361,2019-12-06,Carmelia E Bergeron,Female,Little Falls,Antone E Angel,Fenard Store,Ben Frech,Oliver Cromwell,Alcoholic,15,12,123,1845,1476,369
+88065566362,2019-12-07,Junita Y Huhn,Female,Albany,Merle N Burrus,Fenard Store,Ben Frech,Boost,Non Alcoholic,20,17,12903,258060,219351,38709
+88065566363,2019-12-08,Keira Y Till,Female,Auburn,Antone E Angel,Fenard Store,Ben Frech,Cel Ray,Alcoholic,12,9,100000,1200000,900000,300000
+88065566364,2019-12-09,Mickey E Hentges,Male,Betavia,Merle N Burrus,Fenard Store,Ben Frech,Cazadores Tequila,Alcoholic,13,10,12000,156000,120000,36000
+88065566365,2019-12-10,Phil G Czarnecki,Male,Beacon,Antone E Angel,Fenard Store,Ben Frech,Oliver Cromwell,Alcoholic,15,12,60,900,720,180
+88065566366,2019-08-04,Glenn N Vinyard,Male,Elmira,Merle N Burrus,Fenard Store,Ben Frech,Boost,Non Alcoholic,14,11,89,1246,979,267
+88065566367,2019-08-05,Federico B Edmond,Male,Glen Cove,Antone E Angel,Fenard Store,Ben Frech,Cel Ray,Non Alcoholic,30,27,77,2310,2079,231
+88065566368,2019-08-09,Lucas P Funes,Male,New York,Merle N Burrus,Fenard Store,Ben Frech,Oliver Cromwell,Alcoholic,16,13,68,1088,884,204
+88065566369,2019-08-08,Alden Y Cauley,Male,Hempstead,Antone E Angel,Fenard Store,Ben Frech,Boost,Alcoholic,9,6,15,135,90,45
+88065566370,2019-08-08,Reanna I Hampton,Female,Port Jervis,Merle N Burrus,Fenard Store,Ben Frech,Cel Ray,Non Alcoholic,5,2,47,235,94,141
+88065566371,2019-08-09,Micaela N Buker,Female,New York,Antone E Angel,Fenard Store,Ben Frech,Oliver Cromwell,Alcoholic,18,15,6,108,90,18
+88065566372,2019-08-10,Carmelia E Bergeron,Female,Little Falls,Merle N Burrus,Fenard Store,Ben Frech,Boost,Non Alcoholic,10,7,10,100,70,30
+88065566373,2019-08-11,Giuseppina N Dagostino,Female,Hornell ,Antone E Angel,Fenard Store,Ben Frech,Cel Ray,Alcoholic,20,17,11,220,187,33
+88065566374,2019-08-12,Danilo S Hammes,Male,Hudson,Merle N Burrus,Fenard Store,Ben Frech,Cazadores Tequila,Alcoholic,70,67,60,4200,4020,180
+88065566375,2019-08-13,Clotilde X Mason,Female,Johnstown,Antone E Angel,Fenard Store,Ben Frech,Oliver Cromwell,Alcoholic,15,12,89,1335,1068,267
+88065566376,2019-08-14,Petrina B Dampier,Female,Kingston,Merle N Burrus,Fenard Store,Ben Frech,Boost,Non Alcoholic,12,9,77,924,693,231
+88065566377,2019-08-15,Philip X Trinidad,Male,Little Falls,Antone E Angel,Fenard Store,Ben Frech,Cel Ray,Non Alcoholic,18,15,68,1224,1020,204
+88065566378,2019-08-19,Sixta H Jo,Female,Lockport,Merle N Burrus,Fenard Store,Ben Frech,Oliver Cromwell,Alcoholic,23,20,15,345,300,45
+88065566379,2019-08-18,Mose O Brucker,Male,Long Beach,Antone E Angel,Fenard Store,Ben Frech,Boost,Alcoholic,9,6,100,900,600,300
+88065566380,2019-08-18,Andrew P Detweiler,Male,Middletown,Merle N Burrus,Fenard Store,Ben Frech,Cel Ray,Non Alcoholic,18,15,3000,54000,45000,9000
+88065566381,2019-08-19,Reanna I Hampton,Female,Port Jervis,Antone E Angel,Fenard Store,Ben Frech,Oliver Cromwell,Alcoholic,52,49,5000,260000,245000,15000
+88065566382,2019-08-20,Micaela N Buker,Female,New York,Merle N Burrus,Fenard Store,Ben Frech,Boost,Non Alcoholic,9,6,300,2700,1800,900
+88065566383,2019-08-21,Carmelia E Bergeron,Female,Little Falls,Antone E Angel,Fenard Store,Ben Frech,Cel Ray,Alcoholic,5,2,2000,10000,4000,6000
+88065566384,2019-08-22,Judith D Gourdine,Female,Springs,Merle N Burrus,Fenard Store,Ben Frech,Cazadores Tequila,Alcoholic,14,11,600,8400,6600,1800
+88065566385,2019-08-23,Beatrice T Coen,Female,Sherrill,Antone E Angel,Fenard Store,Ben Frech,Oliver Cromwell,Alcoholic,6,3,1230,7380,3690,3690
+88065566386,2019-08-24,Terra D Routh,Female,Syracuse,Merle N Burrus,Fenard Store,Ben Frech,Boost,Non Alcoholic,10,7,900,9000,6300,2700
+88065566387,2019-08-25,Suzette F Lovejoy,Female,Troy,Antone E Angel,Fenard Store,Ben Frech,Cel Ray,Non Alcoholic,13,10,2390,31070,23900,7170
+88065566388,2019-08-29,Jolanda L Dewees,Female,Olean,Merle N Burrus,Fenard Store,Ben Frech,Oliver Cromwell,Alcoholic,20,17,10000,200000,170000,30000
+88065566389,2019-08-28,Dwain O Upham,Male,Peekskill,Antone E Angel,Fenard Store,Ben Frech,Boost,Alcoholic,15,12,2300,34500,27600,6900
+88065566390,2019-08-28,Alise O Baltzell,Female,Port Jervis,Merle N Burrus,Fenard Store,Ben Frech,Cel Ray,Non Alcoholic,20,17,7800,156000,132600,23400
+88065566391,2019-08-29,Hal K Kells,Male,Kingston,Antone E Angel,Fenard Store,Ben Frech,Oliver Cromwell,Alcoholic,12,9,450,5400,4050,1350
+88065566392,2019-08-30,Reanna I Hampton,Female,Port Jervis,Merle N Burrus,Fenard Store,Ben Frech,Boost,Non Alcoholic,16,13,2000,32000,26000,6000
+88065566393,2019-08-31,Micaela N Buker,Female,New York,Antone E Angel,Fenard Store,Ben Frech,Cel Ray,Alcoholic,70,67,123,8610,8241,369
+88065566394,2019-09-01,Carmelia E Bergeron,Female,Little Falls,Merle N Burrus,Fenard Store,Ben Frech,Cazadores Tequila,Alcoholic,15,12,12903,193545,154836,38709
+88065566395,2019-09-02,Jordan D Phu,Male,Middletown,Antone E Angel,Fenard Store,Ben Frech,Oliver Cromwell,Alcoholic,16,13,100000,1600000,1300000,300000
+88065566396,2019-09-03,Mac V Lineberry,Male,Watervliet,Merle N Burrus,Fenard Store,Ben Frech,Boost,Non Alcoholic,20,17,12000,240000,204000,36000
+88065566397,2019-09-04,Mina P Shotwell,Female,Yakers,Antone E Angel,Fenard Store,Ben Frech,Cel Ray,Non Alcoholic,12,9,60,720,540,180
+88065566398,2019-09-05,Doyle N Utter,Male,New York,Merle N Burrus,Fenard Store,Ben Frech,Oliver Cromwell,Alcoholic,12,9,89,1068,801,267
+88065566399,2019-09-09,Tyler D Galindo,Male,Hempstead,Antone E Angel,Fenard Store,Ben Frech,Boost,Alcoholic,18,15,77,1386,1155,231
+88065566400,2019-09-08,Lizzette G Moyle,Female,New York,Merle N Burrus,Fenard Store,Ben Frech,Cel Ray,Non Alcoholic,10,7,68,680,476,204
+88065566401,2019-09-08,Heath K Fell,Male,Hempstead,Antone E Angel,Fenard Store,Ben Frech,Oliver Cromwell,Alcoholic,15,12,15,225,180,45
+88065566402,2019-09-09,Meryl I Nau,Female,Brookhaven,Merle N Burrus,Fenard Store,Ben Frech,Boost,Non Alcoholic,15,12,47,705,564,141
+88065566403,2019-09-10,Terrell J Leader,Male,Islip,Antone E Angel,Fenard Store,Ben Frech,Cel Ray,Alcoholic,23,20,6,138,120,18
+88065566404,2019-09-11,Cameron A Chamberland,Male,Babylon,Merle N Burrus,Fenard Store,Ben Frech,Cazadores Tequila,Alcoholic,9,6,10,90,60,30
+88065566405,2019-09-12,Jarred C Class,Male,Albany,Antone E Angel,Fenard Store,Ben Frech,Oliver Cromwell,Alcoholic,18,15,11,198,165,33
+88065566406,2019-09-13,Maxwell H Azevedo,Male,Auburn,Merle N Burrus,Fenard Store,Ben Frech,Boost,Non Alcoholic,14,11,60,840,660,180
+88065566407,2019-09-14,Reanna I Hampton,Female,Port Jervis,Antone E Angel,Fenard Store,Ben Frech,Cel Ray,Non Alcoholic,30,27,89,2670,2403,267
+88065566408,2019-09-15,Micaela N Buker,Female,New York,Merle N Burrus,Fenard Store,Ben Frech,Oliver Cromwell,Alcoholic,16,13,77,1232,1001,231
+88065566409,2019-09-19,Carmelia E Bergeron,Female,Little Falls,Antone E Angel,Fenard Store,Ben Frech,Boost,Alcoholic,52,49,68,3536,3332,204
+88065566410,2019-09-18,Millicent G Mangan,Female,Fulton,Merle N Burrus,Fenard Store,Ben Frech,Cel Ray,Non Alcoholic,14,11,15,210,165,45
+88065566411,2019-09-18,Bernard A Harbert,Male,Geneva,Antone E Angel,Fenard Store,Ben Frech,Oliver Cromwell,Alcoholic,6,3,100,600,300,300
+88065566412,2019-09-19,Steven B Daigneault,Male,Elmira,Merle N Burrus,Fenard Store,Ben Frech,Boost,Non Alcoholic,13,10,3000,39000,30000,9000
+88065566413,2019-09-20,Oren M Mcnabb,Male,Glen Cove,Antone E Angel,Fenard Store,Ben Frech,Cel Ray,Alcoholic,15,12,5000,75000,60000,15000
+88065566414,2019-09-21,Susana H Hooks,Female,Glens Falls,Merle N Burrus,Fenard Store,Ben Frech,Cazadores Tequila,Alcoholic,20,17,300,6000,5100,900
+88065566415,2019-09-22,Cedrick K Engelhardt,Male,Hornell ,Antone E Angel,Fenard Store,Ben Frech,Oliver Cromwell,Alcoholic,12,9,2000,24000,18000,6000
+88065566416,2019-09-23,Rich Q Rehberg,Male,Hudson,Merle N Burrus,Fenard Store,Ben Frech,Boost,Non Alcoholic,16,13,600,9600,7800,1800
+88065566417,2019-09-24,Zachary S Velasquez,Male,Johnstown,Antone E Angel,Fenard Store,Ben Frech,Cel Ray,Non Alcoholic,20,17,1230,24600,20910,3690
+88065566418,2019-09-25,Garrett S Nolette,Male,Kingston,Merle N Burrus,Fenard Store,Ben Frech,Oliver Cromwell,Alcoholic,12,9,900,10800,8100,2700
+88065566419,2019-09-29,Antone W Polston,Male,Little Falls,Antone E Angel,Fenard Store,Ben Frech,Boost,Alcoholic,10,7,2390,23900,16730,7170
+88065566420,2019-09-28,Isreal F Metoyer,Male,Lockport,Merle N Burrus,Fenard Store,Ben Frech,Cel Ray,Non Alcoholic,15,12,10000,150000,120000,30000
+88065566421,2019-09-28,Cyndy H Ary,Female,Long Beach,Antone E Angel,Fenard Store,Ben Frech,Oliver Cromwell,Alcoholic,15,12,2300,34500,27600,6900
+88065566422,2019-09-29,Buck H Rancourt,Male,Middletown,Merle N Burrus,Fenard Store,Ben Frech,Boost,Non Alcoholic,20,17,7800,156000,132600,23400
+88065566423,2019-09-30,Arlen M Joly,Male,Mount,Antone E Angel,Fenard Store,Ben Frech,Cel Ray,Alcoholic,12,9,450,5400,4050,1350
+88065566424,2019-09-20,Jerome P Whitefield,Male,New York,Merle N Burrus,Fenard Store,Ben Frech,Cazadores Tequila,Alcoholic,13,10,2000,26000,20000,6000
+88065566425,2019-09-21,Rafaela N Madrid,Female,Newburgh,Antone E Angel,Fenard Store,Ben Frech,Oliver Cromwell,Alcoholic,15,12,123,1845,1476,369
+88065566426,2019-09-22,Tiny Q Llanos,Female,Olean,Merle N Burrus,Fenard Store,Ben Frech,Boost,Non Alcoholic,14,11,12903,180642,141933,38709
+88065566427,2019-09-23,Jc S Meyers,Male,Peekskill,Antone E Angel,Fenard Store,Ben Frech,Cel Ray,Non Alcoholic,30,27,100000,3000000,2700000,300000
+88065566428,2019-09-24,Reanna I Hampton,Female,Port Jervis,Merle N Burrus,Fenard Store,Ben Frech,Oliver Cromwell,Alcoholic,16,13,12000,192000,156000,36000
+88065566429,2019-09-25,Micaela N Buker,Female,New York,Antone E Angel,Fenard Store,Ben Frech,Boost,Alcoholic,9,6,60,540,360,180
+88065566430,2019-09-29,Carmelia E Bergeron,Female,Little Falls,Twanna Y Manges,Fenard Store,Ben Frech,Cel Ray,Non Alcoholic,5,2,89,445,178,267
+88065566431,2019-09-28,Hui E Bizzell,Female,Rome,Reatha Q Breazeale,Fenard Store,Ben Frech,Oliver Cromwell,Alcoholic,18,15,77,1386,1155,231
+88065566432,2019-09-28,Ronnie H Upton,Male,Rochester,Twanna Y Manges,Fenard Store,Ben Frech,Boost,Non Alcoholic,10,7,68,680,476,204
+88065566433,2019-09-29,Cleveland W Franko,Male,Salamanca,Reatha Q Breazeale,Fenard Store,Ben Frech,Cel Ray,Alcoholic,20,17,15,300,255,45
+88065566434,2019-09-30,Marcella Z Mapp,Female,Springs,Twanna Y Manges,Fenard Store,Ben Frech,Cazadores Tequila,Alcoholic,70,67,47,3290,3149,141
+88065566435,2019-08-01,Alease Y Lander,Female,Sherrill,Reatha Q Breazeale,Fenard Store,Ben Frech,Oliver Cromwell,Alcoholic,15,12,6,90,72,18
+88065566436,2019-08-02,Carrol O Arend,Male,Syracuse,Twanna Y Manges,Fenard Store,Ben Frech,Boost,Non Alcoholic,12,9,10,120,90,30
+88065566437,2019-08-03,Lyn Q Tso,Female,Troy,Reatha Q Breazeale,Fenard Store,Ben Frech,Cel Ray,Non Alcoholic,18,15,11,198,165,33
+88065566438,2019-08-04,Lottie G Bonin,Female,Watertown,Twanna Y Manges,Fenard Store,Ben Frech,Oliver Cromwell,Alcoholic,23,20,60,1380,1200,180
+88065566439,2019-08-05,Jong U Borchers,Female,Watervliet,Reatha Q Breazeale,Fenard Store,Ben Frech,Boost,Alcoholic,9,6,89,801,534,267
+88065566440,2019-08-09,Reanna I Hampton,Female,Port Jervis,Twanna Y Manges,Fenard Store,Ben Frech,Cel Ray,Non Alcoholic,18,15,77,1386,1155,231
+88065566441,2019-08-08,Micaela N Buker,Female,New York,Reatha Q Breazeale,Fenard Store,Ben Frech,Oliver Cromwell,Alcoholic,52,49,68,3536,3332,204
+88065566442,2019-08-08,Carmelia E Bergeron,Female,Little Falls,Twanna Y Manges,Fenard Store,Ben Frech,Boost,Non Alcoholic,9,6,15,135,90,45
+88065566443,2019-08-09,Jamaal Z Resto,Male,Brookhaven,Reatha Q Breazeale,Fenard Store,Ben Frech,Cel Ray,Alcoholic,5,2,100,500,200,300
+88065566444,2019-08-10,Barrie E Collman,Female,Islip,Twanna Y Manges,Fenard Store,Ben Frech,Cazadores Tequila,Alcoholic,14,11,3000,42000,33000,9000
+88065566445,2019-08-11,Alphonso U Laffoon,Male,Babylon,Reatha Q Breazeale,Fenard Store,Ben Frech,Oliver Cromwell,Alcoholic,6,3,5000,30000,15000,15000
+88065566446,2019-08-12,Pansy F Duchesne,Female,Albany,Twanna Y Manges,Fenard Store,Ben Frech,Boost,Non Alcoholic,10,7,300,3000,2100,900
+88065566447,2019-08-13,Karisa B Glidewell,Female,Auburn,Reatha Q Breazeale,Fenard Store,Ben Frech,Cel Ray,Non Alcoholic,13,10,2000,26000,20000,6000
+88065566448,2019-08-14,Lia J Liner,Female,Betavia,Twanna Y Manges,Fenard Store,Ben Frech,Oliver Cromwell,Alcoholic,20,17,600,12000,10200,1800
+88065566449,2019-08-15,Dudley G Slocum,Male,Beacon,Reatha Q Breazeale,Fenard Store,Ben Frech,Boost,Alcoholic,15,12,1230,18450,14760,3690
+88065566450,2019-08-19,Emma X Monti,Female,Elmira,Antone E Angel,Fenard Store,Ben Frech,Cel Ray,Non Alcoholic,20,17,900,18000,15300,2700
+88065566451,2019-08-18,Elias Y Pinkard,Male,Glen Cove,Merle N Burrus,Fenard Store,Ben Frech,Oliver Cromwell,Alcoholic,12,9,2390,28680,21510,7170
+88065566452,2019-08-18,Morgan V Leonetti,Male,New York,Twanna Y Manges,Fenard Store,Ben Frech,Boost,Non Alcoholic,16,13,10000,160000,130000,30000
+88065566453,2019-08-19,Doyle T Grindstaff,Male,Hempstead,Reatha Q Breazeale,Fenard Store,Ben Frech,Cel Ray,Alcoholic,70,67,2300,161000,154100,6900
+88065566454,2019-08-20,Robert C Ancheta,Female,Brookhaven,Antone E Angel,Fenard Store,Ben Frech,Cazadores Tequila,Alcoholic,15,12,7800,117000,93600,23400
+88065566455,2019-08-21,Cole M Dellinger,Male,Glen Cove,Merle N Burrus,Fenard Store,Ben Frech,Oliver Cromwell,Alcoholic,16,13,450,7200,5850,1350
+88065566456,2019-08-22,Tony E Keough,Female,Glens Falls,Twanna Y Manges,Fenard Store,Ben Frech,Boost,Non Alcoholic,20,17,2000,40000,34000,6000
+88065566457,2019-08-23,Dulce E Grizzard,Female,Hornell ,Reatha Q Breazeale,Fenard Store,Ben Frech,Cel Ray,Non Alcoholic,12,9,123,1476,1107,369
+88065566458,2019-08-24,Devin U Hales,Male,Hudson,Antone E Angel,Fenard Store,Ben Frech,Oliver Cromwell,Alcoholic,12,9,12903,154836,116127,38709
+88065566459,2019-08-25,Leif Y Harness,Male,Johnstown,Merle N Burrus,Fenard Store,Ben Frech,Boost,Alcoholic,18,15,100000,1800000,1500000,300000
+88065566460,2019-08-29,Orval Q Olinger,Male,Kingston,Twanna Y Manges,Fenard Store,Ben Frech,Cel Ray,Non Alcoholic,10,7,12000,120000,84000,36000
+88065566461,2019-08-28,Reanna I Hampton,Female,Port Jervis,Reatha Q Breazeale,Fenard Store,Ben Frech,Oliver Cromwell,Alcoholic,15,12,60,900,720,180
+88065566462,2019-08-28,Micaela N Buker,Female,New York,Antone E Angel,Fenard Store,Ben Frech,Boost,Non Alcoholic,15,12,89,1335,1068,267
+88065566463,2019-08-29,Carmelia E Bergeron,Female,Little Falls,Merle N Burrus,Fenard Store,Ben Frech,Cel Ray,Alcoholic,23,20,77,1771,1540,231
+88065566464,2019-08-30,Elvis J Stroh,Male,Middletown,Twanna Y Manges,Fenard Store,Ben Frech,Cazadores Tequila,Alcoholic,9,6,68,612,408,204
+88065566465,2019-08-31,Bud L Lofgren,Male,Mount,Reatha Q Breazeale,Fenard Store,Ben Frech,Oliver Cromwell,Alcoholic,18,15,15,270,225,45
+88065566466,2019-08-01,Conrad R Saito,Male,New York,Antone E Angel,Fenard Store,Ben Frech,Boost,Non Alcoholic,14,11,47,658,517,141
+88065566467,2019-08-02,Dorothy Q Gard,Female,Salamanca,Merle N Burrus,Fenard Store,Ben Frech,Cel Ray,Non Alcoholic,30,27,6,180,162,18
+88065566468,2019-08-03,Tiffaney A Schoenberg,Female,Springs,Twanna Y Manges,Fenard Store,Ben Frech,Oliver Cromwell,Alcoholic,16,13,10,160,130,30
+88065566469,2019-08-04,Clint Q Strayhorn,Male,Sherrill,Reatha Q Breazeale,Fenard Store,Ben Frech,Boost,Alcoholic,52,49,11,572,539,33
+88065566470,2019-08-05,Gertrud B Glidden,Female,Syracuse,Antone E Angel,Fenard Store,Ben Frech,Cel Ray,Non Alcoholic,14,11,60,840,660,180
+88065566471,2019-08-09,Eldridge B Bose,Male,Troy,Merle N Burrus,Fenard Store,Ben Frech,Oliver Cromwell,Alcoholic,6,3,89,534,267,267
+88065566472,2019-08-08,Lianne M Sweeney,Female,Olean,Twanna Y Manges,Fenard Store,Ben Frech,Boost,Non Alcoholic,13,10,77,1001,770,231
+88065566473,2019-08-08,Tonja E Lenahan,Female,Peekskill,Reatha Q Breazeale,Fenard Store,Ben Frech,Cel Ray,Alcoholic,15,12,68,1020,816,204
+88065566474,2019-08-09,Nathan V Avendano,Male,Port Jervis,Antone E Angel,Fenard Store,Ben Frech,Cazadores Tequila,Alcoholic,20,17,15,300,255,45
+88065566475,2019-08-10,Jamison U Crutchfield,Male,Kingston,Merle N Burrus,Fenard Store,Ben Frech,Oliver Cromwell,Alcoholic,12,9,100,1200,900,300
+88065566476,2019-08-11,Dottie D Hagaman,Female,Little Falls,Twanna Y Manges,Fenard Store,Ben Frech,Boost,Non Alcoholic,16,13,3000,48000,39000,9000
+88065566477,2019-08-12,Myron V Elsea,Male,Lockport,Reatha Q Breazeale,Fenard Store,Ben Frech,Cel Ray,Non Alcoholic,20,17,5000,100000,85000,15000
+88065566478,2019-08-13,Rubin E Confer,Male,Long Beach,Antone E Angel,Fenard Store,Ben Frech,Oliver Cromwell,Alcoholic,12,9,300,3600,2700,900
+88065566479,2019-08-14,Lavada W Maldanado,Female,Middletown,Merle N Burrus,Fenard Store,Ben Frech,Boost,Alcoholic,10,7,2000,20000,14000,6000
+88065566480,2019-08-15,Tony E Keough,Female,Glens Falls,Twanna Y Manges,Fenard Store,Ben Frech,Cel Ray,Non Alcoholic,15,12,600,9000,7200,1800
+88065566481,2019-08-19,Dulce E Grizzard,Female,Hornell ,Reatha Q Breazeale,Fenard Store,Ben Frech,Oliver Cromwell,Alcoholic,15,12,1230,18450,14760,3690
+88065566482,2019-08-18,Devin U Hales,Male,Hudson,Antone E Angel,Fenard Store,Ben Frech,Boost,Non Alcoholic,20,17,900,18000,15300,2700
+88065566483,2019-08-18,Leif Y Harness,Male,Johnstown,Merle N Burrus,Fenard Store,Ben Frech,Cel Ray,Alcoholic,12,9,2390,28680,21510,7170
+88065566484,2019-08-19,Orval Q Olinger,Male,Kingston,Twanna Y Manges,Fenard Store,Ben Frech,Cazadores Tequila,Alcoholic,13,10,10000,130000,100000,30000
+88065566485,2019-08-20,Reanna I Hampton,Female,Port Jervis,Reatha Q Breazeale,Fenard Store,Ben Frech,Oliver Cromwell,Alcoholic,15,12,2300,34500,27600,6900
+88065566486,2019-08-21,Micaela N Buker,Female,New York,Antone E Angel,Fenard Store,Ben Frech,Boost,Non Alcoholic,14,11,7800,109200,85800,23400
+88065566487,2019-08-22,Carmelia E Bergeron,Female,Little Falls,Merle N Burrus,Fenard Store,Ben Frech,Cel Ray,Non Alcoholic,30,27,450,13500,12150,1350
+88065566488,2019-08-23,Elvis J Stroh,Male,Middletown,Twanna Y Manges,Fenard Store,Ben Frech,Oliver Cromwell,Alcoholic,16,13,2000,32000,26000,6000
+88065566489,2019-08-24,Bud L Lofgren,Male,Mount,Reatha Q Breazeale,Fenard Store,Ben Frech,Boost,Alcoholic,9,6,123,1107,738,369
+88065566490,2019-08-25,Conrad R Saito,Male,New York,Antone E Angel,Fenard Store,Ben Frech,Cel Ray,Non Alcoholic,5,2,12903,64515,25806,38709
+88065566491,2019-08-29,Dorothy Q Gard,Female,Salamanca,Merle N Burrus,Fenard Store,Ben Frech,Oliver Cromwell,Alcoholic,18,15,100000,1800000,1500000,300000
+88065566492,2019-08-28,Jayme B Shimer,Female,Springs,Twanna Y Manges,Fenard Store,Ben Frech,Boost,Non Alcoholic,10,7,12000,120000,84000,36000
+88065566493,2019-08-28,Clint Q Strayhorn,Male,Sherrill,Reatha Q Breazeale,Fenard Store,Ben Frech,Cel Ray,Alcoholic,20,17,60,1200,1020,180
+88065566494,2019-08-29,Gertrud B Glidden,Female,Syracuse,Antone E Angel,Fenard Store,Ben Frech,Cazadores Tequila,Alcoholic,70,67,89,6230,5963,267
+88065566495,2019-08-30,Eldridge B Bose,Male,Troy,Merle N Burrus,Fenard Store,Ben Frech,Oliver Cromwell,Alcoholic,15,12,77,1155,924,231
+88065566496,2019-08-31,Lianne M Sweeney,Female,Olean,Twanna Y Manges,Fenard Store,Ben Frech,Boost,Non Alcoholic,12,9,68,816,612,204
+88065566497,2019-09-01,Tonja E Lenahan,Female,Peekskill,Reatha Q Breazeale,Fenard Store,Ben Frech,Cel Ray,Non Alcoholic,18,15,15,270,225,45
+88065566498,2019-09-02,Nathan V Avendano,Male,Port Jervis,Antone E Angel,Fenard Store,Ben Frech,Oliver Cromwell,Alcoholic,23,20,47,1081,940,141
+88065566499,2019-09-03,Jamison U Crutchfield,Male,Kingston,Merle N Burrus,Fenard Store,Ben Frech,Boost,Alcoholic,9,6,6,54,36,18
+88065566500,2019-09-04,Dottie D Hagaman,Female,Little Falls,Twanna Y Manges,Fenard Store,Ben Frech,Cel Ray,Non Alcoholic,18,15,10,180,150,30
+88065566501,2019-09-05,Lynwood Q Durfee,Male,Johnstown,Reatha Q Breazeale,Fenard Store,Ben Frech,Oliver Cromwell,Alcoholic,52,49,11,572,539,33
+88065566502,2019-09-09,Dong B Sturdevant,Male,Kingston,Antone E Angel,Fenard Store,Ben Frech,Boost,Non Alcoholic,9,6,60,540,360,180
+88065566503,2019-09-08,Mandy W Lavalley,Female,Little Falls,Merle N Burrus,Fenard Store,Ben Frech,Cel Ray,Alcoholic,5,2,89,445,178,267
+88065566504,2019-09-08,Kris L Bice,Male,Lockport,Twanna Y Manges,Fenard Store,Ben Frech,Cazadores Tequila,Alcoholic,14,11,77,1078,847,231
+88065566505,2019-09-09,Windy A Dudek,Female,Long Beach,Reatha Q Breazeale,Fenard Store,Ben Frech,Oliver Cromwell,Alcoholic,6,3,68,408,204,204
+88065566506,2019-09-10,Reinaldo G Castellanos,Male,Middletown,Antone E Angel,Fenard Store,Ben Frech,Boost,Non Alcoholic,10,7,15,150,105,45
+88065566507,2019-09-11,Astrid R Marinelli,Female,Mount,Merle N Burrus,Fenard Store,Ben Frech,Cel Ray,Non Alcoholic,13,10,100,1300,1000,300
+88065566508,2019-09-12,Kendrick C Burchette,Male,New York,Twanna Y Manges,Fenard Store,Ben Frech,Oliver Cromwell,Alcoholic,20,17,3000,60000,51000,9000
+88065566509,2019-09-13,Dale E Childers,Female,Newburgh,Reatha Q Breazeale,Fenard Store,Ben Frech,Boost,Alcoholic,15,12,5000,75000,60000,15000
+88065566510,2019-09-14,Reed O Vella,Male,Olean,Antone E Angel,Fenard Store,Ben Frech,Cel Ray,Non Alcoholic,20,17,300,6000,5100,900
+88065566511,2019-09-15,Margarito O Retana,Male,Peekskill,Merle N Burrus,Fenard Store,Ben Frech,Oliver Cromwell,Alcoholic,12,9,2000,24000,18000,6000
+88065566512,2019-09-19,Mervin E Goering,Male,Port Jervis,Twanna Y Manges,Fenard Store,Ben Frech,Boost,Non Alcoholic,16,13,600,9600,7800,1800
+88065566513,2019-09-18,Novella B Osman,Female,Poughkeepsie,Reatha Q Breazeale,Fenard Store,Ben Frech,Cel Ray,Alcoholic,70,67,1230,86100,82410,3690
+88065566514,2019-09-18,Windy S Pharr,Female,Rye ,Antone E Angel,Fenard Store,Ben Frech,Cazadores Tequila,Alcoholic,15,12,900,13500,10800,2700
+88065566515,2019-09-19,Josette R Betancourt,Female,Rome,Merle N Burrus,Fenard Store,Ben Frech,Oliver Cromwell,Alcoholic,16,13,2390,38240,31070,7170
+88065566516,2019-09-20,Aileen F Hiltz,Female,Rochester,Twanna Y Manges,Fenard Store,Ben Frech,Boost,Non Alcoholic,20,17,10000,200000,170000,30000
+88065566517,2019-09-21,Tonia X Silvis,Female,Salamanca,Reatha Q Breazeale,Fenard Store,Ben Frech,Cel Ray,Non Alcoholic,12,9,2300,27600,20700,6900
+88065566518,2019-09-22,Bonny S Poor,Female,Springs,Antone E Angel,Fenard Store,Ben Frech,Oliver Cromwell,Alcoholic,12,9,7800,93600,70200,23400
+88065566519,2019-09-23,Randal J Kahle,Male,Sherrill,Merle N Burrus,Fenard Store,Ben Frech,Boost,Alcoholic,18,15,450,8100,6750,1350
+88065566520,2019-09-24,Sylvester M Harmer,Male,Syracuse,Twanna Y Manges,Fenard Store,Ben Frech,Cel Ray,Non Alcoholic,10,7,2000,20000,14000,6000
+88065566521,2019-09-25,Britt P Shivers,Male,Troy,Reatha Q Breazeale,Fenard Store,Ben Frech,Oliver Cromwell,Alcoholic,15,12,123,1845,1476,369
+88065566522,2019-09-29,Clarence J Hinkson,Male,Watertown,Antone E Angel,Fenard Store,Ben Frech,Boost,Non Alcoholic,15,12,12903,193545,154836,38709
+88065566523,2019-09-28,Vaughn N Garica,Male,Watervliet,Merle N Burrus,Fenard Store,Ben Frech,Cel Ray,Alcoholic,23,20,100000,2300000,2000000,300000
+88065566524,2019-09-28,Georgiann C Harrell,Female,Yakers,Twanna Y Manges,Fenard Store,Ben Frech,Cazadores Tequila,Alcoholic,9,6,12000,108000,72000,36000
+88065566525,2019-09-29,Candelaria Q Zajicek,Female,New York,Reatha Q Breazeale,Fenard Store,Ben Frech,Oliver Cromwell,Alcoholic,18,15,60,1080,900,180
+88065566526,2019-09-30,Nathan V Avendano,Male,Port Jervis,Antone E Angel,Fenard Store,Ben Frech,Boost,Non Alcoholic,14,11,89,1246,979,267
+88065566527,2019-09-20,Jamison U Crutchfield,Male,Kingston,Merle N Burrus,Fenard Store,Ben Frech,Cel Ray,Non Alcoholic,30,27,77,2310,2079,231
+88065566528,2019-09-21,Dottie D Hagaman,Female,Little Falls,Twanna Y Manges,Fenard Store,Ben Frech,Oliver Cromwell,Alcoholic,16,13,68,1088,884,204
+88065566529,2019-09-22,Lynwood Q Durfee,Male,Johnstown,Reatha Q Breazeale,Fenard Store,Ben Frech,Boost,Alcoholic,52,49,15,780,735,45
+88065566530,2019-09-23,Dong B Sturdevant,Male,Kingston,Antone E Angel,Fenard Store,Ben Frech,Cel Ray,Non Alcoholic,14,11,47,658,517,141
+88065566531,2019-09-24,Mandy W Lavalley,Female,Little Falls,Merle N Burrus,Fenard Store,Ben Frech,Oliver Cromwell,Alcoholic,6,3,6,36,18,18
+88065566532,2019-09-25,Kris L Bice,Male,Lockport,Twanna Y Manges,Fenard Store,Ben Frech,Boost,Non Alcoholic,13,10,10,130,100,30
+88065566533,2019-09-29,Windy A Dudek,Female,Long Beach,Reatha Q Breazeale,Fenard Store,Ben Frech,Cel Ray,Alcoholic,15,12,11,165,132,33
+88065566534,2019-09-28,Reinaldo G Castellanos,Male,Middletown,Antone E Angel,Fenard Store,Ben Frech,Cazadores Tequila,Alcoholic,20,17,60,1200,1020,180
+88065566535,2019-09-28,Astrid R Marinelli,Female,Mount,Merle N Burrus,Fenard Store,Ben Frech,Oliver Cromwell,Alcoholic,12,9,89,1068,801,267
+88065566536,2019-09-29,Kendrick C Burchette,Male,New York,Twanna Y Manges,Fenard Store,Ben Frech,Boost,Non Alcoholic,16,13,77,1232,1001,231
+88065566537,2019-09-30,Julio P Bryce,Male,Hempstead,Reatha Q Breazeale,Fenard Store,Ben Frech,Cel Ray,Non Alcoholic,20,17,68,1360,1156,204
+88065566538,2019-08-01,Lyla Q Donald,Female,Brookhaven,Antone E Angel,Fenard Store,Ben Frech,Oliver Cromwell,Alcoholic,12,9,15,180,135,45
+88065566539,2019-08-02,Ed X Shockley,Male,Glen Cove,Merle N Burrus,Fenard Store,Ben Frech,Boost,Alcoholic,10,7,100,1000,700,300
+88065566540,2019-08-03,Christene F Blakemore,Female,Glens Falls,Twanna Y Manges,Fenard Store,Ben Frech,Cel Ray,Non Alcoholic,15,12,3000,45000,36000,9000
+88065566541,2019-08-04,Joanna H Deforest,Female,Hornell ,Reatha Q Breazeale,Fenard Store,Ben Frech,Oliver Cromwell,Alcoholic,15,12,5000,75000,60000,15000
+88065566542,2019-08-05,Tad V Laster,Male,Hudson,Antone E Angel,Fenard Store,Ben Frech,Boost,Non Alcoholic,20,17,300,6000,5100,900
+88065566543,2019-08-09,Mirtha X Herzig,Female,Johnstown,Merle N Burrus,Fenard Store,Ben Frech,Cel Ray,Alcoholic,12,9,2000,24000,18000,6000
+88065566544,2019-08-08,Taylor O Thill,Male,Kingston,Twanna Y Manges,Fenard Store,Ben Frech,Cazadores Tequila,Alcoholic,13,10,600,7800,6000,1800
+88065566545,2019-08-08,Nathan V Avendano,Male,Port Jervis,Reatha Q Breazeale,Fenard Store,Ben Frech,Oliver Cromwell,Alcoholic,15,12,1230,18450,14760,3690
+88065566546,2019-08-09,Jamison U Crutchfield,Male,Kingston,Antone E Angel,Fenard Store,Ben Frech,Boost,Non Alcoholic,14,11,900,12600,9900,2700
+88065566547,2019-08-10,Dottie D Hagaman,Female,Little Falls,Merle N Burrus,Fenard Store,Ben Frech,Cel Ray,Non Alcoholic,30,27,2390,71700,64530,7170
+88065566548,2019-08-11,Lynwood Q Durfee,Male,Johnstown,Twanna Y Manges,Fenard Store,Ben Frech,Oliver Cromwell,Alcoholic,16,13,10000,160000,130000,30000
+88065566549,2019-08-12,Dong B Sturdevant,Male,Kingston,Reatha Q Breazeale,Fenard Store,Ben Frech,Boost,Alcoholic,9,6,2300,20700,13800,6900
+88065566550,2019-08-13,Mandy W Lavalley,Female,Little Falls,Antone E Angel,Fenard Store,Ben Frech,Cel Ray,Non Alcoholic,5,2,7800,39000,15600,23400
+88065566551,2019-08-14,Kris L Bice,Male,Lockport,Merle N Burrus,Fenard Store,Ben Frech,Oliver Cromwell,Alcoholic,18,15,450,8100,6750,1350
+88065566552,2019-08-15,Windy A Dudek,Female,Long Beach,Twanna Y Manges,Fenard Store,Ben Frech,Boost,Non Alcoholic,10,7,2000,20000,14000,6000
+88065566553,2019-08-19,Reinaldo G Castellanos,Male,Middletown,Reatha Q Breazeale,Fenard Store,Ben Frech,Cel Ray,Alcoholic,20,17,123,2460,2091,369
+88065566554,2019-08-18,Astrid R Marinelli,Female,Mount,Antone E Angel,Fenard Store,Ben Frech,Cazadores Tequila,Alcoholic,70,67,12903,903210,864501,38709
+88065566555,2019-08-18,Kendrick C Burchette,Male,New York,Merle N Burrus,Fenard Store,Ben Frech,Oliver Cromwell,Alcoholic,15,12,100000,1500000,1200000,300000
+88065566556,2019-08-19,Kirstie W Macey,Female,Olean,Twanna Y Manges,Fenard Store,Ben Frech,Boost,Non Alcoholic,12,9,12000,144000,108000,36000
+88065566557,2019-08-20,Heriberto Y Starkey,Male,Peekskill,Reatha Q Breazeale,Fenard Store,Ben Frech,Cel Ray,Non Alcoholic,18,15,60,1080,900,180
+88065566558,2019-08-21,Sherryl B Raker,Female,Port Jervis,Antone E Angel,Fenard Store,Ben Frech,Oliver Cromwell,Alcoholic,23,20,89,2047,1780,267
+88065566559,2019-08-22,Dion K Taylor,Male,Kingston,Merle N Burrus,Fenard Store,Ben Frech,Boost,Alcoholic,9,6,77,693,462,231
+88065566560,2019-08-23,Kenton Q Villalta,Male,Little Falls,Twanna Y Manges,Fenard Store,Ben Frech,Cel Ray,Non Alcoholic,18,15,68,1224,1020,204
+88065566561,2019-08-24,Johnie V Centers,Male,Lockport,Reatha Q Breazeale,Fenard Store,Ben Frech,Oliver Cromwell,Alcoholic,52,49,15,780,735,45
+88065566562,2019-08-25,Vasiliki E Thoman,Female,Long Beach,Antone E Angel,Fenard Store,Ben Frech,Boost,Non Alcoholic,9,6,47,423,282,141
+88065566563,2019-08-29,Desirae D Ginn,Female,Middletown,Merle N Burrus,Fenard Store,Ben Frech,Cel Ray,Alcoholic,5,2,6,30,12,18
+88065566564,2019-08-28,Elroy N Kimbler,Male,Watervliet,Twanna Y Manges,Fenard Store,Ben Frech,Cazadores Tequila,Alcoholic,14,11,10,140,110,30
+88065566565,2019-08-28,Nathan V Avendano,Male,Port Jervis,Reatha Q Breazeale,Fenard Store,Ben Frech,Oliver Cromwell,Alcoholic,6,3,11,66,33,33
+88065566566,2019-08-29,Jamison U Crutchfield,Male,Kingston,Antone E Angel,Fenard Store,Ben Frech,Boost,Non Alcoholic,10,7,60,600,420,180
+88065566567,2019-08-30,Dottie D Hagaman,Female,Little Falls,Merle N Burrus,Fenard Store,Ben Frech,Cel Ray,Non Alcoholic,13,10,89,1157,890,267
+88065566568,2019-08-31,Lynwood Q Durfee,Male,Johnstown,Twanna Y Manges,Fenard Store,Ben Frech,Oliver Cromwell,Alcoholic,20,17,77,1540,1309,231
+88065566569,2019-08-01,Dong B Sturdevant,Male,Kingston,Reatha Q Breazeale,Fenard Store,Ben Frech,Boost,Alcoholic,15,12,68,1020,816,204
+88065566570,2019-08-02,Mandy W Lavalley,Female,Little Falls,Antone E Angel,Fenard Store,Ben Frech,Cel Ray,Non Alcoholic,20,17,15,300,255,45
+88065566571,2019-08-03,Kris L Bice,Male,Lockport,Merle N Burrus,Fenard Store,Ben Frech,Oliver Cromwell,Alcoholic,12,9,100,1200,900,300
+88065566572,2019-08-04,Windy A Dudek,Female,Long Beach,Twanna Y Manges,Fenard Store,Ben Frech,Boost,Non Alcoholic,16,13,3000,48000,39000,9000
+88065566573,2019-08-05,Reinaldo G Castellanos,Male,Middletown,Reatha Q Breazeale,Fenard Store,Ben Frech,Cel Ray,Alcoholic,70,67,5000,350000,335000,15000
+88065566574,2019-08-09,Astrid R Marinelli,Female,Mount,Antone E Angel,Fenard Store,Ben Frech,Cazadores Tequila,Alcoholic,15,12,300,4500,3600,900
+88065566575,2019-08-08,Kendrick C Burchette,Male,New York,Merle N Burrus,Fenard Store,Ben Frech,Oliver Cromwell,Alcoholic,16,13,2000,32000,26000,6000
+88065566576,2019-08-08,Crystal U Comes,Female,Beacon,Twanna Y Manges,Fenard Store,Ben Frech,Boost,Non Alcoholic,20,17,600,12000,10200,1800
+88065566577,2019-08-09,Iliana M Fogle,Female,Choes,Reatha Q Breazeale,Fenard Store,Ben Frech,Cel Ray,Non Alcoholic,12,9,1230,14760,11070,3690
+88065566578,2019-08-10,Ben U Gigliotti,Male,Fulton,Antone E Angel,Fenard Store,Ben Frech,Oliver Cromwell,Alcoholic,12,9,900,10800,8100,2700
+88065566579,2019-08-11,Theresa R Fitzmaurice,Female,Geneva,Merle N Burrus,Fenard Store,Ben Frech,Boost,Alcoholic,18,15,2390,43020,35850,7170
+88065566580,2019-08-12,Almeda M Dunford,Female,Elmira,Twanna Y Manges,Fenard Store,Ben Frech,Cel Ray,Non Alcoholic,10,7,10000,100000,70000,30000
+88065566581,2019-08-13,Melida R Corle,Female,Glen Cove,Reatha Q Breazeale,Fenard Store,Ben Frech,Oliver Cromwell,Alcoholic,15,12,2300,34500,27600,6900
+88065566582,2019-08-14,Armando H Seaborn,Male,Glens Falls,Antone E Angel,Fenard Store,Ben Frech,Boost,Non Alcoholic,15,12,7800,117000,93600,23400
+88065566583,2019-08-15,Efrain L Wass,Male,Hornell ,Merle N Burrus,Fenard Store,Ben Frech,Cel Ray,Alcoholic,23,20,450,10350,9000,1350
+88065566584,2019-08-19,Edra M Guthrie,Female,Hudson,Twanna Y Manges,Fenard Store,Ben Frech,Cazadores Tequila,Alcoholic,9,6,2000,18000,12000,6000
+88065566585,2019-08-18,Harland S Renshaw,Male,Johnstown,Reatha Q Breazeale,Fenard Store,Ben Frech,Oliver Cromwell,Alcoholic,18,15,123,2214,1845,369
+88065566586,2019-08-18,Leroy H Styron,Male,Kingston,Antone E Angel,Fenard Store,Ben Frech,Boost,Non Alcoholic,14,11,12903,180642,141933,38709
+88065566587,2019-08-19,Maryln H Springfield,Female,Little Falls,Merle N Burrus,Fenard Store,Ben Frech,Cel Ray,Non Alcoholic,30,27,100000,3000000,2700000,300000
+88065566588,2019-08-20,Elenora S Whitehill,Female,Lockport,Twanna Y Manges,Fenard Store,Ben Frech,Oliver Cromwell,Alcoholic,16,13,12000,192000,156000,36000
+88065566589,2019-08-21,Izola E Ye,Female,Long Beach,Reatha Q Breazeale,Fenard Store,Ben Frech,Boost,Alcoholic,52,49,60,3120,2940,180
+88065566590,2019-08-22,Dorethea U Engram,Female,Middletown,Antone E Angel,Fenard Store,Ben Frech,Cel Ray,Non Alcoholic,14,11,89,1246,979,267
+88065566591,2019-08-23,Anibal F Pieper,Male,Mount,Merle N Burrus,Fenard Store,Ben Frech,Oliver Cromwell,Alcoholic,6,3,77,462,231,231
+88065566592,2019-08-24,Ula W Hartl,Female,New York,Twanna Y Manges,Fenard Store,Ben Frech,Boost,Non Alcoholic,13,10,68,884,680,204
+88065566593,2019-08-25,Latanya C Law,Female,Newburgh,Reatha Q Breazeale,Fenard Store,Ben Frech,Cel Ray,Alcoholic,15,12,15,225,180,45
+88065566594,2019-08-29,Brent U Perlman,Male,Olean,Antone E Angel,Fenard Store,Ben Frech,Cazadores Tequila,Alcoholic,20,17,47,940,799,141
+88065566595,2019-08-28,Eveline B Strecker,Female,Peekskill,Merle N Burrus,Fenard Store,Ben Frech,Oliver Cromwell,Alcoholic,12,9,6,72,54,18
+88065566596,2019-08-28,Keila A Lucas,Female,Port Jervis,Twanna Y Manges,Fenard Store,Ben Frech,Boost,Non Alcoholic,16,13,10,160,130,30
+88065566597,2019-08-29,Aliza X Sammons,Female,Poughkeepsie,Reatha Q Breazeale,Fenard Store,Ben Frech,Cel Ray,Non Alcoholic,20,17,11,220,187,33
+88065566598,2019-08-30,Bennie E Manfredi,Male,Rye ,Antone E Angel,Fenard Store,Ben Frech,Oliver Cromwell,Alcoholic,12,9,60,720,540,180
+88065566599,2019-08-31,Lucinda Z Borton,Female,Rome,Merle N Burrus,Fenard Store,Ben Frech,Boost,Alcoholic,10,7,89,890,623,267
+88065566600,2019-09-01,Keila F Lofland,Female,Rochester,Twanna Y Manges,Fenard Store,Ben Frech,Cel Ray,Non Alcoholic,15,12,77,1155,924,231
+88065566601,2019-09-02,Royce K Goodwyn,Female,Salamanca,Reatha Q Breazeale,Fenard Store,Ben Frech,Oliver Cromwell,Alcoholic,15,12,68,1020,816,204
+88065566602,2019-09-03,Rickey I Delk,Male,Springs,Antone E Angel,Fenard Store,Ben Frech,Boost,Non Alcoholic,20,17,15,300,255,45
+88065566603,2019-09-04,Delsie R Tennison,Female,Sherrill,Merle N Burrus,Fenard Store,Ben Frech,Cel Ray,Alcoholic,12,9,100,1200,900,300
+88065566604,2019-09-05,Jayme B Shimer,Female,Syracuse,Twanna Y Manges,Fenard Store,Ben Frech,Cazadores Tequila,Alcoholic,13,10,3000,39000,30000,9000
+88065566605,2019-09-09,Gilbert M Wolfgram,Male,Troy,Reatha Q Breazeale,Fenard Store,Ben Frech,Oliver Cromwell,Alcoholic,15,12,5000,75000,60000,15000
+88065566606,2019-09-08,Isabella X Russell,Female,Watertown,Antone E Angel,Fenard Store,Ben Frech,Boost,Non Alcoholic,14,11,300,4200,3300,900
+88065566607,2019-09-08,Rueben X Pidgeon,Male,Watervliet,Merle N Burrus,Fenard Store,Ben Frech,Cel Ray,Non Alcoholic,30,27,2000,60000,54000,6000
+88065566608,2019-09-09,Raymond U Flavin,Male,Yakers,Antone E Angel,Fenard Store,Ben Frech,Oliver Cromwell,Alcoholic,16,13,600,9600,7800,1800
+88065566609,2019-09-10,Larry K Mash,Male,New York,Merle N Burrus,Fenard Store,Ben Frech,Boost,Alcoholic,9,6,1230,11070,7380,3690
+88065566610,2019-09-11,Nicolle A Crothers,Female,Hempstead,Antone E Angel,Fenard Store,Ben Frech,Cel Ray,Non Alcoholic,5,2,900,4500,1800,2700
+88065566611,2019-09-12,Gustavo F Rouse,Male,Brookhaven,Merle N Burrus,Fenard Store,Ben Frech,Oliver Cromwell,Alcoholic,18,15,2390,43020,35850,7170
+88065566612,2019-09-13,Victoria H Musson,Female,Islip,Antone E Angel,Fenard Store,Ben Frech,Boost,Non Alcoholic,10,7,10000,100000,70000,30000
