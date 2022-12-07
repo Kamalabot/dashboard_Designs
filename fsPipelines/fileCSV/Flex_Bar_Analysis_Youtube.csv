@@ -1,0 +1,1259 @@
+ID,Date,Customer,Gender,City,Sales_Rep,Store,Supervisor,Manager,Product,Category,Price,Cost,Qty,Total_Sales,COGS,Gross_Profit,Column2,Month
+88065565355,44081,Mumin Yusha,Male,Little Falls,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Oliver Cromwell,Alcoholic,52,49,60,3120,2940,180,9,August
+88065565356,44095,Cordia M Knopp,Female,Auburn,Merle N Burrus,Uptown Store,Josef I Sergent,Amir Yusha,Boost,Non Alcoholic,9,6,89,801,534,267,9,August
+88065565357,44096,Burton C Jin,Male,Betavia,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Cel Ray,Non Alcoholic,5,2,77,385,154,231,9,August
+88065565358,44103,Femi Grek,Male,Beacon,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Oliver Cromwell,Alcoholic,14,11,68,952,748,204,9,August
+88065565359,44098,Femi Grek,Male,Beacon,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Boost,Alcoholic,6,3,15,90,45,45,9,August
+88065565360,44099,Femi Grek,Male,Beacon,Merle N Burrus,Main Street,Josef I Sergent,Amir Yusha,Cel Ray,Non Alcoholic,10,7,47,470,329,141,9,August
+88065565361,44103,Hugh N Chavira,Male,Geneva,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Oliver Cromwell,Alcoholic,13,10,6,78,60,18,9,August
+88065565362,44102,Lucius C Moorhead,Male,Elmira,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Boost,Non Alcoholic,20,17,10,200,170,30,9,August
+88065565363,44102,Deane I Keown,Male,Glen Cove,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Cel Ray,Alcoholic,15,12,11,165,132,33,9,August
+88065565364,44103,Joannie E Wolters,Female,Glens Falls,Merle N Burrus,Uptown Store,Josef I Sergent,Amir Yusha,Cazadores Tequila,Alcoholic,20,17,60,1200,1020,180,9,August
+88065565365,44104,Christene L Mccaleb,Female,Hornell ,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Benchmark Bourbon,Alcoholic,12,9,89,1068,801,267,9,August
+88065565366,44044,Alline V Kushner,Female,Hudson,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Janie Stewart,Alcoholic,16,13,77,1232,1001,231,8,Sept
+88065565367,44045,Femi Grek,Male,Beacon,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Date Shake,Non Alcoholic,70,67,68,4760,4556,204,8,Sept
+88065565368,44046,Femi Grek,Male,Beacon,Merle N Burrus,Main Street,Josef I Sergent,Amir Yusha,Dr. Enuf,Non Alcoholic,15,12,15,225,180,45,8,Sept
+88065565369,44047,Femi Grek,Male,Beacon,Twanna Y Manges,Main Street,Reatha O Hansford,Amir Yusha,Janie Stewart,Alcoholic,16,13,47,752,611,141,8,Sept
+88065565370,44048,Femi Grek,Male,Beacon,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Speyburn Bradan,Alcoholic,20,17,6,120,102,18,8,Sept
+88065565371,44052,Femi Grek,Male,Beacon,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Uv Blue,Alcoholic,12,9,10,120,90,30,8,Sept
+88065565372,44051,Femi Grek,Male,Beacon,Merle N Burrus,Main Street,Josef I Sergent,Amir Yusha,Dr. Nut,Non Alcoholic,12,9,11,132,99,33,8,Sept
+88065565373,44051,Lala C Marquez,Female,Mount,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Egg Cream,Non Alcoholic,18,15,60,1080,900,180,8,Sept
+88065565374,44052,Derick A Macey,Male,New York,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Burnett's,Alcoholic,10,7,89,890,623,267,8,Sept
+88065565375,44053,Eda O Brase,Female,Newburgh,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Smirnoff,Alcoholic,15,12,77,1155,924,231,8,Sept
+88065565376,44054,Willis D Weissman,Male,Olean,Merle N Burrus,Uptown Store,Josef I Sergent,Amir Yusha,Fireball,Alcoholic,15,12,68,1020,816,204,8,Sept
+88065565377,44055,Mariam F Pinheiro,Female,Peekskill,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Faygo,Non Alcoholic,23,20,15,345,300,45,8,Sept
+88065565378,44056,Malcom L Meister,Male,Port Jervis,Merle N Burrus,Uptown Store,Josef I Sergent,Amir Yusha,Green River,Non Alcoholic,9,6,47,423,282,141,8,Sept
+88065565379,44057,Holli G Ethridge,Female,Poughkeepsie,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Ironport,Non Alcoholic,18,15,6,108,90,18,8,Sept
+88065565380,44058,Cole N Poling,Male,Rye ,Merle N Burrus,Uptown Store,Josef I Sergent,Amir Yusha,Suedka,Alcoholic,14,11,10,140,110,30,8,Sept
+88065565381,44062,Ahmad V Lynde,Male,Rome,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Apple Beer,Alcoholic,30,27,11,330,297,33,8,Sept
+88065565382,44061,Mariano F Leary,Male,Rochester,Merle N Burrus,Uptown Store,Josef I Sergent,Amir Yusha,Birch Beer,Alcoholic,16,13,60,960,780,180,8,Sept
+88065565383,44061,Tawanda E Buchanon,Female,Salamanca,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Oliver Cromwell,Alcoholic,52,49,89,4628,4361,267,8,Sept
+88065565384,44062,Nickolas G Grossi,Male,Springs,Merle N Burrus,Uptown Store,Josef I Sergent,Amir Yusha,Degrees Vodka,Alcoholic,14,11,77,1078,847,231,8,Sept
+88065565385,44063,Bradford K Marlatt,Male,Sherrill,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,St. Amdr Cabernet,Alcoholic,6,3,68,408,204,204,8,Sept
+88065565386,44064,Carlton P Bose,Male,Syracuse,Merle N Burrus,Uptown Store,Josef I Sergent,Amir Yusha,Nake Turtle,Alcoholic,13,10,15,195,150,45,8,Sept
+88065565387,44065,Asuncion X Braunstein,Female,Troy,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Gallo XO,Alcoholic,15,12,47,705,564,141,8,Sept
+88065565388,44066,Theron T Kramer,Male,Watertown,Merle N Burrus,Uptown Store,Josef I Sergent,Amir Yusha,Cazadores Tequila,Alcoholic,20,17,6,120,102,18,8,Sept
+88065565389,44067,Jeramy F Metoyer,Male,Watervliet,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Benchmark Bourbon,Alcoholic,12,9,10,120,90,30,8,Sept
+88065565390,44068,Sol K Roger,Female,Yakers,Merle N Burrus,Uptown Store,Josef I Sergent,Amir Yusha,Janie Stewart,Alcoholic,16,13,11,176,143,33,8,Sept
+88065565391,44072,Earnest H Birkholz,Male,New York,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Speyburn Bradan,Alcoholic,20,17,60,1200,1020,180,8,Sept
+88065565392,44071,Amada J Knouse,Female,Hempstead,Merle N Burrus,Uptown Store,Josef I Sergent,Amir Yusha,Uv Blue,Alcoholic,12,9,89,1068,801,267,8,Sept
+88065565393,44071,Gregorio H Hottinger,Male,Brookhaven,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Burnett's,Alcoholic,10,7,77,770,539,231,8,Sept
+88065565394,44072,Lawerence W Abernethy,Male,Islip,Merle N Burrus,Uptown Store,Josef I Sergent,Amir Yusha,Smirnoff,Alcoholic,15,12,68,1020,816,204,8,Sept
+88065565395,44073,Marina X Quayle,Female,Babylon,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Fireball,Alcoholic,15,12,15,225,180,45,8,Sept
+88065565396,44074,Whitney N Wasinger,Male,Albany,Merle N Burrus,Uptown Store,Josef I Sergent,Amir Yusha,Jose Cuervo,Alcoholic,20,17,47,940,799,141,8,Sept
+88065565397,44044,Roy W Wilkie,Male,Auburn,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Agavales,Alcoholic,12,9,6,72,54,18,8,Sept
+88065565398,44045,Hyun Z Bynoe,Female,Betavia,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Pinnacle,Alcoholic,13,10,10,130,100,30,8,Sept
+88065565399,44046,Katelin F Coney,Female,Beacon,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Bacardi Rum,Alcoholic,15,12,11,165,132,33,8,Sept
+88065565400,44047,Jennifer Z Pridgen,Female,Elmira,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Suedka,Alcoholic,14,11,60,840,660,180,8,Sept
+88065565401,44048,Zachary U Breeden,Male,Glen Cove,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Apple Beer,Alcoholic,30,27,89,2670,2403,267,8,Sept
+88065565402,44052,Deon U Mounce,Male,New York,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Birch Beer,Alcoholic,16,13,77,1232,1001,231,8,Sept
+88065565403,44051,Buddy G Steinbeck,Male,Hempstead,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Boost,Non Alcoholic,9,6,68,612,408,204,8,Sept
+88065565404,44051,Julius N Bakker,Male,Brookhaven,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Cel Ray,Non Alcoholic,5,2,15,75,30,45,8,Sept
+88065565405,44052,Hans G Koh,Male,Glen Cove,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Cheerwine,Non Alcoholic,18,15,47,846,705,141,8,Sept
+88065565406,44053,Jamal G Dimarco,Male,Glens Falls,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Chicory Coffee,Non Alcoholic,10,7,6,60,42,18,8,Sept
+88065565407,44054,Stephan Q Ranger,Male,Hornell ,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Coffee Milk,Non Alcoholic,20,17,10,200,170,30,8,Sept
+88065565408,44055,Jackie P Montague,Male,Hudson,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Date Shake,Non Alcoholic,70,67,11,770,737,33,8,Sept
+88065565409,44056,Nathanael W Ohl,Male,Johnstown,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Dr. Enuf,Non Alcoholic,15,12,60,900,720,180,8,Sept
+88065565410,44057,Hosea B Michelson,Male,Kingston,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Dr. Nut,Non Alcoholic,12,9,89,1068,801,267,8,Sept
+88065565411,44058,Carly L Sirianni,Female,Little Falls,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Egg Cream,Non Alcoholic,18,15,77,1386,1155,231,8,Sept
+88065565412,44062,Abram S Manrique,Male,Lockport,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Faygo,Non Alcoholic,23,20,68,1564,1360,204,8,Sept
+88065565413,44061,Mica Z Herzberg,Female,Long Beach,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Green River,Non Alcoholic,9,6,15,135,90,45,8,Sept
+88065565414,44061,Lemuel W Hardman,Male,Middletown,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Ironport,Non Alcoholic,18,15,47,846,705,141,8,Sept
+88065565415,44062,Shanelle Z Hick,Female,Mount,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Oliver Cromwell,Alcoholic,52,49,6,312,294,18,8,Sept
+88065565416,44063,Maryellen H Hartness,Female,New York,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Boost,Non Alcoholic,9,6,10,90,60,30,8,Sept
+88065565417,44064,Sylvester Z Blackledge,Male,Salamanca,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Cel Ray,Non Alcoholic,5,2,11,55,22,33,8,Sept
+88065565418,44065,Vivienne X Binion,Female,Springs,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Degrees Vodka,Alcoholic,14,11,60,840,660,180,8,Sept
+88065565419,44066,Ahmed C Minch,Male,Sherrill,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,St. Amdr Cabernet,Alcoholic,6,3,89,534,267,267,8,Sept
+88065565420,44067,Leopoldo U Hole,Male,Syracuse,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Chicory Coffee,Non Alcoholic,10,7,77,770,539,231,8,Sept
+88065565421,44068,Gemma I Chilton,Female,Troy,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Nake Turtle,Alcoholic,13,10,68,884,680,204,8,Sept
+88065565422,44072,Laurence K Ryles,Male,Olean,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Coffee Milk,Non Alcoholic,20,17,15,300,255,45,8,Sept
+88065565423,44071,Eleanor D Dickson,Female,Peekskill,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Gallo XO,Alcoholic,15,12,47,705,564,141,8,Sept
+88065565424,44071,Elsy B Latta,Female,Port Jervis,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Cazadores Tequila,Alcoholic,20,17,6,120,102,18,8,Sept
+88065565425,44072,Sherwood K Shire,Male,Kingston,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Benchmark Bourbon,Alcoholic,12,9,10,120,90,30,8,Sept
+88065565426,44073,Carolynn V Moynihan,Female,Little Falls,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Janie Stewart,Alcoholic,16,13,11,176,143,33,8,Sept
+88065565427,44074,Mckinley H Scofield,Male,Lockport,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Date Shake,Non Alcoholic,70,67,60,4200,4020,180,8,Sept
+88065565428,44075,Brendon V Crowther,Male,Long Beach,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Dr. Enuf,Non Alcoholic,15,12,89,1335,1068,267,9,August
+88065565429,44076,Nancy V Trogdon,Female,Middletown,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Janie Stewart,Alcoholic,16,13,77,1232,1001,231,9,August
+88065565430,44077,Darin U Shipp,Male,Watervliet,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Speyburn Bradan,Alcoholic,20,17,68,1360,1156,204,9,August
+88065565431,44078,Joel S Maine,Male,Yakers,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Uv Blue,Alcoholic,12,9,15,180,135,45,9,August
+88065565432,44079,Luciana N Campfield,Female,New York,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Dr. Nut,Non Alcoholic,12,9,47,564,423,141,9,August
+88065565433,44083,Gilbert Z Bloss,Male,Hempstead,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Egg Cream,Non Alcoholic,18,15,6,108,90,18,9,August
+88065565434,44082,Sharda W Choudhury,Female,New York,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Burnett's,Alcoholic,10,7,10,100,70,30,9,August
+88065565435,44082,Chung J Moynihan,Male,Hempstead,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Smirnoff,Alcoholic,15,12,11,165,132,33,9,August
+88065565436,44083,Dayna M Edmondson,Female,Brookhaven,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Fireball,Alcoholic,15,12,60,900,720,180,9,August
+88065565437,44084,Bobbie S Miner,Female,Islip,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Faygo,Non Alcoholic,23,20,89,2047,1780,267,9,August
+88065565438,44085,Gidget X Loring,Female,Babylon,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Green River,Non Alcoholic,9,6,77,693,462,231,9,August
+88065565439,44086,Hettie S Lauber,Female,Albany,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Ironport,Non Alcoholic,18,15,68,1224,1020,204,9,August
+88065565440,44087,Toi F Stallard,Female,Auburn,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Suedka,Alcoholic,14,11,15,210,165,45,9,August
+88065565441,44088,Tristan L Cockrell,Female,Betavia,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Apple Beer,Alcoholic,30,27,47,1410,1269,141,9,August
+88065565442,44089,Towanda H Matson,Female,Beacon,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Birch Beer,Alcoholic,16,13,6,96,78,18,9,August
+88065565443,44093,Leland C Fifield,Male,Choes,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Oliver Cromwell,Alcoholic,52,49,10,520,490,30,9,August
+88065565444,44092,Audria W Barrios,Female,Fulton,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Degrees Vodka,Alcoholic,14,11,11,154,121,33,9,August
+88065565445,44092,Jim J Lurie,Male,Geneva,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,St. Amdr Cabernet,Alcoholic,6,3,60,360,180,180,9,August
+88065565446,44093,Lorette Y Petrillo,Female,Elmira,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Nake Turtle,Alcoholic,13,10,89,1157,890,267,9,August
+88065565447,44094,Damian X Grist,Male,Glen Cove,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Gallo XO,Alcoholic,15,12,77,1155,924,231,9,August
+88065565448,44095,Zana G Ordonez,Female,Glens Falls,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Cazadores Tequila,Alcoholic,20,17,68,1360,1156,204,9,August
+88065565449,44096,Rhett A Chapple,Male,Hornell ,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Benchmark Bourbon,Alcoholic,12,9,15,180,135,45,9,August
+88065565450,44097,Jeneva Y Bybee,Female,Hudson,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Janie Stewart,Alcoholic,16,13,47,752,611,141,9,August
+88065565451,44098,Brendon J Camp,Male,Johnstown,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Speyburn Bradan,Alcoholic,20,17,6,120,102,18,9,August
+88065565452,44099,Nettie T Mccandless,Female,Kingston,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Uv Blue,Alcoholic,12,9,10,120,90,30,9,August
+88065565453,44103,Lezlie Z Bohannan,Female,Little Falls,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Burnett's,Alcoholic,10,7,11,110,77,33,9,August
+88065565454,44102,Hester B Cabana,Female,Lockport,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Smirnoff,Alcoholic,15,12,60,900,720,180,9,August
+88065565455,44102,Isobel K Dance,Female,Long Beach,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Fireball,Alcoholic,15,12,89,1335,1068,267,9,August
+88065565456,44103,Erica S Harlan,Female,Middletown,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Jose Cuervo,Alcoholic,20,17,77,1540,1309,231,9,August
+88065565457,44104,Leda X Haskell,Female,Mount,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Agavales,Alcoholic,12,9,68,816,612,204,9,August
+88065565458,44094,Loralee V Ball,Female,New York,Merle N Burrus,Uptown Store,Josef I Sergent,Amir Yusha,Pinnacle,Alcoholic,13,10,15,195,150,45,9,August
+88065565459,44095,Otha T Orrell,Male,Newburgh,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Bacardi Rum,Alcoholic,15,12,47,705,564,141,9,August
+88065565460,44096,Honey D Eaves,Female,Olean,Merle N Burrus,Uptown Store,Josef I Sergent,Amir Yusha,Suedka,Alcoholic,14,11,6,84,66,18,9,August
+88065565461,44097,Ellis V Mcneel,Male,Peekskill,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Apple Beer,Alcoholic,30,27,10,300,270,30,9,August
+88065565462,44098,Gabriel S Beale,Male,Port Jervis,Merle N Burrus,Uptown Store,Josef I Sergent,Amir Yusha,Birch Beer,Alcoholic,16,13,11,176,143,33,9,August
+88065565463,44099,Nathanael G Mcmillin,Male,Poughkeepsie,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Boost,Non Alcoholic,9,6,60,540,360,180,9,August
+88065565464,44103,Donald H Mazur,Male,Rye ,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Cel Ray,Non Alcoholic,5,2,89,445,178,267,9,August
+88065565465,44102,Eliz R Linneman,Female,Rome,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Cheerwine,Non Alcoholic,18,15,77,1386,1155,231,9,August
+88065565466,44102,Gracie P Lett,Female,Rochester,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Chicory Coffee,Non Alcoholic,10,7,68,680,476,204,9,August
+88065565467,44103,Gema S Grover,Female,Salamanca,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Coffee Milk,Non Alcoholic,20,17,15,300,255,45,9,August
+88065565468,44104,Delana Y Freedman,Female,Springs,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Date Shake,Non Alcoholic,70,67,47,3290,3149,141,9,August
+88065565469,44044,Mary Y Tate,Male,New York,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Dr. Enuf,Non Alcoholic,15,12,6,90,72,18,8,Sept
+88065565470,44045,Abe J Macleod,Male,Syracuse,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Dr. Nut,Non Alcoholic,12,9,10,120,90,30,8,Sept
+88065565471,44046,Evon Q Lawson,Female,Kingston,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Egg Cream,Non Alcoholic,18,15,11,198,165,33,8,Sept
+88065565472,44047,Jerlene P Dunnigan,Female,Watertown,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Faygo,Non Alcoholic,23,20,60,1380,1200,180,8,Sept
+88065565473,44048,Bobbie X Schoenrock,Male,Watervliet,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Green River,Non Alcoholic,9,6,89,801,534,267,8,Sept
+88065565474,44052,Mike A Waddington,Male,Yakers,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Ironport,Non Alcoholic,18,15,77,1386,1155,231,8,Sept
+88065565475,44051,Nigel K Wadsworth,Male,New York,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Oliver Cromwell,Alcoholic,52,49,68,3536,3332,204,8,Sept
+88065565476,44051,Hayden E Novack,Male,Hempstead,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Boost,Non Alcoholic,9,6,15,135,90,45,8,Sept
+88065565477,44052,Voncile P Trojanowski,Female,New York,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Cel Ray,Non Alcoholic,5,2,47,235,94,141,8,Sept
+88065565478,44053,Roberto U Derry,Female,New York,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Degrees Vodka,Alcoholic,14,11,6,84,66,18,8,Sept
+88065565479,44054,Tona S Huseby,Female,Babylon,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,St. Amdr Cabernet,Alcoholic,6,3,10,60,30,30,8,Sept
+88065565480,44055,Londa T Maya,Female,Beacon,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Chicory Coffee,Non Alcoholic,10,7,11,110,77,33,8,Sept
+88065565481,44056,Jocelyn Q Scotti,Female,New York,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Nake Turtle,Alcoholic,13,10,60,780,600,180,8,Sept
+88065565482,44057,Frank O Mallon,Female,Betavia,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Coffee Milk,Non Alcoholic,20,17,89,1780,1513,267,8,Sept
+88065565483,44058,Kurtis C Irons,Male,Beacon,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Gallo XO,Alcoholic,15,12,77,1155,924,231,8,Sept
+88065565484,44062,Jamey S Seim,Male,Elmira,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Cazadores Tequila,Alcoholic,20,17,68,1360,1156,204,8,Sept
+88065565485,44061,Walton S Keim,Male,Glen Cove,Merle N Burrus,Uptown Store,Josef I Sergent,Amir Yusha,Benchmark Bourbon,Alcoholic,12,9,15,180,135,45,8,Sept
+88065565486,44061,Micki R Jauregui,Female,New York,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Janie Stewart,Alcoholic,16,13,47,752,611,141,8,Sept
+88065565487,44062,Ngoc X Watson,Female,Hempstead,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Date Shake,Non Alcoholic,70,67,6,420,402,18,8,Sept
+88065565488,44063,Inocencia Z Buteau,Female,Brookhaven,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Dr. Enuf,Non Alcoholic,15,12,10,150,120,30,8,Sept
+88065565489,44064,Charlie V Koeller,Male,Glen Cove,Merle N Burrus,Uptown Store,Josef I Sergent,Amir Yusha,Janie Stewart,Alcoholic,16,13,11,176,143,33,8,Sept
+88065565490,44065,Rosy U Baumeister,Female,Glens Falls,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Speyburn Bradan,Alcoholic,20,17,60,1200,1020,180,8,Sept
+88065565491,44066,Charity N Denman,Female,Hornell ,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Uv Blue,Alcoholic,12,9,89,1068,801,267,8,Sept
+88065565492,44067,Luke S Tumlin,Male,Hudson,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Dr. Nut,Non Alcoholic,12,9,77,924,693,231,8,Sept
+88065565493,44068,Hannah K Ma,Female,Johnstown,Merle N Burrus,Uptown Store,Josef I Sergent,Amir Yusha,Egg Cream,Non Alcoholic,18,15,68,1224,1020,204,8,Sept
+88065565494,44072,Celinda C Magruder,Female,Kingston,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Burnett's,Alcoholic,10,7,15,150,105,45,8,Sept
+88065565495,44071,Arturo N Halvorsen,Male,Little Falls,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Smirnoff,Alcoholic,15,12,47,705,564,141,8,Sept
+88065565496,44071,Tiny Z Oliveri,Female,Lockport,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Fireball,Alcoholic,15,12,6,90,72,18,8,Sept
+88065565497,44072,Kerri Y Card,Female,Long Beach,Merle N Burrus,Uptown Store,Josef I Sergent,Amir Yusha,Faygo,Non Alcoholic,23,20,10,230,200,30,8,Sept
+88065565498,44073,Young W Funes,Male,Middletown,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Green River,Non Alcoholic,9,6,11,99,66,33,8,Sept
+88065565499,44074,Neomi P Pitchford,Female,Mount,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Ironport,Non Alcoholic,18,15,60,1080,900,180,8,Sept
+88065565500,44044,Ivan A Groner,Male,New York,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Suedka,Alcoholic,14,11,89,1246,979,267,8,Sept
+88065565501,44045,Etsuko O Wilmot,Female,Salamanca,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Apple Beer,Alcoholic,30,27,77,2310,2079,231,8,Sept
+88065565502,44046,William B Mcnerney,Male,Springs,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Birch Beer,Alcoholic,16,13,68,1088,884,204,8,Sept
+88065565503,44047,Logan D Berryman,Male,Sherrill,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Oliver Cromwell,Alcoholic,52,49,15,780,735,45,8,Sept
+88065565504,44048,Houston K Joe,Male,Syracuse,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Degrees Vodka,Alcoholic,14,11,47,658,517,141,8,Sept
+88065565505,44052,Coy I Gentner,Male,Troy,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,St. Amdr Cabernet,Alcoholic,6,3,6,36,18,18,8,Sept
+88065565506,44051,Jimmie F Vasquez,Male,Olean,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Nake Turtle,Alcoholic,13,10,10,130,100,30,8,Sept
+88065565507,44051,Tommie S Fargo,Male,Peekskill,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Gallo XO,Alcoholic,15,12,11,165,132,33,8,Sept
+88065565508,44052,Daina U Ledet,Female,Port Jervis,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Cazadores Tequila,Alcoholic,20,17,60,1200,1020,180,8,Sept
+88065565509,44053,Sophia F Knecht,Female,Kingston,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Benchmark Bourbon,Alcoholic,12,9,89,1068,801,267,8,Sept
+88065565510,44054,Newton V Scalia,Male,Little Falls,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Janie Stewart,Alcoholic,16,13,77,1232,1001,231,8,Sept
+88065565511,44055,Reatha E Osby,Female,Lockport,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Speyburn Bradan,Alcoholic,20,17,68,1360,1156,204,8,Sept
+88065565512,44056,Bell N Molinaro,Female,Long Beach,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Uv Blue,Alcoholic,12,9,15,180,135,45,8,Sept
+88065565513,44057,Jason V Gravois,Male,Middletown,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Burnett's,Alcoholic,10,7,47,470,329,141,8,Sept
+88065565514,44058,Elwood T More,Male,Watervliet,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Smirnoff,Alcoholic,15,12,6,90,72,18,8,Sept
+88065565515,44062,Lewis M Racette,Male,Yakers,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Fireball,Alcoholic,15,12,10,150,120,30,8,Sept
+88065565516,44061,Leigh Y Haws,Male,New York,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Jose Cuervo,Alcoholic,20,17,11,220,187,33,8,Sept
+88065565517,44061,Thomas B Felipe,Male,Hempstead,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Agavales,Alcoholic,12,9,60,720,540,180,8,Sept
+88065565518,44062,Israel T Hertzler,Male,New York,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Pinnacle,Alcoholic,13,10,89,1157,890,267,8,Sept
+88065565519,44063,Ona K Koepp,Female,Hempstead,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Bacardi Rum,Alcoholic,15,12,77,1155,924,231,8,Sept
+88065565520,44064,Kristofer N Calahan,Male,Brookhaven,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Suedka,Alcoholic,14,11,68,952,748,204,8,Sept
+88065565521,44065,Mark F Hamman,Male,Islip,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Apple Beer,Alcoholic,30,27,15,450,405,45,8,Sept
+88065565522,44066,Bobbie Q Holbrook,Male,Babylon,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Birch Beer,Alcoholic,16,13,47,752,611,141,8,Sept
+88065565523,44067,Abe X Paro,Male,Albany,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Boost,Non Alcoholic,9,6,6,54,36,18,8,Sept
+88065565524,44068,Mignon Q Dills,Female,Auburn,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Cel Ray,Non Alcoholic,5,2,10,50,20,30,8,Sept
+88065565525,44072,Casey D Krier,Male,Betavia,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Cheerwine,Non Alcoholic,18,15,11,198,165,33,8,Sept
+88065565526,44071,Scott K Ricco,Female,Beacon,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Chicory Coffee,Non Alcoholic,10,7,60,600,420,180,8,Sept
+88065565527,44071,Rosemarie K Fellows,Female,Choes,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Coffee Milk,Non Alcoholic,20,17,89,1780,1513,267,8,Sept
+88065565528,44072,Lisette F Cowley,Female,Fulton,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Date Shake,Non Alcoholic,70,67,77,5390,5159,231,8,Sept
+88065565529,44073,Molly U Rasch,Female,Geneva,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Dr. Enuf,Non Alcoholic,15,12,68,1020,816,204,8,Sept
+88065565530,44074,Felisha Q Ettinger,Female,Elmira,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Dr. Nut,Non Alcoholic,12,9,15,180,135,45,8,Sept
+88065565531,44075,Linwood H Carter,Male,Glen Cove,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Egg Cream,Non Alcoholic,18,15,47,846,705,141,9,August
+88065565532,44076,Madelyn W Boos,Female,Glens Falls,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Faygo,Non Alcoholic,23,20,6,138,120,18,9,August
+88065565533,44077,Angelo B Fitzmaurice,Male,Hornell ,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Green River,Non Alcoholic,9,6,10,90,60,30,9,August
+88065565534,44078,Gregory I Kidwell,Female,Hudson,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Ironport,Non Alcoholic,18,15,11,198,165,33,9,August
+88065565535,44079,Bart B Gilcrease,Male,Johnstown,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Oliver Cromwell,Alcoholic,52,49,60,3120,2940,180,9,August
+88065565536,44083,Warner I Manly,Male,Kingston,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Boost,Non Alcoholic,9,6,89,801,534,267,9,August
+88065565537,44082,Lala R Denman,Female,Little Falls,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Cel Ray,Non Alcoholic,5,2,77,385,154,231,9,August
+88065565538,44082,Elsie S Depaz,Female,Lockport,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Degrees Vodka,Alcoholic,14,11,68,952,748,204,9,August
+88065565539,44083,Verla H Contreras,Female,Long Beach,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,St. Amdr Cabernet,Alcoholic,6,3,15,90,45,45,9,August
+88065565540,44084,America V Lobel,Female,Middletown,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Chicory Coffee,Non Alcoholic,10,7,47,470,329,141,9,August
+88065565541,44085,Walter R Seddon,Female,Mount,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Nake Turtle,Alcoholic,13,10,6,78,60,18,9,August
+88065565542,44086,Margarito M Oxendine,Male,New York,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Coffee Milk,Non Alcoholic,20,17,10,200,170,30,9,August
+88065565543,44087,Arnoldo D Mckeen,Male,Newburgh,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Gallo XO,Alcoholic,15,12,11,165,132,33,9,August
+88065565544,44088,Kieth D Castelli,Male,Olean,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Cazadores Tequila,Alcoholic,20,17,60,1200,1020,180,9,August
+88065565545,44089,Ngoc P Pogue,Female,Peekskill,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Benchmark Bourbon,Alcoholic,12,9,89,1068,801,267,9,August
+88065565546,44093,Delana I Selfridge,Female,Port Jervis,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Janie Stewart,Alcoholic,16,13,77,1232,1001,231,9,August
+88065565547,44092,Liane U Grafton,Female,Poughkeepsie,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Date Shake,Non Alcoholic,70,67,68,4760,4556,204,9,August
+88065565548,44092,Vikki N Lezama,Female,Rye ,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Dr. Enuf,Non Alcoholic,15,12,15,225,180,45,9,August
+88065565549,44093,Allyn O Farrior,Female,Rome,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Janie Stewart,Alcoholic,16,13,47,752,611,141,9,August
+88065565550,44094,Glady Q Kump,Female,Rochester,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Speyburn Bradan,Alcoholic,20,17,6,120,102,18,9,August
+88065565551,44095,Oscar R Bovee,Male,Salamanca,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Uv Blue,Alcoholic,12,9,10,120,90,30,9,August
+88065565552,44096,Valene Z Woodmansee,Female,Springs,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Dr. Nut,Non Alcoholic,12,9,11,132,99,33,9,August
+88065565553,44097,Richard C Truman,Male,Sherrill,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Egg Cream,Non Alcoholic,18,15,60,1080,900,180,9,August
+88065565554,44098,Luigi G Lembo,Male,Syracuse,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Burnett's,Alcoholic,10,7,89,890,623,267,9,August
+88065565555,44099,Isaiah G Parrish,Male,Troy,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Smirnoff,Alcoholic,15,12,77,1155,924,231,9,August
+88065565556,44103,Scott D Torrey,Male,Watertown,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Fireball,Alcoholic,15,12,68,1020,816,204,9,August
+88065565557,44102,Shirl M Caraballo,Female,Watervliet,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Faygo,Non Alcoholic,23,20,15,345,300,45,9,August
+88065565558,44102,Robin Z Stewart,Male,Yakers,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Green River,Non Alcoholic,9,6,47,423,282,141,9,August
+88065565559,44103,Shasta P Depuy,Female,New York,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Ironport,Non Alcoholic,18,15,6,108,90,18,9,August
+88065565560,44104,Jorge R Coghlan,Male,Hempstead,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Suedka,Alcoholic,14,11,10,140,110,30,9,August
+88065565561,44094,Myles G Strum,Male,Brookhaven,Merle N Burrus,Uptown Store,Josef I Sergent,Amir Yusha,Apple Beer,Alcoholic,30,27,11,330,297,33,9,August
+88065565562,44095,Herlinda U Negron,Female,Islip,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Birch Beer,Alcoholic,16,13,60,960,780,180,9,August
+88065565563,44096,Debbie C Lipsey,Female,Babylon,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Oliver Cromwell,Alcoholic,52,49,89,4628,4361,267,9,August
+88065565564,44097,Jenell S Sauers,Female,Albany,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Degrees Vodka,Alcoholic,14,11,77,1078,847,231,9,August
+88065565565,44098,Leda Y Fabre,Female,Auburn,Merle N Burrus,Uptown Store,Josef I Sergent,Amir Yusha,St. Amdr Cabernet,Alcoholic,6,3,68,408,204,204,9,August
+88065565566,44099,Edmundo R Rew,Male,Betavia,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Nake Turtle,Alcoholic,13,10,15,195,150,45,9,August
+88065565567,44103,Gerry D Woolery,Male,Beacon,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Gallo XO,Alcoholic,15,12,47,705,564,141,9,August
+88065565568,44102,Berna Z Stoller,Female,Elmira,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Cazadores Tequila,Alcoholic,20,17,6,120,102,18,9,August
+88065565569,44102,Adam B Katzer,Male,Glen Cove,Merle N Burrus,Uptown Store,Josef I Sergent,Amir Yusha,Benchmark Bourbon,Alcoholic,12,9,10,120,90,30,9,August
+88065565570,44103,Kellee L Gravelle,Female,New York,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Janie Stewart,Alcoholic,16,13,11,176,143,33,9,August
+88065565571,44104,Shavon K Wescott,Female,Hempstead,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Speyburn Bradan,Alcoholic,20,17,60,1200,1020,180,9,August
+88065565572,44044,Rozanne N Mielke,Female,Brookhaven,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Uv Blue,Alcoholic,12,9,89,1068,801,267,8,Sept
+88065565573,44045,Randee O Cassity,Female,Glen Cove,Merle N Burrus,Uptown Store,Josef I Sergent,Amir Yusha,Burnett's,Alcoholic,10,7,77,770,539,231,8,Sept
+88065565574,44046,Shemika D Porterfield,Female,Glens Falls,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Smirnoff,Alcoholic,15,12,68,1020,816,204,8,Sept
+88065565575,44047,Donte H Granger,Male,Hornell ,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Fireball,Alcoholic,15,12,15,225,180,45,8,Sept
+88065565576,44048,Ahmed I Strope,Male,Hudson,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Jose Cuervo,Alcoholic,20,17,47,940,799,141,8,Sept
+88065565577,44052,Boris A Mccown,Male,Johnstown,Merle N Burrus,Uptown Store,Josef I Sergent,Amir Yusha,Agavales,Alcoholic,12,9,6,72,54,18,8,Sept
+88065565578,44051,Omer H Moultrie,Male,Kingston,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Pinnacle,Alcoholic,13,10,10,130,100,30,8,Sept
+88065565579,44051,Hiram K Stokely,Male,Little Falls,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Bacardi Rum,Alcoholic,15,12,11,165,132,33,8,Sept
+88065565580,44052,Deanna P Scoggin,Female,Lockport,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Suedka,Alcoholic,14,11,60,840,660,180,8,Sept
+88065565581,44053,Maris S Briggs,Female,Long Beach,Merle N Burrus,Uptown Store,Josef I Sergent,Amir Yusha,Apple Beer,Alcoholic,30,27,89,2670,2403,267,8,Sept
+88065565582,44054,Lona T Collar,Female,Middletown,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Birch Beer,Alcoholic,16,13,77,1232,1001,231,8,Sept
+88065565583,44055,Eldridge M Benningfield,Male,Mount,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Boost,Non Alcoholic,9,6,68,612,408,204,8,Sept
+88065565584,44056,Jimmie A Rorie,Male,New York,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Cel Ray,Non Alcoholic,5,2,15,75,30,45,8,Sept
+88065565585,44057,Rachelle M Burkhead,Female,Salamanca,Merle N Burrus,Uptown Store,Josef I Sergent,Amir Yusha,Cheerwine,Non Alcoholic,18,15,47,846,705,141,8,Sept
+88065565586,44058,Miguel P Karp,Male,Springs,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Chicory Coffee,Non Alcoholic,10,7,6,60,42,18,8,Sept
+88065565587,44062,Raye T Willmon,Female,Sherrill,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Coffee Milk,Non Alcoholic,20,17,10,200,170,30,8,Sept
+88065565588,44061,Christi H Amaker,Female,Syracuse,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Date Shake,Non Alcoholic,70,67,11,770,737,33,8,Sept
+88065565589,44061,Liberty A Shroyer,Female,Troy,Merle N Burrus,Uptown Store,Josef I Sergent,Amir Yusha,Dr. Enuf,Non Alcoholic,15,12,60,900,720,180,8,Sept
+88065565590,44062,Zack H Mumaw,Male,Olean,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Dr. Nut,Non Alcoholic,12,9,89,1068,801,267,8,Sept
+88065565591,44063,Blanch Y Mysliwiec,Female,Peekskill,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Egg Cream,Non Alcoholic,18,15,77,1386,1155,231,8,Sept
+88065565592,44064,Tammy Z Lorentz,Female,Port Jervis,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Faygo,Non Alcoholic,23,20,68,1564,1360,204,8,Sept
+88065565593,44065,Maximina K Frates,Female,Kingston,Merle N Burrus,Uptown Store,Josef I Sergent,Amir Yusha,Green River,Non Alcoholic,9,6,15,135,90,45,8,Sept
+88065565594,44066,Kiara G Abrahamson,Female,Little Falls,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Ironport,Non Alcoholic,18,15,47,846,705,141,8,Sept
+88065565595,44067,Retha G Nealy,Female,Lockport,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Oliver Cromwell,Alcoholic,52,49,6,312,294,18,8,Sept
+88065565596,44068,Andre Q Maxon,Male,Long Beach,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Boost,Non Alcoholic,9,6,10,90,60,30,8,Sept
+88065565597,44072,Vern T Lomeli,Male,Middletown,Merle N Burrus,Uptown Store,Josef I Sergent,Amir Yusha,Cel Ray,Non Alcoholic,5,2,11,55,22,33,8,Sept
+88065565598,44071,Erin K Stclair,Male,Watervliet,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Degrees Vodka,Alcoholic,14,11,60,840,660,180,8,Sept
+88065565599,44071,Detra D Rymer,Female,Yakers,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,St. Amdr Cabernet,Alcoholic,6,3,89,534,267,267,8,Sept
+88065565600,44072,Doug B Southwick,Male,New York,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Chicory Coffee,Non Alcoholic,10,7,77,770,539,231,8,Sept
+88065565601,44073,Gia M Casas,Female,Hempstead,Merle N Burrus,Uptown Store,Josef I Sergent,Amir Yusha,Nake Turtle,Alcoholic,13,10,68,884,680,204,8,Sept
+88065565602,44074,Emeline I Richer,Female,New York,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Coffee Milk,Non Alcoholic,20,17,15,300,255,45,8,Sept
+88065565603,44044,Richard J Fetter,Male,Hempstead,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Gallo XO,Alcoholic,15,12,60,900,720,180,8,Sept
+88065565604,44045,Rick Y Haefner,Male,Brookhaven,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Cazadores Tequila,Alcoholic,20,17,89,1780,1513,267,8,Sept
+88065565605,44046,Shannon J Force,Female,Islip,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Benchmark Bourbon,Alcoholic,12,9,77,924,693,231,8,Sept
+88065565606,44047,Gabriel E Pearsall,Female,Babylon,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Janie Stewart,Alcoholic,16,13,68,1088,884,204,8,Sept
+88065565607,44048,Geri M Tuthill,Female,Albany,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Date Shake,Non Alcoholic,70,67,15,1050,1005,45,8,Sept
+88065565608,44052,Lauren R Hennessy,Male,Auburn,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Dr. Enuf,Non Alcoholic,15,12,47,705,564,141,8,Sept
+88065565609,44051,Monty C Hughes,Male,Betavia,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Janie Stewart,Alcoholic,16,13,6,96,78,18,8,Sept
+88065565610,44051,Bryant L Kinsman,Male,Beacon,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Speyburn Bradan,Alcoholic,20,17,10,200,170,30,8,Sept
+88065565611,44052,Giovanna M Clift,Female,Choes,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Uv Blue,Alcoholic,12,9,11,132,99,33,8,Sept
+88065565612,44053,Tracie J Winebarger,Female,Fulton,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Dr. Nut,Non Alcoholic,12,9,60,720,540,180,8,Sept
+88065565613,44054,Narcisa C Rayburn,Female,Geneva,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Egg Cream,Non Alcoholic,18,15,89,1602,1335,267,8,Sept
+88065565614,44055,Almeda M Dunford,Female,Elmira,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Burnett's,Alcoholic,10,7,77,770,539,231,8,Sept
+88065565615,44056,Melida R Corle,Female,Glen Cove,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Smirnoff,Alcoholic,15,12,68,1020,816,204,8,Sept
+88065565616,44057,Armando H Seaborn,Male,Glens Falls,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Fireball,Alcoholic,15,12,15,225,180,45,8,Sept
+88065565617,44058,Efrain L Wass,Male,Hornell ,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Faygo,Non Alcoholic,23,20,47,1081,940,141,8,Sept
+88065565618,44062,Edra M Guthrie,Female,Hudson,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Green River,Non Alcoholic,9,6,6,54,36,18,8,Sept
+88065565619,44061,Harland S Renshaw,Male,Johnstown,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Ironport,Non Alcoholic,18,15,10,180,150,30,8,Sept
+88065565620,44061,Leroy H Styron,Male,Kingston,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Suedka,Alcoholic,14,11,11,154,121,33,8,Sept
+88065565621,44062,Maryln H Springfield,Female,Little Falls,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Apple Beer,Alcoholic,30,27,60,1800,1620,180,8,Sept
+88065565622,44063,Elenora S Whitehill,Female,Lockport,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Birch Beer,Alcoholic,16,13,89,1424,1157,267,8,Sept
+88065565623,44064,Izola E Ye,Female,Long Beach,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Oliver Cromwell,Alcoholic,52,49,77,4004,3773,231,8,Sept
+88065565624,44065,Dorethea U Engram,Female,Middletown,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Degrees Vodka,Alcoholic,14,11,68,952,748,204,8,Sept
+88065565625,44066,Anibal F Pieper,Male,Mount,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,St. Amdr Cabernet,Alcoholic,6,3,15,90,45,45,8,Sept
+88065565626,44067,Ula W Hartl,Female,New York,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Nake Turtle,Alcoholic,13,10,47,611,470,141,8,Sept
+88065565627,44068,Latanya C Law,Female,Newburgh,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Gallo XO,Alcoholic,15,12,6,90,72,18,8,Sept
+88065565628,44072,Brent U Perlman,Male,Olean,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Cazadores Tequila,Alcoholic,20,17,10,200,170,30,8,Sept
+88065565629,44071,Eveline B Strecker,Female,Peekskill,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Benchmark Bourbon,Alcoholic,12,9,11,132,99,33,8,Sept
+88065565630,44071,Keila A Lucas,Female,Port Jervis,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Janie Stewart,Alcoholic,16,13,60,960,780,180,8,Sept
+88065565631,44072,Aliza X Sammons,Female,Poughkeepsie,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Speyburn Bradan,Alcoholic,20,17,89,1780,1513,267,8,Sept
+88065565632,44073,Bennie E Manfredi,Male,Rye ,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Uv Blue,Alcoholic,12,9,77,924,693,231,8,Sept
+88065565633,44074,Lucinda Z Borton,Female,Rome,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Burnett's,Alcoholic,10,7,68,680,476,204,8,Sept
+88065565634,44075,Keila F Lofland,Female,Rochester,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Smirnoff,Alcoholic,15,12,15,225,180,45,9,August
+88065565635,44076,Royce K Goodwyn,Female,Salamanca,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Fireball,Alcoholic,15,12,47,705,564,141,9,August
+88065565636,44077,Rickey I Delk,Male,Springs,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Jose Cuervo,Alcoholic,20,17,6,120,102,18,9,August
+88065565637,44078,Delsie R Tennison,Female,Sherrill,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Agavales,Alcoholic,12,9,10,120,90,30,9,August
+88065565638,44079,Jayme B Shimer,Female,Syracuse,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Pinnacle,Alcoholic,13,10,11,143,110,33,9,August
+88065565639,44083,Gilbert M Wolfgram,Male,Troy,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Bacardi Rum,Alcoholic,15,12,60,900,720,180,9,August
+88065565640,44082,Isabella X Russell,Female,Watertown,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Suedka,Alcoholic,14,11,89,1246,979,267,9,August
+88065565641,44082,Rueben X Pidgeon,Male,Watervliet,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Apple Beer,Alcoholic,30,27,77,2310,2079,231,9,August
+88065565642,44083,Raymond U Flavin,Male,Yakers,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Birch Beer,Alcoholic,16,13,68,1088,884,204,9,August
+88065565643,44084,Larry K Mash,Male,New York,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Boost,Non Alcoholic,9,6,15,135,90,45,9,August
+88065565644,44085,Nicolle A Crothers,Female,Hempstead,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Cel Ray,Non Alcoholic,5,2,47,235,94,141,9,August
+88065565645,44086,Gustavo F Rouse,Male,Brookhaven,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Cheerwine,Non Alcoholic,18,15,6,108,90,18,9,August
+88065565646,44087,Victoria H Musson,Female,Islip,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Chicory Coffee,Non Alcoholic,10,7,10,100,70,30,9,August
+88065565647,44088,Dawne Y Gardner,Female,Babylon,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Coffee Milk,Non Alcoholic,20,17,11,220,187,33,9,August
+88065565648,44089,Newton L Cromartie,Male,Albany,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Date Shake,Non Alcoholic,70,67,60,4200,4020,180,9,August
+88065565649,44093,Doria Z Crouse,Female,Auburn,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Dr. Enuf,Non Alcoholic,15,12,89,1335,1068,267,9,August
+88065565650,44092,Gerry X Koh,Male,Betavia,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Dr. Nut,Non Alcoholic,12,9,77,924,693,231,9,August
+88065565651,44092,Audrea K Papineau,Female,Beacon,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Egg Cream,Non Alcoholic,18,15,68,1224,1020,204,9,August
+88065565652,44093,Rhett H Goode,Male,Elmira,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Faygo,Non Alcoholic,23,20,15,345,300,45,9,August
+88065565653,44094,Royal U Okeefe,Male,Glen Cove,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Green River,Non Alcoholic,9,6,47,423,282,141,9,August
+88065565654,44095,Keith Q Ofarrell,Male,New York,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Ironport,Non Alcoholic,18,15,6,108,90,18,9,August
+88065565655,44096,Exie C Bradham,Female,Hempstead,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Oliver Cromwell,Alcoholic,52,49,10,520,490,30,9,August
+88065565656,44097,George U Clouser,Male,Brookhaven,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Boost,Non Alcoholic,9,6,11,99,66,33,9,August
+88065565657,44098,Benny S Brinker,Male,Glen Cove,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Cel Ray,Non Alcoholic,5,2,60,300,120,180,9,August
+88065565658,44099,Forrest Q Zell,Male,Glens Falls,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Degrees Vodka,Alcoholic,14,11,89,1246,979,267,9,August
+88065565659,44103,Audrie X Mccammon,Female,Hornell ,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,St. Amdr Cabernet,Alcoholic,6,3,77,462,231,231,9,August
+88065565660,44102,Marylyn K Ditto,Female,Hudson,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Chicory Coffee,Non Alcoholic,10,7,68,680,476,204,9,August
+88065565661,44102,Kori J Fairfax,Female,Johnstown,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Nake Turtle,Alcoholic,13,10,15,195,150,45,9,August
+88065565662,44103,Lamar W Estill,Male,Kingston,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Coffee Milk,Non Alcoholic,20,17,47,940,799,141,9,August
+88065565663,44104,Giuseppe D Chouinard,Male,Little Falls,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Gallo XO,Alcoholic,15,12,6,90,72,18,9,August
+88065565664,44094,Khalilah A Campo,Female,Lockport,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Cazadores Tequila,Alcoholic,20,17,10,200,170,30,9,August
+88065565665,44095,Darcel P Burford,Female,Long Beach,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Benchmark Bourbon,Alcoholic,12,9,11,132,99,33,9,August
+88065565666,44096,August C Navarette,Male,Middletown,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Janie Stewart,Alcoholic,16,13,60,960,780,180,9,August
+88065565667,44097,Lanelle W Berlanga,Female,Mount,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Date Shake,Non Alcoholic,70,67,89,6230,5963,267,9,August
+88065565668,44098,Allene T Lepe,Female,New York,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Dr. Enuf,Non Alcoholic,15,12,77,1155,924,231,9,August
+88065565669,44099,Eladia A Braggs,Female,Salamanca,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Janie Stewart,Alcoholic,16,13,68,1088,884,204,9,August
+88065565670,44103,Agnes D Doud,Female,Springs,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Speyburn Bradan,Alcoholic,20,17,15,300,255,45,9,August
+88065565671,44102,Carlo B Ali,Male,Sherrill,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Uv Blue,Alcoholic,12,9,47,564,423,141,9,August
+88065565672,44102,Emery P Sorrells,Male,Syracuse,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Dr. Nut,Non Alcoholic,12,9,6,72,54,18,9,August
+88065565673,44103,Violet L Ertel,Female,Troy,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Egg Cream,Non Alcoholic,18,15,10,180,150,30,9,August
+88065565674,44104,Deeanna E Cluck,Female,Olean,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Burnett's,Alcoholic,10,7,11,110,77,33,9,August
+88065565675,44044,Morgan K Rathbun,Male,Peekskill,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Smirnoff,Alcoholic,15,12,60,900,720,180,8,Sept
+88065565676,44045,Julius Q Stock,Male,Port Jervis,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Fireball,Alcoholic,15,12,89,1335,1068,267,8,Sept
+88065565677,44046,Palmer O Beamer,Male,Kingston,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Faygo,Non Alcoholic,23,20,77,1771,1540,231,8,Sept
+88065565678,44047,Vincent N Lennon,Male,Little Falls,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Green River,Non Alcoholic,9,6,68,612,408,204,8,Sept
+88065565679,44048,Alexis D Bonelli,Male,Lockport,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Ironport,Non Alcoholic,18,15,15,270,225,45,8,Sept
+88065565680,44052,Claretta D Wingert,Female,Long Beach,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Suedka,Alcoholic,14,11,47,658,517,141,8,Sept
+88065565681,44051,Cecily D Houser,Female,Middletown,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Apple Beer,Alcoholic,30,27,6,180,162,18,8,Sept
+88065565682,44051,Horacio S Salazar,Male,Watervliet,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Birch Beer,Alcoholic,16,13,10,160,130,30,8,Sept
+88065565683,44052,Adelle E Brunner,Female,Yakers,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Oliver Cromwell,Alcoholic,52,49,11,572,539,33,8,Sept
+88065565684,44053,Janessa M Drennen,Female,New York,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Degrees Vodka,Alcoholic,14,11,60,840,660,180,8,Sept
+88065565685,44054,Ewa B Staples,Female,Hempstead,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,St. Amdr Cabernet,Alcoholic,6,3,89,534,267,267,8,Sept
+88065565686,44055,Holley M Cathcart,Female,New York,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Nake Turtle,Alcoholic,13,10,77,1001,770,231,8,Sept
+88065565687,44056,Tim N Schueller,Male,Hempstead,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Gallo XO,Alcoholic,15,12,68,1020,816,204,8,Sept
+88065565688,44057,Therese Q Belden,Female,Brookhaven,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Cazadores Tequila,Alcoholic,20,17,15,300,255,45,8,Sept
+88065565689,44058,Susann A Faucett,Female,Islip,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Benchmark Bourbon,Alcoholic,12,9,47,564,423,141,8,Sept
+88065565690,44062,Bryan J Stampley,Male,Babylon,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Janie Stewart,Alcoholic,16,13,6,96,78,18,8,Sept
+88065565691,44061,Larisa X Strauss,Female,Albany,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Speyburn Bradan,Alcoholic,20,17,10,200,170,30,8,Sept
+88065565692,44061,Adriana O Medved,Female,Auburn,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Uv Blue,Alcoholic,12,9,11,132,99,33,8,Sept
+88065565693,44062,Rick E Armenta,Male,Betavia,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Burnett's,Alcoholic,10,7,60,600,420,180,8,Sept
+88065565694,44063,Garland J Verville,Male,Beacon,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Smirnoff,Alcoholic,15,12,89,1335,1068,267,8,Sept
+88065565695,44064,Ettie S Stilwell,Female,Choes,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Fireball,Alcoholic,15,12,77,1155,924,231,8,Sept
+88065565696,44065,Ronnie G Gumbs,Male,Fulton,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Jose Cuervo,Alcoholic,20,17,68,1360,1156,204,8,Sept
+88065565697,44066,Shirley H Mettler,Male,Geneva,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Agavales,Alcoholic,12,9,15,180,135,45,8,Sept
+88065565698,44067,Ahmed V Lease,Male,Elmira,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Pinnacle,Alcoholic,13,10,47,611,470,141,8,Sept
+88065565699,44068,Albert Z Dunford,Male,Glen Cove,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Bacardi Rum,Alcoholic,15,12,6,90,72,18,8,Sept
+88065565700,44072,Erin L Jasmin,Female,Glens Falls,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Suedka,Alcoholic,14,11,10,140,110,30,8,Sept
+88065565701,44071,Raphael W Kellner,Male,Hornell ,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Apple Beer,Alcoholic,30,27,11,330,297,33,8,Sept
+88065565702,44071,Man W Bean,Female,Hudson,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Birch Beer,Alcoholic,16,13,60,960,780,180,8,Sept
+88065565703,44072,Nikia Z Thrasher,Female,Johnstown,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Boost,Non Alcoholic,9,6,89,801,534,267,8,Sept
+88065565704,44073,Cedrick M Cordle,Male,Kingston,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Cel Ray,Non Alcoholic,5,2,77,385,154,231,8,Sept
+88065565705,44074,Chi S Clopton,Male,Little Falls,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Cheerwine,Non Alcoholic,18,15,68,1224,1020,204,8,Sept
+88065565706,44044,Carl M Paddock,Male,Lockport,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Chicory Coffee,Non Alcoholic,10,7,15,150,105,45,8,Sept
+88065565707,44045,Nestor T Ventura,Male,Long Beach,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Coffee Milk,Non Alcoholic,20,17,47,940,799,141,8,Sept
+88065565708,44046,Salvatore J Lindell,Male,Middletown,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Date Shake,Non Alcoholic,70,67,6,420,402,18,8,Sept
+88065565709,44047,Phil T Urena,Male,Mount,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Dr. Enuf,Non Alcoholic,15,12,10,150,120,30,8,Sept
+88065565710,44048,Buford Q Giancola,Male,New York,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Dr. Nut,Non Alcoholic,12,9,11,132,99,33,8,Sept
+88065565711,44052,Garland Z Leavell,Male,Newburgh,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Egg Cream,Non Alcoholic,18,15,60,1080,900,180,8,Sept
+88065565712,44051,Fe A Schrock,Female,Olean,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Faygo,Non Alcoholic,23,20,89,2047,1780,267,8,Sept
+88065565713,44051,Dustin Y Espey,Male,Peekskill,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Green River,Non Alcoholic,9,6,77,693,462,231,8,Sept
+88065565714,44052,Tinisha V Vince,Female,Port Jervis,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Ironport,Non Alcoholic,18,15,68,1224,1020,204,8,Sept
+88065565715,44053,Isis F Hash,Female,Poughkeepsie,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Cel Ray,Non Alcoholic,5,2,15,75,30,45,8,Sept
+88065565716,44054,Hai Y Arden,Male,Rye ,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Degrees Vodka,Alcoholic,14,11,47,658,517,141,8,Sept
+88065565717,44055,Gerardo Q Bergen,Male,Rome,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,St. Amdr Cabernet,Alcoholic,6,3,6,36,18,18,8,Sept
+88065565718,44056,Jewel R Willhite,Male,Rochester,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Chicory Coffee,Non Alcoholic,10,7,10,100,70,30,8,Sept
+88065565719,44057,Jesus E Mclelland,Male,Salamanca,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Nake Turtle,Alcoholic,13,10,11,143,110,33,8,Sept
+88065565720,44058,Dortha Z Harty,Female,Springs,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Coffee Milk,Non Alcoholic,20,17,60,1200,1020,180,8,Sept
+88065565721,44062,Pete B Donnelly,Male,Sherrill,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Gallo XO,Alcoholic,15,12,89,1335,1068,267,8,Sept
+88065565722,44061,Kristen A Beauchemin,Female,Syracuse,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Cazadores Tequila,Alcoholic,20,17,77,1540,1309,231,8,Sept
+88065565723,44061,Celesta L Reeser,Female,Troy,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Benchmark Bourbon,Alcoholic,12,9,68,816,612,204,8,Sept
+88065565724,44062,Desiree L Sobel,Female,Watertown,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Janie Stewart,Alcoholic,16,13,15,240,195,45,8,Sept
+88065565725,44063,Izetta B Alford,Female,Watervliet,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Date Shake,Non Alcoholic,70,67,47,3290,3149,141,8,Sept
+88065565726,44064,Hermila X Crosslin,Female,Yakers,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Dr. Enuf,Non Alcoholic,15,12,6,90,72,18,8,Sept
+88065565727,44065,Tommy I Meadows,Male,New York,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Janie Stewart,Alcoholic,16,13,10,160,130,30,8,Sept
+88065565728,44066,Cordell M Tweedy,Male,Hempstead,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Speyburn Bradan,Alcoholic,20,17,11,220,187,33,8,Sept
+88065565729,44067,Bernarda E Gervais,Female,Brookhaven,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Uv Blue,Alcoholic,12,9,60,720,540,180,8,Sept
+88065565730,44068,Raymon I Chavarria,Male,Islip,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Dr. Nut,Non Alcoholic,12,9,89,1068,801,267,8,Sept
+88065565731,44072,Audrea B Prather,Female,Babylon,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Egg Cream,Non Alcoholic,18,15,77,1386,1155,231,8,Sept
+88065565732,44071,Isis N Rufus,Female,Albany,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Burnett's,Alcoholic,10,7,68,680,476,204,8,Sept
+88065565733,44071,Lucienne U Clyne,Female,Auburn,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Fireball,Alcoholic,15,12,15,225,180,45,8,Sept
+88065565734,44072,Jasper P Barnaby,Male,Betavia,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Faygo,Non Alcoholic,23,20,47,1081,940,141,8,Sept
+88065565735,44073,Walter B Mcmorrow,Male,Beacon,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Green River,Non Alcoholic,9,6,6,54,36,18,8,Sept
+88065565736,44074,Shasta F Bay,Female,Elmira,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Ironport,Non Alcoholic,18,15,10,180,150,30,8,Sept
+88065565737,44075,Darren U Shoulders,Male,Glen Cove,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Suedka,Alcoholic,14,11,11,154,121,33,9,August
+88065565738,44076,Nicola S Bellis,Female,New York,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Apple Beer,Alcoholic,30,27,60,1800,1620,180,9,August
+88065565739,44077,Thurman T Caceres,Male,Hempstead,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Birch Beer,Alcoholic,16,13,89,1424,1157,267,9,August
+88065565740,44078,Allen L Vachon,Female,Brookhaven,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Oliver Cromwell,Alcoholic,52,49,77,4004,3773,231,9,August
+88065565741,44079,Yung G Booher,Female,Glen Cove,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Degrees Vodka,Alcoholic,14,11,68,952,748,204,9,August
+88065565742,44083,Emiko Z Lolley,Female,Glens Falls,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,St. Amdr Cabernet,Alcoholic,6,3,15,90,45,45,9,August
+88065565743,44082,Dian I Peachey,Female,Hornell ,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Nake Turtle,Alcoholic,13,10,47,611,470,141,9,August
+88065565744,44082,Carmen U Benbow,Female,Hudson,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Gallo XO,Alcoholic,15,12,6,90,72,18,9,August
+88065565745,44083,Kimberly K Carr,Female,Johnstown,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Cazadores Tequila,Alcoholic,20,17,10,200,170,30,9,August
+88065565746,44084,Damian F Mcgaughey,Male,Kingston,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Benchmark Bourbon,Alcoholic,12,9,11,132,99,33,9,August
+88065565747,44085,Jeff W Zacarias,Male,Little Falls,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Janie Stewart,Alcoholic,16,13,60,960,780,180,9,August
+88065565748,44086,Vernell X Amado,Female,Lockport,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Speyburn Bradan,Alcoholic,20,17,89,1780,1513,267,9,August
+88065565749,44087,Nadia B Rosner,Female,Long Beach,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Uv Blue,Alcoholic,12,9,77,924,693,231,9,August
+88065565750,44088,Elijah P Elkin,Male,Middletown,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Burnett's,Alcoholic,10,7,68,680,476,204,9,August
+88065565751,44089,Kirby W Estrella,Male,Mount,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Smirnoff,Alcoholic,15,12,15,225,180,45,9,August
+88065565752,44093,Bernie M Kish,Male,New York,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Fireball,Alcoholic,15,12,47,705,564,141,9,August
+88065565753,44092,Judson Y Hodson,Male,Salamanca,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Jose Cuervo,Alcoholic,20,17,6,120,102,18,9,August
+88065565754,44092,Carey N Mccready,Female,Springs,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Agavales,Alcoholic,12,9,10,120,90,30,9,August
+88065565755,44093,Shayne T Claytor,Male,Sherrill,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Pinnacle,Alcoholic,13,10,11,143,110,33,9,August
+88065565756,44094,Ashlie G Cadena,Female,Syracuse,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Bacardi Rum,Alcoholic,15,12,60,900,720,180,9,August
+88065565757,44095,Noah O Love,Male,Troy,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Suedka,Alcoholic,14,11,89,1246,979,267,9,August
+88065565758,44096,Lashaunda Y Munden,Female,Olean,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Apple Beer,Alcoholic,30,27,77,2310,2079,231,9,August
+88065565759,44097,Colin V Likens,Male,Peekskill,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Birch Beer,Alcoholic,16,13,68,1088,884,204,9,August
+88065565760,44098,Kylie K Freda,Female,Port Jervis,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Boost,Non Alcoholic,9,6,15,135,90,45,9,August
+88065565761,44099,Krishna G Raby,Female,Kingston,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Cel Ray,Non Alcoholic,5,2,47,235,94,141,9,August
+88065565762,44103,Launa N Kohl,Female,Little Falls,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Cheerwine,Non Alcoholic,18,15,6,108,90,18,9,August
+88065565763,44102,Trent J Lockman,Male,Lockport,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Chicory Coffee,Non Alcoholic,10,7,10,100,70,30,9,August
+88065565764,44102,Alisha D Coppock,Female,Long Beach,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Coffee Milk,Non Alcoholic,20,17,11,220,187,33,9,August
+88065565765,44103,Richie I Weisz,Male,Middletown,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Date Shake,Non Alcoholic,70,67,60,4200,4020,180,9,August
+88065565766,44104,Leticia V Lewandowski,Female,Watervliet,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Dr. Enuf,Non Alcoholic,15,12,89,1335,1068,267,9,August
+88065565767,44094,Elaine B Randazzo,Female,Yakers,Merle N Burrus,Uptown Store,Josef I Sergent,Amir Yusha,Dr. Nut,Non Alcoholic,12,9,77,924,693,231,9,August
+88065565768,44095,Jack J Warfel,Male,New York,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Egg Cream,Non Alcoholic,18,15,68,1224,1020,204,9,August
+88065565769,44096,Kitty S Sickles,Female,Hempstead,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Faygo,Non Alcoholic,23,20,15,345,300,45,9,August
+88065565770,44097,Bruna R Welke,Female,New York,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Green River,Non Alcoholic,9,6,47,423,282,141,9,August
+88065565771,44098,Felix S Croker,Male,Hempstead,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Ironport,Non Alcoholic,18,15,6,108,90,18,9,August
+88065565772,44099,Eartha Z Oceguera,Female,Brookhaven,Merle N Burrus,Uptown Store,Josef I Sergent,Amir Yusha,Cel Ray,Non Alcoholic,5,2,10,50,20,30,9,August
+88065565773,44103,Laurena P Caston,Female,Islip,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Degrees Vodka,Alcoholic,14,11,11,154,121,33,9,August
+88065565774,44102,Beatrice A Knopf,Female,Babylon,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,St. Amdr Cabernet,Alcoholic,6,3,60,360,180,180,9,August
+88065565775,44102,Zoila X Nair,Female,Albany,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Chicory Coffee,Non Alcoholic,10,7,89,890,623,267,9,August
+88065565776,44103,Jae B Isabell,Male,Auburn,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Nake Turtle,Alcoholic,13,10,77,1001,770,231,9,August
+88065565777,44104,Donald P Phaneuf,Male,Betavia,Merle N Burrus,Uptown Store,Josef I Sergent,Amir Yusha,Coffee Milk,Non Alcoholic,20,17,68,1360,1156,204,9,August
+88065565778,44044,Tyrell R Bramlett,Male,Beacon,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Gallo XO,Alcoholic,15,12,15,225,180,45,8,Sept
+88065565779,44045,Ela K Hames,Female,Choes,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Cazadores Tequila,Alcoholic,20,17,47,940,799,141,8,Sept
+88065565780,44046,Marlon M Caddell,Male,Fulton,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Benchmark Bourbon,Alcoholic,12,9,6,72,54,18,8,Sept
+88065565781,44047,Nolan V Velazco,Male,Geneva,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Janie Stewart,Alcoholic,16,13,10,160,130,30,8,Sept
+88065565782,44048,Ashanti R Swim,Female,Elmira,Merle N Burrus,Uptown Store,Josef I Sergent,Amir Yusha,Date Shake,Non Alcoholic,70,67,11,770,737,33,8,Sept
+88065565783,44052,Tamica J Holoman,Female,Glen Cove,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Dr. Enuf,Non Alcoholic,15,12,60,900,720,180,8,Sept
+88065565784,44051,Marcell T Farias,Female,Glens Falls,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Janie Stewart,Alcoholic,16,13,89,1424,1157,267,8,Sept
+88065565785,44051,Abram Q Keffer,Male,Hornell ,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Speyburn Bradan,Alcoholic,20,17,77,1540,1309,231,8,Sept
+88065565786,44052,Silas S Pyatt,Male,Hudson,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Uv Blue,Alcoholic,12,9,68,816,612,204,8,Sept
+88065565787,44053,Patria D Riedel,Female,Johnstown,Merle N Burrus,Uptown Store,Josef I Sergent,Amir Yusha,Dr. Nut,Non Alcoholic,12,9,15,180,135,45,8,Sept
+88065565788,44054,Nicholas B Salcedo,Male,Kingston,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Egg Cream,Non Alcoholic,18,15,47,846,705,141,8,Sept
+88065565789,44055,Brendon E Mone,Male,Little Falls,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Burnett's,Alcoholic,10,7,6,60,42,18,8,Sept
+88065565790,44056,Velda V Larue,Female,Lockport,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Fireball,Alcoholic,15,12,10,150,120,30,8,Sept
+88065565791,44057,Sharita Y Lombardi,Female,Long Beach,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Faygo,Non Alcoholic,23,20,11,253,220,33,8,Sept
+88065565792,44058,Virgil R Yuen,Male,Middletown,Merle N Burrus,Uptown Store,Josef I Sergent,Amir Yusha,Green River,Non Alcoholic,9,6,60,540,360,180,8,Sept
+88065565793,44062,Delfina O Day,Female,Mount,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Ironport,Non Alcoholic,18,15,89,1602,1335,267,8,Sept
+88065565794,44061,Haley G Bova,Female,New York,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Suedka,Alcoholic,14,11,77,1078,847,231,8,Sept
+88065565795,44061,Margarite E Blalock,Female,Newburgh,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Apple Beer,Alcoholic,30,27,68,2040,1836,204,8,Sept
+88065565796,44062,Rina L Chacon,Female,Olean,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Birch Beer,Alcoholic,16,13,15,240,195,45,8,Sept
+88065565797,44063,Ramonita Z Fincher,Female,Peekskill,Merle N Burrus,Uptown Store,Josef I Sergent,Amir Yusha,Oliver Cromwell,Alcoholic,52,49,47,2444,2303,141,8,Sept
+88065565798,44064,Lindsey W Whittle,Male,Port Jervis,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Degrees Vodka,Alcoholic,14,11,6,84,66,18,8,Sept
+88065565799,44065,Mauricio U Talty,Male,Poughkeepsie,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,St. Amdr Cabernet,Alcoholic,6,3,10,60,30,30,8,Sept
+88065565800,44066,Chau R Barron,Female,Rye ,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Nake Turtle,Alcoholic,13,10,11,143,110,33,8,Sept
+88065565801,44067,Lino M Lizarraga,Male,Rome,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Gallo XO,Alcoholic,15,12,60,900,720,180,8,Sept
+88065565802,44068,Fredericka J Varney,Female,Rochester,Merle N Burrus,Uptown Store,Josef I Sergent,Amir Yusha,Cazadores Tequila,Alcoholic,20,17,89,1780,1513,267,8,Sept
+88065565803,44072,Aundrea W Lundberg,Female,Salamanca,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Benchmark Bourbon,Alcoholic,12,9,77,924,693,231,8,Sept
+88065565804,44071,Son D Ricketts,Male,Springs,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Janie Stewart,Alcoholic,16,13,68,1088,884,204,8,Sept
+88065565805,44071,Dorothea J Canterbury,Female,Sherrill,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Speyburn Bradan,Alcoholic,20,17,15,300,255,45,8,Sept
+88065565806,44072,Zenia D Owings,Female,Syracuse,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Uv Blue,Alcoholic,12,9,47,564,423,141,8,Sept
+88065565807,44073,Seth N Lipsky,Male,Troy,Merle N Burrus,Uptown Store,Josef I Sergent,Amir Yusha,Burnett's,Alcoholic,10,7,6,60,42,18,8,Sept
+88065565808,44074,Miles N Light,Male,Watertown,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Smirnoff,Alcoholic,15,12,10,150,120,30,8,Sept
+88065565809,44044,Tyler N Larkins,Male,Watervliet,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Fireball,Alcoholic,15,12,11,165,132,33,8,Sept
+88065565810,44045,Asa E Kunze,Male,Yakers,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Jose Cuervo,Alcoholic,20,17,60,1200,1020,180,8,Sept
+88065565811,44046,Sal C Heiden,Male,New York,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Agavales,Alcoholic,12,9,89,1068,801,267,8,Sept
+88065565812,44047,Tomas V Krout,Male,Hempstead,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Pinnacle,Alcoholic,13,10,77,1001,770,231,8,Sept
+88065565813,44048,Ben N Lamson,Male,Brookhaven,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Bacardi Rum,Alcoholic,15,12,68,1020,816,204,8,Sept
+88065565814,44052,Myra H Parra,Female,Islip,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Suedka,Alcoholic,14,11,15,210,165,45,8,Sept
+88065565815,44051,Adele M Burnam,Female,Babylon,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Apple Beer,Alcoholic,30,27,47,1410,1269,141,8,Sept
+88065565816,44051,Adria M Melendrez,Female,Albany,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Birch Beer,Alcoholic,16,13,6,96,78,18,8,Sept
+88065565817,44052,Clemmie F Montague,Female,Auburn,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Boost,Non Alcoholic,9,6,10,90,60,30,8,Sept
+88065565818,44053,Valarie O Gorecki,Female,Betavia,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Cel Ray,Non Alcoholic,5,2,11,55,22,33,8,Sept
+88065565819,44054,Adell W Trower,Female,Beacon,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Cheerwine,Non Alcoholic,18,15,60,1080,900,180,8,Sept
+88065565820,44055,Eric C Irvine,Male,Elmira,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Chicory Coffee,Non Alcoholic,10,7,89,890,623,267,8,Sept
+88065565821,44056,Letha L Apel,Female,Glen Cove,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Coffee Milk,Non Alcoholic,20,17,77,1540,1309,231,8,Sept
+88065565822,44057,Nannie Z Seeman,Female,New York,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Date Shake,Non Alcoholic,70,67,68,4760,4556,204,8,Sept
+88065565823,44058,Reynalda M Millwood,Female,Hempstead,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Dr. Enuf,Non Alcoholic,15,12,15,225,180,45,8,Sept
+88065565824,44062,Tanner Y Hollenbeck,Male,Brookhaven,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Dr. Nut,Non Alcoholic,12,9,47,564,423,141,8,Sept
+88065565825,44061,Amado C Bonet,Male,Glen Cove,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Egg Cream,Non Alcoholic,18,15,6,108,90,18,8,Sept
+88065565826,44061,Jeanetta N Norden,Female,Glens Falls,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Faygo,Non Alcoholic,23,20,10,230,200,30,8,Sept
+88065565827,44062,Paris U Leite,Male,Hornell ,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Green River,Non Alcoholic,9,6,11,99,66,33,8,Sept
+88065565828,44063,Alexis Q Grose,Male,Hudson,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Ironport,Non Alcoholic,18,15,60,1080,900,180,8,Sept
+88065565829,44064,Chadwick I Hargreaves,Male,Johnstown,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Cel Ray,Non Alcoholic,5,2,89,445,178,267,8,Sept
+88065565830,44065,Perry E Huddleston,Male,Kingston,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Degrees Vodka,Alcoholic,14,11,77,1078,847,231,8,Sept
+88065565831,44066,Hollis Z Carr,Male,Little Falls,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,St. Amdr Cabernet,Alcoholic,6,3,68,408,204,204,8,Sept
+88065565832,44067,Kiara T Martinez,Female,Lockport,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Chicory Coffee,Non Alcoholic,10,7,15,150,105,45,8,Sept
+88065565833,44068,Brigitte D Fendley,Female,Long Beach,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Nake Turtle,Alcoholic,13,10,47,611,470,141,8,Sept
+88065565834,44072,Bobbie P Chumley,Male,Middletown,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Coffee Milk,Non Alcoholic,20,17,6,120,102,18,8,Sept
+88065565835,44071,Hong M Townson,Male,Mount,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Gallo XO,Alcoholic,15,12,10,150,120,30,8,Sept
+88065565836,44071,Keith B Macha,Female,New York,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Cazadores Tequila,Alcoholic,20,17,11,220,187,33,8,Sept
+88065565837,44072,Harriett A Mccurry,Female,Salamanca,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Benchmark Bourbon,Alcoholic,12,9,60,720,540,180,8,Sept
+88065565838,44073,Andres S Garner,Male,Springs,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Janie Stewart,Alcoholic,16,13,89,1424,1157,267,8,Sept
+88065565839,44074,Ken X Weisberg,Male,Sherrill,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Date Shake,Non Alcoholic,70,67,77,5390,5159,231,8,Sept
+88065565840,44075,Moises U Hughs,Male,Syracuse,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Dr. Enuf,Non Alcoholic,15,12,68,1020,816,204,9,August
+88065565841,44076,Sunshine F Earle,Female,Troy,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Janie Stewart,Alcoholic,16,13,15,240,195,45,9,August
+88065565842,44077,Lavette P Cheney,Female,Olean,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Speyburn Bradan,Alcoholic,20,17,47,940,799,141,9,August
+88065565843,44078,Carmen F Barret,Female,Peekskill,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Uv Blue,Alcoholic,12,9,6,72,54,18,9,August
+88065565844,44079,Lizzie D Ratcliff,Female,Port Jervis,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Dr. Nut,Non Alcoholic,12,9,10,120,90,30,9,August
+88065565845,44083,Nick Q Packard,Male,Kingston,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Egg Cream,Non Alcoholic,18,15,11,198,165,33,9,August
+88065565846,44082,Alonzo W Stanford,Male,Little Falls,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Burnett's,Alcoholic,10,7,60,600,420,180,9,August
+88065565847,44082,Brett Z Vadnais,Male,Lockport,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Egg Cream,Non Alcoholic,18,15,89,1602,1335,267,9,August
+88065565848,44083,Madalene J Martine,Female,Long Beach,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Burnett's,Alcoholic,10,7,77,770,539,231,9,August
+88065565849,44084,Charles S Nicholes,Male,Middletown,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Fireball,Alcoholic,15,12,68,1020,816,204,9,August
+88065565850,44085,Kristofer Y Fizer,Male,Watervliet,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Faygo,Non Alcoholic,23,20,15,345,300,45,9,August
+88065565851,44086,Elmo G Pagano,Male,Yakers,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Green River,Non Alcoholic,9,6,60,540,360,180,9,August
+88065565852,44087,Lindy M Reel,Female,New York,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Ironport,Non Alcoholic,18,15,89,1602,1335,267,9,August
+88065565853,44088,Dewayne X Groom,Male,Hempstead,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Egg Cream,Non Alcoholic,18,15,77,1386,1155,231,9,August
+88065565854,44089,Elenora V Halley,Female,New York,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Burnett's,Alcoholic,10,7,68,680,476,204,9,August
+88065565855,44093,Rosette F Cascio,Female,Hempstead,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Fireball,Alcoholic,15,12,15,225,180,45,9,August
+88065565856,44092,Analisa X Birdsell,Female,Brookhaven,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Faygo,Non Alcoholic,23,20,47,1081,940,141,9,August
+88065565857,44092,Jacinta Y Cheney,Female,Islip,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Green River,Non Alcoholic,9,6,6,54,36,18,9,August
+88065565858,44093,Matt D Bramblett,Male,Babylon,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Ironport,Non Alcoholic,18,15,10,180,150,30,9,August
+88065565859,44094,Queenie M Alder,Female,Albany,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Egg Cream,Non Alcoholic,18,15,11,198,165,33,9,August
+88065565860,44095,Darwin W Lemoine,Male,Auburn,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Burnett's,Alcoholic,10,7,60,600,420,180,9,August
+88065565861,44096,Erik W Steffen,Male,Betavia,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Fireball,Alcoholic,15,12,89,1335,1068,267,9,August
+88065565862,44097,Ching D Applegate,Female,Beacon,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Faygo,Non Alcoholic,23,20,77,1771,1540,231,9,August
+88065565863,44098,Warren L Manion,Male,Choes,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Green River,Non Alcoholic,9,6,68,612,408,204,9,August
+88065565864,44099,Celestine H Alderson,Female,Fulton,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Ironport,Non Alcoholic,18,15,15,270,225,45,9,August
+88065565865,44103,Tammi S Garret,Female,Geneva,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Smirnoff,Alcoholic,15,12,47,705,564,141,9,August
+88065565866,44102,Tamesha I Knepper,Female,Elmira,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Fireball,Alcoholic,15,12,6,90,72,18,9,August
+88065565867,44102,Bernardina X Roesch,Female,Glen Cove,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Jose Cuervo,Alcoholic,20,17,10,200,170,30,9,August
+88065565868,44103,Mariano Y Kyles,Male,Glens Falls,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Agavales,Alcoholic,12,9,11,132,99,33,9,August
+88065565869,44104,Kristie E Jain,Female,Hornell ,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Pinnacle,Alcoholic,13,10,60,780,600,180,9,August
+88065565870,44102,Jeff E Lucero,Male,Hudson,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Bacardi Rum,Alcoholic,15,12,89,1335,1068,267,9,August
+88065565871,44103,Leanna X Tibbetts,Female,Johnstown,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Suedka,Alcoholic,14,11,77,1078,847,231,9,August
+88065565872,44104,Robbie N Heckman,Female,Kingston,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Apple Beer,Alcoholic,30,27,68,2040,1836,204,9,August
+88065565873,44104,Bernard N Weatherly,Male,Little Falls,Merle N Burrus,Uptown Store,Josef I Sergent,Amir Yusha,Birch Beer,Alcoholic,16,13,15,240,195,45,9,August
+88065565874,44044,Cordia M Knopp,Female,Auburn,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Boost,Non Alcoholic,9,6,47,423,282,141,8,Sept
+88065565875,44045,Burton C Jin,Male,Betavia,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Cel Ray,Non Alcoholic,5,2,6,30,12,18,8,Sept
+88065565876,44046,Lauren O Guzzi,Male,Middletown,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Cheerwine,Non Alcoholic,18,15,10,180,150,30,8,Sept
+88065565877,44047,Carter C Hunt,Male,Mount,Merle N Burrus,Uptown Store,Josef I Sergent,Amir Yusha,Chicory Coffee,Non Alcoholic,10,7,11,110,77,33,8,Sept
+88065565878,44048,Isaiah Y Magwood,Male,New York,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Coffee Milk,Non Alcoholic,20,17,60,1200,1020,180,8,Sept
+88065565879,44052,Hugh N Chavira,Male,Geneva,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Date Shake,Non Alcoholic,70,67,89,6230,5963,267,8,Sept
+88065565880,44051,Lucius C Moorhead,Male,Elmira,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Dr. Enuf,Non Alcoholic,15,12,77,1155,924,231,8,Sept
+88065565881,44051,Deane I Keown,Female,Glen Cove,Merle N Burrus,Uptown Store,Josef I Sergent,Amir Yusha,Smirnoff,Alcoholic,15,12,68,1020,816,204,8,Sept
+88065565882,44052,Joannie E Wolters,Female,Glens Falls,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Fireball,Alcoholic,15,12,15,225,180,45,8,Sept
+88065565883,44053,Christene L Mccaleb,Female,Hornell ,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Jose Cuervo,Alcoholic,20,17,47,940,799,141,8,Sept
+88065565884,44054,Alline V Kushner,Female,Hudson,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Agavales,Alcoholic,12,9,6,72,54,18,8,Sept
+88065565885,44055,Vicki Y Hargrave,Female,Johnstown,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Pinnacle,Alcoholic,13,10,10,130,100,30,8,Sept
+88065565886,44056,Bernard N Weatherly,Male,Little Falls,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Bacardi Rum,Alcoholic,15,12,11,165,132,33,8,Sept
+88065565887,44057,Cordia M Knopp,Female,Auburn,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Suedka,Alcoholic,14,11,60,840,660,180,8,Sept
+88065565888,44058,Burton C Jin,Male,Betavia,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Apple Beer,Alcoholic,30,27,89,2670,2403,267,8,Sept
+88065565889,44062,Lauren O Guzzi,Male,Middletown,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Birch Beer,Alcoholic,16,13,77,1232,1001,231,8,Sept
+88065565890,44061,Carter C Hunt,Male,Mount,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Boost,Non Alcoholic,9,6,68,612,408,204,8,Sept
+88065565891,44061,Isaiah Y Magwood,Male,New York,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Cel Ray,Non Alcoholic,5,2,15,75,30,45,8,Sept
+88065565892,44062,Hugh N Chavira,Male,Geneva,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Cheerwine,Non Alcoholic,18,15,47,846,705,141,8,Sept
+88065565893,44063,Lucius C Moorhead,Male,Elmira,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Chicory Coffee,Non Alcoholic,10,7,6,60,42,18,8,Sept
+88065565894,44064,Deane I Keown,Female,Glen Cove,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Coffee Milk,Non Alcoholic,20,17,10,200,170,30,8,Sept
+88065565895,44065,Joannie E Wolters,Female,Glens Falls,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Date Shake,Non Alcoholic,70,67,11,770,737,33,8,Sept
+88065565896,44066,Christene L Mccaleb,Female,Hornell ,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Dr. Enuf,Non Alcoholic,15,12,60,900,720,180,8,Sept
+88065565897,44067,Alline V Kushner,Female,Hudson,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Smirnoff,Alcoholic,15,12,89,1335,1068,267,8,Sept
+88065565898,44068,Vicki Y Hargrave,Female,Johnstown,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Fireball,Alcoholic,15,12,77,1155,924,231,8,Sept
+88065565899,44072,Bernard N Weatherly,Male,Little Falls,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Jose Cuervo,Alcoholic,20,17,68,1360,1156,204,8,Sept
+88065565900,44071,Cordia M Knopp,Female,Auburn,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Agavales,Alcoholic,12,9,15,180,135,45,8,Sept
+88065565901,44071,Burton C Jin,Male,Betavia,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Pinnacle,Alcoholic,13,10,47,611,470,141,8,Sept
+88065565902,44072,Lauren O Guzzi,Male,Middletown,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Bacardi Rum,Alcoholic,15,12,6,90,72,18,8,Sept
+88065565903,44073,Carter C Hunt,Male,Mount,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Suedka,Alcoholic,14,11,10,140,110,30,8,Sept
+88065565904,44074,Isaiah Y Magwood,Male,New York,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Apple Beer,Alcoholic,30,27,11,330,297,33,8,Sept
+88065565905,44044,Hugh N Chavira,Male,Geneva,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Birch Beer,Alcoholic,16,13,60,960,780,180,8,Sept
+88065565906,44045,Lucius C Moorhead,Male,Elmira,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Boost,Non Alcoholic,9,6,89,801,534,267,8,Sept
+88065565907,44046,Deane I Keown,Female,Glen Cove,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Cel Ray,Non Alcoholic,5,2,77,385,154,231,8,Sept
+88065565908,44047,Joannie E Wolters,Female,Glens Falls,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Cheerwine,Non Alcoholic,18,15,68,1224,1020,204,8,Sept
+88065565909,44048,Christene L Mccaleb,Female,Hornell ,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Chicory Coffee,Non Alcoholic,10,7,15,150,105,45,8,Sept
+88065565910,44052,Alline V Kushner,Female,Hudson,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Coffee Milk,Non Alcoholic,20,17,47,940,799,141,8,Sept
+88065565911,44051,Vicki Y Hargrave,Female,Johnstown,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Date Shake,Non Alcoholic,70,67,6,420,402,18,8,Sept
+88065565912,44094,Mary Y Tate,Male,New York,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Dr. Enuf,Non Alcoholic,15,12,10,150,120,30,9,August
+88065565913,44095,Abe J Macleod,Male,Syracuse,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Speyburn Bradan,Alcoholic,20,17,11,220,187,33,9,August
+88065565914,44096,Evon Q Lawson,Female,Kingston,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Uv Blue,Alcoholic,12,9,60,720,540,180,9,August
+88065565915,44097,Jerlene P Dunnigan,Female,Watertown,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Burnett's,Alcoholic,10,7,89,890,623,267,9,August
+88065565916,44098,Bobbie X Schoenrock,Male,Watervliet,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Smirnoff,Alcoholic,15,12,77,1155,924,231,9,August
+88065565917,44099,Mike A Waddington,Male,Yakers,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Fireball,Alcoholic,15,12,68,1020,816,204,9,August
+88065565918,44103,Nigel K Wadsworth,Male,New York,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Jose Cuervo,Alcoholic,20,17,15,300,255,45,9,August
+88065565919,44102,Hayden E Novack,Male,Hempstead,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Agavales,Alcoholic,12,9,47,564,423,141,9,August
+88065565920,44102,Voncile P Trojanowski,Female,New York,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Pinnacle,Alcoholic,13,10,6,78,60,18,9,August
+88065565921,44103,Roberto U Derry,Female,New York,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Bacardi Rum,Alcoholic,15,12,10,150,120,30,9,August
+88065565922,44104,Tona S Huseby,Female,Babylon,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Suedka,Alcoholic,14,11,11,154,121,33,9,August
+88065565923,44044,Londa T Maya,Female,Beacon,Merle N Burrus,Uptown Store,Josef I Sergent,Amir Yusha,Apple Beer,Alcoholic,30,27,60,1800,1620,180,8,Sept
+88065565924,44045,Jocelyn Q Scotti,Female,New York,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Birch Beer,Alcoholic,16,13,89,1424,1157,267,8,Sept
+88065565925,44046,Mary Y Tate,Male,New York,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Boost,Non Alcoholic,9,6,77,693,462,231,8,Sept
+88065565926,44047,Abe J Macleod,Male,Syracuse,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Cel Ray,Non Alcoholic,5,2,68,340,136,204,8,Sept
+88065565927,44048,Evon Q Lawson,Female,Kingston,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Cheerwine,Non Alcoholic,18,15,15,270,225,45,8,Sept
+88065565928,44052,Jerlene P Dunnigan,Female,Watertown,Merle N Burrus,Uptown Store,Josef I Sergent,Amir Yusha,Chicory Coffee,Non Alcoholic,10,7,47,470,329,141,8,Sept
+88065565929,44051,Bobbie X Schoenrock,Male,Watervliet,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Coffee Milk,Non Alcoholic,20,17,6,120,102,18,8,Sept
+88065565930,44051,Mike A Waddington,Male,Yakers,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Date Shake,Non Alcoholic,70,67,10,700,670,30,8,Sept
+88065565931,44052,Nigel K Wadsworth,Male,New York,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Dr. Enuf,Non Alcoholic,15,12,11,165,132,33,8,Sept
+88065565932,44053,Hayden E Novack,Male,Hempstead,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Dr. Nut,Non Alcoholic,12,9,60,720,540,180,8,Sept
+88065565933,44054,Voncile P Trojanowski,Female,New York,Merle N Burrus,Uptown Store,Josef I Sergent,Amir Yusha,Egg Cream,Non Alcoholic,18,15,89,1602,1335,267,8,Sept
+88065565934,44055,Roberto U Derry,Female,New York,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Faygo,Non Alcoholic,23,20,77,1771,1540,231,8,Sept
+88065565935,44056,Tona S Huseby,Female,Babylon,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Green River,Non Alcoholic,9,6,68,612,408,204,8,Sept
+88065565936,44057,Londa T Maya,Female,Beacon,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Ironport,Non Alcoholic,18,15,15,270,225,45,8,Sept
+88065565937,44058,Jocelyn Q Scotti,Female,New York,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Oliver Cromwell,Alcoholic,52,49,47,2444,2303,141,8,Sept
+88065565938,44062,Mary Y Tate,Male,New York,Merle N Burrus,Uptown Store,Josef I Sergent,Amir Yusha,Boost,Non Alcoholic,9,6,6,54,36,18,8,Sept
+88065565939,44061,Abe J Macleod,Male,Syracuse,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Cel Ray,Non Alcoholic,5,2,10,50,20,30,8,Sept
+88065565940,44061,Evon Q Lawson,Female,Kingston,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Degrees Vodka,Alcoholic,14,11,11,154,121,33,8,Sept
+88065565941,44062,Jerlene P Dunnigan,Female,Watertown,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,St. Amdr Cabernet,Alcoholic,6,3,60,360,180,180,8,Sept
+88065565942,44063,Bobbie X Schoenrock,Male,Watervliet,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Chicory Coffee,Non Alcoholic,10,7,89,890,623,267,8,Sept
+88065565943,44064,Mike A Waddington,Male,Yakers,Merle N Burrus,Uptown Store,Josef I Sergent,Amir Yusha,Nake Turtle,Alcoholic,13,10,77,1001,770,231,8,Sept
+88065565944,44065,Nigel K Wadsworth,Male,New York,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Coffee Milk,Non Alcoholic,20,17,68,1360,1156,204,8,Sept
+88065565945,44066,Hayden E Novack,Male,Hempstead,Merle N Burrus,Uptown Store,Josef I Sergent,Amir Yusha,Gallo XO,Alcoholic,15,12,15,225,180,45,8,Sept
+88065565946,44067,Voncile P Trojanowski,Female,New York,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Cazadores Tequila,Alcoholic,20,17,47,940,799,141,8,Sept
+88065565947,44068,Roberto U Derry,Female,New York,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Benchmark Bourbon,Alcoholic,12,9,6,72,54,18,8,Sept
+88065565948,44072,Tona S Huseby,Female,Babylon,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Janie Stewart,Alcoholic,16,13,10,160,130,30,8,Sept
+88065565949,44071,Londa T Maya,Female,Beacon,Merle N Burrus,Uptown Store,Josef I Sergent,Amir Yusha,Date Shake,Non Alcoholic,70,67,11,770,737,33,8,Sept
+88065565950,44071,Jocelyn Q Scotti,Female,New York,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Dr. Enuf,Non Alcoholic,15,12,60,900,720,180,8,Sept
+88065565951,44072,Mary Y Tate,Male,New York,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Janie Stewart,Alcoholic,16,13,89,1424,1157,267,8,Sept
+88065565952,44073,Abe J Macleod,Male,Syracuse,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Speyburn Bradan,Alcoholic,20,17,77,1540,1309,231,8,Sept
+88065565953,44074,Evon Q Lawson,Female,Kingston,Merle N Burrus,Uptown Store,Josef I Sergent,Amir Yusha,Uv Blue,Alcoholic,12,9,68,816,612,204,8,Sept
+88065565954,44044,Jerlene P Dunnigan,Female,Watertown,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Dr. Nut,Non Alcoholic,12,9,15,180,135,45,8,Sept
+88065565955,44045,Bobbie X Schoenrock,Male,Watervliet,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Egg Cream,Non Alcoholic,18,15,47,846,705,141,8,Sept
+88065565956,44046,Mike A Waddington,Male,Yakers,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Burnett's,Alcoholic,10,7,6,60,42,18,8,Sept
+88065565957,44047,Nigel K Wadsworth,Male,New York,Merle N Burrus,Uptown Store,Josef I Sergent,Amir Yusha,Smirnoff,Alcoholic,15,12,10,150,120,30,8,Sept
+88065565958,44048,Hayden E Novack,Male,Hempstead,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Fireball,Alcoholic,15,12,11,165,132,33,8,Sept
+88065565959,44052,Voncile P Trojanowski,Female,New York,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Faygo,Non Alcoholic,23,20,60,1380,1200,180,8,Sept
+88065565960,44051,Roberto U Derry,Female,New York,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Green River,Non Alcoholic,9,6,89,801,534,267,8,Sept
+88065565961,44051,Tona S Huseby,Female,Babylon,Merle N Burrus,Uptown Store,Josef I Sergent,Amir Yusha,Ironport,Non Alcoholic,18,15,77,1386,1155,231,8,Sept
+88065565962,44052,Londa T Maya,Female,Beacon,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Suedka,Alcoholic,14,11,68,952,748,204,8,Sept
+88065565963,44053,Jocelyn Q Scotti,Female,New York,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Apple Beer,Alcoholic,30,27,15,450,405,45,8,Sept
+88065565964,44054,Mary Y Tate,Male,New York,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Birch Beer,Alcoholic,16,13,47,752,611,141,8,Sept
+88065565965,44055,Abe J Macleod,Male,Syracuse,Merle N Burrus,Uptown Store,Josef I Sergent,Amir Yusha,Oliver Cromwell,Alcoholic,52,49,6,312,294,18,8,Sept
+88065565966,44056,Evon Q Lawson,Female,Kingston,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Degrees Vodka,Alcoholic,14,11,10,140,110,30,8,Sept
+88065565967,44057,Jerlene P Dunnigan,Female,Watertown,Merle N Burrus,Uptown Store,Josef I Sergent,Amir Yusha,St. Amdr Cabernet,Alcoholic,6,3,11,66,33,33,8,Sept
+88065565968,44058,Bobbie X Schoenrock,Male,Watervliet,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Nake Turtle,Alcoholic,13,10,60,780,600,180,8,Sept
+88065565969,44062,Mike A Waddington,Male,Yakers,Merle N Burrus,Uptown Store,Josef I Sergent,Amir Yusha,Gallo XO,Alcoholic,15,12,89,1335,1068,267,8,Sept
+88065565970,44061,Nigel K Wadsworth,Male,New York,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Cazadores Tequila,Alcoholic,20,17,77,1540,1309,231,8,Sept
+88065565971,44061,Hayden E Novack,Male,Hempstead,Merle N Burrus,Uptown Store,Josef I Sergent,Amir Yusha,Benchmark Bourbon,Alcoholic,12,9,68,816,612,204,8,Sept
+88065565972,44062,Voncile P Trojanowski,Female,New York,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Janie Stewart,Alcoholic,16,13,15,240,195,45,8,Sept
+88065565973,44063,Roberto U Derry,Female,New York,Merle N Burrus,Uptown Store,Josef I Sergent,Amir Yusha,Speyburn Bradan,Alcoholic,20,17,47,940,799,141,8,Sept
+88065565974,44064,Tona S Huseby,Female,Babylon,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Uv Blue,Alcoholic,12,9,6,72,54,18,8,Sept
+88065565975,44065,Londa T Maya,Female,Beacon,Merle N Burrus,Uptown Store,Josef I Sergent,Amir Yusha,Burnett's,Alcoholic,10,7,10,100,70,30,8,Sept
+88065565976,44066,Jocelyn Q Scotti,Female,New York,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Smirnoff,Alcoholic,15,12,11,165,132,33,8,Sept
+88065565977,44044,Orval Q Schlesinger,Male,Watertown,Merle N Burrus,Uptown Store,Josef I Sergent,Amir Yusha,Fireball,Alcoholic,15,12,60,900,720,180,8,Sept
+88065565978,44045,Elois Z Ono,Female,Watervliet,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Jose Cuervo,Alcoholic,20,17,89,1780,1513,267,8,Sept
+88065565979,44046,Andreas L Kennard,Male,Yakers,Merle N Burrus,Uptown Store,Josef I Sergent,Amir Yusha,Agavales,Alcoholic,12,9,77,924,693,231,8,Sept
+88065565980,44047,Randee X Blunt,Female,New York,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Pinnacle,Alcoholic,13,10,68,884,680,204,8,Sept
+88065565981,44048,Chester N Sitz,Male,Hempstead,Merle N Burrus,Uptown Store,Josef I Sergent,Amir Yusha,Bacardi Rum,Alcoholic,15,12,15,225,180,45,8,Sept
+88065565982,44052,Allyson I Ours,Female,Brookhaven,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Suedka,Alcoholic,14,11,47,658,517,141,8,Sept
+88065565983,44051,Marlana W Zak,Female,Islip,Merle N Burrus,Uptown Store,Josef I Sergent,Amir Yusha,Apple Beer,Alcoholic,30,27,6,180,162,18,8,Sept
+88065565984,44051,Shanti P Brinegar,Female,Babylon,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Birch Beer,Alcoholic,16,13,10,160,130,30,8,Sept
+88065565985,44052,Valentin T Dearborn,Male,Albany,Merle N Burrus,Uptown Store,Josef I Sergent,Amir Yusha,Boost,Non Alcoholic,9,6,11,99,66,33,8,Sept
+88065565986,44053,Stanton Y Cavallaro,Male,Auburn,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Cel Ray,Non Alcoholic,5,2,60,300,120,180,8,Sept
+88065565987,44054,Adelaide L Harrop,Female,Betavia,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Cheerwine,Non Alcoholic,18,15,89,1602,1335,267,8,Sept
+88065565988,44055,Vonda U Mckinnis,Female,Beacon,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Chicory Coffee,Non Alcoholic,10,7,77,770,539,231,8,Sept
+88065565989,44056,Graham O Romeo,Male,Elmira,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Coffee Milk,Non Alcoholic,20,17,68,1360,1156,204,8,Sept
+88065565990,44057,Bert Q Lauritzen,Male,Glen Cove,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Date Shake,Non Alcoholic,70,67,15,1050,1005,45,8,Sept
+88065565991,44058,Bryce B Edens,Male,New York,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Dr. Enuf,Non Alcoholic,15,12,47,705,564,141,8,Sept
+88065565992,44062,Leonia Y Derosier,Female,Hempstead,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Dr. Nut,Non Alcoholic,12,9,6,72,54,18,8,Sept
+88065565993,44061,Jesus H Guillen,Male,Brookhaven,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Egg Cream,Non Alcoholic,18,15,10,180,150,30,8,Sept
+88065565994,44061,Sammy C Holtzclaw,Male,Glen Cove,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Faygo,Non Alcoholic,23,20,11,253,220,33,8,Sept
+88065565995,44062,Irving C Pillar,Male,Glens Falls,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Green River,Non Alcoholic,9,6,60,540,360,180,8,Sept
+88065565996,44063,Amiee Z Chaffins,Female,Hornell ,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Ironport,Non Alcoholic,18,15,89,1602,1335,267,8,Sept
+88065565997,44064,Carolina B Pasillas,Female,Hudson,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Oliver Cromwell,Alcoholic,52,49,77,4004,3773,231,8,Sept
+88065565998,44065,Stasia L Daley,Female,Johnstown,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Boost,Non Alcoholic,9,6,68,612,408,204,8,Sept
+88065565999,44066,Kimberlee J Hawkins,Female,Kingston,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Cel Ray,Non Alcoholic,5,2,15,75,30,45,8,Sept
+88065566000,44067,Valencia M Cuffee,Female,Little Falls,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Degrees Vodka,Alcoholic,14,11,47,658,517,141,8,Sept
+88065566001,44068,Gavin V Mckillip,Male,Lockport,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,St. Amdr Cabernet,Alcoholic,6,3,6,36,18,18,8,Sept
+88065566002,44072,Veronica I Mower,Female,Long Beach,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Chicory Coffee,Non Alcoholic,10,7,10,100,70,30,8,Sept
+88065566003,44071,Efren G Ager,Male,Middletown,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Nake Turtle,Alcoholic,13,10,11,143,110,33,8,Sept
+88065566004,44071,Christoper K Manzano,Male,Mount,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Coffee Milk,Non Alcoholic,20,17,60,1200,1020,180,8,Sept
+88065566005,44072,Jayson S Carrol,Male,New York,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Gallo XO,Alcoholic,15,12,89,1335,1068,267,8,Sept
+88065566006,44073,Alexis C Amaral,Male,Salamanca,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Cazadores Tequila,Alcoholic,20,17,77,1540,1309,231,8,Sept
+88065566007,44074,Carter B Hilderbrand,Male,Springs,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Benchmark Bourbon,Alcoholic,12,9,68,816,612,204,8,Sept
+88065566008,44044,Adelia U Villagomez,Female,Sherrill,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Janie Stewart,Alcoholic,16,13,15,240,195,45,8,Sept
+88065566009,44045,Silas J Wojcik,Male,Syracuse,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Date Shake,Non Alcoholic,70,67,47,3290,3149,141,8,Sept
+88065566010,44046,Sheila F Bergman,Female,Troy,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Dr. Enuf,Non Alcoholic,15,12,6,90,72,18,8,Sept
+88065566011,44047,Korey U Eddington,Male,Olean,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Janie Stewart,Alcoholic,16,13,10,160,130,30,8,Sept
+88065566012,44048,Brenton U Boyett,Male,Peekskill,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Speyburn Bradan,Alcoholic,20,17,11,220,187,33,8,Sept
+88065566013,44052,Debrah X Flury,Female,Port Jervis,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Uv Blue,Alcoholic,12,9,60,720,540,180,8,Sept
+88065566014,44051,Min X Buckmaster,Female,Kingston,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Dr. Nut,Non Alcoholic,12,9,89,1068,801,267,8,Sept
+88065566015,44051,Ramona V Hemphill,Female,Little Falls,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Egg Cream,Non Alcoholic,18,15,77,1386,1155,231,8,Sept
+88065566016,44052,Misti H Mendenhall,Female,Lockport,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Burnett's,Alcoholic,10,7,68,680,476,204,8,Sept
+88065566017,44053,Lemuel V Darden,Male,Long Beach,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Smirnoff,Alcoholic,15,12,15,225,180,45,8,Sept
+88065566018,44054,Ellis J Mccune,Male,Middletown,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Fireball,Alcoholic,15,12,47,705,564,141,8,Sept
+88065566019,44055,Stacey H Galante,Male,Watervliet,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Faygo,Non Alcoholic,23,20,6,138,120,18,8,Sept
+88065566020,44056,Jaquelyn C Holzman,Female,Yakers,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Green River,Non Alcoholic,9,6,10,90,60,30,8,Sept
+88065566021,44057,Marcellus H Macintyre,Male,New York,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Ironport,Non Alcoholic,18,15,11,198,165,33,8,Sept
+88065566022,44058,Toney O Gentle,Male,Hempstead,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Suedka,Alcoholic,14,11,60,840,660,180,8,Sept
+88065566023,44062,Sam E Lacey,Male,New York,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Apple Beer,Alcoholic,30,27,89,2670,2403,267,8,Sept
+88065566024,44061,Arden B Fujita,Male,Hempstead,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Birch Beer,Alcoholic,16,13,77,1232,1001,231,8,Sept
+88065566025,44061,Linsey P Orsini,Female,Brookhaven,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Oliver Cromwell,Alcoholic,52,49,68,3536,3332,204,8,Sept
+88065566026,44062,Ruby B Hare,Female,Islip,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Degrees Vodka,Alcoholic,14,11,15,210,165,45,8,Sept
+88065566027,44063,Thomas H Huang,Male,Babylon,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,St. Amdr Cabernet,Alcoholic,6,3,47,282,141,141,8,Sept
+88065566028,44064,Davida A Funkhouser,Female,Albany,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Nake Turtle,Alcoholic,13,10,6,78,60,18,8,Sept
+88065566029,44065,Kristle D Figgs,Female,Auburn,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Gallo XO,Alcoholic,15,12,10,150,120,30,8,Sept
+88065566030,44066,Duncan O Maheu,Male,Betavia,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Cazadores Tequila,Alcoholic,20,17,3,60,51,9,8,Sept
+88065566031,44067,Elijah X Ahmad,Male,Beacon,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Benchmark Bourbon,Alcoholic,12,9,4,48,36,12,8,Sept
+88065566032,44068,Maryellen E Zackery,Female,Choes,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Janie Stewart,Alcoholic,16,13,5,80,65,15,8,Sept
+88065566033,44072,Bret C Delancey,Male,Fulton,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Speyburn Bradan,Alcoholic,20,17,6,120,102,18,8,Sept
+88065566034,44071,Bryan V Guyton,Male,Geneva,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Uv Blue,Alcoholic,12,9,3,36,27,9,8,Sept
+88065566035,44071,Lakenya Z Mccroskey,Female,Elmira,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Burnett's,Alcoholic,10,7,7,70,49,21,8,Sept
+88065566036,44072,Clyde P Ponton,Male,Glen Cove,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Smirnoff,Alcoholic,15,12,5,75,60,15,8,Sept
+88065566037,44073,Waylon Z Curtsinger,Male,Glens Falls,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Fireball,Alcoholic,15,12,8,120,96,24,8,Sept
+88065566038,44074,Reyes X Segal,Male,Hornell ,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Jose Cuervo,Alcoholic,20,17,9,180,153,27,8,Sept
+88065566039,44075,Cristal Q Kucharski,Female,Hudson,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Agavales,Alcoholic,12,9,2,24,18,6,9,August
+88065566040,44076,Sidney D Amore,Female,Johnstown,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Pinnacle,Alcoholic,13,10,5,65,50,15,9,August
+88065566041,44077,Stacy B Kennell,Female,Kingston,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Bacardi Rum,Alcoholic,15,12,7,105,84,21,9,August
+88065566042,44078,Marleen R Guyette,Female,Little Falls,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Suedka,Alcoholic,14,11,7,98,77,21,9,August
+88065566043,44079,Claudio Q Bien,Male,Lockport,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Apple Beer,Alcoholic,30,27,15,450,405,45,9,August
+88065566044,44083,Esmeralda N Veliz,Female,Long Beach,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Birch Beer,Alcoholic,16,13,3,48,39,9,9,August
+88065566045,44082,Toya B Rawlins,Female,Middletown,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Boost,Non Alcoholic,9,6,6,54,36,18,9,August
+88065566046,44082,Lamar L Legg,Male,Mount,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Cel Ray,Non Alcoholic,5,2,10,50,20,30,9,August
+88065566047,44083,Carey J Sandlin,Male,New York,Merle N Burrus,Uptown Store,Josef I Sergent,Amir Yusha,Cheerwine,Non Alcoholic,18,15,11,198,165,33,9,August
+88065566048,44084,Andres P Towles,Male,Newburgh,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Chicory Coffee,Non Alcoholic,10,7,3,30,21,9,9,August
+88065566049,44085,Aleisha H Mathew,Female,Olean,Merle N Burrus,Uptown Store,Josef I Sergent,Amir Yusha,Speyburn Bradan,Alcoholic,20,17,1,20,17,3,9,August
+88065566050,44086,Kizzy W Brazelton,Female,Peekskill,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Uv Blue,Alcoholic,12,9,1,12,9,3,9,August
+88065566051,44087,Jeffery A Brafford,Male,Port Jervis,Merle N Burrus,Uptown Store,Josef I Sergent,Amir Yusha,Burnett's,Alcoholic,10,7,1,10,7,3,9,August
+88065566052,44088,Bernardo X Barbee,Male,Poughkeepsie,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Smirnoff,Alcoholic,15,12,3,45,36,9,9,August
+88065566053,44089,Lenny U Rister,Male,Rye ,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Fireball,Alcoholic,15,12,4,60,48,12,9,August
+88065566054,44093,Lamont J Brescia,Male,Rome,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Jose Cuervo,Alcoholic,20,17,5,100,85,15,9,August
+88065566055,44092,Ilse X Harr,Female,Rochester,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Agavales,Alcoholic,12,9,6,72,54,18,9,August
+88065566056,44092,Janie P Caswell,Female,Salamanca,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Pinnacle,Alcoholic,13,10,7,91,70,21,9,August
+88065566057,44093,Joesph Y Shrout,Male,Springs,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Bacardi Rum,Alcoholic,15,12,11,165,132,33,9,August
+88065566058,44094,Dorla G Westberry,Female,Sherrill,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Suedka,Alcoholic,14,11,2,28,22,6,9,August
+88065566059,44095,August C Strother,Male,Syracuse,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Apple Beer,Alcoholic,30,27,3,90,81,9,9,August
+88065566060,44096,Lynn M Blocher,Male,Troy,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Birch Beer,Alcoholic,16,13,5,80,65,15,9,August
+88065566061,44097,Kieth G Coney,Male,Watertown,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Boost,Non Alcoholic,9,6,2,18,12,6,9,August
+88065566062,44098,Olevia U Cartier,Female,Watervliet,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Cel Ray,Non Alcoholic,5,2,1,5,2,3,9,August
+88065566063,44099,Linwood J Franqui,Male,Yakers,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Cheerwine,Non Alcoholic,18,15,6,108,90,18,9,August
+88065566064,44103,Reagan H Costas,Female,New York,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Chicory Coffee,Non Alcoholic,10,7,9,90,63,27,9,August
+88065566065,44102,Rosalva G Shepley,Female,Hempstead,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Coffee Milk,Non Alcoholic,20,17,10,200,170,30,9,August
+88065566066,44102,Keenan W Spruell,Male,Brookhaven,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Date Shake,Non Alcoholic,70,67,3,210,201,9,9,August
+88065566067,44103,Chrissy H Edmonson,Female,Islip,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Dr. Enuf,Non Alcoholic,15,12,4,60,48,12,9,August
+88065566068,44058,Joleen H Chea,Female,Babylon,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Dr. Nut,Non Alcoholic,12,9,5,60,45,15,8,Sept
+88065566069,44062,Les V Gran,Male,Albany,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Egg Cream,Non Alcoholic,18,15,6,108,90,18,8,Sept
+88065566070,44061,Walter H Hargreaves,Male,Auburn,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Faygo,Non Alcoholic,23,20,3,69,60,9,8,Sept
+88065566071,44061,Akiko S Godby,Female,Betavia,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Green River,Non Alcoholic,9,6,7,63,42,21,8,Sept
+88065566072,44062,Simon G Cromwell,Male,Beacon,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Ironport,Non Alcoholic,18,15,5,90,75,15,8,Sept
+88065566073,44063,Tim U Kornegay,Male,Elmira,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Oliver Cromwell,Alcoholic,52,49,8,416,392,24,8,Sept
+88065566074,44064,Loren I Casady,Male,Glen Cove,Merle N Burrus,Uptown Store,Josef I Sergent,Amir Yusha,Boost,Non Alcoholic,9,6,9,81,54,27,8,Sept
+88065566075,44065,Rufus F Furlong,Male,New York,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Cel Ray,Non Alcoholic,5,2,2,10,4,6,8,Sept
+88065566076,44066,Zackary G Parkins,Male,Hempstead,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Degrees Vodka,Alcoholic,14,11,5,70,55,15,8,Sept
+88065566077,44067,Cedric N Cavallo,Male,Brookhaven,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,St. Amdr Cabernet,Alcoholic,6,3,7,42,21,21,8,Sept
+88065566078,44068,Donya G Rodden,Female,Glen Cove,Merle N Burrus,Uptown Store,Josef I Sergent,Amir Yusha,Chicory Coffee,Non Alcoholic,10,7,7,70,49,21,8,Sept
+88065566079,44072,Arlen F Maly,Male,Glens Falls,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Nake Turtle,Alcoholic,13,10,15,195,150,45,8,Sept
+88065566080,44071,Bo E Curlee,Male,Hornell ,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Coffee Milk,Non Alcoholic,20,17,3,60,51,9,8,Sept
+88065566081,44071,Rosanna D Standley,Female,Hudson,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Gallo XO,Alcoholic,15,12,6,90,72,18,8,Sept
+88065566082,44072,Jody K Rude,Male,Johnstown,Merle N Burrus,Uptown Store,Josef I Sergent,Amir Yusha,Cazadores Tequila,Alcoholic,20,17,10,200,170,30,8,Sept
+88065566083,44073,Arlen Z Vanslyke,Male,Kingston,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Benchmark Bourbon,Alcoholic,12,9,11,132,99,33,8,Sept
+88065566084,44074,Korey I Garrity,Male,Little Falls,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Janie Stewart,Alcoholic,16,13,3,48,39,9,8,Sept
+88065566085,44044,Jose P Tubbs,Male,Lockport,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Date Shake,Non Alcoholic,70,67,1,70,67,3,8,Sept
+88065566086,44045,Elroy L Shorts,Male,Long Beach,Merle N Burrus,Uptown Store,Josef I Sergent,Amir Yusha,Dr. Enuf,Non Alcoholic,15,12,1,15,12,3,8,Sept
+88065566087,44046,Roberto A Fresquez,Male,Middletown,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Janie Stewart,Alcoholic,16,13,1,16,13,3,8,Sept
+88065566088,44047,Ronnie E Swim,Female,Mount,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Speyburn Bradan,Alcoholic,20,17,3,60,51,9,8,Sept
+88065566089,44048,Brad I Pattison,Male,New York,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Uv Blue,Alcoholic,12,9,4,48,36,12,8,Sept
+88065566090,44052,Angela P Lorenzen,Female,Salamanca,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Dr. Nut,Non Alcoholic,12,9,5,60,45,15,8,Sept
+88065566091,44051,Russ U Belliveau,Male,Springs,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Egg Cream,Non Alcoholic,18,15,6,108,90,18,8,Sept
+88065566092,44051,Rashida M Durante,Female,Sherrill,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Burnett's,Alcoholic,10,7,7,70,49,21,8,Sept
+88065566093,44052,Grady Y Perera,Male,Syracuse,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Smirnoff,Alcoholic,15,12,11,165,132,33,8,Sept
+88065566094,44053,Nigel O Sansom,Male,Troy,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Fireball,Alcoholic,15,12,2,30,24,6,8,Sept
+88065566095,44054,Orval N Pichardo,Male,Olean,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Faygo,Non Alcoholic,23,20,3,69,60,9,8,Sept
+88065566096,44055,Bong M Alvares,Female,Peekskill,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Green River,Non Alcoholic,9,6,5,45,30,15,8,Sept
+88065566097,44056,Federico I Carlile,Male,Port Jervis,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Ironport,Non Alcoholic,18,15,2,36,30,6,8,Sept
+88065566098,44057,Marco J Desilva,Male,Kingston,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Suedka,Alcoholic,14,11,1,14,11,3,8,Sept
+88065566099,44058,Natasha L Mcelhannon,Female,Little Falls,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Apple Beer,Alcoholic,30,27,6,180,162,18,8,Sept
+88065566100,44062,Cristi T Clem,Female,Lockport,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Birch Beer,Alcoholic,16,13,9,144,117,27,8,Sept
+88065566101,44061,Andreas T Viles,Male,Long Beach,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Oliver Cromwell,Alcoholic,52,49,10,520,490,30,8,Sept
+88065566102,44061,Liz R Lomonaco,Female,Middletown,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Degrees Vodka,Alcoholic,14,11,3,42,33,9,8,Sept
+88065566103,44062,Elenor B Gibbs,Female,Watervliet,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,St. Amdr Cabernet,Alcoholic,6,3,4,24,12,12,8,Sept
+88065566104,44063,Van T Dotson,Male,Yakers,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Nake Turtle,Alcoholic,13,10,5,65,50,15,8,Sept
+88065566105,44064,Hoyt O Reiss,Male,New York,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Gallo XO,Alcoholic,15,12,6,90,72,18,8,Sept
+88065566106,44065,Danette A Kuykendall,Female,Hempstead,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Cazadores Tequila,Alcoholic,20,17,3,60,51,9,8,Sept
+88065566107,44066,Silvana V Hendrix,Female,New York,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Benchmark Bourbon,Alcoholic,12,9,7,84,63,21,8,Sept
+88065566108,44067,Clara B Sifuentes,Female,Hempstead,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Janie Stewart,Alcoholic,16,13,5,80,65,15,8,Sept
+88065566109,44068,Luella W Kemmerer,Female,Brookhaven,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Speyburn Bradan,Alcoholic,20,17,8,160,136,24,8,Sept
+88065566110,44072,Adella U Foushee,Female,Islip,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Uv Blue,Alcoholic,12,9,9,108,81,27,8,Sept
+88065566111,44071,Mirian E Gorman,Female,Babylon,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Burnett's,Alcoholic,10,7,2,20,14,6,8,Sept
+88065566112,44071,Donna R Woodrum,Female,Albany,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Smirnoff,Alcoholic,15,12,5,75,60,15,8,Sept
+88065566113,44072,Dusty L Kugler,Male,Auburn,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Fireball,Alcoholic,15,12,7,105,84,21,8,Sept
+88065566114,44073,Toney W Bollman,Male,Betavia,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Jose Cuervo,Alcoholic,20,17,7,140,119,21,8,Sept
+88065566115,44074,Dennis K Cayer,Male,Beacon,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Agavales,Alcoholic,12,9,15,180,135,45,8,Sept
+88065566116,44075,Karl O Langlinais,Male,Choes,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Pinnacle,Alcoholic,13,10,3,39,30,9,9,August
+88065566117,44076,Hung H Nicola,Male,Fulton,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Bacardi Rum,Alcoholic,15,12,6,90,72,18,9,August
+88065566118,44077,Dovie F Larue,Female,Geneva,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Suedka,Alcoholic,14,11,10,140,110,30,9,August
+88065566119,44078,Verona H Brobst,Female,Elmira,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Apple Beer,Alcoholic,30,27,11,330,297,33,9,August
+88065566120,44079,Gwyn N Mitzel,Female,Glen Cove,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Birch Beer,Alcoholic,16,13,3,48,39,9,9,August
+88065566121,44083,Linh U Ashton,Female,Glens Falls,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Boost,Non Alcoholic,9,6,1,9,6,3,9,August
+88065566122,44082,Guillermo X Schwan,Male,Hornell ,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Cel Ray,Non Alcoholic,5,2,1,5,2,3,9,August
+88065566123,44082,Arron R Vegas,Male,Hudson,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Cheerwine,Non Alcoholic,18,15,1,18,15,3,9,August
+88065566124,44083,Curtis E Quayle,Female,Johnstown,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Chicory Coffee,Non Alcoholic,10,7,3,30,21,9,9,August
+88065566125,44084,Walton U Kapoor,Male,Kingston,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Coffee Milk,Non Alcoholic,20,17,4,80,68,12,9,August
+88065566126,44085,Cortez F Espiritu,Male,Little Falls,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Date Shake,Non Alcoholic,70,67,5,350,335,15,9,August
+88065566127,44086,Robert F Trudeau,Male,Lockport,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Dr. Enuf,Non Alcoholic,15,12,6,90,72,18,9,August
+88065566128,44087,Hyun M Gloss,Female,Long Beach,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Dr. Nut,Non Alcoholic,12,9,7,84,63,21,9,August
+88065566129,44088,Markus J Lamm,Male,Middletown,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Egg Cream,Non Alcoholic,18,15,11,198,165,33,9,August
+88065566130,44089,Rosaline H Brenneman,Female,Mount,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Faygo,Non Alcoholic,23,20,2,46,40,6,9,August
+88065566131,44093,Steve S Everette,Male,New York,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Green River,Non Alcoholic,9,6,3,27,18,9,9,August
+88065566132,44092,Alesia B Bear,Female,Newburgh,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Ironport,Non Alcoholic,18,15,5,90,75,15,9,August
+88065566133,44092,Cythia I Stecker,Female,Olean,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Oliver Cromwell,Alcoholic,52,49,2,104,98,6,9,August
+88065566134,44093,Alanna L Tyrell,Female,Peekskill,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Boost,Non Alcoholic,9,6,1,9,6,3,9,August
+88065566135,44094,Tristan M Brackett,Male,Port Jervis,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Cel Ray,Non Alcoholic,5,2,6,30,12,18,9,August
+88065566136,44095,Bernardo I Garzon,Male,Poughkeepsie,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Degrees Vodka,Alcoholic,14,11,9,126,99,27,9,August
+88065566137,44096,Hubert L Kirkland,Male,Rye ,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,St. Amdr Cabernet,Alcoholic,6,3,10,60,30,30,9,August
+88065566138,44097,Reynaldo S Service,Male,Rome,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Chicory Coffee,Non Alcoholic,10,7,3,30,21,9,9,August
+88065566139,44098,Mac U Palmquist,Male,Rochester,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Nake Turtle,Alcoholic,13,10,4,52,40,12,9,August
+88065566140,44099,Monte F Mcginn,Male,Salamanca,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Coffee Milk,Non Alcoholic,20,17,5,100,85,15,9,August
+88065566141,44103,Deshawn O Mankin,Male,Springs,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Gallo XO,Alcoholic,15,12,6,90,72,18,9,August
+88065566142,44102,Aurelio K Wyckoff,Male,Sherrill,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Cazadores Tequila,Alcoholic,20,17,3,60,51,9,9,August
+88065566143,44102,Janean A Tyler,Female,Syracuse,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Benchmark Bourbon,Alcoholic,12,9,7,84,63,21,9,August
+88065566144,44103,Deandre U Groleau,Male,Troy,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Janie Stewart,Alcoholic,16,13,5,80,65,15,9,August
+88065566145,44073,Kristal F Bickford,Female,Watertown,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Date Shake,Non Alcoholic,70,67,8,560,536,24,8,Sept
+88065566146,44074,Annabelle E Encinas,Female,Watervliet,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Dr. Enuf,Non Alcoholic,15,12,9,135,108,27,8,Sept
+88065566147,44044,Sarita P Schubert,Female,Yakers,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Janie Stewart,Alcoholic,16,13,2,32,26,6,8,Sept
+88065566148,44045,Jeanna U Li,Female,New York,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Speyburn Bradan,Alcoholic,20,17,5,100,85,15,8,Sept
+88065566149,44046,Russ I Teed,Male,Hempstead,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Uv Blue,Alcoholic,12,9,7,84,63,21,8,Sept
+88065566150,44047,Shavonne B Boylan,Female,Brookhaven,Merle N Burrus,Uptown Store,Josef I Sergent,Amir Yusha,Dr. Nut,Non Alcoholic,12,9,7,84,63,21,8,Sept
+88065566151,44048,Isaac O Dempster,Male,Islip,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Egg Cream,Non Alcoholic,18,15,15,270,225,45,8,Sept
+88065566152,44052,Corey F Stowe,Male,Babylon,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Burnett's,Alcoholic,10,7,3,30,21,9,8,Sept
+88065566153,44051,Stan I Folks,Male,Albany,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Smirnoff,Alcoholic,15,12,6,90,72,18,8,Sept
+88065566154,44051,Giuseppina E Fink,Female,Auburn,Merle N Burrus,Uptown Store,Josef I Sergent,Amir Yusha,Fireball,Alcoholic,15,12,10,150,120,30,8,Sept
+88065566155,44052,Ingeborg Z Weisser,Female,Betavia,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Faygo,Non Alcoholic,23,20,11,253,220,33,8,Sept
+88065566156,44053,Carolin T Loya,Female,Beacon,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Green River,Non Alcoholic,9,6,3,27,18,9,8,Sept
+88065566157,44054,Alda F Penning,Female,Elmira,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Ironport,Non Alcoholic,18,15,1,18,15,3,8,Sept
+88065566158,44055,Talisha F Nicklas,Female,Glen Cove,Merle N Burrus,Uptown Store,Josef I Sergent,Amir Yusha,Suedka,Alcoholic,14,11,1,14,11,3,8,Sept
+88065566159,44056,Terrance E Schiefelbein,Male,New York,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Apple Beer,Alcoholic,30,27,1,30,27,3,8,Sept
+88065566160,44057,Tyree W Linden,Male,Hempstead,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Birch Beer,Alcoholic,16,13,3,48,39,9,8,Sept
+88065566161,44058,Cameron K Gratton,Male,Brookhaven,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Oliver Cromwell,Alcoholic,52,49,4,208,196,12,8,Sept
+88065566162,44062,Mack L Lykes,Male,Glen Cove,Merle N Burrus,Uptown Store,Josef I Sergent,Amir Yusha,Degrees Vodka,Alcoholic,14,11,5,70,55,15,8,Sept
+88065566163,44061,Edmund K Masuda,Male,Glens Falls,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,St. Amdr Cabernet,Alcoholic,6,3,6,36,18,18,8,Sept
+88065566164,44061,Alfred L Strausbaugh,Male,Hornell ,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Nake Turtle,Alcoholic,13,10,7,91,70,21,8,Sept
+88065566165,44062,Cleveland A Zinke,Male,Hudson,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Gallo XO,Alcoholic,15,12,11,165,132,33,8,Sept
+88065566166,44063,Damien A Izquierdo,Male,Johnstown,Merle N Burrus,Uptown Store,Josef I Sergent,Amir Yusha,Cazadores Tequila,Alcoholic,20,17,2,40,34,6,8,Sept
+88065566167,44064,Chase T Scurry,Male,Kingston,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Benchmark Bourbon,Alcoholic,12,9,3,36,27,9,8,Sept
+88065566168,44065,Lorriane P Ho,Female,Little Falls,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Janie Stewart,Alcoholic,16,13,5,80,65,15,8,Sept
+88065566169,44066,Alina L Prowell,Female,Lockport,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Speyburn Bradan,Alcoholic,20,17,2,40,34,6,8,Sept
+88065566170,44067,Keven H Araiza,Male,Long Beach,Merle N Burrus,Uptown Store,Josef I Sergent,Amir Yusha,Uv Blue,Alcoholic,12,9,1,12,9,3,8,Sept
+88065566171,44068,Jaleesa I Averett,Female,Middletown,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Burnett's,Alcoholic,10,7,6,60,42,18,8,Sept
+88065566172,44072,Corina U Korhonen,Female,Mount,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Smirnoff,Alcoholic,15,12,9,135,108,27,8,Sept
+88065566173,44071,Andrew D Hersey,Female,New York,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Fireball,Alcoholic,15,12,10,150,120,30,8,Sept
+88065566174,44071,Delphine P Carpio,Female,Salamanca,Merle N Burrus,Uptown Store,Josef I Sergent,Amir Yusha,Jose Cuervo,Alcoholic,20,17,3,60,51,9,8,Sept
+88065566175,44072,Joanie N Folkerts,Female,Springs,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Agavales,Alcoholic,12,9,4,48,36,12,8,Sept
+88065566176,44073,Keith E Moyes,Male,Sherrill,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Pinnacle,Alcoholic,13,10,5,65,50,15,8,Sept
+88065566177,44074,Katie N Kinnison,Female,Syracuse,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Bacardi Rum,Alcoholic,15,12,6,90,72,18,8,Sept
+88065566178,44075,Angel F Palomino,Male,Troy,Merle N Burrus,Uptown Store,Josef I Sergent,Amir Yusha,Suedka,Alcoholic,14,11,3,42,33,9,9,August
+88065566179,44076,Vicki V Broussard,Female,Olean,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Apple Beer,Alcoholic,30,27,7,210,189,21,9,August
+88065566180,44077,Sam C Limones,Male,Peekskill,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Birch Beer,Alcoholic,16,13,5,80,65,15,9,August
+88065566181,44078,Amelia H Burbank,Female,Port Jervis,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Boost,Non Alcoholic,9,6,8,72,48,24,9,August
+88065566182,44079,Daniel L Nava,Male,Kingston,Merle N Burrus,Uptown Store,Josef I Sergent,Amir Yusha,Cel Ray,Non Alcoholic,5,2,9,45,18,27,9,August
+88065566183,44083,Jefferson N Thurman,Male,Little Falls,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Cheerwine,Non Alcoholic,18,15,2,36,30,6,9,August
+88065566184,44082,Forest Z Hacker,Male,Lockport,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Chicory Coffee,Non Alcoholic,10,7,5,50,35,15,9,August
+88065566185,44082,Colleen B Lenihan,Female,Long Beach,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Speyburn Bradan,Alcoholic,20,17,7,140,119,21,9,August
+88065566186,44083,Elease H Burger,Female,Middletown,Merle N Burrus,Uptown Store,Josef I Sergent,Amir Yusha,Uv Blue,Alcoholic,12,9,7,84,63,21,9,August
+88065566187,44084,Benedict B Wix,Male,Watervliet,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Burnett's,Alcoholic,10,7,15,150,105,45,9,August
+88065566188,44085,Minta J Branham,Female,Yakers,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Smirnoff,Alcoholic,15,12,3,45,36,9,9,August
+88065566189,44086,Cicely W Colton,Female,New York,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Fireball,Alcoholic,15,12,6,90,72,18,9,August
+88065566190,44087,Sheryll X Broadbent,Female,Hempstead,Merle N Burrus,Uptown Store,Josef I Sergent,Amir Yusha,Jose Cuervo,Alcoholic,20,17,10,200,170,30,9,August
+88065566191,44088,Margarett E Mulford,Female,New York,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Agavales,Alcoholic,12,9,11,132,99,33,9,August
+88065566192,44089,Zane J Hurdle,Male,Hempstead,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Pinnacle,Alcoholic,13,10,3,39,30,9,9,August
+88065566193,44093,Fermin L Zapata,Male,Brookhaven,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Bacardi Rum,Alcoholic,15,12,1,15,12,3,9,August
+88065566194,44092,Benedict U Daye,Male,Islip,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Suedka,Alcoholic,14,11,1,14,11,3,9,August
+88065566195,44092,Sena U Delrosario,Female,Babylon,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Apple Beer,Alcoholic,30,27,1,30,27,3,9,August
+88065566196,44093,Forest Z Blewett,Male,Albany,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Birch Beer,Alcoholic,16,13,3,48,39,9,9,August
+88065566197,44094,Cassaundra K Polito,Female,Auburn,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Boost,Non Alcoholic,9,6,4,36,24,12,9,August
+88065566198,44095,Wiley U Maske,Male,Betavia,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Cel Ray,Non Alcoholic,5,2,5,25,10,15,9,August
+88065566199,44096,Taneka Q Church,Female,Beacon,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Cheerwine,Non Alcoholic,18,15,6,108,90,18,9,August
+88065566200,44097,Stanley F Casillas,Male,Choes,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Chicory Coffee,Non Alcoholic,10,7,7,70,49,21,9,August
+88065566201,44098,Kraig P Brownfield,Male,Fulton,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Coffee Milk,Non Alcoholic,20,17,11,220,187,33,9,August
+88065566202,44099,Clint Q Orear,Male,Geneva,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Date Shake,Non Alcoholic,70,67,2,140,134,6,9,August
+88065566203,44103,Dawna T Woodbury,Female,Elmira,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Dr. Enuf,Non Alcoholic,15,12,3,45,36,9,9,August
+88065566204,44102,Andria Z Reza,Female,Betavia,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Dr. Nut,Non Alcoholic,12,9,5,60,45,15,9,August
+88065566205,44102,Bertha E Harbison,Female,Beacon,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Egg Cream,Non Alcoholic,18,15,2,36,30,6,9,August
+88065566206,44103,Bert S Kinkade,Male,Elmira,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Faygo,Non Alcoholic,23,20,1,23,20,3,9,August
+88065566207,44073,Margrett M Confer,Female,Glen Cove,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Green River,Non Alcoholic,9,6,6,54,36,18,8,Sept
+88065566208,44074,Tuan L Rhymes,Male,New York,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Ironport,Non Alcoholic,18,15,9,162,135,27,8,Sept
+88065566209,44075,Meda I Hayner,Female,Hempstead,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Oliver Cromwell,Alcoholic,52,49,10,520,490,30,9,August
+88065566210,44076,Adalberto W Creek,Male,Brookhaven,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Boost,Non Alcoholic,9,6,3,27,18,9,9,August
+88065566211,44077,Renaldo K Cheatham,Male,Glen Cove,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Cel Ray,Non Alcoholic,5,2,4,20,8,12,9,August
+88065566212,44078,Grisel R Whitty,Female,Glens Falls,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Degrees Vodka,Alcoholic,14,11,5,70,55,15,9,August
+88065566213,44079,Clemente S Wiechmann,Male,Hornell ,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,St. Amdr Cabernet,Alcoholic,6,3,6,36,18,18,9,August
+88065566214,44083,Wm S Goldschmidt,Male,Hudson,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Chicory Coffee,Non Alcoholic,10,7,3,30,21,9,9,August
+88065566215,44082,Lamar A Partida,Male,Johnstown,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Nake Turtle,Alcoholic,13,10,7,91,70,21,9,August
+88065566216,44082,Rex K Dion,Male,Kingston,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Coffee Milk,Non Alcoholic,20,17,5,100,85,15,9,August
+88065566217,44083,Louann X Sakamoto,Female,Little Falls,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Gallo XO,Alcoholic,15,12,8,120,96,24,9,August
+88065566218,44084,Murray D Pennock,Male,Lockport,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Cazadores Tequila,Alcoholic,20,17,9,180,153,27,9,August
+88065566219,44085,Rosella E Marron,Female,Long Beach,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Benchmark Bourbon,Alcoholic,12,9,2,24,18,6,9,August
+88065566220,44086,Nelida E Cheeks,Female,Middletown,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Janie Stewart,Alcoholic,16,13,5,80,65,15,9,August
+88065566221,44087,Roselia F Britton,Female,Mount,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Date Shake,Non Alcoholic,70,67,7,490,469,21,9,August
+88065566222,44088,Gilberto U Greaves,Male,New York,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Dr. Enuf,Non Alcoholic,15,12,7,105,84,21,9,August
+88065566223,44089,Keven A Jewell,Male,New York,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Janie Stewart,Alcoholic,16,13,15,240,195,45,9,August
+88065566224,44093,Kate O Paull,Female,Hempstead,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Speyburn Bradan,Alcoholic,20,17,3,60,51,9,9,August
+88065566225,44092,Marni O Otter,Female,Brookhaven,Merle N Burrus,Uptown Store,Josef I Sergent,Amir Yusha,Uv Blue,Alcoholic,12,9,6,72,54,18,9,August
+88065566226,44092,Augusta G Kircher,Female,Islip,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Dr. Nut,Non Alcoholic,12,9,10,120,90,30,9,August
+88065566227,44093,Lincoln D Cauley,Male,Babylon,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Egg Cream,Non Alcoholic,18,15,11,198,165,33,9,August
+88065566228,44094,Ramona W Rand,Female,Albany,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Burnett's,Alcoholic,10,7,3,30,21,9,9,August
+88065566229,44095,Davis Z Gaylor,Male,Auburn,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Smirnoff,Alcoholic,15,12,1,15,12,3,9,August
+88065566230,44096,Margit E Gallion,Female,Betavia,Merle N Burrus,Uptown Store,Josef I Sergent,Amir Yusha,Fireball,Alcoholic,15,12,1,15,12,3,9,August
+88065566231,44097,Sharyl Y Torian,Female,Beacon,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Faygo,Non Alcoholic,23,20,1,23,20,3,9,August
+88065566232,44098,Buddy W Lofgren,Male,Choes,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Green River,Non Alcoholic,9,6,3,27,18,9,9,August
+88065566233,44099,Malcolm Y Bonaparte,Male,Fulton,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Ironport,Non Alcoholic,18,15,4,72,60,12,9,August
+88065566234,44103,Marissa S Hughes,Female,Beacon,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Suedka,Alcoholic,14,11,5,70,55,15,9,August
+88065566235,44102,Paz J Hegwood,Female,Choes,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Apple Beer,Alcoholic,30,27,6,180,162,18,9,August
+88065566236,44102,Jacinda X Michalec,Female,Fulton,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Birch Beer,Alcoholic,16,13,7,112,91,21,9,August
+88065566237,44103,August F Dones,Male,Beacon,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Oliver Cromwell,Alcoholic,52,49,11,572,539,33,9,August
+88065566238,44073,Sherlene E Mcdaniel,Female,Choes,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Degrees Vodka,Alcoholic,14,11,2,28,22,6,8,Sept
+88065566239,44074,Linette Q Menard,Female,Fulton,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,St. Amdr Cabernet,Alcoholic,6,3,3,18,9,9,8,Sept
+88065566240,44075,Emmanuel G Chamorro,Male,Beacon,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Nake Turtle,Alcoholic,13,10,5,65,50,15,9,August
+88065566241,44076,Jeramy T Londono,Male,Choes,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Gallo XO,Alcoholic,15,12,2,30,24,6,9,August
+88065566242,44077,Freddie C Headen,Male,Fulton,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Cazadores Tequila,Alcoholic,20,17,1,20,17,3,9,August
+88065566243,44078,Stefanie P Rose,Female,Beacon,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Benchmark Bourbon,Alcoholic,12,9,6,72,54,18,9,August
+88065566244,44092,Paola R Timberlake,Female,Choes,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Janie Stewart,Alcoholic,16,13,9,144,117,27,9,August
+88065566245,44092,Bridget D Spadaro,Female,Fulton,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Speyburn Bradan,Alcoholic,20,17,10,200,170,30,9,August
+88065566246,44093,Mauricio I Streets,Male,Beacon,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Uv Blue,Alcoholic,12,9,3,36,27,9,9,August
+88065566247,44094,Les V Bejarano,Male,Choes,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Burnett's,Alcoholic,10,7,4,40,28,12,9,August
+88065566248,44095,Vinita E Chamber,Female,Fulton,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Smirnoff,Alcoholic,15,12,5,75,60,15,9,August
+88065566249,44096,Neil Z Stoughton,Male,Beacon,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Fireball,Alcoholic,15,12,6,90,72,18,9,August
+88065566250,44097,Kassie Q Binder,Female,Choes,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Jose Cuervo,Alcoholic,20,17,3,60,51,9,9,August
+88065566251,44098,Carlton P Mahurin,Male,Fulton,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Agavales,Alcoholic,12,9,7,84,63,21,9,August
+88065566252,44099,Mei H Silvera,Female,Beacon,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Pinnacle,Alcoholic,13,10,5,65,50,15,9,August
+88065566253,44103,Cindie T Madden,Female,Choes,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Bacardi Rum,Alcoholic,15,12,8,120,96,24,9,August
+88065566254,44102,Van E Broadbent,Male,Fulton,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Suedka,Alcoholic,14,11,9,126,99,27,9,August
+88065566255,44102,Joanna M Sandefur,Female,Beacon,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Apple Beer,Alcoholic,30,27,2,60,54,6,9,August
+88065566256,44103,Estella E Miley,Female,Choes,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Birch Beer,Alcoholic,16,13,5,80,65,15,9,August
+88065566257,44073,Liana T Quesenberry,Female,Fulton,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Boost,Non Alcoholic,9,6,7,63,42,21,8,Sept
+88065566258,44074,Guy S Troy,Male,Beacon,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Cel Ray,Non Alcoholic,5,2,7,35,14,21,8,Sept
+88065566259,44075,Isiah S Coppock,Male,Choes,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Cheerwine,Non Alcoholic,18,15,15,270,225,45,9,August
+88065566260,44076,Loren H Mckenzie,Female,Fulton,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Chicory Coffee,Non Alcoholic,10,7,3,30,21,9,9,August
+88065566261,44077,Gwyn I Parish,Female,Beacon,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Coffee Milk,Non Alcoholic,20,17,6,120,102,18,9,August
+88065566262,44078,Norris P Ewen,Male,Choes,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Date Shake,Non Alcoholic,70,67,10,700,670,30,9,August
+88065566263,44092,Tayna L Covarrubias,Female,Fulton,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Dr. Enuf,Non Alcoholic,15,12,11,165,132,33,9,August
+88065566264,44092,Asley F Mcewan,Female,Beacon,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Dr. Nut,Non Alcoholic,12,9,3,36,27,9,9,August
+88065566265,44093,Jeremiah N Curran,Male,Choes,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Egg Cream,Non Alcoholic,18,15,1,18,15,3,9,August
+88065566266,44094,Troy J Higbee,Male,Fulton,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Faygo,Non Alcoholic,23,20,1,23,20,3,9,August
+88065566267,44095,Lesha K Cai,Female,Beacon,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Green River,Non Alcoholic,9,6,1,9,6,3,9,August
+88065566268,44096,Denis T Yelle,Male,Choes,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Ironport,Non Alcoholic,18,15,3,54,45,9,9,August
+88065566269,44097,Krissy S Valazquez,Female,Fulton,Antone E Angel,Main Street,Jeremiah E Isler,Amir Yusha,Oliver Cromwell,Alcoholic,52,49,4,208,196,12,9,August
+88065566270,44098,Hayden J Jang,Male,Beacon,Twanna Y Manges,Uptown Store,Reatha O Hansford,Amir Yusha,Boost,Non Alcoholic,9,6,5,45,30,15,9,August
+88065566271,44099,Franklyn V Hummell,Male,Choes,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Amir Yusha,Cel Ray,Non Alcoholic,5,2,6,30,12,18,9,August
+88065566272,44103,Patrick H Gilleland,Female,Beacon,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Degrees Vodka,Alcoholic,14,11,7,98,77,21,9,August
+88065566273,44102,Lidia S Gerling,Female,Elmira,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,St. Amdr Cabernet,Alcoholic,6,3,11,66,33,33,9,August
+88065566274,44102,Carlotta T Ryles,Female,Glen Cove,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Chicory Coffee,Non Alcoholic,10,7,2,20,14,6,9,August
+88065566275,44103,Digna Q Eck,Female,New York,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Nake Turtle,Alcoholic,13,10,3,39,30,9,9,August
+88065566276,44073,Galina G Woodbury,Female,Hempstead,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Coffee Milk,Non Alcoholic,20,17,5,100,85,15,8,Sept
+88065566277,44074,Carmon A Howlett,Female,Brookhaven,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Gallo XO,Alcoholic,15,12,2,30,24,6,8,Sept
+88065566278,44075,Josiah R Gutierres,Male,Glen Cove,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Cazadores Tequila,Alcoholic,20,17,1,20,17,3,9,August
+88065566279,44076,Leonel S Yuan,Male,Glens Falls,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Benchmark Bourbon,Alcoholic,12,9,6,72,54,18,9,August
+88065566280,44077,Sharri Z Gormley,Female,Hornell ,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Janie Stewart,Alcoholic,16,13,9,144,117,27,9,August
+88065566281,44078,Mignon H Ballesteros,Female,Hudson,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Date Shake,Non Alcoholic,70,67,10,700,670,30,9,August
+88065566282,44092,Carmelia R Lattimer,Female,Johnstown,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Dr. Enuf,Non Alcoholic,15,12,3,45,36,9,9,August
+88065566283,44092,Francis O Encarnacion,Male,Kingston,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Janie Stewart,Alcoholic,16,13,4,64,52,12,9,August
+88065566284,44093,Denis Y Fehr,Male,Little Falls,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Speyburn Bradan,Alcoholic,20,17,5,100,85,15,9,August
+88065566285,44094,Lisa C Sheridan,Female,Lockport,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Uv Blue,Alcoholic,12,9,6,72,54,18,9,August
+88065566286,44095,Ezequiel N Shell,Male,Long Beach,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Dr. Nut,Non Alcoholic,12,9,3,36,27,9,9,August
+88065566287,44096,Timmy I Poteat,Male,Middletown,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Egg Cream,Non Alcoholic,18,15,7,126,105,21,9,August
+88065566288,44097,Nigel V Dupras,Male,Mount,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Burnett's,Alcoholic,10,7,5,50,35,15,9,August
+88065566289,44098,Meryl B Jude,Female,New York,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Smirnoff,Alcoholic,15,12,8,120,96,24,9,August
+88065566290,44099,Herb B Irving,Male,Salamanca,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Fireball,Alcoholic,15,12,9,135,108,27,9,August
+88065566291,44103,Samantha V Lucky,Female,Springs,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Faygo,Non Alcoholic,23,20,2,46,40,6,9,August
+88065566292,44102,Frankie I Speed,Male,Sherrill,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Green River,Non Alcoholic,9,6,5,45,30,15,9,August
+88065566293,44102,Wilhelmina Y Keaney,Female,Syracuse,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Ironport,Non Alcoholic,18,15,7,126,105,21,9,August
+88065566294,44103,Karlene L Mckean,Female,Troy,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Suedka,Alcoholic,14,11,7,98,77,21,9,August
+88065566295,44073,Emmitt X Plante,Male,Olean,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Apple Beer,Alcoholic,30,27,15,450,405,45,8,Sept
+88065566296,44074,Chaya W Caudle,Female,Peekskill,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Birch Beer,Alcoholic,16,13,3,48,39,9,8,Sept
+88065566297,44075,Reanna I Hampton,Female,Port Jervis,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Oliver Cromwell,Alcoholic,52,49,6,312,294,18,9,August
+88065566298,44076,Micaela N Buker,Female,New York,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Degrees Vodka,Alcoholic,14,11,10,140,110,30,9,August
+88065566299,44077,Carmelia E Bergeron,Female,Little Falls,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,St. Amdr Cabernet,Alcoholic,6,3,11,66,33,33,9,August
+88065566300,44078,Ulysses S Abate,Male,Lockport,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Nake Turtle,Alcoholic,13,10,3,39,30,9,9,August
+88065566301,44092,Love G Lent,Female,Long Beach,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Gallo XO,Alcoholic,15,12,1,15,12,3,9,August
+88065566302,44092,Stan S Watt,Male,Middletown,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Cazadores Tequila,Alcoholic,20,17,1,20,17,3,9,August
+88065566303,44093,Kindra V Cruickshank,Female,Watervliet,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Benchmark Bourbon,Alcoholic,12,9,1,12,9,3,9,August
+88065566304,44094,Micheal F Mcleroy,Male,Yakers,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Janie Stewart,Alcoholic,16,13,3,48,39,9,9,August
+88065566305,44098,Meryl B Jude,Female,New York,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Speyburn Bradan,Alcoholic,20,17,4,80,68,12,9,August
+88065566306,44099,Herb B Irving,Male,Salamanca,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Uv Blue,Alcoholic,12,9,5,60,45,15,9,August
+88065566307,44103,Samantha V Lucky,Female,Springs,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Burnett's,Alcoholic,10,7,6,60,42,18,9,August
+88065566308,44102,Frankie I Speed,Male,Sherrill,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Smirnoff,Alcoholic,15,12,7,105,84,21,9,August
+88065566309,44102,Wilhelmina Y Keaney,Female,Syracuse,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Fireball,Alcoholic,15,12,11,165,132,33,9,August
+88065566310,44103,Karlene L Mckean,Female,Troy,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Jose Cuervo,Alcoholic,20,17,2,40,34,6,9,August
+88065566311,44073,Emmitt X Plante,Male,Olean,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Agavales,Alcoholic,12,9,3,36,27,9,8,Sept
+88065566312,44074,Chaya W Caudle,Female,Peekskill,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Pinnacle,Alcoholic,13,10,5,65,50,15,8,Sept
+88065566313,44075,Reanna I Hampton,Female,Port Jervis,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Bacardi Rum,Alcoholic,15,12,2,30,24,6,9,August
+88065566314,44076,Micaela N Buker,Female,New York,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Suedka,Alcoholic,14,11,1,14,11,3,9,August
+88065566315,44077,Carmelia E Bergeron,Female,Little Falls,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Apple Beer,Alcoholic,30,27,6,180,162,18,9,August
+88065566316,44078,Ulysses S Abate,Male,Lockport,Merle N Burrus,Uptown Store,Josef I Sergent,Fenad Grek,Birch Beer,Alcoholic,16,13,9,144,117,27,9,August
+88065566317,44092,Love G Lent,Female,Long Beach,Twanna Y Manges,Uptown Store,Reatha O Hansford,Fenad Grek,Boost,Non Alcoholic,9,6,10,90,60,30,9,August
+88065566318,44092,Stan S Watt,Male,Middletown,Reatha Q Breazeale,Main Street,Anitra F Dedmon,Fenad Grek,Cel Ray,Non Alcoholic,5,2,3,15,6,9,9,August
+88065566319,44093,Kindra V Cruickshank,Female,Watervliet,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Cheerwine,Non Alcoholic,18,15,4,72,60,12,9,August
+88065566320,44094,Gwyn E Etzel,Female,Yakers,Antone E Angel,Main Street,Jeremiah E Isler,Fenad Grek,Chicory Coffee,Non Alcoholic,10,7,5,50,35,15,9,August
+88065566321,44094,Ressie I Goodwyn,Female,Albany,Antone E Angel,Fenard Store,Jeremiah E Isler,Amir Yusha,Oliver Cromwell,Alcoholic,52,49,2,104,98,6,9,August
+88065566322,44095,Colton B Salzman,Male,Auburn,Merle N Burrus,Fenard Store,Josef I Sergent,Amir Yusha,Boost,Non Alcoholic,9,6,5,45,30,15,9,August
+88065566323,44096,Marylynn G Ealey,Female,Betavia,Twanna Y Manges,Fenard Store,Reatha O Hansford,Amir Yusha,Cel Ray,Non Alcoholic,5,2,14,70,28,42,9,August
+88065566324,44097,Reanna I Hampton,Female,Port Jervis,Reatha Q Breazeale,Fenard Store,Anitra F Dedmon,Amir Yusha,Oliver Cromwell,Alcoholic,14,11,7,98,77,21,9,August
+88065566325,44098,Micaela N Buker,Female,New York,Antone E Angel,Fenard Store,Jeremiah E Isler,Amir Yusha,Boost,Alcoholic,6,3,15,90,45,45,9,August
+88065566326,44099,Carmelia E Bergeron,Female,Little Falls,Merle N Burrus,Fenard Store,Josef I Sergent,Amir Yusha,Cel Ray,Non Alcoholic,10,7,3,30,21,9,9,August
+88065566327,44103,Neil V Gebhard,Male,Geneva,Twanna Y Manges,Fenard Store,Reatha O Hansford,Amir Yusha,Oliver Cromwell,Alcoholic,13,10,6,78,60,18,9,August
+88065566328,44102,Kermit L Mcphail,Male,Elmira,Reatha Q Breazeale,Fenard Store,Anitra F Dedmon,Amir Yusha,Boost,Non Alcoholic,20,17,10,200,170,30,9,August
+88065566329,44102,Julio P Dockery,Female,Glen Cove,Antone E Angel,Fenard Store,Jeremiah E Isler,Amir Yusha,Cel Ray,Alcoholic,15,12,11,165,132,33,9,August
+88065566330,44103,Tressa Q Standard,Female,Glens Falls,Merle N Burrus,Fenard Store,Josef I Sergent,Amir Yusha,Cazadores Tequila,Alcoholic,20,17,3,60,51,9,9,August
+88065566331,44104,Dwayne W Marker,Male,Hornell ,Twanna Y Manges,Fenard Store,Reatha O Hansford,Amir Yusha,Benchmark Bourbon,Alcoholic,12,9,1,12,9,3,9,August
+88065566332,44044,Ayako L Bachmann,Female,Hudson,Reatha Q Breazeale,Fenard Store,Anitra F Dedmon,Amir Yusha,Janie Stewart,Alcoholic,16,13,1,16,13,3,8,Sept
+88065566333,44045,Salena I Santillan,Female,Johnstown,Antone E Angel,Fenard Store,Jeremiah E Isler,Amir Yusha,Date Shake,Non Alcoholic,70,67,1,70,67,3,8,Sept
+88065566334,44046,Nelson O Dubuc,Male,Kingston,Merle N Burrus,Fenard Store,Josef I Sergent,Amir Yusha,Dr. Enuf,Non Alcoholic,15,12,3,45,36,9,8,Sept
+88065566335,44047,Lincoln D Demaria,Male,Little Falls,Twanna Y Manges,Fenard Store,Reatha O Hansford,Amir Yusha,Janie Stewart,Alcoholic,16,13,4,64,52,12,8,Sept
+88065566336,44048,Eleonora S Pollard,Female,Lockport,Reatha Q Breazeale,Fenard Store,Anitra F Dedmon,Amir Yusha,Speyburn Bradan,Alcoholic,20,17,5,100,85,15,8,Sept
+88065566337,44052,Reanna I Hampton,Female,Port Jervis,Antone E Angel,Fenard Store,Jeremiah E Isler,Amir Yusha,Uv Blue,Alcoholic,12,9,6,72,54,18,8,Sept
+88065566338,44051,Micaela N Buker,Female,New York,Merle N Burrus,Fenard Store,Josef I Sergent,Amir Yusha,Dr. Nut,Non Alcoholic,12,9,7,84,63,21,8,Sept
+88065566339,44051,Carmelia E Bergeron,Female,Little Falls,Twanna Y Manges,Fenard Store,Reatha O Hansford,Amir Yusha,Egg Cream,Non Alcoholic,18,15,11,198,165,33,8,Sept
+88065566340,44052,Sherise C Bledsoe,Female,New York,Reatha Q Breazeale,Fenard Store,Anitra F Dedmon,Amir Yusha,Burnett's,Alcoholic,10,7,2,20,14,6,8,Sept
+88065566341,44053,Chase J Paradise,Male,Newburgh,Antone E Angel,Fenard Store,Jeremiah E Isler,Amir Yusha,Smirnoff,Alcoholic,15,12,3,45,36,9,8,Sept
+88065566342,44054,Ernestine E Fludd,Female,Olean,Merle N Burrus,Fenard Store,Josef I Sergent,Amir Yusha,Fireball,Alcoholic,15,12,5,75,60,15,8,Sept
+88065566343,44055,Fernando S Korhonen,Male,Peekskill,Antone E Angel,Fenard Store,Jeremiah E Isler,Amir Yusha,Faygo,Non Alcoholic,23,20,2,46,40,6,8,Sept
+88065566344,44056,Shanti F Quirion,Female,Port Jervis,Merle N Burrus,Fenard Store,Josef I Sergent,Amir Yusha,Green River,Non Alcoholic,9,6,9,81,54,27,8,Sept
+88065566345,44057,Dovie U Nickerson,Female,Poughkeepsie,Antone E Angel,Fenard Store,Jeremiah E Isler,Amir Yusha,Ironport,Non Alcoholic,18,15,6,108,90,18,8,Sept
+88065566346,44058,Lacy Q Deshotel,Male,Rye ,Merle N Burrus,Fenard Store,Josef I Sergent,Amir Yusha,Suedka,Alcoholic,14,11,9,126,99,27,8,Sept
+88065566347,44062,Leslie I Stolte,Male,Rome,Antone E Angel,Fenard Store,Jeremiah E Isler,Amir Yusha,Apple Beer,Alcoholic,30,27,10,300,270,30,8,Sept
+88065566348,44061,Valene R Yost,Female,Rochester,Merle N Burrus,Fenard Store,Josef I Sergent,Amir Yusha,Birch Beer,Alcoholic,16,13,3,48,39,9,8,Sept
+88065566349,44061,Earlean Y Funke,Female,Salamanca,Antone E Angel,Fenard Store,Jeremiah E Isler,Amir Yusha,Oliver Cromwell,Alcoholic,52,49,4,208,196,12,8,Sept
+88065566350,44062,Eloise Z Demoss,Female,Springs,Merle N Burrus,Fenard Store,Josef I Sergent,Amir Yusha,Degrees Vodka,Alcoholic,14,11,5,70,55,15,8,Sept
+88065566351,44063,Reanna I Hampton,Female,Port Jervis,Antone E Angel,Fenard Store,Jeremiah E Isler,Amir Yusha,St. Amdr Cabernet,Alcoholic,6,3,6,36,18,18,8,Sept
+88065566352,44064,Micaela N Buker,Female,New York,Merle N Burrus,Fenard Store,Josef I Sergent,Amir Yusha,Nake Turtle,Alcoholic,13,10,3,39,30,9,8,Sept
+88065566353,44065,Carmelia E Bergeron,Female,Little Falls,Antone E Angel,Fenard Store,Jeremiah E Isler,Amir Yusha,Gallo XO,Alcoholic,15,12,7,105,84,21,8,Sept
+88065566354,44066,Keven F Bingham,Male,Watertown,Merle N Burrus,Fenard Store,Josef I Sergent,Amir Yusha,Cazadores Tequila,Alcoholic,20,17,5,100,85,15,8,Sept
+88065566355,44067,Magaly U Mcneel,Female,Watervliet,Antone E Angel,Fenard Store,Jeremiah E Isler,Amir Yusha,Benchmark Bourbon,Alcoholic,12,9,8,96,72,24,8,Sept
+88065566356,44068,Mika J Rodriquez,Female,Yakers,Merle N Burrus,Fenard Store,Josef I Sergent,Amir Yusha,Janie Stewart,Alcoholic,16,13,9,144,117,27,8,Sept
+88065566357,44072,Freddy A Rolling,Male,New York,Antone E Angel,Fenard Store,Jeremiah E Isler,Amir Yusha,Speyburn Bradan,Alcoholic,20,17,2,40,34,6,8,Sept
+88065566358,44071,Morgan O Carriere,Female,Hempstead,Merle N Burrus,Fenard Store,Josef I Sergent,Amir Yusha,Uv Blue,Alcoholic,12,9,5,60,45,15,8,Sept
+88065566359,44071,Reanna I Hampton,Female,Port Jervis,Antone E Angel,Fenard Store,Jeremiah E Isler,Amir Yusha,Burnett's,Alcoholic,10,7,7,70,49,21,8,Sept
+88065566360,44072,Micaela N Buker,Female,New York,Merle N Burrus,Fenard Store,Josef I Sergent,Amir Yusha,Smirnoff,Alcoholic,15,12,7,105,84,21,8,Sept
+88065566361,44073,Carmelia E Bergeron,Female,Little Falls,Antone E Angel,Fenard Store,Jeremiah E Isler,Amir Yusha,Fireball,Alcoholic,15,12,15,225,180,45,8,Sept
+88065566362,44074,Junita Y Huhn,Female,Albany,Merle N Burrus,Fenard Store,Josef I Sergent,Amir Yusha,Jose Cuervo,Alcoholic,20,17,3,60,51,9,8,Sept
+88065566363,44044,Keira Y Till,Female,Auburn,Antone E Angel,Fenard Store,Jeremiah E Isler,Fenad Grek,Agavales,Alcoholic,12,9,6,72,54,18,8,Sept
+88065566364,44045,Mickey E Hentges,Male,Betavia,Merle N Burrus,Fenard Store,Josef I Sergent,Fenad Grek,Pinnacle,Alcoholic,13,10,10,130,100,30,8,Sept
+88065566365,44046,Phil G Czarnecki,Male,Beacon,Antone E Angel,Fenard Store,Jeremiah E Isler,Fenad Grek,Bacardi Rum,Alcoholic,15,12,11,165,132,33,8,Sept
+88065566366,44047,Glenn N Vinyard,Male,Elmira,Merle N Burrus,Fenard Store,Josef I Sergent,Fenad Grek,Suedka,Alcoholic,14,11,3,42,33,9,8,Sept
+88065566367,44048,Federico B Edmond,Male,Glen Cove,Antone E Angel,Fenard Store,Jeremiah E Isler,Fenad Grek,Apple Beer,Alcoholic,30,27,1,30,27,3,8,Sept
+88065566368,44052,Lucas P Funes,Male,New York,Merle N Burrus,Fenard Store,Josef I Sergent,Fenad Grek,Birch Beer,Alcoholic,16,13,1,16,13,3,8,Sept
+88065566369,44051,Alden Y Cauley,Male,Hempstead,Antone E Angel,Fenard Store,Jeremiah E Isler,Fenad Grek,Boost,Non Alcoholic,9,6,1,9,6,3,8,Sept
+88065566370,44051,Reanna I Hampton,Female,Port Jervis,Merle N Burrus,Fenard Store,Josef I Sergent,Fenad Grek,Cel Ray,Non Alcoholic,5,2,3,15,6,9,8,Sept
+88065566371,44052,Micaela N Buker,Female,New York,Antone E Angel,Fenard Store,Jeremiah E Isler,Fenad Grek,Cheerwine,Non Alcoholic,18,15,4,72,60,12,8,Sept
+88065566372,44053,Carmelia E Bergeron,Female,Little Falls,Merle N Burrus,Fenard Store,Josef I Sergent,Fenad Grek,Chicory Coffee,Non Alcoholic,10,7,5,50,35,15,8,Sept
+88065566373,44054,Giuseppina N Dagostino,Female,Hornell ,Antone E Angel,Fenard Store,Jeremiah E Isler,Fenad Grek,Coffee Milk,Non Alcoholic,20,17,6,120,102,18,8,Sept
+88065566374,44055,Danilo S Hammes,Male,Hudson,Merle N Burrus,Fenard Store,Josef I Sergent,Fenad Grek,Date Shake,Non Alcoholic,70,67,7,490,469,21,8,Sept
+88065566375,44056,Clotilde X Mason,Female,Johnstown,Antone E Angel,Fenard Store,Jeremiah E Isler,Fenad Grek,Dr. Enuf,Non Alcoholic,15,12,11,165,132,33,8,Sept
+88065566376,44057,Petrina B Dampier,Female,Kingston,Merle N Burrus,Fenard Store,Josef I Sergent,Fenad Grek,Dr. Nut,Non Alcoholic,12,9,2,24,18,6,8,Sept
+88065566377,44058,Philip X Trinidad,Male,Little Falls,Antone E Angel,Fenard Store,Jeremiah E Isler,Fenad Grek,Egg Cream,Non Alcoholic,18,15,3,54,45,9,8,Sept
+88065566378,44062,Sixta H Jo,Female,Lockport,Merle N Burrus,Fenard Store,Josef I Sergent,Fenad Grek,Faygo,Non Alcoholic,23,20,5,115,100,15,8,Sept
+88065566379,44061,Mose O Brucker,Male,Long Beach,Antone E Angel,Fenard Store,Jeremiah E Isler,Fenad Grek,Green River,Non Alcoholic,9,6,2,18,12,6,8,Sept
+88065566380,44061,Andrew P Detweiler,Male,Middletown,Merle N Burrus,Fenard Store,Josef I Sergent,Fenad Grek,Ironport,Non Alcoholic,18,15,1,18,15,3,8,Sept
+88065566381,44062,Reanna I Hampton,Female,Port Jervis,Antone E Angel,Fenard Store,Jeremiah E Isler,Fenad Grek,Oliver Cromwell,Alcoholic,52,49,6,312,294,18,8,Sept
+88065566382,44063,Micaela N Buker,Female,New York,Merle N Burrus,Fenard Store,Josef I Sergent,Fenad Grek,Boost,Non Alcoholic,9,6,9,81,54,27,8,Sept
+88065566383,44064,Carmelia E Bergeron,Female,Little Falls,Antone E Angel,Fenard Store,Jeremiah E Isler,Fenad Grek,Cel Ray,Non Alcoholic,5,2,10,50,20,30,8,Sept
+88065566384,44065,Judith D Gourdine,Female,Springs,Merle N Burrus,Fenard Store,Josef I Sergent,Fenad Grek,Degrees Vodka,Alcoholic,14,11,3,42,33,9,8,Sept
+88065566385,44066,Beatrice T Coen,Female,Sherrill,Antone E Angel,Fenard Store,Jeremiah E Isler,Fenad Grek,St. Amdr Cabernet,Alcoholic,6,3,4,24,12,12,8,Sept
+88065566386,44067,Terra D Routh,Female,Syracuse,Merle N Burrus,Fenard Store,Josef I Sergent,Fenad Grek,Chicory Coffee,Non Alcoholic,10,7,5,50,35,15,8,Sept
+88065566387,44068,Suzette F Lovejoy,Female,Troy,Antone E Angel,Fenard Store,Jeremiah E Isler,Fenad Grek,Nake Turtle,Alcoholic,13,10,6,78,60,18,8,Sept
+88065566388,44072,Jolanda L Dewees,Female,Olean,Merle N Burrus,Fenard Store,Josef I Sergent,Fenad Grek,Coffee Milk,Non Alcoholic,20,17,3,60,51,9,8,Sept
+88065566389,44071,Dwain O Upham,Male,Peekskill,Antone E Angel,Fenard Store,Jeremiah E Isler,Fenad Grek,Gallo XO,Alcoholic,15,12,7,105,84,21,8,Sept
+88065566390,44071,Alise O Baltzell,Female,Port Jervis,Merle N Burrus,Fenard Store,Josef I Sergent,Fenad Grek,Cazadores Tequila,Alcoholic,20,17,5,100,85,15,8,Sept
+88065566391,44072,Hal K Kells,Male,Kingston,Antone E Angel,Fenard Store,Jeremiah E Isler,Fenad Grek,Benchmark Bourbon,Alcoholic,12,9,8,96,72,24,8,Sept
+88065566392,44073,Reanna I Hampton,Female,Port Jervis,Merle N Burrus,Fenard Store,Josef I Sergent,Fenad Grek,Janie Stewart,Alcoholic,16,13,9,144,117,27,8,Sept
+88065566393,44074,Micaela N Buker,Female,New York,Antone E Angel,Fenard Store,Jeremiah E Isler,Fenad Grek,Date Shake,Non Alcoholic,70,67,2,140,134,6,8,Sept
+88065566394,44075,Carmelia E Bergeron,Female,Little Falls,Merle N Burrus,Fenard Store,Josef I Sergent,Fenad Grek,Dr. Enuf,Non Alcoholic,15,12,5,75,60,15,9,August
+88065566395,44076,Jordan D Phu,Male,Middletown,Antone E Angel,Fenard Store,Jeremiah E Isler,Fenad Grek,Janie Stewart,Alcoholic,16,13,7,112,91,21,9,August
+88065566396,44077,Mac V Lineberry,Male,Watervliet,Merle N Burrus,Fenard Store,Josef I Sergent,Fenad Grek,Speyburn Bradan,Alcoholic,20,17,7,140,119,21,9,August
+88065566397,44078,Mina P Shotwell,Female,Yakers,Antone E Angel,Fenard Store,Jeremiah E Isler,Fenad Grek,Uv Blue,Alcoholic,12,9,15,180,135,45,9,August
+88065566398,44079,Doyle N Utter,Male,New York,Merle N Burrus,Fenard Store,Josef I Sergent,Fenad Grek,Dr. Nut,Non Alcoholic,12,9,3,36,27,9,9,August
+88065566399,44083,Tyler D Galindo,Male,Hempstead,Antone E Angel,Fenard Store,Jeremiah E Isler,Fenad Grek,Egg Cream,Non Alcoholic,18,15,6,108,90,18,9,August
+88065566400,44082,Lizzette G Moyle,Female,New York,Merle N Burrus,Fenard Store,Josef I Sergent,Fenad Grek,Burnett's,Alcoholic,10,7,10,100,70,30,9,August
+88065566401,44082,Heath K Fell,Male,Hempstead,Antone E Angel,Fenard Store,Jeremiah E Isler,Fenad Grek,Smirnoff,Alcoholic,15,12,11,165,132,33,9,August
+88065566402,44083,Meryl I Nau,Female,Brookhaven,Merle N Burrus,Fenard Store,Josef I Sergent,Fenad Grek,Fireball,Alcoholic,15,12,3,45,36,9,9,August
+88065566403,44084,Terrell J Leader,Male,Islip,Antone E Angel,Fenard Store,Jeremiah E Isler,Fenad Grek,Faygo,Non Alcoholic,23,20,1,23,20,3,9,August
+88065566404,44085,Cameron A Chamberland,Male,Babylon,Merle N Burrus,Fenard Store,Josef I Sergent,Fenad Grek,Green River,Non Alcoholic,9,6,1,9,6,3,9,August
+88065566405,44086,Jarred C Class,Male,Albany,Antone E Angel,Fenard Store,Jeremiah E Isler,Fenad Grek,Ironport,Non Alcoholic,18,15,1,18,15,3,9,August
+88065566406,44087,Maxwell H Azevedo,Male,Auburn,Merle N Burrus,Fenard Store,Josef I Sergent,Fenad Grek,Suedka,Alcoholic,14,11,3,42,33,9,9,August
+88065566407,44088,Reanna I Hampton,Female,Port Jervis,Antone E Angel,Fenard Store,Jeremiah E Isler,Fenad Grek,Apple Beer,Alcoholic,30,27,4,120,108,12,9,August
+88065566408,44089,Micaela N Buker,Female,New York,Merle N Burrus,Fenard Store,Josef I Sergent,Fenad Grek,Birch Beer,Alcoholic,16,13,5,80,65,15,9,August
+88065566409,44093,Carmelia E Bergeron,Female,Little Falls,Antone E Angel,Fenard Store,Jeremiah E Isler,Fenad Grek,Oliver Cromwell,Alcoholic,52,49,6,312,294,18,9,August
+88065566410,44092,Millicent G Mangan,Female,Fulton,Merle N Burrus,Fenard Store,Josef I Sergent,Fenad Grek,Degrees Vodka,Alcoholic,14,11,7,98,77,21,9,August
+88065566411,44092,Bernard A Harbert,Male,Geneva,Antone E Angel,Fenard Store,Jeremiah E Isler,Fenad Grek,St. Amdr Cabernet,Alcoholic,6,3,11,66,33,33,9,August
+88065566412,44093,Steven B Daigneault,Male,Elmira,Merle N Burrus,Fenard Store,Josef I Sergent,Fenad Grek,Nake Turtle,Alcoholic,13,10,2,26,20,6,9,August
+88065566413,44094,Oren M Mcnabb,Male,Glen Cove,Antone E Angel,Fenard Store,Jeremiah E Isler,Fenad Grek,Gallo XO,Alcoholic,15,12,3,45,36,9,9,August
+88065566414,44095,Susana H Hooks,Female,Glens Falls,Merle N Burrus,Fenard Store,Josef I Sergent,Fenad Grek,Cazadores Tequila,Alcoholic,20,17,5,100,85,15,9,August
+88065566415,44096,Cedrick K Engelhardt,Male,Hornell ,Antone E Angel,Fenard Store,Jeremiah E Isler,Fenad Grek,Benchmark Bourbon,Alcoholic,12,9,2,24,18,6,9,August
+88065566416,44097,Rich Q Rehberg,Male,Hudson,Merle N Burrus,Fenard Store,Josef I Sergent,Fenad Grek,Janie Stewart,Alcoholic,16,13,1,16,13,3,9,August
+88065566417,44098,Zachary S Velasquez,Male,Johnstown,Antone E Angel,Fenard Store,Jeremiah E Isler,Fenad Grek,Speyburn Bradan,Alcoholic,20,17,6,120,102,18,9,August
+88065566418,44099,Garrett S Nolette,Male,Kingston,Merle N Burrus,Fenard Store,Josef I Sergent,Fenad Grek,Uv Blue,Alcoholic,12,9,9,108,81,27,9,August
+88065566419,44103,Antone W Polston,Male,Little Falls,Antone E Angel,Fenard Store,Jeremiah E Isler,Fenad Grek,Burnett's,Alcoholic,10,7,10,100,70,30,9,August
+88065566420,44102,Isreal F Metoyer,Male,Lockport,Merle N Burrus,Fenard Store,Josef I Sergent,Fenad Grek,Smirnoff,Alcoholic,15,12,3,45,36,9,9,August
+88065566421,44102,Cyndy H Ary,Female,Long Beach,Antone E Angel,Fenard Store,Jeremiah E Isler,Fenad Grek,Fireball,Alcoholic,15,12,4,60,48,12,9,August
+88065566422,44103,Buck H Rancourt,Male,Middletown,Merle N Burrus,Fenard Store,Josef I Sergent,Fenad Grek,Jose Cuervo,Alcoholic,20,17,5,100,85,15,9,August
+88065566423,44104,Arlen M Joly,Male,Mount,Antone E Angel,Fenard Store,Jeremiah E Isler,Fenad Grek,Agavales,Alcoholic,12,9,6,72,54,18,9,August
+88065566424,44094,Jerome P Whitefield,Male,New York,Merle N Burrus,Fenard Store,Josef I Sergent,Amir Yusha,Pinnacle,Alcoholic,13,10,3,39,30,9,9,August
+88065566425,44095,Rafaela N Madrid,Female,Newburgh,Antone E Angel,Fenard Store,Jeremiah E Isler,Amir Yusha,Bacardi Rum,Alcoholic,15,12,7,105,84,21,9,August
+88065566426,44096,Tiny Q Llanos,Female,Olean,Merle N Burrus,Fenard Store,Josef I Sergent,Amir Yusha,Suedka,Alcoholic,14,11,5,70,55,15,9,August
+88065566427,44097,Jc S Meyers,Male,Peekskill,Antone E Angel,Fenard Store,Jeremiah E Isler,Amir Yusha,Apple Beer,Alcoholic,30,27,8,240,216,24,9,August
+88065566428,44098,Reanna I Hampton,Female,Port Jervis,Merle N Burrus,Fenard Store,Josef I Sergent,Amir Yusha,Birch Beer,Alcoholic,16,13,9,144,117,27,9,August
+88065566429,44099,Micaela N Buker,Female,New York,Antone E Angel,Fenard Store,Jeremiah E Isler,Amir Yusha,Boost,Non Alcoholic,9,6,2,18,12,6,9,August
+88065566430,44103,Carmelia E Bergeron,Female,Little Falls,Twanna Y Manges,Fenard Store,Reatha O Hansford,Amir Yusha,Cel Ray,Non Alcoholic,5,2,5,25,10,15,9,August
+88065566431,44102,Hui E Bizzell,Female,Rome,Reatha Q Breazeale,Fenard Store,Anitra F Dedmon,Amir Yusha,Cheerwine,Non Alcoholic,18,15,7,126,105,21,9,August
+88065566432,44102,Ronnie H Upton,Male,Rochester,Twanna Y Manges,Fenard Store,Reatha O Hansford,Amir Yusha,Chicory Coffee,Non Alcoholic,10,7,7,70,49,21,9,August
+88065566433,44103,Cleveland W Franko,Male,Salamanca,Reatha Q Breazeale,Fenard Store,Anitra F Dedmon,Amir Yusha,Coffee Milk,Non Alcoholic,20,17,15,300,255,45,9,August
+88065566434,44104,Marcella Z Mapp,Female,Springs,Twanna Y Manges,Fenard Store,Reatha O Hansford,Amir Yusha,Date Shake,Non Alcoholic,70,67,3,210,201,9,9,August
+88065566435,44044,Alease Y Lander,Female,Sherrill,Reatha Q Breazeale,Fenard Store,Anitra F Dedmon,Amir Yusha,Dr. Enuf,Non Alcoholic,15,12,6,90,72,18,8,Sept
+88065566436,44045,Carrol O Arend,Male,Syracuse,Twanna Y Manges,Fenard Store,Reatha O Hansford,Amir Yusha,Dr. Nut,Non Alcoholic,12,9,10,120,90,30,8,Sept
+88065566437,44046,Lyn Q Tso,Female,Troy,Reatha Q Breazeale,Fenard Store,Anitra F Dedmon,Amir Yusha,Egg Cream,Non Alcoholic,18,15,11,198,165,33,8,Sept
+88065566438,44047,Lottie G Bonin,Female,Watertown,Twanna Y Manges,Fenard Store,Reatha O Hansford,Amir Yusha,Faygo,Non Alcoholic,23,20,3,69,60,9,8,Sept
+88065566439,44048,Jong U Borchers,Female,Watervliet,Reatha Q Breazeale,Fenard Store,Anitra F Dedmon,Amir Yusha,Green River,Non Alcoholic,9,6,1,9,6,3,8,Sept
+88065566440,44052,Reanna I Hampton,Female,Port Jervis,Twanna Y Manges,Fenard Store,Reatha O Hansford,Amir Yusha,Ironport,Non Alcoholic,18,15,1,18,15,3,8,Sept
+88065566441,44051,Micaela N Buker,Female,New York,Reatha Q Breazeale,Fenard Store,Anitra F Dedmon,Amir Yusha,Oliver Cromwell,Alcoholic,52,49,1,52,49,3,8,Sept
+88065566442,44051,Carmelia E Bergeron,Female,Little Falls,Twanna Y Manges,Fenard Store,Reatha O Hansford,Amir Yusha,Boost,Non Alcoholic,9,6,3,27,18,9,8,Sept
+88065566443,44052,Jamaal Z Resto,Male,Brookhaven,Reatha Q Breazeale,Fenard Store,Anitra F Dedmon,Amir Yusha,Cel Ray,Non Alcoholic,5,2,4,20,8,12,8,Sept
+88065566444,44053,Barrie E Collman,Female,Islip,Twanna Y Manges,Fenard Store,Reatha O Hansford,Amir Yusha,Degrees Vodka,Alcoholic,14,11,5,70,55,15,8,Sept
+88065566445,44054,Alphonso U Laffoon,Male,Babylon,Reatha Q Breazeale,Fenard Store,Anitra F Dedmon,Amir Yusha,St. Amdr Cabernet,Alcoholic,6,3,6,36,18,18,8,Sept
+88065566446,44055,Pansy F Duchesne,Female,Albany,Twanna Y Manges,Fenard Store,Reatha O Hansford,Amir Yusha,Chicory Coffee,Non Alcoholic,10,7,7,70,49,21,8,Sept
+88065566447,44056,Karisa B Glidewell,Female,Auburn,Reatha Q Breazeale,Fenard Store,Anitra F Dedmon,Amir Yusha,Nake Turtle,Alcoholic,13,10,11,143,110,33,8,Sept
+88065566448,44057,Lia J Liner,Female,Betavia,Twanna Y Manges,Fenard Store,Reatha O Hansford,Amir Yusha,Coffee Milk,Non Alcoholic,20,17,2,40,34,6,8,Sept
+88065566449,44058,Dudley G Slocum,Male,Beacon,Reatha Q Breazeale,Fenard Store,Anitra F Dedmon,Amir Yusha,Gallo XO,Alcoholic,15,12,3,45,36,9,8,Sept
+88065566450,44062,Emma X Monti,Female,Elmira,Antone E Angel,Fenard Store,Jeremiah E Isler,Amir Yusha,Cazadores Tequila,Alcoholic,20,17,5,100,85,15,8,Sept
+88065566451,44061,Elias Y Pinkard,Male,Glen Cove,Merle N Burrus,Fenard Store,Josef I Sergent,Amir Yusha,Benchmark Bourbon,Alcoholic,12,9,2,24,18,6,8,Sept
+88065566452,44061,Morgan V Leonetti,Male,New York,Twanna Y Manges,Fenard Store,Reatha O Hansford,Amir Yusha,Janie Stewart,Alcoholic,16,13,1,16,13,3,8,Sept
+88065566453,44062,Doyle T Grindstaff,Male,Hempstead,Reatha Q Breazeale,Fenard Store,Anitra F Dedmon,Amir Yusha,Date Shake,Non Alcoholic,70,67,6,420,402,18,8,Sept
+88065566454,44063,Robert C Ancheta,Female,Brookhaven,Antone E Angel,Fenard Store,Jeremiah E Isler,Amir Yusha,Dr. Enuf,Non Alcoholic,15,12,9,135,108,27,8,Sept
+88065566455,44064,Cole M Dellinger,Male,Glen Cove,Merle N Burrus,Fenard Store,Josef I Sergent,Amir Yusha,Janie Stewart,Alcoholic,16,13,10,160,130,30,8,Sept
+88065566456,44065,Tony E Keough,Female,Glens Falls,Twanna Y Manges,Fenard Store,Reatha O Hansford,Amir Yusha,Speyburn Bradan,Alcoholic,20,17,3,60,51,9,8,Sept
+88065566457,44066,Dulce E Grizzard,Female,Hornell ,Reatha Q Breazeale,Fenard Store,Anitra F Dedmon,Amir Yusha,Uv Blue,Alcoholic,12,9,4,48,36,12,8,Sept
+88065566458,44067,Devin U Hales,Male,Hudson,Antone E Angel,Fenard Store,Jeremiah E Isler,Amir Yusha,Dr. Nut,Non Alcoholic,12,9,5,60,45,15,8,Sept
+88065566459,44068,Leif Y Harness,Male,Johnstown,Merle N Burrus,Fenard Store,Josef I Sergent,Amir Yusha,Egg Cream,Non Alcoholic,18,15,6,108,90,18,8,Sept
+88065566460,44072,Orval Q Olinger,Male,Kingston,Twanna Y Manges,Fenard Store,Reatha O Hansford,Amir Yusha,Burnett's,Alcoholic,10,7,3,30,21,9,8,Sept
+88065566461,44071,Reanna I Hampton,Female,Port Jervis,Reatha Q Breazeale,Fenard Store,Anitra F Dedmon,Amir Yusha,Smirnoff,Alcoholic,15,12,7,105,84,21,8,Sept
+88065566462,44071,Micaela N Buker,Female,New York,Antone E Angel,Fenard Store,Jeremiah E Isler,Amir Yusha,Fireball,Alcoholic,15,12,5,75,60,15,8,Sept
+88065566463,44072,Carmelia E Bergeron,Female,Little Falls,Merle N Burrus,Fenard Store,Josef I Sergent,Amir Yusha,Faygo,Non Alcoholic,23,20,8,184,160,24,8,Sept
+88065566464,44073,Elvis J Stroh,Male,Middletown,Twanna Y Manges,Fenard Store,Reatha O Hansford,Amir Yusha,Green River,Non Alcoholic,9,6,9,81,54,27,8,Sept
+88065566465,44074,Bud L Lofgren,Male,Mount,Reatha Q Breazeale,Fenard Store,Anitra F Dedmon,Amir Yusha,Ironport,Non Alcoholic,18,15,2,36,30,6,8,Sept
+88065566466,44044,Conrad R Saito,Male,New York,Antone E Angel,Fenard Store,Jeremiah E Isler,Fenad Grek,Suedka,Alcoholic,14,11,5,70,55,15,8,Sept
+88065566467,44045,Dorothy Q Gard,Female,Salamanca,Merle N Burrus,Fenard Store,Josef I Sergent,Fenad Grek,Apple Beer,Alcoholic,30,27,7,210,189,21,8,Sept
+88065566468,44046,Tiffaney A Schoenberg,Female,Springs,Twanna Y Manges,Fenard Store,Reatha O Hansford,Fenad Grek,Birch Beer,Alcoholic,16,13,7,112,91,21,8,Sept
+88065566469,44047,Clint Q Strayhorn,Male,Sherrill,Reatha Q Breazeale,Fenard Store,Anitra F Dedmon,Fenad Grek,Oliver Cromwell,Alcoholic,52,49,15,780,735,45,8,Sept
+88065566470,44048,Gertrud B Glidden,Female,Syracuse,Antone E Angel,Fenard Store,Jeremiah E Isler,Fenad Grek,Degrees Vodka,Alcoholic,14,11,3,42,33,9,8,Sept
+88065566471,44052,Eldridge B Bose,Male,Troy,Merle N Burrus,Fenard Store,Josef I Sergent,Fenad Grek,St. Amdr Cabernet,Alcoholic,6,3,6,36,18,18,8,Sept
+88065566472,44051,Lianne M Sweeney,Female,Olean,Twanna Y Manges,Fenard Store,Reatha O Hansford,Fenad Grek,Nake Turtle,Alcoholic,13,10,10,130,100,30,8,Sept
+88065566473,44051,Tonja E Lenahan,Female,Peekskill,Reatha Q Breazeale,Fenard Store,Anitra F Dedmon,Fenad Grek,Gallo XO,Alcoholic,15,12,11,165,132,33,8,Sept
+88065566474,44052,Nathan V Avendano,Male,Port Jervis,Antone E Angel,Fenard Store,Jeremiah E Isler,Fenad Grek,Cazadores Tequila,Alcoholic,20,17,3,60,51,9,8,Sept
+88065566475,44053,Jamison U Crutchfield,Male,Kingston,Merle N Burrus,Fenard Store,Josef I Sergent,Fenad Grek,Benchmark Bourbon,Alcoholic,12,9,1,12,9,3,8,Sept
+88065566476,44054,Dottie D Hagaman,Female,Little Falls,Twanna Y Manges,Fenard Store,Reatha O Hansford,Fenad Grek,Janie Stewart,Alcoholic,16,13,1,16,13,3,8,Sept
+88065566477,44055,Myron V Elsea,Male,Lockport,Reatha Q Breazeale,Fenard Store,Anitra F Dedmon,Fenad Grek,Speyburn Bradan,Alcoholic,20,17,1,20,17,3,8,Sept
+88065566478,44056,Rubin E Confer,Male,Long Beach,Antone E Angel,Fenard Store,Jeremiah E Isler,Fenad Grek,Uv Blue,Alcoholic,12,9,3,36,27,9,8,Sept
+88065566479,44057,Lavada W Maldanado,Female,Middletown,Merle N Burrus,Fenard Store,Josef I Sergent,Fenad Grek,Burnett's,Alcoholic,10,7,4,40,28,12,8,Sept
+88065566480,44058,Tony E Keough,Female,Glens Falls,Twanna Y Manges,Fenard Store,Reatha O Hansford,Fenad Grek,Smirnoff,Alcoholic,15,12,5,75,60,15,8,Sept
+88065566481,44062,Dulce E Grizzard,Female,Hornell ,Reatha Q Breazeale,Fenard Store,Anitra F Dedmon,Fenad Grek,Fireball,Alcoholic,15,12,6,90,72,18,8,Sept
+88065566482,44061,Devin U Hales,Male,Hudson,Antone E Angel,Fenard Store,Jeremiah E Isler,Fenad Grek,Jose Cuervo,Alcoholic,20,17,7,140,119,21,8,Sept
+88065566483,44061,Leif Y Harness,Male,Johnstown,Merle N Burrus,Fenard Store,Josef I Sergent,Fenad Grek,Agavales,Alcoholic,12,9,11,132,99,33,8,Sept
+88065566484,44062,Orval Q Olinger,Male,Kingston,Twanna Y Manges,Fenard Store,Reatha O Hansford,Fenad Grek,Pinnacle,Alcoholic,13,10,2,26,20,6,8,Sept
+88065566485,44063,Reanna I Hampton,Female,Port Jervis,Reatha Q Breazeale,Fenard Store,Anitra F Dedmon,Fenad Grek,Bacardi Rum,Alcoholic,15,12,3,45,36,9,8,Sept
+88065566486,44064,Micaela N Buker,Female,New York,Antone E Angel,Fenard Store,Jeremiah E Isler,Fenad Grek,Suedka,Alcoholic,14,11,5,70,55,15,8,Sept
+88065566487,44065,Carmelia E Bergeron,Female,Little Falls,Merle N Burrus,Fenard Store,Josef I Sergent,Fenad Grek,Apple Beer,Alcoholic,30,27,2,60,54,6,8,Sept
+88065566488,44066,Elvis J Stroh,Male,Middletown,Twanna Y Manges,Fenard Store,Reatha O Hansford,Fenad Grek,Birch Beer,Alcoholic,16,13,1,16,13,3,8,Sept
+88065566489,44067,Bud L Lofgren,Male,Mount,Reatha Q Breazeale,Fenard Store,Anitra F Dedmon,Fenad Grek,Boost,Non Alcoholic,9,6,6,54,36,18,8,Sept
+88065566490,44068,Conrad R Saito,Male,New York,Antone E Angel,Fenard Store,Jeremiah E Isler,Fenad Grek,Cel Ray,Non Alcoholic,5,2,9,45,18,27,8,Sept
+88065566491,44072,Dorothy Q Gard,Female,Salamanca,Merle N Burrus,Fenard Store,Josef I Sergent,Fenad Grek,Cheerwine,Non Alcoholic,18,15,10,180,150,30,8,Sept
+88065566492,44071,Jayme B Shimer,Female,Springs,Twanna Y Manges,Fenard Store,Reatha O Hansford,Fenad Grek,Chicory Coffee,Non Alcoholic,10,7,3,30,21,9,8,Sept
+88065566493,44071,Clint Q Strayhorn,Male,Sherrill,Reatha Q Breazeale,Fenard Store,Anitra F Dedmon,Fenad Grek,Coffee Milk,Non Alcoholic,20,17,4,80,68,12,8,Sept
+88065566494,44072,Gertrud B Glidden,Female,Syracuse,Antone E Angel,Fenard Store,Jeremiah E Isler,Fenad Grek,Date Shake,Non Alcoholic,70,67,5,350,335,15,8,Sept
+88065566495,44073,Eldridge B Bose,Male,Troy,Merle N Burrus,Fenard Store,Josef I Sergent,Fenad Grek,Dr. Enuf,Non Alcoholic,15,12,6,90,72,18,8,Sept
+88065566496,44074,Lianne M Sweeney,Female,Olean,Twanna Y Manges,Fenard Store,Reatha O Hansford,Fenad Grek,Dr. Nut,Non Alcoholic,12,9,3,36,27,9,8,Sept
+88065566497,44075,Tonja E Lenahan,Female,Peekskill,Reatha Q Breazeale,Fenard Store,Anitra F Dedmon,Fenad Grek,Egg Cream,Non Alcoholic,18,15,7,126,105,21,9,August
+88065566498,44076,Nathan V Avendano,Male,Port Jervis,Antone E Angel,Fenard Store,Jeremiah E Isler,Fenad Grek,Faygo,Non Alcoholic,23,20,5,115,100,15,9,August
+88065566499,44077,Jamison U Crutchfield,Male,Kingston,Merle N Burrus,Fenard Store,Josef I Sergent,Fenad Grek,Green River,Non Alcoholic,9,6,8,72,48,24,9,August
+88065566500,44078,Dottie D Hagaman,Female,Little Falls,Twanna Y Manges,Fenard Store,Reatha O Hansford,Fenad Grek,Ironport,Non Alcoholic,18,15,9,162,135,27,9,August
+88065566501,44079,Lynwood Q Durfee,Male,Johnstown,Reatha Q Breazeale,Fenard Store,Anitra F Dedmon,Fenad Grek,Oliver Cromwell,Alcoholic,52,49,2,104,98,6,9,August
+88065566502,44083,Dong B Sturdevant,Male,Kingston,Antone E Angel,Fenard Store,Jeremiah E Isler,Fenad Grek,Boost,Non Alcoholic,9,6,5,45,30,15,9,August
+88065566503,44082,Mandy W Lavalley,Female,Little Falls,Merle N Burrus,Fenard Store,Josef I Sergent,Fenad Grek,Cel Ray,Non Alcoholic,5,2,7,35,14,21,9,August
+88065566504,44082,Kris L Bice,Male,Lockport,Twanna Y Manges,Fenard Store,Reatha O Hansford,Fenad Grek,Degrees Vodka,Alcoholic,14,11,7,98,77,21,9,August
+88065566505,44083,Windy A Dudek,Female,Long Beach,Reatha Q Breazeale,Fenard Store,Anitra F Dedmon,Fenad Grek,St. Amdr Cabernet,Alcoholic,6,3,15,90,45,45,9,August
+88065566506,44084,Reinaldo G Castellanos,Male,Middletown,Antone E Angel,Fenard Store,Jeremiah E Isler,Fenad Grek,Chicory Coffee,Non Alcoholic,10,7,3,30,21,9,9,August
+88065566507,44085,Astrid R Marinelli,Female,Mount,Merle N Burrus,Fenard Store,Josef I Sergent,Fenad Grek,Nake Turtle,Alcoholic,13,10,6,78,60,18,9,August
+88065566508,44086,Kendrick C Burchette,Male,New York,Twanna Y Manges,Fenard Store,Reatha O Hansford,Fenad Grek,Coffee Milk,Non Alcoholic,20,17,10,200,170,30,9,August
+88065566509,44087,Dale E Childers,Female,Newburgh,Reatha Q Breazeale,Fenard Store,Anitra F Dedmon,Fenad Grek,Gallo XO,Alcoholic,15,12,11,165,132,33,9,August
+88065566510,44088,Reed O Vella,Male,Olean,Antone E Angel,Fenard Store,Jeremiah E Isler,Fenad Grek,Cazadores Tequila,Alcoholic,20,17,3,60,51,9,9,August
+88065566511,44089,Margarito O Retana,Male,Peekskill,Merle N Burrus,Fenard Store,Josef I Sergent,Fenad Grek,Benchmark Bourbon,Alcoholic,12,9,1,12,9,3,9,August
+88065566512,44093,Mervin E Goering,Male,Port Jervis,Twanna Y Manges,Fenard Store,Reatha O Hansford,Fenad Grek,Janie Stewart,Alcoholic,16,13,1,16,13,3,9,August
+88065566513,44092,Novella B Osman,Female,Poughkeepsie,Reatha Q Breazeale,Fenard Store,Anitra F Dedmon,Fenad Grek,Date Shake,Non Alcoholic,70,67,1,70,67,3,9,August
+88065566514,44092,Windy S Pharr,Female,Rye ,Antone E Angel,Fenard Store,Jeremiah E Isler,Fenad Grek,Dr. Enuf,Non Alcoholic,15,12,3,45,36,9,9,August
+88065566515,44093,Josette R Betancourt,Female,Rome,Merle N Burrus,Fenard Store,Josef I Sergent,Fenad Grek,Janie Stewart,Alcoholic,16,13,4,64,52,12,9,August
+88065566516,44094,Aileen F Hiltz,Female,Rochester,Twanna Y Manges,Fenard Store,Reatha O Hansford,Fenad Grek,Speyburn Bradan,Alcoholic,20,17,5,100,85,15,9,August
+88065566517,44095,Tonia X Silvis,Female,Salamanca,Reatha Q Breazeale,Fenard Store,Anitra F Dedmon,Fenad Grek,Uv Blue,Alcoholic,12,9,6,72,54,18,9,August
+88065566518,44096,Bonny S Poor,Female,Springs,Antone E Angel,Fenard Store,Jeremiah E Isler,Fenad Grek,Dr. Nut,Non Alcoholic,12,9,7,84,63,21,9,August
+88065566519,44097,Randal J Kahle,Male,Sherrill,Merle N Burrus,Fenard Store,Josef I Sergent,Fenad Grek,Egg Cream,Non Alcoholic,18,15,11,198,165,33,9,August
+88065566520,44098,Sylvester M Harmer,Male,Syracuse,Twanna Y Manges,Fenard Store,Reatha O Hansford,Fenad Grek,Burnett's,Alcoholic,10,7,2,20,14,6,9,August
+88065566521,44099,Britt P Shivers,Male,Troy,Reatha Q Breazeale,Fenard Store,Anitra F Dedmon,Fenad Grek,Smirnoff,Alcoholic,15,12,3,45,36,9,9,August
+88065566522,44103,Clarence J Hinkson,Male,Watertown,Antone E Angel,Fenard Store,Jeremiah E Isler,Fenad Grek,Fireball,Alcoholic,15,12,5,75,60,15,9,August
+88065566523,44102,Vaughn N Garica,Male,Watervliet,Merle N Burrus,Fenard Store,Josef I Sergent,Fenad Grek,Faygo,Non Alcoholic,23,20,2,46,40,6,9,August
+88065566524,44102,Georgiann C Harrell,Female,Yakers,Twanna Y Manges,Fenard Store,Reatha O Hansford,Fenad Grek,Green River,Non Alcoholic,9,6,1,9,6,3,9,August
+88065566525,44103,Candelaria Q Zajicek,Female,New York,Reatha Q Breazeale,Fenard Store,Anitra F Dedmon,Fenad Grek,Ironport,Non Alcoholic,18,15,6,108,90,18,9,August
+88065566526,44104,Nathan V Avendano,Male,Port Jervis,Antone E Angel,Fenard Store,Jeremiah E Isler,Fenad Grek,Suedka,Alcoholic,14,11,9,126,99,27,9,August
+88065566527,44094,Jamison U Crutchfield,Male,Kingston,Merle N Burrus,Fenard Store,Josef I Sergent,Amir Yusha,Apple Beer,Alcoholic,30,27,10,300,270,30,9,August
+88065566528,44095,Dottie D Hagaman,Female,Little Falls,Twanna Y Manges,Fenard Store,Reatha O Hansford,Amir Yusha,Birch Beer,Alcoholic,16,13,3,48,39,9,9,August
+88065566529,44096,Lynwood Q Durfee,Male,Johnstown,Reatha Q Breazeale,Fenard Store,Anitra F Dedmon,Amir Yusha,Oliver Cromwell,Alcoholic,52,49,4,208,196,12,9,August
+88065566530,44097,Dong B Sturdevant,Male,Kingston,Antone E Angel,Fenard Store,Jeremiah E Isler,Amir Yusha,Degrees Vodka,Alcoholic,14,11,5,70,55,15,9,August
+88065566531,44098,Mandy W Lavalley,Female,Little Falls,Merle N Burrus,Fenard Store,Josef I Sergent,Amir Yusha,St. Amdr Cabernet,Alcoholic,6,3,6,36,18,18,9,August
+88065566532,44099,Kris L Bice,Male,Lockport,Twanna Y Manges,Fenard Store,Reatha O Hansford,Amir Yusha,Nake Turtle,Alcoholic,13,10,3,39,30,9,9,August
+88065566533,44103,Windy A Dudek,Female,Long Beach,Reatha Q Breazeale,Fenard Store,Anitra F Dedmon,Amir Yusha,Gallo XO,Alcoholic,15,12,7,105,84,21,9,August
+88065566534,44102,Reinaldo G Castellanos,Male,Middletown,Antone E Angel,Fenard Store,Jeremiah E Isler,Amir Yusha,Cazadores Tequila,Alcoholic,20,17,5,100,85,15,9,August
+88065566535,44102,Astrid R Marinelli,Female,Mount,Merle N Burrus,Fenard Store,Josef I Sergent,Amir Yusha,Benchmark Bourbon,Alcoholic,12,9,8,96,72,24,9,August
+88065566536,44103,Kendrick C Burchette,Male,New York,Twanna Y Manges,Fenard Store,Reatha O Hansford,Amir Yusha,Janie Stewart,Alcoholic,16,13,9,144,117,27,9,August
+88065566537,44104,Julio P Bryce,Male,Hempstead,Reatha Q Breazeale,Fenard Store,Anitra F Dedmon,Amir Yusha,Speyburn Bradan,Alcoholic,20,17,2,40,34,6,9,August
+88065566538,44044,Lyla Q Donald,Female,Brookhaven,Antone E Angel,Fenard Store,Jeremiah E Isler,Amir Yusha,Uv Blue,Alcoholic,12,9,5,60,45,15,8,Sept
+88065566539,44045,Ed X Shockley,Male,Glen Cove,Merle N Burrus,Fenard Store,Josef I Sergent,Amir Yusha,Burnett's,Alcoholic,10,7,7,70,49,21,8,Sept
+88065566540,44046,Christene F Blakemore,Female,Glens Falls,Twanna Y Manges,Fenard Store,Reatha O Hansford,Amir Yusha,Smirnoff,Alcoholic,15,12,7,105,84,21,8,Sept
+88065566541,44047,Joanna H Deforest,Female,Hornell ,Reatha Q Breazeale,Fenard Store,Anitra F Dedmon,Amir Yusha,Fireball,Alcoholic,15,12,15,225,180,45,8,Sept
+88065566542,44048,Tad V Laster,Male,Hudson,Antone E Angel,Fenard Store,Jeremiah E Isler,Amir Yusha,Jose Cuervo,Alcoholic,20,17,3,60,51,9,8,Sept
+88065566543,44052,Mirtha X Herzig,Female,Johnstown,Merle N Burrus,Fenard Store,Josef I Sergent,Amir Yusha,Agavales,Alcoholic,12,9,6,72,54,18,8,Sept
+88065566544,44051,Taylor O Thill,Male,Kingston,Twanna Y Manges,Fenard Store,Reatha O Hansford,Amir Yusha,Pinnacle,Alcoholic,13,10,10,130,100,30,8,Sept
+88065566545,44051,Nathan V Avendano,Male,Port Jervis,Reatha Q Breazeale,Fenard Store,Anitra F Dedmon,Amir Yusha,Bacardi Rum,Alcoholic,15,12,11,165,132,33,8,Sept
+88065566546,44052,Jamison U Crutchfield,Male,Kingston,Antone E Angel,Fenard Store,Jeremiah E Isler,Amir Yusha,Suedka,Alcoholic,14,11,3,42,33,9,8,Sept
+88065566547,44053,Dottie D Hagaman,Female,Little Falls,Merle N Burrus,Fenard Store,Josef I Sergent,Amir Yusha,Apple Beer,Alcoholic,30,27,1,30,27,3,8,Sept
+88065566548,44054,Lynwood Q Durfee,Male,Johnstown,Twanna Y Manges,Fenard Store,Reatha O Hansford,Amir Yusha,Birch Beer,Alcoholic,16,13,1,16,13,3,8,Sept
+88065566549,44055,Dong B Sturdevant,Male,Kingston,Reatha Q Breazeale,Fenard Store,Anitra F Dedmon,Amir Yusha,Boost,Non Alcoholic,9,6,1,9,6,3,8,Sept
+88065566550,44056,Mandy W Lavalley,Female,Little Falls,Antone E Angel,Fenard Store,Jeremiah E Isler,Amir Yusha,Cel Ray,Non Alcoholic,5,2,3,15,6,9,8,Sept
+88065566551,44057,Kris L Bice,Male,Lockport,Merle N Burrus,Fenard Store,Josef I Sergent,Amir Yusha,Cheerwine,Non Alcoholic,18,15,4,72,60,12,8,Sept
+88065566552,44058,Windy A Dudek,Female,Long Beach,Twanna Y Manges,Fenard Store,Reatha O Hansford,Amir Yusha,Chicory Coffee,Non Alcoholic,10,7,5,50,35,15,8,Sept
+88065566553,44062,Reinaldo G Castellanos,Male,Middletown,Reatha Q Breazeale,Fenard Store,Anitra F Dedmon,Amir Yusha,Coffee Milk,Non Alcoholic,20,17,6,120,102,18,8,Sept
+88065566554,44061,Astrid R Marinelli,Female,Mount,Antone E Angel,Fenard Store,Jeremiah E Isler,Amir Yusha,Date Shake,Non Alcoholic,70,67,7,490,469,21,8,Sept
+88065566555,44061,Kendrick C Burchette,Male,New York,Merle N Burrus,Fenard Store,Josef I Sergent,Amir Yusha,Dr. Enuf,Non Alcoholic,15,12,11,165,132,33,8,Sept
+88065566556,44062,Kirstie W Macey,Female,Olean,Twanna Y Manges,Fenard Store,Reatha O Hansford,Amir Yusha,Dr. Nut,Non Alcoholic,12,9,50,600,450,150,8,Sept
+88065566557,44063,Heriberto Y Starkey,Male,Peekskill,Reatha Q Breazeale,Fenard Store,Anitra F Dedmon,Amir Yusha,Egg Cream,Non Alcoholic,18,15,3,54,45,9,8,Sept
+88065566558,44064,Sherryl B Raker,Female,Port Jervis,Antone E Angel,Fenard Store,Jeremiah E Isler,Amir Yusha,Faygo,Non Alcoholic,23,20,7,161,140,21,8,Sept
+88065566559,44065,Dion K Taylor,Male,Kingston,Merle N Burrus,Fenard Store,Josef I Sergent,Amir Yusha,Green River,Non Alcoholic,9,6,2,18,12,6,8,Sept
+88065566560,44066,Kenton Q Villalta,Male,Little Falls,Twanna Y Manges,Fenard Store,Reatha O Hansford,Amir Yusha,Ironport,Non Alcoholic,18,15,1,18,15,3,8,Sept
+88065566561,44067,Johnie V Centers,Male,Lockport,Reatha Q Breazeale,Fenard Store,Anitra F Dedmon,Amir Yusha,Oliver Cromwell,Alcoholic,52,49,6,312,294,18,8,Sept
+88065566562,44068,Vasiliki E Thoman,Female,Long Beach,Antone E Angel,Fenard Store,Jeremiah E Isler,Amir Yusha,Boost,Non Alcoholic,9,6,40,360,240,120,8,Sept
+88065566563,44072,Desirae D Ginn,Female,Middletown,Merle N Burrus,Fenard Store,Josef I Sergent,Amir Yusha,Cel Ray,Non Alcoholic,5,2,10,50,20,30,8,Sept
+88065566564,44071,Elroy N Kimbler,Male,Watervliet,Twanna Y Manges,Fenard Store,Reatha O Hansford,Amir Yusha,Degrees Vodka,Alcoholic,14,11,3,42,33,9,8,Sept
+88065566565,44071,Nathan V Avendano,Male,Port Jervis,Reatha Q Breazeale,Fenard Store,Anitra F Dedmon,Amir Yusha,St. Amdr Cabernet,Alcoholic,6,3,4,24,12,12,8,Sept
+88065566566,44072,Jamison U Crutchfield,Male,Kingston,Antone E Angel,Fenard Store,Jeremiah E Isler,Amir Yusha,Chicory Coffee,Non Alcoholic,10,7,5,50,35,15,8,Sept
+88065566567,44073,Dottie D Hagaman,Female,Little Falls,Merle N Burrus,Fenard Store,Josef I Sergent,Amir Yusha,Nake Turtle,Alcoholic,13,10,80,1040,800,240,8,Sept
+88065566568,44074,Lynwood Q Durfee,Male,Johnstown,Twanna Y Manges,Fenard Store,Reatha O Hansford,Amir Yusha,Coffee Milk,Non Alcoholic,20,17,3,60,51,9,8,Sept
+88065566569,44044,Dong B Sturdevant,Male,Kingston,Reatha Q Breazeale,Fenard Store,Anitra F Dedmon,Fenad Grek,Gallo XO,Alcoholic,15,12,7,105,84,21,8,Sept
+88065566570,44045,Mandy W Lavalley,Female,Little Falls,Antone E Angel,Fenard Store,Jeremiah E Isler,Fenad Grek,Cazadores Tequila,Alcoholic,20,17,10,200,170,30,8,Sept
+88065566571,44046,Kris L Bice,Male,Lockport,Merle N Burrus,Fenard Store,Josef I Sergent,Fenad Grek,Benchmark Bourbon,Alcoholic,12,9,8,96,72,24,8,Sept
+88065566572,44047,Windy A Dudek,Female,Long Beach,Twanna Y Manges,Fenard Store,Reatha O Hansford,Fenad Grek,Janie Stewart,Alcoholic,16,13,9,144,117,27,8,Sept
+88065566573,44048,Reinaldo G Castellanos,Male,Middletown,Reatha Q Breazeale,Fenard Store,Anitra F Dedmon,Fenad Grek,Date Shake,Non Alcoholic,70,67,12,840,804,36,8,Sept
+88065566574,44052,Astrid R Marinelli,Female,Mount,Antone E Angel,Fenard Store,Jeremiah E Isler,Fenad Grek,Dr. Enuf,Non Alcoholic,15,12,5,75,60,15,8,Sept
+88065566575,44051,Kendrick C Burchette,Male,New York,Merle N Burrus,Fenard Store,Josef I Sergent,Fenad Grek,Janie Stewart,Alcoholic,16,13,32,512,416,96,8,Sept
+88065566576,44051,Crystal U Comes,Female,Beacon,Twanna Y Manges,Fenard Store,Reatha O Hansford,Fenad Grek,Speyburn Bradan,Alcoholic,20,17,7,140,119,21,8,Sept
+88065566577,44052,Iliana M Fogle,Female,Choes,Reatha Q Breazeale,Fenard Store,Anitra F Dedmon,Fenad Grek,Uv Blue,Alcoholic,12,9,15,180,135,45,8,Sept
+88065566578,44053,Ben U Gigliotti,Male,Fulton,Antone E Angel,Fenard Store,Jeremiah E Isler,Fenad Grek,Dr. Nut,Non Alcoholic,12,9,3,36,27,9,8,Sept
+88065566579,44054,Theresa R Fitzmaurice,Female,Geneva,Merle N Burrus,Fenard Store,Josef I Sergent,Fenad Grek,Egg Cream,Non Alcoholic,18,15,16,288,240,48,8,Sept
+88065566580,44055,Almeda M Dunford,Female,Elmira,Twanna Y Manges,Fenard Store,Reatha O Hansford,Fenad Grek,Burnett's,Alcoholic,10,7,10,100,70,30,8,Sept
+88065566581,44056,Melida R Corle,Female,Glen Cove,Reatha Q Breazeale,Fenard Store,Anitra F Dedmon,Fenad Grek,Smirnoff,Alcoholic,15,12,11,165,132,33,8,Sept
+88065566582,44057,Armando H Seaborn,Male,Glens Falls,Antone E Angel,Fenard Store,Jeremiah E Isler,Fenad Grek,Fireball,Alcoholic,15,12,3,45,36,9,8,Sept
+88065566583,44058,Efrain L Wass,Male,Hornell ,Merle N Burrus,Fenard Store,Josef I Sergent,Fenad Grek,Faygo,Non Alcoholic,23,20,17,391,340,51,8,Sept
+88065566584,44062,Edra M Guthrie,Female,Hudson,Twanna Y Manges,Fenard Store,Reatha O Hansford,Fenad Grek,Green River,Non Alcoholic,9,6,70,630,420,210,8,Sept
+88065566585,44061,Harland S Renshaw,Male,Johnstown,Reatha Q Breazeale,Fenard Store,Anitra F Dedmon,Fenad Grek,Ironport,Non Alcoholic,18,15,68,1224,1020,204,8,Sept
+88065566586,44061,Leroy H Styron,Male,Kingston,Antone E Angel,Fenard Store,Jeremiah E Isler,Fenad Grek,Suedka,Alcoholic,14,11,17,238,187,51,8,Sept
+88065566587,44062,Maryln H Springfield,Female,Little Falls,Merle N Burrus,Fenard Store,Josef I Sergent,Fenad Grek,Apple Beer,Alcoholic,30,27,25,750,675,75,8,Sept
+88065566588,44063,Elenora S Whitehill,Female,Lockport,Twanna Y Manges,Fenard Store,Reatha O Hansford,Fenad Grek,Birch Beer,Alcoholic,16,13,5,80,65,15,8,Sept
+88065566589,44064,Izola E Ye,Female,Long Beach,Reatha Q Breazeale,Fenard Store,Anitra F Dedmon,Fenad Grek,Oliver Cromwell,Alcoholic,52,49,6,312,294,18,8,Sept
+88065566590,44065,Dorethea U Engram,Female,Middletown,Antone E Angel,Fenard Store,Jeremiah E Isler,Fenad Grek,Degrees Vodka,Alcoholic,14,11,7,98,77,21,8,Sept
+88065566591,44066,Anibal F Pieper,Male,Mount,Merle N Burrus,Fenard Store,Josef I Sergent,Fenad Grek,St. Amdr Cabernet,Alcoholic,6,3,11,66,33,33,8,Sept
+88065566592,44067,Ula W Hartl,Female,New York,Twanna Y Manges,Fenard Store,Reatha O Hansford,Fenad Grek,Nake Turtle,Alcoholic,13,10,18,234,180,54,8,Sept
+88065566593,44068,Latanya C Law,Female,Newburgh,Reatha Q Breazeale,Fenard Store,Anitra F Dedmon,Fenad Grek,Gallo XO,Alcoholic,15,12,3,45,36,9,8,Sept
+88065566594,44072,Brent U Perlman,Male,Olean,Antone E Angel,Fenard Store,Jeremiah E Isler,Fenad Grek,Cazadores Tequila,Alcoholic,20,17,16,320,272,48,8,Sept
+88065566595,44071,Eveline B Strecker,Female,Peekskill,Merle N Burrus,Fenard Store,Josef I Sergent,Fenad Grek,Benchmark Bourbon,Alcoholic,12,9,2,24,18,6,8,Sept
+88065566596,44071,Keila A Lucas,Female,Port Jervis,Twanna Y Manges,Fenard Store,Reatha O Hansford,Fenad Grek,Janie Stewart,Alcoholic,16,13,70,1120,910,210,8,Sept
+88065566597,44072,Aliza X Sammons,Female,Poughkeepsie,Reatha Q Breazeale,Fenard Store,Anitra F Dedmon,Fenad Grek,Speyburn Bradan,Alcoholic,20,17,6,120,102,18,8,Sept
+88065566598,44073,Bennie E Manfredi,Male,Rye ,Antone E Angel,Fenard Store,Jeremiah E Isler,Fenad Grek,Uv Blue,Alcoholic,12,9,9,108,81,27,8,Sept
+88065566599,44074,Lucinda Z Borton,Female,Rome,Merle N Burrus,Fenard Store,Josef I Sergent,Fenad Grek,Burnett's,Alcoholic,10,7,10,100,70,30,8,Sept
+88065566600,44075,Keila F Lofland,Female,Rochester,Twanna Y Manges,Fenard Store,Reatha O Hansford,Fenad Grek,Smirnoff,Alcoholic,15,12,68,1020,816,204,9,August
+88065566601,44076,Royce K Goodwyn,Female,Salamanca,Reatha Q Breazeale,Fenard Store,Anitra F Dedmon,Fenad Grek,Fireball,Alcoholic,15,12,4,60,48,12,9,August
+88065566602,44077,Rickey I Delk,Male,Springs,Antone E Angel,Fenard Store,Jeremiah E Isler,Fenad Grek,Jose Cuervo,Alcoholic,20,17,67,1340,1139,201,9,August
+88065566603,44078,Delsie R Tennison,Female,Sherrill,Merle N Burrus,Fenard Store,Josef I Sergent,Fenad Grek,Agavales,Alcoholic,12,9,6,72,54,18,9,August
+88065566604,44079,Jayme B Shimer,Female,Syracuse,Twanna Y Manges,Fenard Store,Reatha O Hansford,Fenad Grek,Pinnacle,Alcoholic,13,10,3,39,30,9,9,August
+88065566605,44083,Gilbert M Wolfgram,Male,Troy,Reatha Q Breazeale,Fenard Store,Anitra F Dedmon,Fenad Grek,Bacardi Rum,Alcoholic,15,12,7,105,84,21,9,August
+88065566606,44082,Isabella X Russell,Female,Watertown,Antone E Angel,Fenard Store,Jeremiah E Isler,Fenad Grek,Suedka,Alcoholic,14,11,5,70,55,15,9,August
+88065566607,44082,Rueben X Pidgeon,Male,Watervliet,Merle N Burrus,Fenard Store,Josef I Sergent,Fenad Grek,Apple Beer,Alcoholic,30,27,8,240,216,24,9,August
+88065566608,44083,Raymond U Flavin,Male,Yakers,Antone E Angel,Fenard Store,Jeremiah E Isler,Fenad Grek,Birch Beer,Alcoholic,16,13,9,144,117,27,9,August
+88065566609,44084,Larry K Mash,Male,New York,Merle N Burrus,Fenard Store,Josef I Sergent,Fenad Grek,Boost,Non Alcoholic,9,6,2,18,12,6,9,August
+88065566610,44085,Nicolle A Crothers,Female,Hempstead,Antone E Angel,Fenard Store,Jeremiah E Isler,Fenad Grek,Cel Ray,Non Alcoholic,5,2,5,25,10,15,9,August
+88065566611,44086,Gustavo F Rouse,Male,Brookhaven,Merle N Burrus,Fenard Store,Josef I Sergent,Fenad Grek,Cheerwine,Non Alcoholic,18,15,7,126,105,21,9,August
+88065566612,44087,Victoria H Musson,Female,Islip,Antone E Angel,Fenard Store,Jeremiah E Isler,Fenad Grek,Chicory Coffee,Non Alcoholic,10,7,7,70,49,21,9,August

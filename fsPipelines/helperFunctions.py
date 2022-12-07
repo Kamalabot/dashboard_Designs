@@ -8,7 +8,7 @@ warnings.filterwarnings('ignore')
 #transformation function
 def transformXL(fileLocation, worksheet = 'DataSource'):
     
-    sourceDF = pd.read_excel(fileLocation,sheet_name='Datasource',header=0)
+    sourceDF = pd.read_excel(fileLocation,worksheet,header=0)
     
     frameCols = sourceDF.columns
     dropColumns = []
