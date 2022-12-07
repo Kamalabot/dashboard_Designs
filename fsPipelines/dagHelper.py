@@ -5,6 +5,10 @@ import configparser
 import warnings
 warnings.filterwarnings('ignore')
 
+import pyspark
+from pyspark.sql import SparkSession
+from pyspark.sql.functions import *
+import pandas as pd
 #transformation function
 def transformXL(fileLocation,fileDestination,worksheet = 'DataSource'):
     
@@ -30,6 +34,33 @@ def transformXL(fileLocation,fileDestination,worksheet = 'DataSource'):
     sourceDF.columns = cols
     
     sourceDF.to_csv(fileDestination,index=False)
+
+def transformDB(fileLocation,tableName,config):
+    #Starting spark with database connectivity
+    #database connection data
+    db ='dashboards' 
+    user ='postgres' 
+    passwd =1234 
+    port = 5432
+    host ='localhost' 
+
+
+    spark = SparkSession.builder.appName("KPI"). \
+            config('spark.jars','/usr/share/java/postgresql-42.2.26.jar'). \
+            getOrCreate()
+    sparkread = spark.read
+    sparkcon = spark.sparkContext
+    
+    sourceDF = sparkread.csv(fileLocation,inferSchema=True,
+                            header=True)
+    print(f"jdbc:postgresql://{host}:{port}/{db}")
+    sourceDF.write.format("jdbc") \
+        .option("url",f"jdbc:postgresql://{host}:{port}/{db}") \
+        .option("dbtable",f"{tableName}") \
+        .option("user",f"{user}") \
+        .option("password",f"{passwd}") \
+        .option("driver","org.postgresql.Driver") \
+        .save(mode='overwrite')
 
 def writeToDb(config, dataframe, tableName, fileLocation):
     
