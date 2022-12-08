@@ -1,0 +1,16 @@
+DAG to make data flow from Excel to Postgres with Pyspark
+
+Objective: Using Airflow scheduler provides three routes to Postgres Database. 
+Exploring the options and challenges in those routes. 
+
+1) Postgres Operator with the connection established internally in Airflow.
+
+2) Using Python Operator along with psycopg2 library to write the data to the database
+table. 
+
+3) Using the pyspark session invoked through the helper functions and then write 
+the data to database. JDBC driver will be used.
+
+The simplest of the three is using Pyspark session. Upstream task can convert the 
+excel file to csv and write to a destination folder. Code for the same is shared in 
+the repo ()

@@ -1,6 +1,7 @@
 DAG to make data flow from Excel to Postgres with Pyspark
 
 Objective: Using Airflow scheduler provides three routes to Postgres Database. 
+Exploring the options and challenges in those routes. 
 
 1) Postgres Operator with the connection established internally in Airflow.
 
@@ -11,5 +12,59 @@ table.
 the data to database. JDBC driver will be used.
 
 The simplest of the three is using Pyspark session. Upstream task can convert the 
-excel file to csv and write to a destination folder. In the next task 
+excel file to csv and write to a destination folder. Code for the same is shared in 
+the repo (https://github.com/Kamalabot/dagflowPostgres). Before you start asking, 
+how fast is the pipeline, let me share the run time data as shown below. 
 
+First one is the time line for two tasks. t1 takes the excel file as converts it to 
+the csv file and writes it to destination. The t2 takes that csv and writes it to 
+postgres server.
+
+Second figure is the timeline for just converting the excel file to csv. It hardly 
+takes 12 seconds. 
+
+Let me tell you why I used Pyspark:
+
+PostgresOperator for some reason was not installed in my local system. Here are the steps
+I took.
+
+1) Created new virtual environment and installed Airflow and its providers. It went well.
+
+2) Setup the Airflow webserver. No issue it came up
+
+3) Tried setting up the default database. It conflicted with the Airflow that is available in the root. 
+
+4) Thought of using Dockers for the Airflow Webserver + Scheduler. My 2GB machine got a siezure.
+
+Importance of Objective and Conditions:
+When I decided in the morning to learn, how to write the data to Postgres data from a XL sheet using 
+the Airflow, I had a path. The conditions are data should be inside Postgres and it should been 
+through Airflow. Whether I use BashOperator, SSHOperator or PythonOperator was never a condition. Because 
+I knew about these operators only by going through the forums after my PostgresOperator failed. 
+Another condition is I have to Learn. If Postgres Operator had functioned, the probably I would have still 
+tried with Pyspark. But wouldn't have researched other operators. 
+
+Before going to the Code:
+In case of Airflow, there are some additional caveats to wrestle with. The DAG script has to be inside the 
+dag folder of the airflow installation, that is usually /home/user_{your NAME}/airflow/dags. Then comes the 
+Airflow instance. 
+
+- airflow db init ==> Will start the native database server and allow airflow to use it. 
+- airflow webserver -p 8081 ==> Will start the Airflow Webserver where the Dags are displayed. 
+- airflow scheduler ==> Will start the scheduler, which finds the airflow webserver and attaches itself 
+(or the opposite way, not sure)
+
+The scheduler and webserver have to talking with each other. In case of my system the scheduler kept going 
+offline. I had to kill the scheduler process manually and restarted it. 
+
+The DAG script can have import errors. The supporting modules file has to be in the same folder where the Dag 
+scripts are located. That is inside the /home/user_{your name}/airflow/dags/. 
+
+The new dags take a lot of time to show up on the Airflow webserver. There is a internal time lag coded, so keep 
+refreshing the page until your dag shows, or an error pops up at the top. 
+
+Airflow requires Functions:
+
+It took sometime for me to realize dag_script.py that is used to write the DAGs are python scripts. The variables 
+can be declared in the same way we do in python script. Please exercise caution since the DAG code can move to 
+completely different environment through docker or github repo. Some prefer to use 
