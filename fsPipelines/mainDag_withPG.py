@@ -6,6 +6,7 @@ import configparser
 from airflow import DAG
 from airflow.utils.dates import days_ago
 from airflow.operators.python import PythonOperator
+from airflow.providers.postgres.operators.postgres import PostgresOperator
 #This is Dag File with connectivity to postgres throug pyspark and python operator
 args = {
         'owner':'spacer'

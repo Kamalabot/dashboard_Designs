@@ -67,4 +67,23 @@ Airflow requires Functions:
 
 It took sometime for me to realize dag_script.py that is used to write the DAGs are python scripts. The variables 
 can be declared in the same way we do in python script. Please exercise caution since the DAG code can move to 
-completely different environment through docker or github repo. Some prefer to use 
+completely different environment through docker or github repo. If you have come across Kaggle notebooks, those 
+compact environments created by dockers https://github.com/Kaggle/docker-python. 
+
+Finally some code... Meet the DAG that creates the minions to move the data.
+
+
+They look very simple. It only means the complexity is hidden inside the supporting modules. 
+There you go, the two main supporting functions. In full glory. 
+
+Hey they are just python functions:
+
+That is how I felt the after I wrote my own airflow DAGs. Honestly I have aversions to errors. I want the programs 
+to run after I right them. In case of Airflow the DAG is running in a server and it is communicating with the local 
+file system for the files, and reading the function from the modules. The single task dag was easy, but the DAG with
+Pyspark environment writing to the database took a lot of time. Because I was not giving a proper Database Table 
+name.
+
+Some errors occur because we don't know or remember a concept. When multiple systems are interacting, understanding the 
+concepts related to server, file-systems, spark contexts and database servers are important. Else, understanding the errors 
+will become a challenge. And worse case halt our progress.
