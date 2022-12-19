@@ -1,21 +1,45 @@
-import os
+#!/usr/bin/env python
+import pyspark
+from pyspark.sql import SparkSession
+from pyspark.sql.functions import *
+#transformation function
+
 import warnings
 warnings.filterwarnings('ignore')
-from dagHelper import *
-import configparser
-source = "/run/media/solverbot/repoA/gitFolders/dashBoard Designs/fsPipelines/fileupload/"
-dest = "/run/media/solverbot/repoA/gitFolders/dashBoard Designs/fsPipelines/fileCSV/"
+#get the user input for filename and table name.
+fileName = input("Please provide the CSV file name to upload to DB: ")
+tableName= input("Please provide the table name to be used in DB: ")
 
-name = os.listdir(source)[1]
-sourceName = source + name
-#The source dataframe is generated
-destName = os.listdir(source)[1].split('.')[0]+".csv"
-newDest = dest + destName.replace(' ','_')
-tableName = os.listdir(source)[1].split('.')[0].replace(' ','_')
+def transformDB(fileLocation,tableName):
+    #Starting spark with database connectivity
+    #database connection data
+    db ='dashboards' 
+    user ='postgres' 
+    passwd =1234 
+    port = 5432
+    host ='172.17.0.2' 
 
-print(os.listdir(os.curdir))
 
-config = configparser.ConfigParser()
-config.read('clusterdash.config')
-transformDB(newDest,tableName,config)
+    spark = SparkSession.builder.appName("KPI"). \
+            config('spark.jars','/usr/share/java/postgresql-42.2.26.jar'). \
+            getOrCreate()
+    sparkread = spark.read
+    sparkcon = spark.sparkContext
+    
+    sourceDF = sparkread.csv(fileLocation,inferSchema=True,
+                            header=True)
+    print(f"Starting the write process to {db}")
+    try:
+        sourceDF.write.format("jdbc") \
+            .option("url",f"jdbc:postgresql://{host}:{port}/{db}") \
+            .option("dbtable",f"{tableName}") \
+            .option("user",f"{user}") \
+            .option("password",f"{passwd}") \
+            .option("driver","org.postgresql.Driver") \
+            .save(mode='overwrite')
+    except Exception as e:
+        print(f"Encountered {e} check database is up and running!!!")
+    print(f"Completed the write process to table {tableName}")
+
+transformDB(fileName,tableName)
             

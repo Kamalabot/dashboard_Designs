@@ -1,0 +1,66 @@
+Objective: To enumerate all the possible use cases of Docker in Data engineering and talk
+about it. Free up my mind space to move to the next important topic, that is connecting 
+with cloud systems 
+
+Docker: How I am thinking about it? 
+
+Glass box that sits on top of the host kernel. The emulated hardware inside the box is 
+inherited from the host OS, so the hardware emulation is not required. 
+
+Docker provides individual access to each application, and provides an environment for the 
+the process to run, like its own network connectivity, its own volumes. All these are 
+hardware are still taken from the host, even it can be very well controlled from the host. 
+
+The application will run on a os that gets its own IP, user. 
+
+The application can act on any data that is sent in to the docker. The application can 
+create data on its own and give it to the outside world. The application can connect with another docker that is 
+having its own data, and process that will be useful for the final output. 
+
+docker run -it --rm alpine echo "this is awesome" | docker run -it --rm alpine nc -s \
+localhost -lvnp 6860. 
+
+The above command wil send the echo through the pipe and allow to be broadcasted through 
+the netcat server running on the other docker container. Each of the docker containers 
+will be created and deleted when the above command executes and completes. 
+
+If an application needs to be sandboxed inside an environment which is specific to it, then
+docker can create it for the application. The same environment may not work for another 
+application, so a different environment will be created for it. 
+
+When a docker is running, there are two ways to get a shell to it. One is using the below 
+docker exec -it docker_Instance bash. The another way is to use the ssh route. Where the 
+port for the docker ssh is opened for connecting and executing from outside. 
+
+Using SSH allows a more secure route to the docker instance. SCP can be used the copy the 
+files between the docker and the host machine.
+
+Docker allows these environments to be stored in the dockerhub and pulled through different 
+ways. Dockerfile, Docker-compose.yml and Docker CLI all have verbs that can pull the docker 
+from the hub. The docker can be stored locally in the tar format 
+docker save -o docker_instance.tar docker_image
+
+This allows to test the application in the local environment without thinking about the 
+dependencies that are required at the user side. The use case for me is mainly in the 
+hacking and penetration testing.
+
+Lets take a Docker OS that has been pulled from the hub. Does this OS provide same functionality 
+inside the docker compared to the same OS running outside the docker? No it will have lesser 
+but more specific functionality.
+
+Docker is a way of packaging the executables and its environment and providing it to the end user.
+There are multiple ways to feed the data or input to the docker environment. It could be simple 
+copy to a running container. The data could be fed into it, as a part of the pipeline. The 
+data location can be mounted as a volume to the docker when it is run. Or, the data that is required 
+can be made as a part of environment by copying it when first building it.
+
+5 things that Docker can do for you
+
+- Provide a different OS environment by virtualising the Host OS, with its own Network, Harddisks and File systems 
+- Allows to create multiple instance of the image that has been created as individual containers
+- Require multiple environments for completing a task, docker-compose can execute the yml file and bring up multiple images that depend on one another. 
+- Connectivity between the processing instance, that contains the code to process, the instance that displays the results and the instance that stores the data can created. 
+- Shell, Python or any other scripts can be executed inside the Docker image using RUN and CMD commands.
+
+
+

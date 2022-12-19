@@ -42,7 +42,7 @@ def transformDB(fileLocation,tableName,config):
     user ='postgres' 
     passwd =1234 
     port = 5432
-    host ='localhost' 
+    host ='172.17.0.2' 
 
 
     spark = SparkSession.builder.appName("KPI"). \
