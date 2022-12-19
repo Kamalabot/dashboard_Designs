@@ -9,11 +9,12 @@ warnings.filterwarnings('ignore')
 #get the user input for filename and table name.
 fileName = input("Please provide the CSV file name to upload to DB: ")
 tableName= input("Please provide the table name to be used in DB: ")
+databaseName= input("Please provide the database name to write the table: ")
 
-def transformDB(fileLocation,tableName):
+def transformDB(fileLocation,tableName,database):
     #Starting spark with database connectivity
     #database connection data
-    db ='dashboards' 
+    db =database
     user ='postgres' 
     passwd =1234 
     port = 5432
