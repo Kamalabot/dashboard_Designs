@@ -42,5 +42,5 @@ def transformDB(fileLocation,tableName,database):
         print(f"Encountered {e} check database is up and running!!!")
     print(f"Completed the write process to table {tableName}")
 
-transformDB(fileName,tableName)
+transformDB(fileName,tableName,databaseName)
             
