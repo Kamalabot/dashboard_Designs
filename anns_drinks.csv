@@ -1,0 +1,684 @@
+Id,Date,Customers,Gender,SalesReps,Drinks_Products,Categories,Cost,SalsPrice,Qty,Cogs,Revenue,Profit
+1,2019-01-01,Bernard Weatherly,M,timika poe,Heineken Bottle, Alcoholic Wine,38250,42500,3,114750,127500,12750
+2,2019-01-02,Cordia Knopp,F,zona otis,Origin Bottle, Alcoholic Wine,2700,3000,5,13500,15000,1500
+3,2019-01-03,Burton Jin,M,quentin kunz,Smirnoff Bottle, Alcoholic Wine,23850,26500,1,23850,26500,2650
+4,2019-01-04,Lauren Guzzi,M,quentin kunz,Frontera Rose 75Cl, Alcoholic Wine,24750,27500,5,123750,137500,13750
+5,2019-01-05,Carter Hunt,M,quentin kunz,Frontera Sauv Blanc 75Cl, Alcoholic Wine,44550,49500,7,311850,346500,34650
+6,2019-01-06,Isaiah Magwood,M,quentin kunz,G.H Mumm 75 Cl, Alcoholic Wine,9000,10000,4,36000,40000,4000
+7,2019-01-07,Hugh Chavira,M,quentin kunz,Guinness Can,Bear,8640,9600,8,69120,76800,7680
+8,2019-01-08,Lucius Moorhead,M,quentin kunz,Gulder Can,Bear,9000,10000,8,72000,80000,8000
+9,2019-01-09,Deane Keown,F,quentin kunz,Harp Can,Bear,3870,4300,9,34830,38700,3870
+10,2019-01-10,Joannie Wolters,F,quentin kunz,Heineken Can,Bear,45450,50500,2,90900,101000,10100
+11,2019-01-11,Christene Mccaleb,F,quentin kunz,Hennessy V.S 70 Cl, Alcoholic Wine,18225,20250,1,18225,20250,2025
+12,2019-01-12,Alline Kushner,F,quentin kunz,Hennessy V.S.O.P 70 Cl, Alcoholic Wine,1800,2000,22,39600,44000,4400
+13,2019-01-13,Vicki Hargrave,F,quentin kunz,Kagor Red Wine 75Cl, Alcoholic Wine,48600,54000,8,388800,432000,43200
+14,2019-01-14,Julienne Merkel,F,quentin kunz,Martell Vs Cognac 70Cl, Alcoholic Wine,72900,81000,7,510300,567000,56700
+15,2019-01-15,Keven Thole,M,quentin kunz,Martell Vsop Cognac 70Cl, Alcoholic Wine,9450,10500,56,529200,588000,58800
+16,2019-01-16,Eusebia Waldroup,F,quentin kunz,Martini Brut 75 Cl, Alcoholic Wine,36000,40000,10,360000,400000,40000
+17,2019-01-17,Veronique Eccleston,F,quentin kunz,Martini Rose 75 Cl, Alcoholic Wine,24300,27000,9,218700,243000,24300
+18,2019-01-18,Sean Richman,F,quentin kunz,Moet Brut Imperial 75Cl, Alcoholic Wine,9180,10200,27,247860,275400,27540
+19,2019-01-19,Lala Marquez,F,quentin kunz,Moet Nectar Imperial Champagne 75Cl, Alcoholic Wine,8640,9600,15,129600,144000,14400
+20,2019-01-20,Derick Macey,M,quentin kunz,Origin Can,Bear,8280,9200,3,24840,27600,2760
+21,2019-01-21,Eda Brase,F,quentin kunz,Smirnoff Can,Bear,4950,5500,9,44550,49500,4950
+22,2019-01-22,Willis Weissman,M,quentin kunz,Star Can,Bear,3150,3500,22,69300,77000,7700
+23,2019-01-23,Mariam Pinheiro,F,quentin kunz,5 Alive 1Ltr,Non Alcoholic ,2700,3000,16,43200,48000,4800
+24,2019-01-24,Malcom Meister,M,hyman irish,Amstel Malta Can,Non Alcoholic ,4050,4500,6,24300,27000,2700
+25,2019-01-25,Holli Ethridge,F,timika poe,CHAMDOR 75CL,Non Alcoholic ,53100,59000,3,159300,177000,17700
+26,2019-01-26,Cole Poling,M,hyman irish,Coke Can,Non Alcoholic ,88200,98000,5,441000,490000,49000
+27,2019-01-27,Ahmad Lynde,M,timika poe,COKE PLASTIC BOTTLE,Non Alcoholic ,38250,42500,1,38250,42500,4250
+28,2019-01-28,Mariano Leary,M,hyman irish,Fanta Can,Non Alcoholic ,2700,3000,5,13500,15000,1500
+29,2019-01-29,Tawanda Buchanon,F,timika poe,FANTA PLASTIC BOTTLE,Non Alcoholic ,23850,26500,7,166950,185500,18550
+30,2019-01-30,Nickolas Grossi,M,hyman irish,Malta Guinness Can,Non Alcoholic ,24750,27500,4,99000,110000,11000
+31,2019-01-31,Bradford Marlatt,M,timika poe,Maltina Can,Non Alcoholic ,44550,49500,8,356400,396000,39600
+32,2019-02-01,Carlton Bose,M,hyman irish,MALTINA PET BOTTLE,Non Alcoholic ,9000,10000,8,72000,80000,8000
+33,2019-02-02,Asuncion Braunstein,F,timika poe,ORIGIN ZERO CAN,Non Alcoholic ,8640,9600,9,77760,86400,8640
+34,2019-02-03,Theron Kramer,M,hyman irish,Pepsi Can,Non Alcoholic ,9000,10000,2,18000,20000,2000
+35,2019-02-04,Jeramy Metoyer,M,timika poe,Heineken Bottle, Alcoholic Wine,3870,4300,1,3870,4300,430
+36,2019-02-05,Sol Roger,F,hyman irish,Origin Bottle, Alcoholic Wine,45450,50500,22,999900,1111000,111100
+37,2019-02-06,Earnest Birkholz,M,timika poe,Smirnoff Bottle, Alcoholic Wine,18225,20250,8,145800,162000,16200
+38,2019-02-07,Amada Knouse,F,hyman irish,Frontera Rose 75Cl, Alcoholic Wine,1800,2000,7,12600,14000,1400
+39,2019-02-08,Gregorio Hottinger,M,timika poe,Frontera Sauv Blanc 75Cl, Alcoholic Wine,48600,54000,56,2721600,3024000,302400
+40,2019-02-09,Lawerence Abernethy,M,hyman irish,G.H Mumm 75 Cl, Alcoholic Wine,72900,81000,10,729000,810000,81000
+41,2019-02-10,Marina Quayle,F,timika poe,Guinness Can,Bear,9450,10500,9,85050,94500,9450
+42,2019-02-11,Whitney Wasinger,M,hyman irish,Gulder Can,Bear,36000,40000,27,972000,1080000,108000
+43,2019-02-12,Roy Wilkie,M,timika poe,Harp Can,Bear,24300,27000,15,364500,405000,40500
+44,2019-02-13,Hyun Bynoe,F,hyman irish,Heineken Can,Bear,9180,10200,3,27540,30600,3060
+45,2019-02-14,Katelin Coney,F,timika poe,Hennessy V.S 70 Cl, Alcoholic Wine,8640,9600,9,77760,86400,8640
+46,2019-02-15,Jennifer Pridgen,F,hyman irish,Hennessy V.S.O.P 70 Cl, Alcoholic Wine,8280,9200,22,182160,202400,20240
+47,2019-02-16,Zachary Breeden,M,timika poe,Kagor Red Wine 75Cl, Alcoholic Wine,4950,5500,16,79200,88000,8800
+48,2019-02-17,Deon Mounce,M,zona otis,Martell Vs Cognac 70Cl, Alcoholic Wine,3150,3500,6,18900,21000,2100
+49,2019-02-18,Buddy Steinbeck,M,timika poe,Martell Vsop Cognac 70Cl, Alcoholic Wine,2700,3000,3,8100,9000,900
+50,2019-02-19,Julius Bakker,M,zona otis,Martini Brut 75 Cl, Alcoholic Wine,4050,4500,5,20250,22500,2250
+51,2019-02-20,Hans Koh,M,timika poe,Martini Rose 75 Cl, Alcoholic Wine,53100,59000,1,53100,59000,5900
+52,2019-02-21,Jamal Dimarco,M,zona otis,Moet Brut Imperial 75Cl, Alcoholic Wine,88200,98000,5,441000,490000,49000
+53,2019-02-22,Stephan Ranger,M,timika poe,Moet Nectar Imperial Champagne 75Cl, Alcoholic Wine,8640,9600,7,60480,67200,6720
+54,2019-02-23,Jackie Montague,M,zona otis,Origin Can,Bear,8280,9200,4,33120,36800,3680
+55,2019-02-24,Nathanael Ohl,M,timika poe,Smirnoff Can,Bear,4950,5500,8,39600,44000,4400
+56,2019-02-25,Hosea Michelson,M,zona otis,Star Can,Bear,3150,3500,8,25200,28000,2800
+57,2019-02-26,Carly Sirianni,F,timika poe,5 Alive 1Ltr,Non Alcoholic ,2700,3000,9,24300,27000,2700
+58,2019-02-27,Abram Manrique,M,zona otis,Amstel Malta Can,Non Alcoholic ,4050,4500,2,8100,9000,900
+59,2019-02-28,Mica Herzberg,F,timika poe,CHAMDOR 75CL,Non Alcoholic ,53100,59000,1,53100,59000,5900
+60,2019-03-01,Lemuel Hardman,M,zona otis,Coke Can,Non Alcoholic ,88200,98000,22,1940400,2156000,215600
+61,2019-03-02,Shanelle Hick,F,timika poe,COKE PLASTIC BOTTLE,Non Alcoholic ,38250,42500,8,306000,340000,34000
+62,2019-03-03,Maryellen Hartness,F,zona otis,Fanta Can,Non Alcoholic ,2700,3000,7,18900,21000,2100
+63,2019-03-04,Sylvester Blackledge,M,timika poe,FANTA PLASTIC BOTTLE,Non Alcoholic ,23850,26500,56,1335600,1484000,148400
+64,2019-03-05,Vivienne Binion,F,zona otis,Malta Guinness Can,Non Alcoholic ,24750,27500,10,247500,275000,27500
+65,2019-03-06,Ahmed Minch,M,timika poe,Maltina Can,Non Alcoholic ,44550,49500,9,400950,445500,44550
+66,2019-03-07,Leopoldo Hole,M,zona otis,MALTINA PET BOTTLE,Non Alcoholic ,9000,10000,27,243000,270000,27000
+67,2019-03-08,Gemma Chilton,F,timika poe,ORIGIN ZERO CAN,Non Alcoholic ,8640,9600,15,129600,144000,14400
+68,2019-03-09,Laurence Ryles,M,zona otis,Pepsi Can,Non Alcoholic ,9000,10000,3,27000,30000,3000
+69,2019-03-10,Eleanor Dickson,F,timika poe,Heineken Bottle, Alcoholic Wine,3870,4300,9,34830,38700,3870
+70,2019-03-11,Elsy Latta,F,zona otis,Origin Bottle, Alcoholic Wine,8640,9600,22,190080,211200,21120
+71,2019-03-12,Sherwood Shire,M,timika poe,Smirnoff Bottle, Alcoholic Wine,8280,9200,16,132480,147200,14720
+72,2019-03-13,Carolynn Moynihan,F,zona otis,Frontera Rose 75Cl, Alcoholic Wine,4950,5500,6,29700,33000,3300
+73,2019-03-14,Mckinley Scofield,M,timika poe,Frontera Sauv Blanc 75Cl, Alcoholic Wine,3150,3500,3,9450,10500,1050
+74,2019-03-15,Brendon Crowther,M,zona otis,G.H Mumm 75 Cl, Alcoholic Wine,2700,3000,5,13500,15000,1500
+75,2019-03-16,Nancy Trogdon,F,timika poe,Guinness Can,Bear,4050,4500,1,4050,4500,450
+76,2019-03-17,Darin Shipp,M,zona otis,Gulder Can,Bear,53100,59000,5,265500,295000,29500
+77,2019-03-18,Joel Maine,M,timika poe,Harp Can,Bear,88200,98000,7,617400,686000,68600
+78,2019-03-19,Luciana Campfield,F,zona otis,Heineken Can,Bear,38250,42500,4,153000,170000,17000
+79,2019-03-20,Gilbert Bloss,M,timika poe,Hennessy V.S 70 Cl, Alcoholic Wine,2700,3000,8,21600,24000,2400
+80,2019-03-21,Sharda Choudhury,F,zona otis,Hennessy V.S.O.P 70 Cl, Alcoholic Wine,23850,26500,8,190800,212000,21200
+81,2019-03-22,Chung Moynihan,M,timika poe,Kagor Red Wine 75Cl, Alcoholic Wine,24750,27500,9,222750,247500,24750
+82,2019-03-23,Dayna Edmondson,F,timika poe,Martell Vs Cognac 70Cl, Alcoholic Wine,44550,49500,2,89100,99000,9900
+83,2019-03-24,Bobbie Miner,F,zona otis,Martell Vsop Cognac 70Cl, Alcoholic Wine,9000,10000,1,9000,10000,1000
+84,2019-03-25,Gidget Loring,F,timika poe,Martini Brut 75 Cl, Alcoholic Wine,8640,9600,22,190080,211200,21120
+85,2019-03-26,Hettie Lauber,F,zona otis,Martini Rose 75 Cl, Alcoholic Wine,9000,10000,8,72000,80000,8000
+86,2019-03-27,Toi Stallard,F,timika poe,Moet Brut Imperial 75Cl, Alcoholic Wine,3870,4300,7,27090,30100,3010
+87,2019-03-28,Tristan Cockrell,F,zona otis,Moet Nectar Imperial Champagne 75Cl, Alcoholic Wine,8280,9200,56,463680,515200,51520
+88,2019-03-29,Towanda Matson,F,timika poe,Origin Can,Bear,4950,5500,10,49500,55000,5500
+89,2019-03-30,Leland Fifield,M,zona otis,Smirnoff Can,Bear,3150,3500,9,28350,31500,3150
+90,2019-03-31,Audria Barrios,F,timika poe,Star Can,Bear,2700,3000,27,72900,81000,8100
+91,2019-04-01,Jim Lurie,M,zona otis,5 Alive 1Ltr,Non Alcoholic ,4050,4500,15,60750,67500,6750
+92,2019-04-02,Lorette Petrillo,F,timika poe,Amstel Malta Can,Non Alcoholic ,8280,9200,3,24840,27600,2760
+93,2019-04-03,Damian Grist,M,zona otis,CHAMDOR 75CL,Non Alcoholic ,4950,5500,9,44550,49500,4950
+94,2019-04-04,Zana Ordonez,F,timika poe,Coke Can,Non Alcoholic ,3150,3500,22,69300,77000,7700
+95,2019-04-05,Rhett Chapple,M,zona otis,COKE PLASTIC BOTTLE,Non Alcoholic ,2700,3000,16,43200,48000,4800
+96,2019-04-06,Jeneva Bybee,F,timika poe,Fanta Can,Non Alcoholic ,4050,4500,6,24300,27000,2700
+97,2019-04-07,Brendon Camp,M,zona otis,FANTA PLASTIC BOTTLE,Non Alcoholic ,8280,9200,3,24840,27600,2760
+98,2019-04-08,Nettie Mccandless,F,timika poe,Malta Guinness Can,Non Alcoholic ,4950,5500,5,24750,27500,2750
+99,2019-04-09,Lezlie Bohannan,F,zona otis,Maltina Can,Non Alcoholic ,3150,3500,1,3150,3500,350
+100,2019-04-10,Hester Cabana,F,timika poe,MALTINA PET BOTTLE,Non Alcoholic ,2700,3000,5,13500,15000,1500
+101,2019-04-11,Isobel Dance,F,zona otis,ORIGIN ZERO CAN,Non Alcoholic ,4050,4500,7,28350,31500,3150
+102,2019-04-12,Erica Harlan,F,timika poe,Pepsi Can,Non Alcoholic ,8280,9200,4,33120,36800,3680
+103,2019-04-13,Leda Haskell,F,zona otis,Guinness Can,Bear,4950,5500,8,39600,44000,4400
+104,2019-04-14,Loralee Ball,F,timika poe,Gulder Can,Bear,3150,3500,8,25200,28000,2800
+105,2019-04-15,Otha Orrell,M,zona otis,Harp Can,Bear,2700,3000,9,24300,27000,2700
+106,2019-04-16,Honey Eaves,F,timika poe,Heineken Can,Bear,4050,4500,2,8100,9000,900
+107,2019-04-17,Ellis Mcneel,M,zona otis,Origin Can,Bear,24750,27500,1,24750,27500,2750
+108,2019-04-18,Gabriel Beale,M,timika poe,Smirnoff Can,Bear,44550,49500,22,980100,1089000,108900
+109,2019-04-19,Nathanael Mcmillin,M,zona otis,Star Can,Bear,9000,10000,8,72000,80000,8000
+110,2019-04-20,Donald Mazur,M,timika poe,Guinness Can,Bear,8640,9600,7,60480,67200,6720
+111,2019-04-21,Eliz Linneman,F,zona otis,Gulder Can,Bear,9000,10000,56,504000,560000,56000
+112,2019-04-22,Gracie Lett,F,timika poe,Harp Can,Bear,3870,4300,10,38700,43000,4300
+113,2019-04-23,Gema Grover,F,zona otis,Heineken Can,Bear,45450,50500,9,409050,454500,45450
+114,2019-04-24,Delana Freedman,F,timika poe,Origin Can,Bear,18225,20250,27,492075,546750,54675
+115,2019-04-25,Mary Tate,M,zona otis,Smirnoff Can,Bear,1800,2000,15,27000,30000,3000
+116,2019-04-26,Abe Macleod,M,timika poe,Star Can,Bear,48600,54000,3,145800,162000,16200
+117,2019-04-27,Evon Lawson,F,zona otis,5 Alive 1Ltr,Non Alcoholic ,72900,81000,9,656100,729000,72900
+118,2019-04-28,Jerlene Dunnigan,F,timika poe,Amstel Malta Can,Non Alcoholic ,9450,10500,22,207900,231000,23100
+119,2019-04-29,Bobbie Schoenrock,M,zona otis,CHAMDOR 75CL,Non Alcoholic ,36000,40000,16,576000,640000,64000
+120,2019-04-30,Mike Waddington,M,timika poe,Coke Can,Non Alcoholic ,24300,27000,6,145800,162000,16200
+121,2019-05-01,Nigel Wadsworth,M,zona otis,COKE PLASTIC BOTTLE,Non Alcoholic ,9180,10200,3,27540,30600,3060
+122,2019-05-02,Hayden Novack,M,timika poe,Fanta Can,Non Alcoholic ,8640,9600,5,43200,48000,4800
+123,2019-05-03,Voncile Trojanowski,F,zona otis,FANTA PLASTIC BOTTLE,Non Alcoholic ,8280,9200,1,8280,9200,920
+124,2019-05-04,Roberto Derry,F,timika poe,Malta Guinness Can,Non Alcoholic ,4950,5500,5,24750,27500,2750
+125,2019-05-05,Tona Huseby,F,zona otis,Maltina Can,Non Alcoholic ,3150,3500,7,22050,24500,2450
+126,2019-05-06,Londa Maya,F,timika poe,MALTINA PET BOTTLE,Non Alcoholic ,2700,3000,4,10800,12000,1200
+127,2019-05-07,Jocelyn Scotti,F,zona otis,ORIGIN ZERO CAN,Non Alcoholic ,4050,4500,8,32400,36000,3600
+128,2019-05-08,Frank Mallon,F,timika poe,Pepsi Can,Non Alcoholic ,53100,59000,8,424800,472000,47200
+129,2019-05-09,Kurtis Irons,M,zona otis,Guinness Can,Bear,88200,98000,9,793800,882000,88200
+130,2019-05-10,Jamey Seim,M,timika poe,Gulder Can,Bear,38250,42500,2,76500,85000,8500
+131,2019-05-11,Walton Keim,M,zona otis,Harp Can,Bear,2700,3000,1,2700,3000,300
+132,2019-05-12,Micki Jauregui,F,timika poe,Heineken Can,Bear,23850,26500,22,524700,583000,58300
+133,2019-05-13,Ngoc Watson,F,hyman irish,Origin Can,Bear,24750,27500,8,198000,220000,22000
+134,2019-05-14,Inocencia Buteau,F,timika poe,Smirnoff Can,Bear,44550,49500,7,311850,346500,34650
+135,2019-05-15,Charlie Koeller,M,zona otis,Star Can,Bear,9000,10000,56,504000,560000,56000
+136,2019-05-16,Rosy Baumeister,F,hyman irish,Guinness Can,Bear,8640,9600,10,86400,96000,9600
+137,2019-05-17,Charity Denman,F,timika poe,Gulder Can,Bear,9000,10000,9,81000,90000,9000
+138,2019-05-18,Luke Tumlin,M,zona otis,Harp Can,Bear,3870,4300,27,104490,116100,11610
+139,2019-05-19,Hannah Ma,F,hyman irish,Heineken Can,Bear,45450,50500,15,681750,757500,75750
+140,2019-05-20,Celinda Magruder,F,timika poe,Origin Can,Bear,18225,20250,3,54675,60750,6075
+141,2019-05-21,Arturo Halvorsen,M,zona otis,Smirnoff Can,Bear,1800,2000,9,16200,18000,1800
+142,2019-05-22,Tiny Oliveri,F,hyman irish,Star Can,Bear,48600,54000,22,1069200,1188000,118800
+143,2019-05-23,Kerri Card,F,timika poe,5 Alive 1Ltr,Non Alcoholic ,72900,81000,16,1166400,1296000,129600
+144,2019-05-24,Young Funes,M,zona otis,Amstel Malta Can,Non Alcoholic ,9450,10500,6,56700,63000,6300
+145,2019-05-25,Neomi Pitchford,F,hyman irish,CHAMDOR 75CL,Non Alcoholic ,36000,40000,3,108000,120000,12000
+146,2019-05-26,Ivan Groner,M,timika poe,Coke Can,Non Alcoholic ,24300,27000,5,121500,135000,13500
+147,2019-05-27,Etsuko Wilmot,F,zona otis,COKE PLASTIC BOTTLE,Non Alcoholic ,9180,10200,1,9180,10200,1020
+148,2019-05-28,William Mcnerney,M,hyman irish,Fanta Can,Non Alcoholic ,8640,9600,5,43200,48000,4800
+149,2019-05-29,Logan Berryman,M,timika poe,FANTA PLASTIC BOTTLE,Non Alcoholic ,8280,9200,7,57960,64400,6440
+150,2019-05-30,Houston Joe,M,zona otis,Malta Guinness Can,Non Alcoholic ,4950,5500,4,19800,22000,2200
+151,2019-05-31,Rosy Baumeister,F,hyman irish,Maltina Can,Non Alcoholic ,3150,3500,8,25200,28000,2800
+152,2019-06-01,Charity Denman,F,timika poe,MALTINA PET BOTTLE,Non Alcoholic ,2700,3000,8,21600,24000,2400
+153,2019-06-02,Luke Tumlin,M,zona otis,ORIGIN ZERO CAN,Non Alcoholic ,4050,4500,9,36450,40500,4050
+154,2019-06-03,Hannah Ma,F,hyman irish,Pepsi Can,Non Alcoholic ,53100,59000,2,106200,118000,11800
+155,2019-06-04,Celinda Magruder,F,timika poe,Guinness Can,Bear,88200,98000,1,88200,98000,9800
+156,2019-06-05,Arturo Halvorsen,M,zona otis,Gulder Can,Bear,8640,9600,22,190080,211200,21120
+157,2019-06-06,Tiny Oliveri,F,hyman irish,Harp Can,Bear,8280,9200,8,66240,73600,7360
+158,2019-06-07,Kerri Card,F,timika poe,Heineken Can,Bear,4950,5500,7,34650,38500,3850
+159,2019-06-08,Young Funes,M,zona otis,Origin Can,Bear,3150,3500,56,176400,196000,19600
+160,2019-06-09,Neomi Pitchford,F,hyman irish,Smirnoff Can,Bear,2700,3000,10,27000,30000,3000
+161,2019-06-10,Ivan Groner,M,timika poe,Star Can,Bear,4050,4500,9,36450,40500,4050
+162,2019-06-11,Etsuko Wilmot,F,zona otis,Guinness Can,Bear,53100,59000,27,1433700,1593000,159300
+163,2019-06-12,William Mcnerney,M,hyman irish,Gulder Can,Bear,88200,98000,15,1323000,1470000,147000
+164,2019-06-13,Logan Berryman,M,timika poe,Harp Can,Bear,38250,42500,3,114750,127500,12750
+165,2019-06-14,Houston Joe,M,zona otis,Heineken Can,Bear,2700,3000,9,24300,27000,2700
+166,2019-06-15,Rosy Baumeister,F,hyman irish,Origin Can,Bear,23850,26500,22,524700,583000,58300
+167,2019-06-16,Charity Denman,F,timika poe,Smirnoff Can,Bear,24750,27500,16,396000,440000,44000
+168,2019-06-17,Luke Tumlin,M,zona otis,Star Can,Bear,44550,49500,6,267300,297000,29700
+169,2019-06-18,Hannah Ma,F,hyman irish,5 Alive 1Ltr,Non Alcoholic ,9000,10000,3,27000,30000,3000
+170,2019-06-19,Celinda Magruder,F,timika poe,Amstel Malta Can,Non Alcoholic ,8640,9600,5,43200,48000,4800
+171,2019-06-20,Arturo Halvorsen,M,zona otis,CHAMDOR 75CL,Non Alcoholic ,9000,10000,1,9000,10000,1000
+172,2019-06-21,Tiny Oliveri,F,hyman irish,Coke Can,Non Alcoholic ,3870,4300,5,19350,21500,2150
+173,2019-06-22,Kerri Card,F,timika poe,COKE PLASTIC BOTTLE,Non Alcoholic ,8640,9600,7,60480,67200,6720
+174,2019-06-23,Young Funes,M,zona otis,Fanta Can,Non Alcoholic ,8280,9200,4,33120,36800,3680
+175,2019-06-24,Neomi Pitchford,F,hyman irish,FANTA PLASTIC BOTTLE,Non Alcoholic ,4950,5500,8,39600,44000,4400
+176,2019-06-25,Ivan Groner,M,timika poe,Malta Guinness Can,Non Alcoholic ,3150,3500,8,25200,28000,2800
+177,2019-06-26,Etsuko Wilmot,F,zona otis,Maltina Can,Non Alcoholic ,2700,3000,9,24300,27000,2700
+178,2019-06-27,William Mcnerney,M,hyman irish,MALTINA PET BOTTLE,Non Alcoholic ,4050,4500,2,8100,9000,900
+179,2019-06-28,Logan Berryman,M,timika poe,ORIGIN ZERO CAN,Non Alcoholic ,53100,59000,1,53100,59000,5900
+180,2019-06-29,Houston Joe,M,zona otis,Pepsi Can,Non Alcoholic ,88200,98000,22,1940400,2156000,215600
+181,2019-06-30,Rosy Baumeister,F,hyman irish,Heineken Bottle, Alcoholic Wine,38250,42500,8,306000,340000,34000
+182,2019-07-01,Charity Denman,F,timika poe,Origin Bottle, Alcoholic Wine,2700,3000,7,18900,21000,2100
+183,2019-07-02,Luke Tumlin,M,zona otis,Smirnoff Bottle, Alcoholic Wine,23850,26500,56,1335600,1484000,148400
+184,2019-07-03,Hannah Ma,F,hyman irish,Frontera Rose 75Cl, Alcoholic Wine,24750,27500,10,247500,275000,27500
+185,2019-07-04,Celinda Magruder,F,timika poe,Frontera Sauv Blanc 75Cl, Alcoholic Wine,44550,49500,9,400950,445500,44550
+186,2019-07-05,Arturo Halvorsen,M,zona otis,G.H Mumm 75 Cl, Alcoholic Wine,9000,10000,27,243000,270000,27000
+187,2019-07-06,Tiny Oliveri,F,hyman irish,Guinness Can,Bear,8640,9600,15,129600,144000,14400
+188,2019-07-07,Kerri Card,F,timika poe,Gulder Can,Bear,9000,10000,3,27000,30000,3000
+189,2019-07-08,Young Funes,M,zona otis,Harp Can,Bear,3870,4300,9,34830,38700,3870
+190,2019-07-09,Neomi Pitchford,F,hyman irish,Heineken Can,Bear,8280,9200,22,182160,202400,20240
+191,2019-07-10,Ivan Groner,M,timika poe,Hennessy V.S 70 Cl, Alcoholic Wine,4950,5500,16,79200,88000,8800
+192,2019-07-11,Etsuko Wilmot,F,zona otis,Hennessy V.S.O.P 70 Cl, Alcoholic Wine,3150,3500,6,18900,21000,2100
+193,2019-07-12,William Mcnerney,M,hyman irish,Kagor Red Wine 75Cl, Alcoholic Wine,2700,3000,3,8100,9000,900
+194,2019-07-13,Logan Berryman,M,timika poe,Martell Vs Cognac 70Cl, Alcoholic Wine,4050,4500,5,20250,22500,2250
+195,2019-07-14,Houston Joe,M,zona otis,Martell Vsop Cognac 70Cl, Alcoholic Wine,8280,9200,1,8280,9200,920
+196,2019-07-15,Rosy Baumeister,F,hyman irish,Martini Brut 75 Cl, Alcoholic Wine,4950,5500,5,24750,27500,2750
+197,2019-07-16,Charity Denman,F,timika poe,Martini Rose 75 Cl, Alcoholic Wine,3150,3500,7,22050,24500,2450
+198,2019-07-17,Luke Tumlin,M,zona otis,Moet Brut Imperial 75Cl, Alcoholic Wine,2700,3000,4,10800,12000,1200
+199,2019-07-18,Hannah Ma,F,hyman irish,Moet Nectar Imperial Champagne 75Cl, Alcoholic Wine,4050,4500,8,32400,36000,3600
+200,2019-07-19,Celinda Magruder,F,timika poe,Origin Can,Bear,8280,9200,8,66240,73600,7360
+201,2019-07-20,Arturo Halvorsen,M,zona otis,Heineken Bottle, Alcoholic Wine,4950,5500,9,44550,49500,4950
+202,2019-07-21,Tiny Oliveri,F,hyman irish,Origin Bottle, Alcoholic Wine,3150,3500,2,6300,7000,700
+203,2019-07-22,Kerri Card,F,timika poe,Smirnoff Bottle, Alcoholic Wine,2700,3000,1,2700,3000,300
+204,2019-07-23,Young Funes,M,zona otis,Frontera Rose 75Cl, Alcoholic Wine,4050,4500,22,89100,99000,9900
+205,2019-07-24,Neomi Pitchford,F,hyman irish,Frontera Sauv Blanc 75Cl, Alcoholic Wine,8280,9200,8,66240,73600,7360
+206,2019-07-25,Ivan Groner,M,timika poe,G.H Mumm 75 Cl, Alcoholic Wine,4950,5500,7,34650,38500,3850
+207,2019-07-26,Etsuko Wilmot,F,zona otis,Guinness Can,Bear,3150,3500,56,176400,196000,19600
+208,2019-07-27,William Mcnerney,M,hyman irish,Gulder Can,Bear,2700,3000,10,27000,30000,3000
+209,2019-07-28,Logan Berryman,M,timika poe,Harp Can,Bear,4050,4500,9,36450,40500,4050
+210,2019-07-29,Houston Joe,M,zona otis,Heineken Can,Bear,24750,27500,27,668250,742500,74250
+211,2019-07-30,Bernard Weatherly,M,hyman irish,Hennessy V.S 70 Cl, Alcoholic Wine,44550,49500,15,668250,742500,74250
+212,2019-07-31,Cordia Knopp,F,timika poe,Hennessy V.S.O.P 70 Cl, Alcoholic Wine,9000,10000,3,27000,30000,3000
+213,2019-08-01,Burton Jin,M,zona otis,Kagor Red Wine 75Cl, Alcoholic Wine,8640,9600,9,77760,86400,8640
+214,2019-08-02,Lauren Guzzi,M,hyman irish,Martell Vs Cognac 70Cl, Alcoholic Wine,9000,10000,22,198000,220000,22000
+215,2019-08-03,Carter Hunt,M,timika poe,Martell Vsop Cognac 70Cl, Alcoholic Wine,3870,4300,16,61920,68800,6880
+216,2019-08-04,Isaiah Magwood,M,zona otis,Martini Brut 75 Cl, Alcoholic Wine,45450,50500,6,272700,303000,30300
+217,2019-08-05,Hugh Chavira,M,hyman irish,Martini Rose 75 Cl, Alcoholic Wine,18225,20250,3,54675,60750,6075
+218,2019-08-06,Lucius Moorhead,M,timika poe,Moet Brut Imperial 75Cl, Alcoholic Wine,1800,2000,5,9000,10000,1000
+219,2019-08-07,Deane Keown,F,zona otis,Moet Nectar Imperial Champagne 75Cl, Alcoholic Wine,48600,54000,1,48600,54000,5400
+220,2019-08-08,Joannie Wolters,F,hyman irish,Origin Can,Bear,72900,81000,5,364500,405000,40500
+221,2019-08-09,Christene Mccaleb,F,timika poe,Heineken Bottle, Alcoholic Wine,9450,10500,7,66150,73500,7350
+222,2019-08-10,Alline Kushner,F,zona otis,Origin Bottle, Alcoholic Wine,36000,40000,4,144000,160000,16000
+223,2019-08-11,Vicki Hargrave,F,hyman irish,Smirnoff Bottle, Alcoholic Wine,24300,27000,8,194400,216000,21600
+224,2019-08-12,Julienne Merkel,F,timika poe,Frontera Rose 75Cl, Alcoholic Wine,9180,10200,8,73440,81600,8160
+225,2019-08-13,Keven Thole,M,zona otis,Frontera Sauv Blanc 75Cl, Alcoholic Wine,8640,9600,9,77760,86400,8640
+226,2019-08-14,Eusebia Waldroup,F,hyman irish,G.H Mumm 75 Cl, Alcoholic Wine,8280,9200,2,16560,18400,1840
+227,2019-08-15,Veronique Eccleston,F,timika poe,Guinness Can,Bear,4950,5500,1,4950,5500,550
+228,2019-08-16,Sean Richman,F,zona otis,Gulder Can,Bear,3150,3500,22,69300,77000,7700
+229,2019-08-17,Lala Marquez,F,hyman irish,Harp Can,Bear,2700,3000,8,21600,24000,2400
+230,2019-08-18,Derick Macey,M,timika poe,Heineken Can,Bear,4050,4500,7,28350,31500,3150
+231,2019-08-19,Eda Brase,F,zona otis,Hennessy V.S 70 Cl, Alcoholic Wine,53100,59000,56,2973600,3304000,330400
+232,2019-08-20,Willis Weissman,M,hyman irish,Hennessy V.S.O.P 70 Cl, Alcoholic Wine,88200,98000,10,882000,980000,98000
+233,2019-08-21,Christene Mccaleb,F,timika poe,Kagor Red Wine 75Cl, Alcoholic Wine,38250,42500,9,344250,382500,38250
+234,2019-08-22,Alline Kushner,F,zona otis,Martell Vs Cognac 70Cl, Alcoholic Wine,2700,3000,27,72900,81000,8100
+235,2019-08-23,Vicki Hargrave,F,hyman irish,Martell Vsop Cognac 70Cl, Alcoholic Wine,23850,26500,15,357750,397500,39750
+236,2019-08-24,Julienne Merkel,F,timika poe,Martini Brut 75 Cl, Alcoholic Wine,24750,27500,3,74250,82500,8250
+237,2019-08-25,Keven Thole,M,zona otis,Martini Rose 75 Cl, Alcoholic Wine,44550,49500,9,400950,445500,44550
+238,2019-08-26,Eusebia Waldroup,F,hyman irish,Moet Brut Imperial 75Cl, Alcoholic Wine,9000,10000,22,198000,220000,22000
+239,2019-08-27,Veronique Eccleston,F,timika poe,Moet Nectar Imperial Champagne 75Cl, Alcoholic Wine,8640,9600,16,138240,153600,15360
+240,2019-08-28,Sean Richman,F,zona otis,Origin Can,Bear,9000,10000,6,54000,60000,6000
+241,2019-08-29,Lala Marquez,F,hyman irish,Heineken Bottle, Alcoholic Wine,3870,4300,3,11610,12900,1290
+242,2019-08-30,Derick Macey,M,timika poe,Origin Bottle, Alcoholic Wine,45450,50500,5,227250,252500,25250
+243,2019-08-31,Eda Brase,F,zona otis,Smirnoff Bottle, Alcoholic Wine,18225,20250,1,18225,20250,2025
+244,2019-09-01,Willis Weissman,M,hyman irish,Frontera Rose 75Cl, Alcoholic Wine,1800,2000,5,9000,10000,1000
+245,2019-09-02,Christene Mccaleb,F,timika poe,Frontera Sauv Blanc 75Cl, Alcoholic Wine,48600,54000,7,340200,378000,37800
+246,2019-09-03,Alline Kushner,F,zona otis,G.H Mumm 75 Cl, Alcoholic Wine,72900,81000,4,291600,324000,32400
+247,2019-09-04,Vicki Hargrave,F,hyman irish,Guinness Can,Bear,9450,10500,8,75600,84000,8400
+248,2019-09-05,Julienne Merkel,F,timika poe,Gulder Can,Bear,36000,40000,8,288000,320000,32000
+249,2019-09-06,Keven Thole,M,zona otis,Harp Can,Bear,24300,27000,9,218700,243000,24300
+250,2019-09-07,Eusebia Waldroup,F,hyman irish,Heineken Can,Bear,9180,10200,2,18360,20400,2040
+251,2019-09-08,Veronique Eccleston,F,timika poe,Hennessy V.S 70 Cl, Alcoholic Wine,8640,9600,1,8640,9600,960
+252,2019-09-09,Sean Richman,F,zona otis,Hennessy V.S.O.P 70 Cl, Alcoholic Wine,8280,9200,22,182160,202400,20240
+253,2019-09-10,Lala Marquez,F,hyman irish,Kagor Red Wine 75Cl, Alcoholic Wine,4950,5500,8,39600,44000,4400
+254,2019-09-11,Derick Macey,M,timika poe,Martell Vs Cognac 70Cl, Alcoholic Wine,3150,3500,7,22050,24500,2450
+255,2019-09-12,Eda Brase,F,zona otis,Martell Vsop Cognac 70Cl, Alcoholic Wine,2700,3000,56,151200,168000,16800
+256,2019-09-13,Willis Weissman,M,hyman irish,Martini Brut 75 Cl, Alcoholic Wine,4050,4500,10,40500,45000,4500
+257,2019-09-14,Christene Mccaleb,F,timika poe,Martini Rose 75 Cl, Alcoholic Wine,53100,59000,9,477900,531000,53100
+258,2019-09-15,Alline Kushner,F,zona otis,Moet Brut Imperial 75Cl, Alcoholic Wine,88200,98000,27,2381400,2646000,264600
+259,2019-09-16,Vicki Hargrave,F,hyman irish,Moet Nectar Imperial Champagne 75Cl, Alcoholic Wine,8640,9600,15,129600,144000,14400
+260,2019-09-17,Julienne Merkel,F,timika poe,Origin Can,Bear,8280,9200,3,24840,27600,2760
+261,2019-09-18,Keven Thole,M,zona otis,Smirnoff Can,Bear,4950,5500,9,44550,49500,4950
+262,2019-09-19,Eusebia Waldroup,F,hyman irish,Star Can,Bear,3150,3500,22,69300,77000,7700
+263,2019-09-20,Veronique Eccleston,F,timika poe,5 Alive 1Ltr,Non Alcoholic ,2700,3000,16,43200,48000,4800
+264,2019-09-21,Sean Richman,F,zona otis,Amstel Malta Can,Non Alcoholic ,4050,4500,6,24300,27000,2700
+265,2019-09-22,Lala Marquez,F,hyman irish,CHAMDOR 75CL,Non Alcoholic ,53100,59000,3,159300,177000,17700
+266,2019-09-23,Derick Macey,M,timika poe,Coke Can,Non Alcoholic ,88200,98000,5,441000,490000,49000
+267,2019-09-24,Eda Brase,F,zona otis,COKE PLASTIC BOTTLE,Non Alcoholic ,38250,42500,1,38250,42500,4250
+268,2019-09-25,Alline Kushner,F,hyman irish,Fanta Can,Non Alcoholic ,2700,3000,5,13500,15000,1500
+269,2019-09-26,Vicki Hargrave,F,timika poe,FANTA PLASTIC BOTTLE,Non Alcoholic ,23850,26500,7,166950,185500,18550
+270,2019-09-27,Julienne Merkel,F,zona otis,Malta Guinness Can,Non Alcoholic ,24750,27500,4,99000,110000,11000
+271,2019-09-28,Keven Thole,M,quentin kunz,Maltina Can,Non Alcoholic ,44550,49500,8,356400,396000,39600
+272,2019-09-29,Eusebia Waldroup,F,hyman irish,MALTINA PET BOTTLE,Non Alcoholic ,9000,10000,8,72000,80000,8000
+273,2019-09-30,Veronique Eccleston,F,timika poe,ORIGIN ZERO CAN,Non Alcoholic ,8640,9600,9,77760,86400,8640
+274,2019-10-01,Sean Richman,F,zona otis,Pepsi Can,Non Alcoholic ,9000,10000,2,18000,20000,2000
+275,2019-10-02,Lala Marquez,F,quentin kunz,Heineken Bottle, Alcoholic Wine,3870,4300,1,3870,4300,430
+276,2019-10-03,Derick Macey,M,hyman irish,Origin Bottle, Alcoholic Wine,8640,9600,22,190080,211200,21120
+277,2019-10-04,Eda Brase,F,timika poe,Smirnoff Bottle, Alcoholic Wine,8280,9200,8,66240,73600,7360
+278,2019-10-05,Willis Weissman,M,zona otis,Frontera Rose 75Cl, Alcoholic Wine,4950,5500,7,34650,38500,3850
+279,2019-10-06,Mariam Pinheiro,F,quentin kunz,Frontera Sauv Blanc 75Cl, Alcoholic Wine,3150,3500,56,176400,196000,19600
+280,2019-10-07,Malcom Meister,M,quentin kunz,G.H Mumm 75 Cl, Alcoholic Wine,2700,3000,10,27000,30000,3000
+281,2019-10-08,Holli Ethridge,F,quentin kunz,Guinness Can,Bear,4050,4500,9,36450,40500,4050
+282,2019-10-09,Cole Poling,M,quentin kunz,Gulder Can,Bear,53100,59000,27,1433700,1593000,159300
+283,2019-10-10,Ahmad Lynde,M,quentin kunz,Harp Can,Bear,88200,98000,15,1323000,1470000,147000
+284,2019-10-11,Mariano Leary,M,quentin kunz,Heineken Can,Bear,38250,42500,3,114750,127500,12750
+285,2019-10-12,Tawanda Buchanon,F,quentin kunz,Hennessy V.S 70 Cl, Alcoholic Wine,2700,3000,9,24300,27000,2700
+286,2019-10-13,Nickolas Grossi,M,quentin kunz,Hennessy V.S.O.P 70 Cl, Alcoholic Wine,23850,26500,22,524700,583000,58300
+287,2019-10-14,Bradford Marlatt,M,quentin kunz,Kagor Red Wine 75Cl, Alcoholic Wine,24750,27500,16,396000,440000,44000
+288,2019-10-15,Carlton Bose,M,quentin kunz,Martell Vs Cognac 70Cl, Alcoholic Wine,44550,49500,6,267300,297000,29700
+289,2019-10-16,Asuncion Braunstein,F,quentin kunz,Martell Vsop Cognac 70Cl, Alcoholic Wine,9000,10000,3,27000,30000,3000
+290,2019-10-17,Theron Kramer,M,quentin kunz,Martini Brut 75 Cl, Alcoholic Wine,8640,9600,5,43200,48000,4800
+291,2019-10-18,Jeramy Metoyer,M,quentin kunz,Martini Rose 75 Cl, Alcoholic Wine,9000,10000,1,9000,10000,1000
+292,2019-10-19,Sol Roger,F,quentin kunz,Moet Brut Imperial 75Cl, Alcoholic Wine,3870,4300,5,19350,21500,2150
+293,2019-10-20,Earnest Birkholz,M,quentin kunz,Moet Nectar Imperial Champagne 75Cl, Alcoholic Wine,8280,9200,7,57960,64400,6440
+294,2019-10-21,Amada Knouse,F,quentin kunz,Origin Can,Bear,4950,5500,4,19800,22000,2200
+295,2019-10-22,Gregorio Hottinger,M,quentin kunz,Smirnoff Can,Bear,3150,3500,8,25200,28000,2800
+296,2019-10-23,Lawerence Abernethy,M,quentin kunz,Star Can,Bear,2700,3000,8,21600,24000,2400
+297,2019-10-24,Marina Quayle,F,quentin kunz,5 Alive 1Ltr,Non Alcoholic ,4050,4500,9,36450,40500,4050
+298,2019-10-25,Whitney Wasinger,M,quentin kunz,Amstel Malta Can,Non Alcoholic ,8280,9200,2,16560,18400,1840
+299,2019-10-26,Roy Wilkie,M,quentin kunz,CHAMDOR 75CL,Non Alcoholic ,4950,5500,1,4950,5500,550
+300,2019-10-27,Hyun Bynoe,F,quentin kunz,Coke Can,Non Alcoholic ,3150,3500,22,69300,77000,7700
+301,2019-10-28,Katelin Coney,F,quentin kunz,COKE PLASTIC BOTTLE,Non Alcoholic ,2700,3000,8,21600,24000,2400
+302,2019-10-29,Jennifer Pridgen,F,quentin kunz,Fanta Can,Non Alcoholic ,4050,4500,7,28350,31500,3150
+303,2019-10-30,Zachary Breeden,M,quentin kunz,FANTA PLASTIC BOTTLE,Non Alcoholic ,8280,9200,56,463680,515200,51520
+304,2019-10-31,Deon Mounce,M,quentin kunz,Malta Guinness Can,Non Alcoholic ,4950,5500,10,49500,55000,5500
+305,2019-11-01,Buddy Steinbeck,M,quentin kunz,Maltina Can,Non Alcoholic ,3150,3500,9,28350,31500,3150
+306,2019-11-02,Julius Bakker,M,quentin kunz,MALTINA PET BOTTLE,Non Alcoholic ,2700,3000,27,72900,81000,8100
+307,2019-11-03,Hans Koh,M,quentin kunz,ORIGIN ZERO CAN,Non Alcoholic ,4050,4500,15,60750,67500,6750
+308,2019-11-04,Jamal Dimarco,M,quentin kunz,Pepsi Can,Non Alcoholic ,8280,9200,3,24840,27600,2760
+309,2019-11-05,Stephan Ranger,M,quentin kunz,Heineken Bottle, Alcoholic Wine,4950,5500,9,44550,49500,4950
+310,2019-11-06,Jackie Montague,M,quentin kunz,Origin Bottle, Alcoholic Wine,3150,3500,22,69300,77000,7700
+311,2019-11-07,Nathanael Ohl,M,quentin kunz,Smirnoff Bottle, Alcoholic Wine,2700,3000,16,43200,48000,4800
+312,2019-11-08,Hosea Michelson,M,quentin kunz,Frontera Rose 75Cl, Alcoholic Wine,4050,4500,6,24300,27000,2700
+313,2019-11-09,Carly Sirianni,F,quentin kunz,Frontera Sauv Blanc 75Cl, Alcoholic Wine,38250,42500,3,114750,127500,12750
+314,2019-11-10,Abram Manrique,M,quentin kunz,G.H Mumm 75 Cl, Alcoholic Wine,2700,3000,5,13500,15000,1500
+315,2019-11-11,Mica Herzberg,F,quentin kunz,Guinness Can,Bear,23850,26500,1,23850,26500,2650
+316,2019-11-12,Lemuel Hardman,M,quentin kunz,Gulder Can,Bear,24750,27500,5,123750,137500,13750
+317,2019-11-13,Shanelle Hick,F,quentin kunz,Harp Can,Bear,44550,49500,7,311850,346500,34650
+318,2019-11-14,Maryellen Hartness,F,quentin kunz,Heineken Can,Bear,9000,10000,4,36000,40000,4000
+319,2019-11-15,Sylvester Blackledge,M,quentin kunz,Hennessy V.S 70 Cl, Alcoholic Wine,8640,9600,8,69120,76800,7680
+320,2019-11-16,Vivienne Binion,F,quentin kunz,Hennessy V.S.O.P 70 Cl, Alcoholic Wine,9000,10000,8,72000,80000,8000
+321,2019-11-17,Ahmed Minch,M,quentin kunz,Kagor Red Wine 75Cl, Alcoholic Wine,3870,4300,9,34830,38700,3870
+322,2019-11-18,Leopoldo Hole,M,quentin kunz,Martell Vs Cognac 70Cl, Alcoholic Wine,45450,50500,2,90900,101000,10100
+323,2019-11-19,Gemma Chilton,F,quentin kunz,Martell Vsop Cognac 70Cl, Alcoholic Wine,18225,20250,1,18225,20250,2025
+324,2019-11-20,Laurence Ryles,M,quentin kunz,Martini Brut 75 Cl, Alcoholic Wine,1800,2000,22,39600,44000,4400
+325,2019-11-21,Eleanor Dickson,F,quentin kunz,Martini Rose 75 Cl, Alcoholic Wine,48600,54000,8,388800,432000,43200
+326,2019-11-22,Elsy Latta,F,quentin kunz,Moet Brut Imperial 75Cl, Alcoholic Wine,72900,81000,7,510300,567000,56700
+327,2019-11-23,Sherwood Shire,M,quentin kunz,Moet Nectar Imperial Champagne 75Cl, Alcoholic Wine,9450,10500,56,529200,588000,58800
+328,2019-11-24,Carolynn Moynihan,F,quentin kunz,Origin Can,Bear,36000,40000,10,360000,400000,40000
+329,2019-11-25,Mckinley Scofield,M,quentin kunz,Smirnoff Can,Bear,24300,27000,9,218700,243000,24300
+330,2019-11-26,Brendon Crowther,M,quentin kunz,Star Can,Bear,9180,10200,27,247860,275400,27540
+331,2019-11-27,Nancy Trogdon,F,quentin kunz,5 Alive 1Ltr,Non Alcoholic ,8640,9600,15,129600,144000,14400
+332,2019-11-28,Darin Shipp,M,quentin kunz,Amstel Malta Can,Non Alcoholic ,8280,9200,3,24840,27600,2760
+333,2019-11-29,Joel Maine,M,quentin kunz,CHAMDOR 75CL,Non Alcoholic ,4950,5500,9,44550,49500,4950
+334,2019-11-30,Luciana Campfield,F,quentin kunz,Coke Can,Non Alcoholic ,3150,3500,22,69300,77000,7700
+335,2019-12-01,Gilbert Bloss,M,quentin kunz,COKE PLASTIC BOTTLE,Non Alcoholic ,2700,3000,16,43200,48000,4800
+336,2019-12-02,Sharda Choudhury,F,quentin kunz,Fanta Can,Non Alcoholic ,4050,4500,6,24300,27000,2700
+337,2019-12-03,Chung Moynihan,M,quentin kunz,FANTA PLASTIC BOTTLE,Non Alcoholic ,53100,59000,3,159300,177000,17700
+338,2019-12-04,Dayna Edmondson,F,quentin kunz,Malta Guinness Can,Non Alcoholic ,88200,98000,5,441000,490000,49000
+339,2019-12-05,Bobbie Miner,F,quentin kunz,Maltina Can,Non Alcoholic ,38250,42500,1,38250,42500,4250
+340,2019-12-06,Gidget Loring,F,quentin kunz,MALTINA PET BOTTLE,Non Alcoholic ,2700,3000,5,13500,15000,1500
+341,2019-12-07,Hettie Lauber,F,quentin kunz,ORIGIN ZERO CAN,Non Alcoholic ,23850,26500,7,166950,185500,18550
+342,2019-12-08,Toi Stallard,F,quentin kunz,Pepsi Can,Non Alcoholic ,24750,27500,4,99000,110000,11000
+343,2019-12-09,Tristan Cockrell,F,quentin kunz,Guinness Can,Bear,44550,49500,8,356400,396000,39600
+344,2019-12-10,Towanda Matson,F,quentin kunz,Gulder Can,Bear,9000,10000,8,72000,80000,8000
+345,2019-12-11,Leland Fifield,M,quentin kunz,Harp Can,Bear,8640,9600,9,77760,86400,8640
+346,2019-12-12,Audria Barrios,F,quentin kunz,Heineken Can,Bear,9000,10000,2,18000,20000,2000
+347,2019-12-13,Jim Lurie,M,quentin kunz,Origin Can,Bear,3870,4300,1,3870,4300,430
+348,2019-12-14,Lorette Petrillo,F,quentin kunz,Smirnoff Can,Bear,45450,50500,22,999900,1111000,111100
+349,2019-12-15,Damian Grist,M,quentin kunz,Star Can,Bear,18225,20250,8,145800,162000,16200
+350,2019-12-16,Zana Ordonez,F,quentin kunz,Guinness Can,Bear,1800,2000,7,12600,14000,1400
+351,2019-12-17,Rhett Chapple,M,quentin kunz,Gulder Can,Bear,48600,54000,56,2721600,3024000,302400
+352,2019-12-18,Jeneva Bybee,F,quentin kunz,Harp Can,Bear,72900,81000,10,729000,810000,81000
+353,2019-12-19,Brendon Camp,M,quentin kunz,Heineken Can,Bear,9450,10500,9,85050,94500,9450
+354,2019-12-20,Nettie Mccandless,F,quentin kunz,Origin Can,Bear,36000,40000,27,972000,1080000,108000
+355,2019-12-21,Lezlie Bohannan,F,quentin kunz,Smirnoff Can,Bear,24300,27000,15,364500,405000,40500
+356,2019-12-22,Hester Cabana,F,quentin kunz,Star Can,Bear,9180,10200,3,27540,30600,3060
+357,2019-12-23,Isobel Dance,F,quentin kunz,5 Alive 1Ltr,Non Alcoholic ,8640,9600,9,77760,86400,8640
+358,2019-12-24,Erica Harlan,F,quentin kunz,Amstel Malta Can,Non Alcoholic ,8280,9200,22,182160,202400,20240
+359,2019-12-25,Leda Haskell,F,quentin kunz,CHAMDOR 75CL,Non Alcoholic ,4950,5500,16,79200,88000,8800
+360,2019-12-26,Loralee Ball,F,quentin kunz,Coke Can,Non Alcoholic ,3150,3500,6,18900,21000,2100
+361,2019-12-27,Otha Orrell,M,quentin kunz,COKE PLASTIC BOTTLE,Non Alcoholic ,2700,3000,3,8100,9000,900
+362,2019-12-28,Honey Eaves,F,quentin kunz,Fanta Can,Non Alcoholic ,4050,4500,5,20250,22500,2250
+363,2019-12-29,Ellis Mcneel,M,quentin kunz,FANTA PLASTIC BOTTLE,Non Alcoholic ,53100,59000,1,53100,59000,5900
+364,2019-12-30,Gabriel Beale,M,quentin kunz,Malta Guinness Can,Non Alcoholic ,88200,98000,5,441000,490000,49000
+365,2019-12-31,Nathanael Mcmillin,M,quentin kunz,Maltina Can,Non Alcoholic ,8640,9600,7,60480,67200,6720
+366,2020-01-01,Donald Mazur,M,quentin kunz,MALTINA PET BOTTLE,Non Alcoholic ,8280,9200,4,33120,36800,3680
+367,2020-01-02,Eliz Linneman,F,quentin kunz,ORIGIN ZERO CAN,Non Alcoholic ,4950,5500,8,39600,44000,4400
+368,2020-01-03,Gracie Lett,F,quentin kunz,Pepsi Can,Non Alcoholic ,3150,3500,8,25200,28000,2800
+369,2020-01-04,Gema Grover,F,quentin kunz,Guinness Can,Bear,2700,3000,9,24300,27000,2700
+370,2020-01-05,Delana Freedman,F,quentin kunz,Gulder Can,Bear,4050,4500,2,8100,9000,900
+371,2020-01-06,Mary Tate,M,quentin kunz,Harp Can,Bear,53100,59000,1,53100,59000,5900
+372,2020-01-07,Abe Macleod,M,quentin kunz,Heineken Can,Bear,88200,98000,22,1940400,2156000,215600
+373,2020-01-08,Evon Lawson,F,quentin kunz,Origin Can,Bear,38250,42500,8,306000,340000,34000
+374,2020-01-09,Jerlene Dunnigan,F,quentin kunz,Smirnoff Can,Bear,2700,3000,7,18900,21000,2100
+375,2020-01-10,Bobbie Schoenrock,M,quentin kunz,Star Can,Bear,23850,26500,56,1335600,1484000,148400
+376,2020-01-11,Mike Waddington,M,quentin kunz,Guinness Can,Bear,24750,27500,10,247500,275000,27500
+377,2020-01-12,Nigel Wadsworth,M,quentin kunz,Heineken Bottle, Alcoholic Wine,44550,49500,9,400950,445500,44550
+378,2020-01-13,Hayden Novack,M,quentin kunz,Origin Bottle, Alcoholic Wine,9000,10000,27,243000,270000,27000
+379,2020-01-14,Voncile Trojanowski,F,quentin kunz,Smirnoff Bottle, Alcoholic Wine,8640,9600,15,129600,144000,14400
+380,2020-01-15,Roberto Derry,F,quentin kunz,Frontera Rose 75Cl, Alcoholic Wine,9000,10000,3,27000,30000,3000
+381,2020-01-16,Tona Huseby,F,quentin kunz,Frontera Sauv Blanc 75Cl, Alcoholic Wine,3870,4300,9,34830,38700,3870
+382,2020-01-17,Londa Maya,F,quentin kunz,G.H Mumm 75 Cl, Alcoholic Wine,8640,9600,22,190080,211200,21120
+383,2020-01-18,Jocelyn Scotti,F,quentin kunz,Guinness Can,Bear,8280,9200,16,132480,147200,14720
+384,2020-01-19,Frank Mallon,F,quentin kunz,Gulder Can,Bear,4950,5500,6,29700,33000,3300
+385,2020-01-20,Kurtis Irons,M,quentin kunz,Harp Can,Bear,3150,3500,3,9450,10500,1050
+386,2020-01-21,Jamey Seim,M,quentin kunz,Heineken Can,Bear,2700,3000,5,13500,15000,1500
+387,2020-01-22,Walton Keim,M,quentin kunz,Hennessy V.S 70 Cl, Alcoholic Wine,4050,4500,1,4050,4500,450
+388,2020-01-23,Micki Jauregui,F,quentin kunz,Hennessy V.S.O.P 70 Cl, Alcoholic Wine,53100,59000,5,265500,295000,29500
+389,2020-01-24,Ngoc Watson,F,quentin kunz,Kagor Red Wine 75Cl, Alcoholic Wine,88200,98000,7,617400,686000,68600
+390,2020-01-25,Inocencia Buteau,F,quentin kunz,Martell Vs Cognac 70Cl, Alcoholic Wine,38250,42500,4,153000,170000,17000
+391,2020-01-26,Charlie Koeller,M,quentin kunz,Martell Vsop Cognac 70Cl, Alcoholic Wine,2700,3000,8,21600,24000,2400
+392,2020-01-27,Rosy Baumeister,F,quentin kunz,Martini Brut 75 Cl, Alcoholic Wine,23850,26500,8,190800,212000,21200
+393,2020-01-28,Charity Denman,F,quentin kunz,Martini Rose 75 Cl, Alcoholic Wine,24750,27500,9,222750,247500,24750
+394,2020-01-29,Luke Tumlin,M,quentin kunz,Moet Brut Imperial 75Cl, Alcoholic Wine,44550,49500,2,89100,99000,9900
+395,2020-01-30,Hannah Ma,F,quentin kunz,Moet Nectar Imperial Champagne 75Cl, Alcoholic Wine,9000,10000,1,9000,10000,1000
+396,2020-01-31,Celinda Magruder,F,quentin kunz,Origin Can,Bear,8640,9600,22,190080,211200,21120
+397,2020-02-01,Arturo Halvorsen,M,quentin kunz,Smirnoff Can,Bear,9000,10000,8,72000,80000,8000
+398,2020-02-02,Tiny Oliveri,F,quentin kunz,Star Can,Bear,3870,4300,7,27090,30100,3010
+399,2020-02-03,Kerri Card,F,quentin kunz,5 Alive 1Ltr,Non Alcoholic ,8280,9200,56,463680,515200,51520
+400,2020-02-04,Young Funes,M,quentin kunz,Amstel Malta Can,Non Alcoholic ,4950,5500,10,49500,55000,5500
+401,2020-02-05,Neomi Pitchford,F,quentin kunz,CHAMDOR 75CL,Non Alcoholic ,3150,3500,9,28350,31500,3150
+402,2020-02-06,Ivan Groner,M,quentin kunz,Coke Can,Non Alcoholic ,2700,3000,27,72900,81000,8100
+403,2020-02-07,Etsuko Wilmot,F,quentin kunz,COKE PLASTIC BOTTLE,Non Alcoholic ,4050,4500,15,60750,67500,6750
+404,2020-02-08,William Mcnerney,M,quentin kunz,Fanta Can,Non Alcoholic ,8280,9200,3,24840,27600,2760
+405,2020-02-09,Logan Berryman,M,quentin kunz,FANTA PLASTIC BOTTLE,Non Alcoholic ,4950,5500,9,44550,49500,4950
+406,2020-02-10,Houston Joe,M,quentin kunz,Malta Guinness Can,Non Alcoholic ,3150,3500,22,69300,77000,7700
+407,2020-02-11,Rosy Baumeister,F,quentin kunz,Maltina Can,Non Alcoholic ,2700,3000,16,43200,48000,4800
+408,2020-02-12,Charity Denman,F,quentin kunz,MALTINA PET BOTTLE,Non Alcoholic ,4050,4500,6,24300,27000,2700
+409,2020-02-13,Luke Tumlin,M,quentin kunz,ORIGIN ZERO CAN,Non Alcoholic ,8280,9200,3,24840,27600,2760
+410,2020-02-14,Hannah Ma,F,quentin kunz,Pepsi Can,Non Alcoholic ,4950,5500,5,24750,27500,2750
+411,2020-02-15,Celinda Magruder,F,quentin kunz,Heineken Bottle, Alcoholic Wine,3150,3500,1,3150,3500,350
+412,2020-02-16,Arturo Halvorsen,M,quentin kunz,Origin Bottle, Alcoholic Wine,2700,3000,5,13500,15000,1500
+413,2020-02-17,Tiny Oliveri,F,quentin kunz,Smirnoff Bottle, Alcoholic Wine,4050,4500,7,28350,31500,3150
+414,2020-02-18,Kerri Card,F,quentin kunz,Frontera Rose 75Cl, Alcoholic Wine,8280,9200,4,33120,36800,3680
+415,2020-02-19,Young Funes,M,quentin kunz,Frontera Sauv Blanc 75Cl, Alcoholic Wine,4950,5500,8,39600,44000,4400
+416,2020-02-20,Neomi Pitchford,F,quentin kunz,G.H Mumm 75 Cl, Alcoholic Wine,3150,3500,8,25200,28000,2800
+417,2020-02-21,Ivan Groner,M,quentin kunz,Guinness Can,Bear,2700,3000,9,24300,27000,2700
+418,2020-02-22,Etsuko Wilmot,F,quentin kunz,Gulder Can,Bear,4050,4500,2,8100,9000,900
+419,2020-02-23,William Mcnerney,M,quentin kunz,Harp Can,Bear,24750,27500,1,24750,27500,2750
+420,2020-02-24,Logan Berryman,M,quentin kunz,Heineken Can,Bear,44550,49500,22,980100,1089000,108900
+421,2020-02-25,Houston Joe,M,quentin kunz,Hennessy V.S 70 Cl, Alcoholic Wine,9000,10000,8,72000,80000,8000
+422,2020-02-26,Rosy Baumeister,F,quentin kunz,Hennessy V.S.O.P 70 Cl, Alcoholic Wine,8640,9600,7,60480,67200,6720
+423,2020-02-27,Charity Denman,F,quentin kunz,Kagor Red Wine 75Cl, Alcoholic Wine,9000,10000,56,504000,560000,56000
+424,2020-02-28,Luke Tumlin,M,quentin kunz,Martell Vs Cognac 70Cl, Alcoholic Wine,3870,4300,10,38700,43000,4300
+425,2020-02-29,Hannah Ma,F,quentin kunz,Martell Vsop Cognac 70Cl, Alcoholic Wine,45450,50500,9,409050,454500,45450
+426,2020-03-01,Celinda Magruder,F,quentin kunz,Martini Brut 75 Cl, Alcoholic Wine,18225,20250,27,492075,546750,54675
+427,2020-03-02,Arturo Halvorsen,M,quentin kunz,Martini Rose 75 Cl, Alcoholic Wine,1800,2000,15,27000,30000,3000
+428,2020-03-03,Tiny Oliveri,F,quentin kunz,Moet Brut Imperial 75Cl, Alcoholic Wine,48600,54000,3,145800,162000,16200
+429,2020-03-04,Kerri Card,F,quentin kunz,Moet Nectar Imperial Champagne 75Cl, Alcoholic Wine,72900,81000,9,656100,729000,72900
+430,2020-03-05,Young Funes,M,quentin kunz,Origin Can,Bear,9450,10500,22,207900,231000,23100
+431,2020-03-06,Neomi Pitchford,F,quentin kunz,Smirnoff Can,Bear,36000,40000,16,576000,640000,64000
+432,2020-03-07,Ivan Groner,M,quentin kunz,Star Can,Bear,24300,27000,6,145800,162000,16200
+433,2020-03-08,Etsuko Wilmot,F,quentin kunz,5 Alive 1Ltr,Non Alcoholic ,9180,10200,3,27540,30600,3060
+434,2020-03-09,William Mcnerney,M,quentin kunz,Amstel Malta Can,Non Alcoholic ,8640,9600,5,43200,48000,4800
+435,2020-03-10,Logan Berryman,M,quentin kunz,CHAMDOR 75CL,Non Alcoholic ,8280,9200,1,8280,9200,920
+436,2020-03-11,Houston Joe,M,quentin kunz,Coke Can,Non Alcoholic ,4950,5500,5,24750,27500,2750
+437,2020-03-12,Rosy Baumeister,F,quentin kunz,COKE PLASTIC BOTTLE,Non Alcoholic ,3150,3500,7,22050,24500,2450
+438,2020-03-13,Charity Denman,F,quentin kunz,Fanta Can,Non Alcoholic ,2700,3000,4,10800,12000,1200
+439,2020-03-14,Luke Tumlin,M,quentin kunz,FANTA PLASTIC BOTTLE,Non Alcoholic ,4050,4500,8,32400,36000,3600
+440,2020-03-15,Hannah Ma,F,quentin kunz,Malta Guinness Can,Non Alcoholic ,53100,59000,8,424800,472000,47200
+441,2020-03-16,Celinda Magruder,F,quentin kunz,Maltina Can,Non Alcoholic ,88200,98000,9,793800,882000,88200
+442,2020-03-17,Arturo Halvorsen,M,quentin kunz,MALTINA PET BOTTLE,Non Alcoholic ,38250,42500,2,76500,85000,8500
+443,2020-03-18,Tiny Oliveri,F,quentin kunz,ORIGIN ZERO CAN,Non Alcoholic ,2700,3000,1,2700,3000,300
+444,2020-03-19,Kerri Card,F,quentin kunz,Pepsi Can,Non Alcoholic ,23850,26500,22,524700,583000,58300
+445,2020-03-20,Young Funes,M,quentin kunz,Heineken Bottle, Alcoholic Wine,24750,27500,8,198000,220000,22000
+446,2020-03-21,Neomi Pitchford,F,quentin kunz,Origin Bottle, Alcoholic Wine,44550,49500,7,311850,346500,34650
+447,2020-03-22,Ivan Groner,M,quentin kunz,Smirnoff Bottle, Alcoholic Wine,9000,10000,56,504000,560000,56000
+448,2020-03-23,Etsuko Wilmot,F,zona otis,Frontera Rose 75Cl, Alcoholic Wine,8640,9600,10,86400,96000,9600
+449,2020-03-24,William Mcnerney,M,hyman irish,Frontera Sauv Blanc 75Cl, Alcoholic Wine,9000,10000,9,81000,90000,9000
+450,2020-03-25,Logan Berryman,M,timika poe,G.H Mumm 75 Cl, Alcoholic Wine,3870,4300,27,104490,116100,11610
+451,2020-03-26,Houston Joe,M,zona otis,Guinness Can,Bear,45450,50500,15,681750,757500,75750
+452,2020-03-27,Rosy Baumeister,F,hyman irish,Gulder Can,Bear,18225,20250,3,54675,60750,6075
+453,2020-03-28,Charity Denman,F,timika poe,Harp Can,Bear,1800,2000,9,16200,18000,1800
+454,2020-03-29,Luke Tumlin,M,zona otis,Heineken Can,Bear,48600,54000,22,1069200,1188000,118800
+455,2020-03-30,Hannah Ma,F,hyman irish,Hennessy V.S 70 Cl, Alcoholic Wine,72900,81000,16,1166400,1296000,129600
+456,2020-03-31,Celinda Magruder,F,timika poe,Hennessy V.S.O.P 70 Cl, Alcoholic Wine,9450,10500,6,56700,63000,6300
+457,2020-04-01,Arturo Halvorsen,M,zona otis,Kagor Red Wine 75Cl, Alcoholic Wine,36000,40000,3,108000,120000,12000
+458,2020-04-02,Tiny Oliveri,F,hyman irish,Martell Vs Cognac 70Cl, Alcoholic Wine,24300,27000,5,121500,135000,13500
+459,2020-04-03,Kerri Card,F,timika poe,Martell Vsop Cognac 70Cl, Alcoholic Wine,9180,10200,1,9180,10200,1020
+460,2020-04-04,Young Funes,M,zona otis,Martini Brut 75 Cl, Alcoholic Wine,8640,9600,5,43200,48000,4800
+461,2020-04-05,Neomi Pitchford,F,hyman irish,Martini Rose 75 Cl, Alcoholic Wine,8280,9200,7,57960,64400,6440
+462,2020-04-06,Ivan Groner,M,timika poe,Moet Brut Imperial 75Cl, Alcoholic Wine,4950,5500,4,19800,22000,2200
+463,2020-04-07,Etsuko Wilmot,F,zona otis,Moet Nectar Imperial Champagne 75Cl, Alcoholic Wine,3150,3500,8,25200,28000,2800
+464,2020-04-08,William Mcnerney,M,zona otis,Origin Can,Bear,2700,3000,8,21600,24000,2400
+465,2020-04-09,Logan Berryman,M,zona otis,Smirnoff Can,Bear,4050,4500,9,36450,40500,4050
+466,2020-04-10,Houston Joe,M,zona otis,Star Can,Bear,53100,59000,2,106200,118000,11800
+467,2020-04-11,Bernard Weatherly,M,zona otis,5 Alive 1Ltr,Non Alcoholic ,88200,98000,1,88200,98000,9800
+468,2020-04-12,Cordia Knopp,F,zona otis,Amstel Malta Can,Non Alcoholic ,8640,9600,22,190080,211200,21120
+469,2020-04-13,Burton Jin,M,zona otis,CHAMDOR 75CL,Non Alcoholic ,8280,9200,8,66240,73600,7360
+470,2020-04-14,Lauren Guzzi,M,zona otis,Coke Can,Non Alcoholic ,4950,5500,7,34650,38500,3850
+471,2020-04-15,Carter Hunt,M,zona otis,COKE PLASTIC BOTTLE,Non Alcoholic ,3150,3500,56,176400,196000,19600
+472,2020-04-16,Isaiah Magwood,M,zona otis,Fanta Can,Non Alcoholic ,2700,3000,10,27000,30000,3000
+473,2020-04-17,Hugh Chavira,M,zona otis,FANTA PLASTIC BOTTLE,Non Alcoholic ,4050,4500,9,36450,40500,4050
+474,2020-04-18,Lucius Moorhead,M,zona otis,Malta Guinness Can,Non Alcoholic ,53100,59000,27,1433700,1593000,159300
+475,2020-04-19,Deane Keown,F,zona otis,Maltina Can,Non Alcoholic ,88200,98000,15,1323000,1470000,147000
+476,2020-04-20,Joannie Wolters,F,zona otis,MALTINA PET BOTTLE,Non Alcoholic ,38250,42500,3,114750,127500,12750
+477,2020-04-21,Christene Mccaleb,F,zona otis,ORIGIN ZERO CAN,Non Alcoholic ,2700,3000,9,24300,27000,2700
+478,2020-04-22,Alline Kushner,F,zona otis,Pepsi Can,Non Alcoholic ,23850,26500,22,524700,583000,58300
+479,2020-04-23,Vicki Hargrave,F,zona otis,Guinness Can,Bear,24750,27500,16,396000,440000,44000
+480,2020-04-24,Julienne Merkel,F,zona otis,Gulder Can,Bear,44550,49500,6,267300,297000,29700
+481,2020-04-25,Keven Thole,M,zona otis,Harp Can,Bear,9000,10000,3,27000,30000,3000
+482,2020-04-26,Eusebia Waldroup,F,zona otis,Heineken Can,Bear,8640,9600,5,43200,48000,4800
+483,2020-04-27,Veronique Eccleston,F,zona otis,Origin Can,Bear,9000,10000,1,9000,10000,1000
+484,2020-04-28,Sean Richman,F,zona otis,Smirnoff Can,Bear,3870,4300,5,19350,21500,2150
+485,2020-04-29,Lala Marquez,F,zona otis,Star Can,Bear,8640,9600,7,60480,67200,6720
+486,2020-04-30,Derick Macey,M,zona otis,Guinness Can,Bear,8280,9200,4,33120,36800,3680
+487,2020-05-01,Eda Brase,F,zona otis,Gulder Can,Bear,4950,5500,8,39600,44000,4400
+488,2020-05-02,Willis Weissman,M,zona otis,Harp Can,Bear,3150,3500,8,25200,28000,2800
+489,2020-05-03,Christene Mccaleb,F,zona otis,Heineken Can,Bear,2700,3000,9,24300,27000,2700
+490,2020-05-04,Alline Kushner,F,zona otis,Origin Can,Bear,4050,4500,2,8100,9000,900
+491,2020-05-05,Vicki Hargrave,F,zona otis,Smirnoff Can,Bear,53100,59000,1,53100,59000,5900
+492,2020-05-06,Julienne Merkel,F,zona otis,Star Can,Bear,88200,98000,22,1940400,2156000,215600
+493,2020-05-07,Keven Thole,M,zona otis,5 Alive 1Ltr,Non Alcoholic ,38250,42500,8,306000,340000,34000
+494,2020-05-08,Eusebia Waldroup,F,zona otis,Amstel Malta Can,Non Alcoholic ,2700,3000,7,18900,21000,2100
+495,2020-05-09,Veronique Eccleston,F,zona otis,CHAMDOR 75CL,Non Alcoholic ,23850,26500,56,1335600,1484000,148400
+496,2020-05-10,Sean Richman,F,zona otis,Coke Can,Non Alcoholic ,24750,27500,10,247500,275000,27500
+497,2020-05-11,Lala Marquez,F,zona otis,COKE PLASTIC BOTTLE,Non Alcoholic ,44550,49500,9,400950,445500,44550
+498,2020-05-12,Derick Macey,M,zona otis,Fanta Can,Non Alcoholic ,9000,10000,27,243000,270000,27000
+499,2020-05-13,Eda Brase,F,zona otis,FANTA PLASTIC BOTTLE,Non Alcoholic ,8640,9600,15,129600,144000,14400
+500,2020-05-14,Willis Weissman,M,zona otis,Malta Guinness Can,Non Alcoholic ,9000,10000,3,27000,30000,3000
+501,2020-05-15,Christene Mccaleb,F,zona otis,Maltina Can,Non Alcoholic ,3870,4300,9,34830,38700,3870
+502,2020-05-16,Alline Kushner,F,zona otis,MALTINA PET BOTTLE,Non Alcoholic ,8280,9200,22,182160,202400,20240
+503,2020-05-17,Vicki Hargrave,F,zona otis,ORIGIN ZERO CAN,Non Alcoholic ,4950,5500,16,79200,88000,8800
+504,2020-05-18,Julienne Merkel,F,timika poe,Pepsi Can,Non Alcoholic ,3150,3500,6,18900,21000,2100
+505,2020-05-19,Keven Thole,M,zona otis,Guinness Can,Bear,2700,3000,3,8100,9000,900
+506,2020-05-20,Eusebia Waldroup,F,hyman irish,Gulder Can,Bear,4050,4500,5,20250,22500,2250
+507,2020-05-21,Veronique Eccleston,F,timika poe,Harp Can,Bear,8280,9200,1,8280,9200,920
+508,2020-05-22,Sean Richman,F,zona otis,Heineken Can,Bear,4950,5500,5,24750,27500,2750
+509,2020-05-23,Lala Marquez,F,hyman irish,Origin Can,Bear,3150,3500,7,22050,24500,2450
+510,2020-05-24,Derick Macey,M,timika poe,Smirnoff Can,Bear,2700,3000,4,10800,12000,1200
+511,2020-05-25,Eda Brase,F,zona otis,Star Can,Bear,4050,4500,8,32400,36000,3600
+512,2020-05-26,Willis Weissman,M,hyman irish,Guinness Can,Bear,8280,9200,8,66240,73600,7360
+513,2020-05-27,Christene Mccaleb,F,timika poe,Origin Bottle, Alcoholic Wine,4950,5500,9,44550,49500,4950
+514,2020-05-28,Alline Kushner,F,zona otis,Smirnoff Bottle, Alcoholic Wine,3150,3500,2,6300,7000,700
+515,2020-05-29,Vicki Hargrave,F,hyman irish,Frontera Rose 75Cl, Alcoholic Wine,2700,3000,1,2700,3000,300
+516,2020-05-30,Julienne Merkel,F,timika poe,Frontera Sauv Blanc 75Cl, Alcoholic Wine,4050,4500,22,89100,99000,9900
+517,2020-05-31,Keven Thole,M,zona otis,G.H Mumm 75 Cl, Alcoholic Wine,8280,9200,8,66240,73600,7360
+518,2020-06-01,Eusebia Waldroup,F,hyman irish,Guinness Can,Bear,4950,5500,7,34650,38500,3850
+519,2020-06-02,Veronique Eccleston,F,timika poe,Gulder Can,Bear,3150,3500,56,176400,196000,19600
+520,2020-06-03,Sean Richman,F,zona otis,Harp Can,Bear,2700,3000,10,27000,30000,3000
+521,2020-06-04,Lala Marquez,F,hyman irish,Origin Bottle, Alcoholic Wine,4050,4500,9,36450,40500,4050
+522,2020-06-05,Derick Macey,M,timika poe,Smirnoff Bottle, Alcoholic Wine,24750,27500,27,668250,742500,74250
+523,2020-06-06,Eda Brase,F,zona otis,Frontera Rose 75Cl, Alcoholic Wine,44550,49500,15,668250,742500,74250
+524,2020-06-07,Igbagboluwa Titi,F,timika poe,Frontera Sauv Blanc 75Cl, Alcoholic Wine,9000,10000,3,27000,30000,3000
+525,2020-06-08,Ikeolu Kani,F,zona otis,G.H Mumm 75 Cl, Alcoholic Wine,8640,9600,9,77760,86400,8640
+526,2020-06-09,Ilesanmi Ahammed,M,timika poe,Guinness Can,Bear,9000,10000,22,198000,220000,22000
+527,2020-06-10,Imoleoluwa Amina,F,zona otis,Gulder Can,Bear,3870,4300,16,61920,68800,6880
+528,2020-06-11,Inioluwa Ali,F,timika poe,Harp Can,Bear,45450,50500,6,272700,303000,30300
+529,2020-06-12,Ipadeola Bamidele,F,zona otis,Origin Bottle, Alcoholic Wine,18225,20250,3,54675,60750,6075
+530,2020-06-13,Ipinuoluwa Asha,F,timika poe,Smirnoff Bottle, Alcoholic Wine,1800,2000,5,9000,10000,1000
+531,2020-06-14,Iremide Asha,F,zona otis,Frontera Rose 75Cl, Alcoholic Wine,48600,54000,1,48600,54000,5400
+532,2020-06-15,Iretiola Sunday,F,timika poe,Frontera Sauv Blanc 75Cl, Alcoholic Wine,72900,81000,5,364500,405000,40500
+533,2020-06-16,Koledowo Niniola,F,zona otis,G.H Mumm 75 Cl, Alcoholic Wine,9450,10500,7,66150,73500,7350
+534,2020-06-17,Musa Aba,M,timika poe,Guinness Can,Bear,36000,40000,4,144000,160000,16000
+535,2020-06-18,Rashedat Lola,F,zona otis,Gulder Can,Bear,24300,27000,8,194400,216000,21600
+536,2020-06-19,Pat Fred,F,timika poe,Harp Can,Bear,9180,10200,8,73440,81600,8160
+537,2020-06-20,Mama Janet,F,zona otis,Origin Bottle, Alcoholic Wine,8640,9600,9,77760,86400,8640
+538,2020-06-21,Nana Halid,M,timika poe,Smirnoff Bottle, Alcoholic Wine,8280,9200,2,16560,18400,1840
+539,2020-06-22,Young Funes,M,zona otis,Frontera Rose 75Cl, Alcoholic Wine,4950,5500,1,4950,5500,550
+540,2020-06-23,Neomi Pitchford,F,timika poe,Frontera Sauv Blanc 75Cl, Alcoholic Wine,3150,3500,22,69300,77000,7700
+541,2020-06-24,Ivan Groner,M,zona otis,G.H Mumm 75 Cl, Alcoholic Wine,2700,3000,8,21600,24000,2400
+542,2020-06-25,Etsuko Wilmot,F,timika poe,Guinness Can,Bear,4050,4500,7,28350,31500,3150
+543,2020-06-26,William Mcnerney,M,zona otis,Gulder Can,Bear,53100,59000,56,2973600,3304000,330400
+544,2020-06-27,Logan Berryman,M,timika poe,Harp Can,Bear,88200,98000,10,882000,980000,98000
+545,2020-06-28,Houston Joe,M,zona otis,Origin Bottle, Alcoholic Wine,38250,42500,9,344250,382500,38250
+546,2020-06-29,Rosy Baumeister,F,timika poe,Smirnoff Bottle, Alcoholic Wine,2700,3000,27,72900,81000,8100
+547,2020-06-30,Charity Denman,F,zona otis,Frontera Rose 75Cl, Alcoholic Wine,23850,26500,15,357750,397500,39750
+548,2020-07-01,Luke Tumlin,M,timika poe,Frontera Sauv Blanc 75Cl, Alcoholic Wine,24750,27500,3,74250,82500,8250
+549,2020-07-02,Hannah Ma,F,zona otis,G.H Mumm 75 Cl, Alcoholic Wine,44550,49500,9,400950,445500,44550
+550,2020-07-03,Celinda Magruder,F,timika poe,Guinness Can,Bear,9000,10000,22,198000,220000,22000
+551,2020-07-04,Arturo Halvorsen,M,zona otis,Gulder Can,Bear,8640,9600,16,138240,153600,15360
+552,2020-07-05,Tiny Oliveri,F,timika poe,Harp Can,Bear,9000,10000,6,54000,60000,6000
+553,2020-07-06,Kerri Card,F,zona otis,Origin Bottle, Alcoholic Wine,3870,4300,3,11610,12900,1290
+554,2020-07-07,Young Funes,M,timika poe,Smirnoff Bottle, Alcoholic Wine,45450,50500,5,227250,252500,25250
+555,2020-07-08,Neomi Pitchford,F,zona otis,Frontera Rose 75Cl, Alcoholic Wine,18225,20250,1,18225,20250,2025
+556,2020-07-09,Ivan Groner,M,timika poe,Frontera Sauv Blanc 75Cl, Alcoholic Wine,1800,2000,5,9000,10000,1000
+557,2020-07-10,Etsuko Wilmot,F,zona otis,G.H Mumm 75 Cl, Alcoholic Wine,48600,54000,7,340200,378000,37800
+558,2020-07-11,William Mcnerney,M,timika poe,Guinness Can,Bear,72900,81000,4,291600,324000,32400
+559,2020-07-12,Young Funes,M,zona otis,Gulder Can,Bear,9450,10500,8,75600,84000,8400
+560,2020-07-13,Neomi Pitchford,F,timika poe,Harp Can,Bear,36000,40000,8,288000,320000,32000
+561,2020-07-14,Ivan Groner,M,zona otis,Origin Bottle, Alcoholic Wine,24300,27000,9,218700,243000,24300
+562,2020-07-15,Etsuko Wilmot,F,timika poe,Smirnoff Bottle, Alcoholic Wine,9180,10200,2,18360,20400,2040
+563,2020-07-16,William Mcnerney,M,zona otis,Frontera Rose 75Cl, Alcoholic Wine,8640,9600,1,8640,9600,960
+564,2020-07-17,Logan Berryman,M,timika poe,Frontera Sauv Blanc 75Cl, Alcoholic Wine,8280,9200,22,182160,202400,20240
+565,2020-07-18,Houston Joe,M,zona otis,G.H Mumm 75 Cl, Alcoholic Wine,4950,5500,8,39600,44000,4400
+566,2020-07-19,Rosy Baumeister,F,timika poe,Guinness Can,Bear,3150,3500,7,22050,24500,2450
+567,2020-07-20,Charity Denman,F,zona otis,Gulder Can,Bear,2700,3000,56,151200,168000,16800
+568,2020-07-21,Luke Tumlin,M,timika poe,Harp Can,Bear,4050,4500,10,40500,45000,4500
+569,2020-07-22,Hannah Ma,F,zona otis,Origin Bottle, Alcoholic Wine,53100,59000,9,477900,531000,53100
+570,2020-07-23,Celinda Magruder,F,timika poe,Smirnoff Bottle, Alcoholic Wine,88200,98000,27,2381400,2646000,264600
+571,2020-07-24,Arturo Halvorsen,M,zona otis,Frontera Rose 75Cl, Alcoholic Wine,8640,9600,15,129600,144000,14400
+572,2020-07-25,Tiny Oliveri,F,timika poe,Frontera Sauv Blanc 75Cl, Alcoholic Wine,8280,9200,3,24840,27600,2760
+573,2020-07-26,Kerri Card,F,zona otis,G.H Mumm 75 Cl, Alcoholic Wine,4950,5500,9,44550,49500,4950
+574,2020-07-27,Young Funes,M,timika poe,Guinness Can,Bear,3150,3500,22,69300,77000,7700
+575,2020-07-28,Neomi Pitchford,F,zona otis,Gulder Can,Bear,2700,3000,16,43200,48000,4800
+576,2020-07-29,Ivan Groner,M,timika poe,Harp Can,Bear,4050,4500,6,24300,27000,2700
+577,2020-07-30,Etsuko Wilmot,F,zona otis,Origin Bottle, Alcoholic Wine,53100,59000,3,159300,177000,17700
+578,2020-07-31,William Mcnerney,M,hyman irish,Smirnoff Bottle, Alcoholic Wine,88200,98000,5,441000,490000,49000
+579,2020-08-01,Young Funes,M,zona otis,Frontera Rose 75Cl, Alcoholic Wine,38250,42500,1,38250,42500,4250
+580,2020-08-02,Neomi Pitchford,F,hyman irish,Frontera Sauv Blanc 75Cl, Alcoholic Wine,2700,3000,5,13500,15000,1500
+581,2020-08-03,Ivan Groner,M,zona otis,G.H Mumm 75 Cl, Alcoholic Wine,23850,26500,7,166950,185500,18550
+582,2020-08-04,Etsuko Wilmot,F,hyman irish,Guinness Can,Bear,24750,27500,4,99000,110000,11000
+583,2020-08-05,William Mcnerney,M,zona otis,Gulder Can,Bear,44550,49500,8,356400,396000,39600
+584,2020-08-06,Logan Berryman,M,hyman irish,Harp Can,Bear,9000,10000,8,72000,80000,8000
+585,2020-08-07,Charity Denman,F,zona otis,Origin Bottle, Alcoholic Wine,8640,9600,9,77760,86400,8640
+586,2020-08-08,Luke Tumlin,M,hyman irish,Smirnoff Bottle, Alcoholic Wine,9000,10000,2,18000,20000,2000
+587,2020-08-09,Hannah Ma,F,zona otis,Frontera Rose 75Cl, Alcoholic Wine,3870,4300,1,3870,4300,430
+588,2020-08-10,Celinda Magruder,F,hyman irish,Frontera Sauv Blanc 75Cl, Alcoholic Wine,8640,9600,22,190080,211200,21120
+589,2020-08-11,Arturo Halvorsen,M,zona otis,G.H Mumm 75 Cl, Alcoholic Wine,8280,9200,8,66240,73600,7360
+590,2020-08-12,Tiny Oliveri,F,hyman irish,Guinness Can,Bear,4950,5500,7,34650,38500,3850
+591,2020-08-13,Kerri Card,F,zona otis,Gulder Can,Bear,3150,3500,56,176400,196000,19600
+592,2020-08-14,Young Funes,M,hyman irish,Harp Can,Bear,2700,3000,10,27000,30000,3000
+593,2020-08-15,Neomi Pitchford,F,zona otis,Amstel Malta Can,Non Alcoholic ,4050,4500,9,36450,40500,4050
+594,2020-08-16,Ivan Groner,M,hyman irish,CHAMDOR 75CL,Non Alcoholic ,53100,59000,27,1433700,1593000,159300
+595,2020-08-17,Etsuko Wilmot,F,zona otis,Coke Can,Non Alcoholic ,88200,98000,15,1323000,1470000,147000
+596,2020-08-18,William Mcnerney,M,hyman irish,Amstel Malta Can,Non Alcoholic ,38250,42500,3,114750,127500,12750
+597,2020-08-19,Logan Berryman,M,zona otis,CHAMDOR 75CL,Non Alcoholic ,2700,3000,9,24300,27000,2700
+598,2020-08-20,Houston Joe,M,hyman irish,Coke Can,Non Alcoholic ,23850,26500,22,524700,583000,58300
+599,2020-08-21,Rosy Baumeister,F,zona otis,Amstel Malta Can,Non Alcoholic ,24750,27500,16,396000,440000,44000
+600,2020-08-22,Charity Denman,F,hyman irish,CHAMDOR 75CL,Non Alcoholic ,44550,49500,6,267300,297000,29700
+601,2020-08-23,Luke Tumlin,M,zona otis,Coke Can,Non Alcoholic ,9000,10000,3,27000,30000,3000
+602,2020-08-24,Hannah Ma,F,hyman irish,Amstel Malta Can,Non Alcoholic ,8640,9600,5,43200,48000,4800
+603,2020-08-25,Celinda Magruder,F,zona otis,CHAMDOR 75CL,Non Alcoholic ,9000,10000,1,9000,10000,1000
+604,2020-08-26,Arturo Halvorsen,M,hyman irish,Coke Can,Non Alcoholic ,3870,4300,5,19350,21500,2150
+605,2020-08-27,Tiny Oliveri,F,zona otis,Amstel Malta Can,Non Alcoholic ,8280,9200,7,57960,64400,6440
+606,2020-08-28,Kerri Card,F,hyman irish,CHAMDOR 75CL,Non Alcoholic ,4950,5500,4,19800,22000,2200
+607,2020-08-29,Young Funes,M,zona otis,Coke Can,Non Alcoholic ,3150,3500,8,25200,28000,2800
+608,2020-08-30,Charity Denman,F,hyman irish,Amstel Malta Can,Non Alcoholic ,2700,3000,8,21600,24000,2400
+609,2020-08-31,Luke Tumlin,M,zona otis,CHAMDOR 75CL,Non Alcoholic ,4050,4500,9,36450,40500,4050
+610,2020-09-01,Hannah Ma,F,hyman irish,Coke Can,Non Alcoholic ,8280,9200,2,16560,18400,1840
+611,2020-09-02,Celinda Magruder,F,zona otis,Amstel Malta Can,Non Alcoholic ,4950,5500,1,4950,5500,550
+612,2020-09-03,Arturo Halvorsen,M,hyman irish,CHAMDOR 75CL,Non Alcoholic ,3150,3500,22,69300,77000,7700
+613,2020-09-04,Tiny Oliveri,F,zona otis,Coke Can,Non Alcoholic ,2700,3000,8,21600,24000,2400
+614,2020-09-05,Kerri Card,F,hyman irish,Amstel Malta Can,Non Alcoholic ,4050,4500,7,28350,31500,3150
+615,2020-09-06,Young Funes,M,zona otis,CHAMDOR 75CL,Non Alcoholic ,8280,9200,56,463680,515200,51520
+616,2020-09-07,Neomi Pitchford,F,hyman irish,Coke Can,Non Alcoholic ,4950,5500,10,49500,55000,5500
+617,2020-09-08,Ivan Groner,M,zona otis,Amstel Malta Can,Non Alcoholic ,3150,3500,9,28350,31500,3150
+618,2020-09-09,Etsuko Wilmot,F,hyman irish,CHAMDOR 75CL,Non Alcoholic ,2700,3000,27,72900,81000,8100
+619,2020-09-10,William Mcnerney,M,zona otis,Coke Can,Non Alcoholic ,4050,4500,15,60750,67500,6750
+620,2020-09-11,Logan Berryman,M,hyman irish,Amstel Malta Can,Non Alcoholic ,8280,9200,3,24840,27600,2760
+621,2020-09-12,Houston Joe,M,zona otis,CHAMDOR 75CL,Non Alcoholic ,4950,5500,9,44550,49500,4950
+622,2020-09-13,Rosy Baumeister,F,hyman irish,Coke Can,Non Alcoholic ,3150,3500,22,69300,77000,7700
+623,2020-09-14,Charity Denman,F,zona otis,Amstel Malta Can,Non Alcoholic ,2700,3000,16,43200,48000,4800
+624,2020-09-15,Luke Tumlin,M,hyman irish,CHAMDOR 75CL,Non Alcoholic ,4050,4500,6,24300,27000,2700
+625,2020-09-16,Hannah Ma,F,zona otis,Coke Can,Non Alcoholic ,4950,5500,3,14850,16500,1650
+626,2020-09-17,Celinda Magruder,F,hyman irish,Amstel Malta Can,Non Alcoholic ,3150,3500,5,15750,17500,1750
+627,2020-09-18,Arturo Halvorsen,M,zona otis,CHAMDOR 75CL,Non Alcoholic ,2700,3000,1,2700,3000,300
+628,2020-09-19,Tiny Oliveri,F,hyman irish,Coke Can,Non Alcoholic ,4050,4500,5,20250,22500,2250
+629,2020-09-20,Kerri Card,F,zona otis,Amstel Malta Can,Non Alcoholic ,8280,9200,7,57960,64400,6440
+630,2020-09-21,Young Funes,M,hyman irish,CHAMDOR 75CL,Non Alcoholic ,4950,5500,4,19800,22000,2200
+631,2020-09-22,Tiny Oliveri,F,zona otis,Coke Can,Non Alcoholic ,3150,3500,8,25200,28000,2800
+632,2020-09-23,Kerri Card,F,hyman irish,Amstel Malta Can,Non Alcoholic ,2700,3000,8,21600,24000,2400
+633,2020-09-24,Young Funes,M,zona otis,CHAMDOR 75CL,Non Alcoholic ,4050,4500,9,36450,40500,4050
+634,2020-09-25,Tiny Oliveri,F,hyman irish,Coke Can,Non Alcoholic ,8280,9200,2,16560,18400,1840
+635,2020-09-26,Kerri Card,F,zona otis,Amstel Malta Can,Non Alcoholic ,4950,5500,1,4950,5500,550
+636,2020-09-27,Young Funes,M,hyman irish,CHAMDOR 75CL,Non Alcoholic ,3150,3500,22,69300,77000,7700
+637,2020-09-28,Tiny Oliveri,F,zona otis,Coke Can,Non Alcoholic ,2700,3000,8,21600,24000,2400
+638,2020-09-29,Kerri Card,F,hyman irish,Amstel Malta Can,Non Alcoholic ,4050,4500,7,28350,31500,3150
+639,2020-09-30,Young Funes,M,zona otis,CHAMDOR 75CL,Non Alcoholic ,4950,5500,56,277200,308000,30800
+640,2020-10-01,Tiny Oliveri,F,hyman irish,Coke Can,Non Alcoholic ,3150,3500,10,31500,35000,3500
+641,2020-10-02,Kerri Card,F,zona otis,Amstel Malta Can,Non Alcoholic ,2700,3000,9,24300,27000,2700
+642,2020-10-03,Young Funes,M,hyman irish,CHAMDOR 75CL,Non Alcoholic ,4050,4500,27,109350,121500,12150
+643,2020-10-04,Tiny Oliveri,F,zona otis,Coke Can,Non Alcoholic ,8280,9200,15,124200,138000,13800
+644,2020-10-05,Kerri Card,F,hyman irish,Amstel Malta Can,Non Alcoholic ,4950,5500,3,14850,16500,1650
+645,2020-10-06,Young Funes,M,zona otis,CHAMDOR 75CL,Non Alcoholic ,3150,3500,9,28350,31500,3150
+646,2020-10-07,Tiny Oliveri,F,hyman irish,Coke Can,Non Alcoholic ,2700,3000,22,59400,66000,6600
+647,2020-10-08,Kerri Card,F,zona otis,Amstel Malta Can,Non Alcoholic ,4050,4500,16,64800,72000,7200
+648,2020-10-09,Young Funes,M,hyman irish,CHAMDOR 75CL,Non Alcoholic ,8280,9200,6,49680,55200,5520
+649,2020-10-10,Tiny Oliveri,F,zona otis,Coke Can,Non Alcoholic ,4950,5500,3,14850,16500,1650
+650,2020-10-11,Kerri Card,F,hyman irish,Amstel Malta Can,Non Alcoholic ,3150,3500,5,15750,17500,1750
+651,2020-10-12,Young Funes,M,zona otis,CHAMDOR 75CL,Non Alcoholic ,2700,3000,1,2700,3000,300
+652,2020-10-13,Tiny Oliveri,F,hyman irish,Coke Can,Non Alcoholic ,4050,4500,5,20250,22500,2250
+653,2020-10-14,Kerri Card,F,zona otis,Amstel Malta Can,Non Alcoholic ,4950,5500,7,34650,38500,3850
+654,2020-10-15,Young Funes,M,hyman irish,CHAMDOR 75CL,Non Alcoholic ,3150,3500,4,12600,14000,1400
+655,2020-10-16,Tiny Oliveri,F,zona otis,Coke Can,Non Alcoholic ,2700,3000,8,21600,24000,2400
+656,2020-10-17,Kerri Card,F,hyman irish,Amstel Malta Can,Non Alcoholic ,4050,4500,8,32400,36000,3600
+657,2020-10-18,Young Funes,M,zona otis,CHAMDOR 75CL,Non Alcoholic ,8280,9200,9,74520,82800,8280
+658,2020-10-19,Tiny Oliveri,F,hyman irish,Coke Can,Non Alcoholic ,4950,5500,2,9900,11000,1100
+659,2020-10-20,Kerri Card,F,zona otis,Amstel Malta Can,Non Alcoholic ,3150,3500,1,3150,3500,350
+660,2020-10-21,Young Funes,M,hyman irish,CHAMDOR 75CL,Non Alcoholic ,2700,3000,22,59400,66000,6600
+661,2020-10-22,Tiny Oliveri,F,zona otis,Coke Can,Non Alcoholic ,4050,4500,8,32400,36000,3600
+662,2020-10-23,Kerri Card,F,hyman irish,Amstel Malta Can,Non Alcoholic ,8280,9200,7,57960,64400,6440
+663,2020-10-24,Young Funes,M,zona otis,CHAMDOR 75CL,Non Alcoholic ,4950,5500,56,277200,308000,30800
+664,2020-10-25,Tiny Oliveri,F,hyman irish,Coke Can,Non Alcoholic ,3150,3500,10,31500,35000,3500
+665,2020-10-26,Kerri Card,F,zona otis,Amstel Malta Can,Non Alcoholic ,2700,3000,9,24300,27000,2700
+666,2020-10-27,Young Funes,M,hyman irish,CHAMDOR 75CL,Non Alcoholic ,4050,4500,27,109350,121500,12150
+667,2020-10-28,Tiny Oliveri,F,zona otis,Coke Can,Non Alcoholic ,4950,5500,15,74250,82500,8250
+668,2020-10-29,Kerri Card,F,hyman irish,Amstel Malta Can,Non Alcoholic ,3150,3500,3,9450,10500,1050
+669,2020-10-30,Young Funes,M,zona otis,CHAMDOR 75CL,Non Alcoholic ,2700,3000,9,24300,27000,2700
+670,2020-10-31,Tiny Oliveri,F,hyman irish,Coke Can,Non Alcoholic ,4050,4500,22,89100,99000,9900
+671,2020-11-01,Kerri Card,F,zona otis,Amstel Malta Can,Non Alcoholic ,8280,9200,16,132480,147200,14720
+672,2020-11-02,Young Funes,M,hyman irish,CHAMDOR 75CL,Non Alcoholic ,4950,5500,6,29700,33000,3300
+673,2020-11-03,Tiny Oliveri,F,zona otis,Coke Can,Non Alcoholic ,3150,3500,3,9450,10500,1050
+674,2020-11-04,Kerri Card,F,hyman irish,Amstel Malta Can,Non Alcoholic ,2700,3000,5,13500,15000,1500
+675,2020-11-05,Young Funes,M,zona otis,CHAMDOR 75CL,Non Alcoholic ,4050,4500,1,4050,4500,450
+676,2020-11-06,Tiny Oliveri,F,hyman irish,Coke Can,Non Alcoholic ,8280,9200,5,41400,46000,4600
+677,2020-11-07,Kerri Card,F,zona otis,Amstel Malta Can,Non Alcoholic ,4950,5500,7,34650,38500,3850
+678,2020-11-08,Young Funes,M,hyman irish,CHAMDOR 75CL,Non Alcoholic ,3150,3500,4,12600,14000,1400
+679,2020-11-09,Tiny Oliveri,F,zona otis,Coke Can,Non Alcoholic ,2700,3000,8,21600,24000,2400
+680,2020-11-10,Kerri Card,F,hyman irish,Amstel Malta Can,Non Alcoholic ,4050,6000,8,32400,48000,15600
+681,2020-11-11,Young Funes,M,zona otis,CHAMDOR 75CL,Non Alcoholic ,4200,6000,9,37800,54000,16200
+682,2020-11-12,Tiny Oliveri,F,hyman irish,Coke Can,Non Alcoholic ,4650,6000,2,9300,12000,2700
+683,2020-11-13,Kerri Card,F,zona otis,Amstel Malta Can,Non Alcoholic ,5100,6000,1,5100,6000,900
